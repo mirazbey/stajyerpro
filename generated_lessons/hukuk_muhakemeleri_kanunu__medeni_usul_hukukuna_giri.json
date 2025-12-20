@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Medeni Usul Hukuku ve HMK:** Medeni Usul Hukuku, özel hukuk ilişkilerinden doğan uyuşmazlıkların yargı organları aracılığıyla çözümlenmesini sağlayan kurallar bütünüdür. Hukuk Muhakemeleri Kanunu (HMK) ise bu kuralların temelini oluşturur ve yargılamanın usulünü düzenler.\n•   **Görev (Madde 1, 2, 4):** Bir davanın hangi tür mahkeme tarafından (örneğin asliye hukuk, sulh hukuk) bakılacağını belirleyen kurallardır. Göreve ilişkin kurallar, ancak kanunla düzenlenir ve kamu düzenindendir. Bu nedenle mahkemece re'sen (kendiliğinden) dikkate alınır ve taraflarca her zaman ileri sürülebilir.\n•   **Yetki (Madde 5, 6):** Bir davanın, aynı tür mahkemelerden (örneğin asliye hukuk mahkemelerinden hangisinin) coğrafi olarak nerede bulunan mahkeme tarafından bakılacağını belirleyen kurallardır. Yetki kuralları HMK ve diğer kanunlarda düzenlenir.\n•   **Genel Yetkili Mahkeme (Madde 6):** Aksine bir düzenleme bulunmadıkça, bir davalının gerçek veya tüzel kişi fark etmeksizin, davanın açıldığı tarihteki yerleşim yeri mahkemesidir. Yerleşim yeri, Türk Medeni Kanunu hükümlerine göre belirlenir.\n•   **Kesin Yetki:** Bazı davalarda kanun, uyuşmazlığın niteliği gereği, o davaya bakmakla görevli tek bir mahkemeyi coğrafi olarak belirler. Bu hallerde taraflar yetki sözleşmesi yapamaz ve mahkeme kesin yetki kurallarını re'sen inceler. Örneğin, taşınmazın aynından doğan davalar (Madde 12).\n•   **Özel Yetki:** Genel yetkili mahkemeye ek olarak, belirli dava türleri için kanunda öngörülen ek yetki kurallarıdır. Bu kurallar genellikle davacıya birden fazla seçenek sunar (örneğin, sözleşmenin ifa yeri mahkemesi, haksız fiilin işlendiği yer mahkemesi gibi).\n"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Görevin Belirlenmesi ve Niteliği (Madde 1):** Mahkemelerin görevi münhasıran kanunla düzenlenir ve göreve ilişkin kurallar kamu düzenindendir. Bu, mahkemenin görevini yargılamanın her aşamasında kendiliğinden gözetmesini ve tarafların bu hususu her zaman ileri sürebilmesini sağlar.\n•   **Asliye Hukuk Mahkemelerinin Görevi (Madde 2):** Dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda genel görevli mahkeme asliye hukuk mahkemesidir. HMK ve diğer kanunlarda aksine düzenleme bulunmadıkça, tüm diğer dava ve işler de bu mahkemede görülür.\n•   **Sulh Hukuk Mahkemelerinin Görevi (Madde 4):** Belirli dava türleri için özel olarak görevlendirilmişlerdir. Bunlar arasında kira ilişkisinden doğan uyuşmazlıklar, taşınır ve taşınmaz malların paylaştırılması ve ortaklığın giderilmesi davaları, zilyetliğin korunmasına yönelik davalar ile kanunların sulh hukuk mahkemesini görevlendirdiği davalar yer alır.\n•   **Genel ve Özel Yetki Kuralları (Madde 6, 7, 9, 10, 16):** Genel yetkili mahkeme davalının yerleşim yeri mahkemesidir (Madde 6). Birden fazla davalı varsa, bunlardan birinin yerleşim yeri mahkemesi yetkilidir (Madde 7). Türkiye'de yerleşim yeri olmayanlar için mutad meskeni esas alınır (Madde 9). Sözleşmeden doğan davalar ifa yerinde (Madde 10), haksız fiilden doğan davalar fiilin işlendiği, zararın meydana geldiği veya gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yerinde de açılabilir (Madde 16).\n•   **Kesin Yetki Hükümleri (Madde 11, 12, 14, 15):** Mirastan doğan davalarda ölenin son yerleşim yeri (Madde 11), taşınmazın aynından doğan davalarda taşınmazın bulunduğu yer (Madde 12) kesin yetkilidir. Tüzel kişilerin merkezinin bulunduğu yer, ortaklık/üyelik ilişkilerinden doğan davalar için kesin yetkilidir (Madde 14/2). Can sigortalarında sigorta ettirenin, sigortalının veya lehtarın yerleşim yeri kesin yetkilidir (Madde 15/2).\n•   **Yetki Sözleşmesi ve Yetki İtirazı (Madde 17, 18, 19):** Tacirler veya kamu tüzel kişileri, aralarında doğmuş veya doğabilecek bir uyuşmazlık hakkında, bir veya birden fazla mahkemeyi yazılı bir sözleşmeyle yetkili kılabilirler. Bu sözleşme, kesin yetkinin söz konusu olmadığı hallerde geçerlidir (Madde 17, 18). Yetki itirazı, kesin yetkili davalarda mahkemece re'sen araştırılır veya taraflarca her zaman ileri sürülebilirken; kesin yetkinin olmadığı davalarda cevap dilekçesinde ileri sürülmeli ve yetkili mahkeme belirtilmelidir, aksi halde mahkeme yetkili hale gelir (Madde 19)."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Kira Alacağı Davası:** İzmir'de oturan kiracının, Ankara'daki ev sahibi tarafından açılan kira alacağı davası, dava değerine bakılmaksızın **Sulh Hukuk Mahkemesi'nde** görülür (Madde 4/a). Yetki açısından, genel kurala göre kiracının yerleşim yeri olan İzmir mahkemeleri yetkili iken, kira sözleşmesi genellikle ifa yeri olarak taşınmazın bulunduğu yeri işaret ettiğinden, Ankara mahkemesi de yetkili olabilir.\n•   **Tüketici Kredisi Alacak Davası:** Bursa'da ikamet eden bir tüketiciye karşı, bir bankanın İstanbul şubesi tarafından açılan tüketici kredisi alacak davası, niteliği gereği **Asliye Hukuk Mahkemesi'nin** görev alanına girer (Madde 2). Yetki açısından genel kurala göre davalının yerleşim yeri olan Bursa mahkemesi yetkilidir. Eğer şubenin işleminden doğmuşsa, bankanın İstanbul şubesi bulunduğu yer mahkemesi de yetkili olabilir (Madde 14/1).\n•   **Tapu İptali ve Tescil Davası:** Konya'daki bir taşınmazın tapusunun iptali ve tescili talebiyle açılan dava, taşınmazın aynından doğduğu için, dava konusunun değerine bakılmaksızın **Asliye Hukuk Mahkemesi'nde** görülür (Madde 2). Ancak en önemlisi, **Konya mahkemesi kesin yetkilidir** (Madde 12/1). Bu davanın başka bir ilde açılması mümkün değildir.\n•   **Miras Paylaşımı Davası:** Vefat eden kişinin son yerleşim yeri Antalya ise, terekenin paylaşımına ilişkin davalar, dava değerine bakılmaksızın **Asliye Hukuk Mahkemesi'nde** görülür (Madde 2). Ancak **Antalya mahkemeleri kesin yetkilidir** (Madde 11/1).\n•   **Haksız Fiil Tazminat Davası:** İzmir'de meydana gelen bir trafik kazası sonucunda yaralanan İstanbul'da yaşayan bir kişi tarafından açılacak tazminat davası, **Asliye Hukuk Mahkemesi'nin** görevine girer (Madde 2). Yetki açısından ise, haksız fiilin işlendiği yer olan İzmir veya zarar görenin yerleşim yeri olan İstanbul mahkemeleri de yetkilidir (Madde 16).\n•   **Ticari İşletme Arası Yetki Sözleşmesi:** Ankara'daki A Ticaret Şirketi ile Bursa'daki B Ticaret Şirketi arasındaki ticari anlaşmadan doğacak uyuşmazlıklarda tarafların yazılı bir sözleşme ile İstanbul mahkemelerini yetkili kılmaları mümkündür (Madde 17). Bu durumda, dava aksi kararlaştırılmadıkça sadece İstanbul mahkemelerinde açılabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Görevin Kamu Düzeninden Olmasının Anlamı:** Göreve ilişkin kuralların kamu düzeninden olması, mahkemenin görevsizlik kararını yargılamanın her aşamasında kendiliğinden (re'sen) vermesi gerektiği anlamına gelir. Taraflar da bu durumu davanın sonuna kadar her zaman ileri sürebilirler. Görevsizlik kararı verilince dava diğer mahkemeye gönderilir (Madde 1).\n•   **Asliye Hukuk Mahkemelerinin Genel Görevliliği:** HMK m. 2'ye göre, özel bir düzenleme olmadıkça, tüm davalara Asliye Hukuk Mahkemeleri bakar. Bu, HMK'da veya özel kanunlarda Sulh Hukuk Mahkemesi'nin veya başka bir mahkemenin görevli olduğunun açıkça belirtilmediği hallerde Asliye Hukuk Mahkemesi'nin görevli olduğunu gösterir.\n•   **Kesin Yetki Halleri ve İstisnaları:** Miras, taşınmazın aynından doğan davalar, can sigortaları, tüzel kişiliğin ortaklık/üyelik ilişkileri gibi haller kesin yetkiye tabidir. Bu hallerde yetki sözleşmesi yapılamaz ve mahkeme yetkisizliği re'sen inceler. Kesin yetki bir istisnadır ve yalnızca kanun açıkça belirlediğinde uygulanır (Madde 11, 12, 14, 15, 18).\n•   **Yetki İtirazının Şekli ve Süresi:** Kesin yetkinin olmadığı davalarda, yetki itirazının cevap dilekçesinde ileri sürülmesi ve yetkili mahkemenin belirtilmesi zorunludur. Aksi takdirde yetki itirazı dikkate alınmaz ve davanın açıldığı mahkeme yetkili hale gelir (Madde 19/2, 19/4). Bu durum, kesin yetki itirazından farklıdır.\n•   **Davalının Birden Fazla Olması Durumunda HMK m. 7'nin Uygulaması:** Birden fazla davalının olduğu hallerde, davalılardan birinin sırf kendi yerleşim yeri mahkemesinden başka bir mahkemeye getirmek amacıyla davanın açıldığı anlaşılırsa, ilgili davalının itirazı üzerine mahkeme onun hakkındaki davayı ayırarak yetkisizlik kararı verir. Bu madde kötü niyetli davaların önüne geçmeyi amaçlar.\n•   **Yetki Sözleşmesinin Geçerlilik Şartları:** Yetki sözleşmesi sadece tacirler veya kamu tüzel kişileri arasında, yazılı şekilde, uyuşmazlığın kaynaklandığı hukuki ilişkinin belirli veya belirlenebilir olması ve yetkili kılınan mahkeme veya mahkemelerin gösterilmesi şartıyla yapılabilir. Kesin yetkinin söz konusu olduğu konularda yetki sözleşmesi yapılamaz (Madde 17, 18)."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımlara Hakim Olma:** \"Görev\" ve \"Yetki\" kavramlarının ayrımını ve HMK'daki yerini tam olarak anlamak, sınav sorularının temelini oluşturacaktır. Özellikle görev kurallarının kamu düzeninden olması ve bunun sonuçları çok önemlidir.\n•   **Görevli Mahkeme Ayrımını İyi Bilme:** Asliye Hukuk ve Sulh Hukuk mahkemelerinin görev alanlarını madde madde (HMK Madde 2 ve 4) ezberlemek ve hangi dava türlerinin hangi mahkemede görüldüğünü somut örneklerle pekiştirmek gereklidir.\n•   **Kesin Yetki Halleri Üzerine Odaklanma:** HMK'da açıkça belirtilen kesin yetki hallerini (Miras, Taşınmazın aynından doğan davalar, Can sigortaları, Tüzel kişilik merkezi ile ilgili davalar gibi) ezberlemek ve bu hallerde yetki sözleşmesi yapılamayacağını bilmek kritik öneme sahiptir.\n•   **Yetki İtirazının Usulünü Anlama:** Kesin yetkinin olduğu ve olmadığı durumlarda yetki itirazının nasıl yapıldığını, süresini, şeklini ve sonuçlarını (özellikle yetkili mahkemeyi bildirme zorunluluğunu) çok iyi bilmek gerekir (HMK Madde 19).\n•   **Kanun Metni ve Örneklerle Çalışma:** Sınavda kanun maddelerine doğrudan atıf yapan veya somut vaka üzerinden soru soran sorular gelebilir. Bu nedenle, kanun maddelerini dikkatle okumak ve her bir kurala ilişkin zihninizde pratik örnekler oluşturmak faydalı olacaktır.\n•   **Sık Karıştırılan Noktalara Dikkat:** Görev ile yetki, genel yetki ile özel yetki, kesin yetki ile kesin olmayan yetki arasındaki farklar sınavda sıkça karıştırılan alanlardır. Bu ayrımları tablolar halinde veya şemalarla pekiştirmek, akılda kalıcılığı artıracaktır.\n"
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdaki dava türlerinden hangisi, dava konusunun değer ve miktarına bakılmaksızın Sulh Hukuk Mahkemesi'nin görevine girer?",
+      "options": {
+        "A": "Taşınmazın aynından doğan tapu iptali ve tescil davası",
+        "B": "Miras paylaşımına ilişkin dava",
+        "C": "Kira ilişkisinden doğan tahliye ve alacak davası",
+        "D": "Genel bir alacak davası (kira hariç)"
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK Madde 4/a'ya göre, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar Sulh Hukuk Mahkemesi'nin görevindedir. Diğer şıklar ise genellikle Asliye Hukuk Mahkemesi'nin görevine girer."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdaki ifadelerden hangisi 'kesin yetki'ye ilişkin doğru bir tespittir?",
+      "options": {
+        "A": "Kesin yetki hallerinde taraflar, yetki sözleşmesiyle başka bir mahkemeyi yetkili kılabilirler.",
+        "B": "Mahkeme, kesin yetkinin varlığını ancak davalının süresi içinde yapacağı yetki itirazı üzerine inceler.",
+        "C": "Taşınmazın aynından doğan davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir.",
+        "D": "Genel yetki kuralı olan davalının yerleşim yeri mahkemesi, her zaman kesin yetkilidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK Madde 12/1'e göre, taşınmazın aynına ilişkin davalarda taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. A seçeneği yanlıştır, kesin yetki hallerinde yetki sözleşmesi yapılamaz (Madde 18). B seçeneği yanlıştır, kesin yetki mahkemece re'sen ve her zaman incelenir (Madde 19/1). D seçeneği yanlıştır, genel yetki kesin yetki değildir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ankara'da ikamet eden davalı (X) hakkında, İstanbul'da meydana gelen bir haksız fiil nedeniyle tazminat davası açılmak istenmektedir. Bu durumda, aşağıdaki mahkemelerden hangisi yetkilidir?",
+      "options": {
+        "A": "Sadece Ankara mahkemeleri",
+        "B": "Sadece İstanbul mahkemeleri",
+        "C": "Ankara veya İstanbul mahkemeleri",
+        "D": "Haksız fiil davasında sadece Yargıtay yetkilidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK Madde 16'ya göre, haksız fiilden doğan davalarda, haksız fiilin işlendiği (İstanbul) veya zarar görenin yerleşim yeri (varsa) ya da davalının yerleşim yeri (Ankara) mahkemesi de yetkilidir. Dolayısıyla hem Ankara hem de İstanbul mahkemeleri yetkili olabilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Kesin yetkinin söz konusu olmadığı bir davada, davalı yetki itirazında bulunmak istemektedir. HMK hükümlerine göre, davalının yetki itirazında bulunurken aşağıdakilerden hangisini yapması zorunludur?",
+      "options": {
+        "A": "Yetki itirazını sözlü olarak mahkeme huzurunda dile getirmesi.",
+        "B": "Yetki itirazını ayrı bir dava dilekçesiyle sunması.",
+        "C": "Yetki itirazını cevap dilekçesinde ileri sürmesi ve yetkili mahkemeyi bildirmesi.",
+        "D": "Yetki itirazını yargılamanın her aşamasında ileri sürebilmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK Madde 19/2'ye göre, yetkinin kesin olmadığı davalarda, yetki itirazının cevap dilekçesinde ileri sürülmesi ve yetki itirazında bulunan tarafın yetkili mahkemeyi (birden fazla yetkili mahkeme varsa seçtiği mahkemeyi) bildirmesi gerekir. Aksi takdirde yetki itirazı dikkate alınmaz."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki yargılardan hangisi görev kurallarının niteliği açısından doğrudur?",
+      "options": {
+        "A": "Göreve ilişkin kurallar, tarafların serbest iradesiyle belirlenebilir.",
+        "B": "Mahkeme, görevinin dışında kalan bir davaya bakarken, ancak tarafların itirazı üzerine görevsizlik kararı verebilir.",
+        "C": "Göreve ilişkin kurallar kamu düzenindendir ve mahkemece kendiliğinden gözetilir.",
+        "D": "Görevsizlik kararı verilen bir dava, başka bir mahkemeye devredilemez, yeniden açılması gerekir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK Madde 1/1'e göre, mahkemelerin görevi ancak kanunla düzenlenir ve göreve ilişkin kurallar kamu düzenindendir. Bu nedenle mahkeme görevi kendiliğinden araştırır. B seçeneği yanlıştır çünkü mahkeme re'sen araştırır. A seçeneği yanlıştır çünkü görev kanunla düzenlenir. D seçeneği yanlıştır, görevsizlik kararı üzerine dosya ilgili mahkemeye gönderilir (HMK Madde 20)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İş Güvencesi:** İşçinin, işveren tarafından haksız veya geçersiz bir nedenle iş sözleşmesinin feshedilmesine karşı yasal olarak korunmasıdır. Anayasa'nın sosyal devlet ilkesi ve çalışma hakkının korunması (m. 49) kapsamında değerlendirilir.\n•   **Fesih:** İş sözleşmesini sona erdiren tek taraflı irade beyanıdır. İş Hukukunda geçerli fesih için belirli şartlar aranır.\n•   **Geçerli Neden (4857 sayılı İş Kanunu m. 18):** İşçinin davranışlarından veya yetersizliğinden ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan, feshin son çare olması ilkesi gözetilerek değerlendirilen objektif nedenlerdir (örn: verimsizlik, işe uyumsuzluk, ekonomik gereklilik).\n•   **Haklı Neden (4857 sayılı İş Kanunu m. 25):** İş ilişkisini çekilmez kılan ve taraflardan birinin iş sözleşmesini derhal feshetme hakkı veren, işçi veya işveren açısından doğruluk ve bağlılık ilişkisini ortadan kaldıran ağırlıktaki nedenlerdir (örn: ahlak ve iyi niyet kurallarına aykırılık, iş güvenliğini tehlikeye atma).\n•   **İşe İade Davası:** Geçerli bir neden olmadan feshedilen iş sözleşmesi sonucunda işçinin, işten çıkarılmasının haksız olduğunu ileri sürerek işine geri dönme talebiyle açtığı davadır.\n•   **Sosyal Devlet İlkesi (Anayasa m. 2):** Türkiye Cumhuriyeti'nin, sosyal bir hukuk devleti olduğunu belirten ilke. Bu ilke, çalışanların korunması, adil bir ücret ve çalışma koşulları sağlanması gibi hususlarda devletin sorumluluğunu vurgular ve iş güvencesinin anayasal temelini oluşturur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türkiye Cumhuriyeti Anayasası (m. 2, 49, 51, 55):** Anayasa'nın 2. maddesinde belirtilen sosyal devlet ilkesi, iş güvencesinin temelini oluşturur. Çalışma hakkı ve ödevi (m. 49), sendika kurma hakkı (m. 51), ücrette adalet (m. 55) gibi maddeler, iş hukukundaki koruyucu hükümlerin anayasal zeminini hazırlar.\n•   **4857 Sayılı İş Kanunu (m. 18):** İş güvencesinin temelini oluşturan maddedir. İş sözleşmesinin feshi için 'geçerli bir sebep' aranmasını hükme bağlar. İşçinin davranışları veya yetersizliği ya da işletmenin gerekleri geçerli fesih sebebi olabilir. Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçiler bu korumadan yararlanır.\n•   **4857 Sayılı İş Kanunu (m. 19):** Fesih bildiriminin yazılı yapılması ve fesih sebebinin açık ve kesin bir şekilde belirtilmesi zorunluluğunu getirir. Bildirime itiraz ve savunma hakkı tanınır.\n•   **4857 Sayılı İş Kanunu (m. 20):** İş sözleşmesi feshedilen işçinin, fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade talebiyle İş Mahkemeleri'ne başvurma hakkını düzenler. Arabuluculuk müessesesi zorunlu hale getirilmiştir.\n•   **4857 Sayılı İş Kanunu (m. 21):** İşe iade kararının sonuçlarını açıklar. İşçinin başvurusu üzerine işverenin işçiyi bir ay içinde işe başlatmaması halinde ödenecek tazminat miktarları (4 ila 8 aylık ücret) ile boşta geçen süre ücretini (4 aylık ücret) düzenler.\n•   **6356 Sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu (m. 25):** Sendikal nedenle fesih yasağını ve bu tür fesihlerde işçiye ödenecek sendikal tazminatları düzenler. Anayasa'nın 51. maddesindeki sendika kurma hakkının güvencesidir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Geçersiz Fesih ve İşe İade:** Bir tekstil fabrikasında 3 yıldır çalışan ve işini düzenli yapan bir işçinin, işverenin yeni aldığı makineyi kullanmayı reddettiği gerekçesiyle işten çıkarılması. İşçi, makineyi kullanmak için eğitim talep ettiğini ancak talebinin reddedildiğini ispatlarsa, fesih geçersiz kabul edilebilir ve işe iade davası açabilir.\n•   **Haklı Nedenle Fesih (İşçi Yönünden):** Bir inşaat şirketinde çalışan bir mühendis, maaşının art arda üç ay boyunca eksik veya geç yatırılması üzerine iş sözleşmesini haklı nedenle fesheder. Bu durumda mühendis, kıdem tazminatına hak kazanır ve işsizlik ödeneği başvurusu yapabilir.\n•   **Geçerli Nedenle Fesih (İşveren Yönünden):** Bir çağrı merkezinde sürekli müşteri şikayeti alan ve performans hedeflerine ulaşamayan, bu konuda defalarca uyarılmasına rağmen durumunu düzeltmeyen bir çalışanın iş sözleşmesi, 'işçinin yetersizliği' nedeniyle feshedilir. İşveren bu durumu yazılı uyarılar ve performans raporları ile ispatlarsa, fesih geçerli sayılabilir.\n•   **Sendikal Nedenle Fesih:** Bir bankada sendikaya üye olan ve sendikal faaliyetlere katılan bir çalışanın, üyeliği nedeniyle işten çıkarılması. İşçi, feshin sendikal nedene dayandığını ispatladığında, işe iadeye ek olarak sendikal tazminat (12 aylık ücretinden az olmamak üzere) talep edebilir.\n•   **İşletmesel Nedenle Fesih:** Ekonomik sıkıntılar yaşayan bir üretim tesisi, bazı bölümlerini kapatma kararı alır ve bu durumdan etkilenen işçilerin iş sözleşmeleri feshedilir. İşveren, bu kararın objektif ve ekonomik gerekliliklere dayandığını (örn: mali raporlar, üretim düşüşü) ve feshin son çare olduğunu ispatlamak zorundadır. Aksi takdirde fesih geçersiz olabilir.\n•   **Bildirimsiz (Derhal) Fesih:** Bir güvenlik görevlisinin, görev yerinde uyuduğu ve bu durumun kamera kayıtlarıyla tespit edildiği durum. İşveren, iş sözleşmesini haklı nedenle derhal feshedebilir ve kıdem tazminatı ödeme yükümlülüğü doğmaz."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İş Güvencesi Kapsamı:** İş Kanunu'ndaki iş güvencesi hükümleri (m. 18-21), otuz veya daha fazla işçi çalıştıran işyerlerinde, en az altı aylık kıdemi olan belirsiz süreli iş sözleşmesiyle çalışan işçiler için geçerlidir. Bu şartları taşımayan işçiler genel hükümlere (Kötü Niyet Tazminatı, 4857 m. 17) tabidir.\n•   **Feshin Son Çare İlkesi:** İşveren, işçinin davranışları veya yetersizliğinden kaynaklanan nedenlerle fesih yapmadan önce, işçiye eğitim verme, başka bir pozisyona atama gibi alternatif çözümleri denemiş olmalıdır. Fesih, başvurulacak en son çare olmalıdır.\n•   **Yazılı Fesih ve Savunma Hakkı:** Fesih bildirimi mutlaka yazılı yapılmalı ve fesih sebebi açıkça belirtilmelidir. İşçinin davranışlarına dayalı fesihlerde, işçinin savunmasının alınması zorunludur. Aksi takdirde fesih geçersiz olur (4857 m. 19).\n•   **İspat Yükü:** Feshin geçerli bir nedene dayandığını ispat yükü işverene aittir. İşçi ise feshin başka bir nedene dayandığını (örn: sendikal neden, ayrımcılık) iddia ettiğinde, bu iddiasını ispatlamak zorundadır.\n•   **Süreler:** İşe iade davası açma süresi, fesih bildiriminin tebliğinden itibaren bir ay olup, bu süre hak düşürücü niteliktedir. Arabuluculuk süreci de bu bir aylık süre içinde başlatılmalıdır.\n•   **İşe İade Kararının Sonuçları:** Mahkeme işe iade kararı verirse, işçi bu kararın kesinleşmesinden itibaren on iş günü içinde işverene başvurmalıdır. İşveren, başvuruyu takiben bir ay içinde işçiyi işe başlatmak zorundadır. Aksi takdirde işçiye yasal tazminatları (boşta geçen süre ücreti ve işe başlatmama tazminatı) öder."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Kanun Maddelerini Bilin:** Özellikle 4857 sayılı İş Kanunu'nun 18, 19, 20, 21 ve 25. maddeleri ile 6356 sayılı Kanun'un 25. maddesini çok iyi anlamanız ve içeriğini kavramanız önemlidir. Anayasal dayanakları da gözden geçirin.\n•   **İş Güvencesinin Şartlarını Ezberleyin:** İş Kanunu'nun iş güvencesi kapsamına giren işçi ve işyeri şartlarını (30 işçi, 6 ay kıdem, belirsiz süreli iş sözleşmesi) net bir şekilde öğrenin.\n•   **Geçerli ve Haklı Neden Farkını Anlayın:** Geçerli nedenlerle haklı nedenlerin kapsamını, sonuçlarını (kıdem tazminatı, ihbar tazminatı, işe iade) ve aralarındaki temel farkları iyi ayırt edin. Haklı nedenlerde derhal fesih hakkı olduğunu unutmayın.\n•   **Usul Kurallarına Dikkat Edin:** Fesih bildiriminin yazılı yapılması, fesih sebebinin belirtilmesi, savunma alma zorunluluğu ve işe iade davası açma süreleri gibi usul kuralları sınavda sıklıkla sorulabilir.\n•   **İspat Yükünü Kimin Taşıdığını Bilin:** İşverenin feshin geçerli nedenini ispat yükünü taşıdığını, işçinin ise iddia ettiği başka nedenleri (sendikal, ayrımcılık vb.) ispatla yükümlü olduğunu hatırlayın.\n•   **İşe İade Davasının Sonuçları:** İşçinin işe başlatılması halinde ve başlatılmaması halinde ödenecek tazminat miktarlarını (4-8 aylık ücret tazminatı, 4 aylık boşta geçen süre ücreti) ve başvuru sürelerini (10 iş günü) öğrenin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "4857 sayılı İş Kanunu'na göre, iş güvencesi hükümlerinden yararlanabilmek için işyerinde aranan asgari işçi sayısı kaçtır?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "30",
+        "D": "50"
+      },
+      "correctAnswer": "C",
+      "explanation": "4857 sayılı İş Kanunu'nun 18. maddesi uyarınca, iş güvencesi hükümlerinden yararlanabilmek için işçinin çalıştığı işyerinde otuz veya daha fazla işçi çalışması gerekmektedir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İşveren, iş sözleşmesini işçinin davranışlarından kaynaklanan geçerli bir nedenle feshetmek istediğinde, fesih bildiriminden önce aşağıdaki hangi işlemi yapmak zorundadır?",
+      "options": {
+        "A": "İşçiye işten ayrılma ikramiyesi ödemek",
+        "B": "İşçinin yazılı savunmasını almak",
+        "C": "İşçiye yeni bir iş teklif etmek",
+        "D": "İşkur'a bildirimde bulunmak"
+      },
+      "correctAnswer": "B",
+      "explanation": "4857 sayılı İş Kanunu'nun 19. maddesine göre, işverenin iş sözleşmesini işçinin davranışlarına veya yetersizliğine dayalı olarak feshetmesi halinde, fesih bildiriminden önce işçinin savunmasını alması zorunludur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İş Kanunu'na göre, iş sözleşmesi geçerli bir neden olmadan feshedilen işçi, fesih bildiriminin tebliği tarihinden itibaren ne kadar süre içinde işe iade talebiyle başvurmak zorundadır?",
+      "options": {
+        "A": "15 gün",
+        "B": "1 ay",
+        "C": "3 ay",
+        "D": "6 ay"
+      },
+      "correctAnswer": "B",
+      "explanation": "4857 sayılı İş Kanunu'nun 20. maddesi uyarınca, iş sözleşmesi feshedilen işçi, fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade talebiyle arabulucuya başvurmak zorundadır. Bu süre hak düşürücüdür."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İşe iade davasını kazanan işçi, mahkeme kararının kesinleşmesinden sonra işverene işe başlatılma talebiyle kaç gün içinde başvurmalıdır?",
+      "options": {
+        "A": "3 iş günü",
+        "B": "5 iş günü",
+        "C": "10 iş günü",
+        "D": "1 ay"
+      },
+      "correctAnswer": "C",
+      "explanation": "4857 sayılı İş Kanunu'nun 21. maddesine göre, işe iade davasını kazanan işçinin, mahkeme kararının kendisine tebliğinden itibaren on iş günü içinde işe başlatılmak üzere işverene başvurması gerekmektedir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi, işverenin iş sözleşmesini derhal feshetmesine olanak tanıyan 'haklı neden' kapsamında değerlendirilmez?",
+      "options": {
+        "A": "İşçinin ahlak ve iyi niyet kurallarına aykırı davranışı",
+        "B": "İşçinin işyerinde yedi günden fazla hapisle cezalandırılan ve cezası ertelenmeyen bir suç işlemesi",
+        "C": "İşçinin uzun süreli iş görme edimini yerine getirememesi (sağlık nedenleri)",
+        "D": "İşçinin performans düşüklüğü nedeniyle işyerine beklenen katkıyı sağlayamaması"
+      },
+      "correctAnswer": "D",
+      "explanation": "İşçinin performans düşüklüğü, genellikle 'geçerli neden' kapsamında değerlendirilir ve derhal fesih hakkı tanımaz; aksine belirli bir prosedür (savunma alma, uyarma, feshin son çare olması) gerektirir. Diğer seçenekler (A, B, C) ise 4857 sayılı İş Kanunu'nun 25. maddesinde belirtilen haklı fesih nedenleridir ve işverene iş sözleşmesini derhal feshetme hakkı verir."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk İcra ve İflas Hukuku'nun en temel ve en sık karşılaşılan alanlarından biri olan 'İlamsız Takip' konusuna hoş geldiniz. Bu ders içeriği, sizleri ilamsız takip kavramının derinliklerine götürerek, yasal dayanaklarını, işleyişini ve pratik uygulamalarını kapsamlı bir şekilde anlamanızı sağlayacaktır. Öncelikle, 'ilamsız takip' nedir sorusuyla başlayalım. İlamsız takip, bir alacağın tahsili için mahkeme kararı (ilam) olmaksızın, doğrudan icra dairesi aracılığıyla başlatılan takip yoludur. Amacı, yargılamanın uzun sürebileceği durumlarda, alacaklının alacağına daha hızlı ve etkin bir şekilde ulaşmasını sağlamaktır. Özellikle çek, senet gibi kambiyo senetlerine dayalı alacaklar veya belgesiz adi alacaklar için sıkça başvurulan bir yöntemdir. Ancak, bu hız ve etkinlik, borçlunun haklarının korunması ilkesiyle dengelenmelidir. Bu denge, Türk hukuk sisteminde İcra ve İflas Kanunu (İİK) hükümleri ve Anayasa'nın temel ilkeleri (mülkiyet hakkı, adil yargılanma hakkı, hukuki güvenlik ilkesi gibi) çerçevesinde sağlanır. Kemal Gözler'in Anayasa Hukuku eserinde vurgulanan temel hak ve özgürlüklerin korunması prensibi, icra hukuku süreçlerinde de kendini gösterir; zira devletin cebri icra yetkisi kullanılırken bireylerin temel hakları ihlal edilmemelidir. İlamsız takibin temel tarafları; alacağını tahsil etmek isteyen 'alacaklı', hakkında takip başlatılan 'borçlu' ve takibi yürüten resmi merci olan 'icra dairesi'dir. Bu takip yolunun, ilamlı takipten en büyük farkı, alacaklının elinde bir mahkeme kararı veya kanunen ilam niteliğinde sayılan bir belge (örneğin hakem kararı, noter senedi) bulunmamasıdır. Bu durum, borçlunun ödeme emrine itiraz hakkını daha da önemli kılar. Genel Haciz Yoluyla Takip, Kambiyo Senetlerine Özgü Haciz Yoluyla Takip ve Kiralanan Taşınmazların Tahliyesi gibi farklı türleri mevcuttur ve her birinin kendine özgü detayları ve uygulama alanları vardır. Bu ders boyunca, özellikle en yaygın olan Genel Haciz Yoluyla Takip üzerinde durarak, bu karmaşık ancak hayati konuyu adım adım aydınlatacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "İlamsız takibin yasal çerçevesini, 2004 sayılı İcra ve İflas Kanunu (İİK) ve ilgili mevzuat oluşturur. Bu kanun, alacaklı ve borçlunun haklarını, takip sürecinin aşamalarını ve icra dairesinin yetkilerini detaylı olarak düzenler. İlamsız takibin en yaygın türü olan Genel Haciz Yoluyla Takip'i İİK'nın 42. ve devamı maddeleri ele alır. Süreç, alacaklının icra dairesine 'takip talebi' sunmasıyla başlar (İİK m. 58). Takip talebi, alacaklının kimliği, borçlunun kimliği, alacağın miktarı, faiz talebi ve alacağın dayanağı gibi bilgileri içermelidir. Eksiksiz bir takip talebi üzerine icra dairesi, borçluya 'ödeme emri' gönderir (İİK m. 60). Ödeme emri, borçluya yedi gün içinde borcunu ödeme veya yine yedi gün içinde itiraz etme hakkı tanır. Borçlunun bu süre içinde borcunu ödememesi veya itiraz etmemesi halinde takip kesinleşir ve alacaklı haciz talebinde bulunabilir. Borçlunun ödeme emrine itiraz etmesi (İİK m. 62) takibi durdurur. Borçlu, borcun tamamına veya bir kısmına, faize veya yetkiye itiraz edebilir. İtirazın gerekçeleri belirtilmek zorunda değildir, 'borcum yoktur' şeklinde genel bir itiraz dahi yeterlidir. İtirazın süresinde ve usulüne uygun yapılması, takibin durdurulması için esastır. Takibin durması üzerine alacaklının önünde iki ana yol belirir: 'İtirazın İptali Davası' (İİK m. 67) veya 'İtirazın Kaldırılması' (İİK m. 68). İtirazın İptali Davası, genel mahkemelerde görülen ve daha kapsamlı delil sunulmasına olanak tanıyan bir davadır. Bu davayı açmak için alacaklının itirazın tebliğinden itibaren bir yıl süresi vardır. İtirazın Kaldırılması ise daha sınırlı ve hızlı bir yol olup, alacaklının elinde İİK m. 68'de sayılan belgelerden (örneğin imzası ikrar edilmiş adi senet, resmi belge) birinin bulunması halinde icra mahkemesinden talep edilir. Eğer takip kesinleşirse, alacaklı haciz talebinde bulunabilir (İİK m. 78). Haciz, borçlunun malvarlığına (taşınır, taşınmaz, banka hesapları, maaş vb.) icra dairesi eliyle el konulmasıdır. Haciz, İİK'nın 82. maddesinde belirtilen haczedilemeyen mallar dışında kalan her türlü malvarlığına uygulanabilir. Hacizden sonra, hacizli malların 'satışı' (İİK m. 106 vd.) ve elde edilen paranın alacaklıya 'ödenmesi' veya birden fazla alacaklı varsa 'paylaştırılması' (İİK m. 138 vd.) aşamaları gelir. Bu süreçte tebligatlar (7201 sayılı Tebligat Kanunu), süreler ve usul kuralları büyük önem taşır; zira usul hataları takibin geçersizliğine yol açabilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "İlamsız takibin pratik uygulamaları, teorik bilgilerin somut olaylar üzerinden nasıl işlediğini anlamak için kritik öneme sahiptir. Şimdi, tipik bir Genel Haciz Yoluyla Takip sürecini adım adım inceleyelim: \n\n**1. Takip Talebinin Hazırlanması ve Sunulması:** Bir alacaklı (örneğin, bir firmaya sattığı malın bedelini alamayan bir tedarikçi), borçlusundan 50.000 TL alacağı olduğunu varsayalım. Tedarikçi, bu alacak için bir mahkeme kararı (ilam) olmadan icra takibi başlatmak ister. Öncelikle, alacaklı veya vekili, UYAP sistemi üzerinden veya bizzat ilgili icra dairesine 'takip talebi' dilekçesi sunar. Bu dilekçede, alacaklının ve borçlunun tam adı, soyadı/unvanı, adresleri, alacağın miktarı (asıl alacak, faiz oranı ve işlemeye başladığı tarih), varsa alacağın dayanağı (fatura, sözleşme gibi) ve talep edilen takip yolu (genel haciz yoluyla takip) açıkça belirtilir. \n\n**2. Ödeme Emrinin Düzenlenmesi ve Tebliği:** İcra dairesi, takip talebini inceledikten ve eksiklik yoksa, borçluya İİK m. 60'a uygun bir 'ödeme emri' düzenleyerek tebliğ eder. Ödeme emri, borçluya borcunu yedi gün içinde ödemesi, aksi halde yedi gün içinde itiraz etmesi gerektiği, itiraz etmezse takibin kesinleşeceği ve mal beyanında bulunması gerektiği yönünde ihtarları içerir. Tebligatın usulüne uygun yapılması, takibin sıhhati açısından hayati öneme sahiptir. \n\n**3. Borçlunun Cevabı:** Borçlu, ödeme emrini tebliğ aldıktan sonra iki seçeneğe sahiptir: \n    a. **Ödeme:** Borcu kabul edip yedi gün içinde ödeme emrinde belirtilen borcu icra dairesi veznesine yatırabilir. Bu durumda takip sonlanır. \n    b. **İtiraz:** Borcun tamamına veya bir kısmına, faize veya yetkiye yedi gün içinde icra dairesine yazılı olarak itiraz edebilir. Örneğin, borçlu 'bu borcu ödedim' veya 'bu borç bana ait değil' diyebilir. İtiraz, takibi kendiliğinden durdurur. Borçlunun bu süre içinde hiçbir şey yapmaması halinde ise takip kesinleşir. \n\n**4. Takibin Kesinleşmesi ve Haciz Talebi:** Eğer borçlu ödeme emrine itiraz etmez veya itirazı kaldırılır/iptal edilirse, takip kesinleşir. Bu aşamadan sonra alacaklı, icra dairesinden borçlunun menkul veya gayrimenkul mallarının, banka hesaplarının, maaşının veya diğer alacaklarının haczedilmesini talep edebilir. Örneğin, alacaklı, borçlunun X Bankası'ndaki hesaplarına e-haciz konulmasını veya adına kayıtlı taşınmaza tapu kaydına haciz şerhi işlenmesini isteyebilir. Haciz işlemi, borçlunun malvarlığı üzerindeki tasarruf yetkisini kısıtlar. \n\n**5. Hacizli Malların Satışı ve Paraların Paylaştırılması:** Hacizli malların türüne göre (taşınır/taşınmaz) satış prosedürleri farklılık gösterir. Mallar açık artırma yoluyla satılır ve elde edilen para, icra dairesi tarafından alacaklının alacağını karşılamak üzere paylaştırılır. Eğer birden fazla alacaklı varsa, İİK'da belirtilen sıralamaya göre paylaştırma yapılır. Bu süreçlerin tamamı UYAP sistemi üzerinden elektronik ortamda takip edilebilir, bu da işlemleri daha şeffaf ve hızlı hale getirir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "İlamsız takip sürecinde başarılı olmak ve hak kayıplarını önlemek için bazı kritik noktalara özellikle dikkat edilmesi gerekmektedir. Bu noktalar, hem alacaklı hem de borçlu açısından büyük önem taşır ve sürecin doğru yönetilmesinde belirleyici rol oynar.\n\n**1. Süreler (Hak Düşürücü Süreler ve Zamanaşımı):** İcra hukukunda süreler hayati öneme sahiptir. Örneğin, borçlunun ödeme emrine itiraz süresi yedi gündür. Bu süre hak düşürücü niteliktedir ve kaçırılması halinde borçlu itiraz hakkını kaybeder, takip kesinleşir. Alacaklının itirazın iptali davasını açma süresi bir yıl, haciz isteme süresi ise takibin kesinleşmesinden itibaren bir yıldır (İİK m. 78/1). Sürelerin doğru hesaplanması ve kaçırılmaması, hak kayıplarının önüne geçmek için esastır. Zamanaşımı ise alacağın dava edilebilirliğini veya takip edilebilirliğini ortadan kaldıran bir olgudur; ancak zamanaşımı def'i ileri sürülmezse, takip yine de sonuç doğurabilir.\n\n**2. Tebligatın Usulüne Uygun Yapılması:** Ödeme emrinin borçluya usulüne uygun tebliği, takibin geçerliliği için temel şarttır. Tebligat Kanunu ve ilgili Yönetmelik hükümleri titizlikle uygulanmalıdır. Usulüne uygun yapılmayan tebligatlar, borçlunun itiraz süresinin başlamamasına veya takibin tamamen iptaline neden olabilir. Özellikle tüzel kişilere veya birden fazla adresli gerçek kişilere yapılacak tebligatlarda özel dikkat gösterilmelidir. Elektronik tebligat (e-tebligat) kullanımı, tebligat süreçlerini hızlandırmış olsa da, bunun da kendine özgü usul kuralları mevcuttur.\n\n**3. İspat Yükü ve Deliller:** Borçlunun ödeme emrine itiraz etmesi durumunda, alacaklının itirazın iptali veya kaldırılması yoluna başvurması gerekir. İtirazın iptali davasında ispat yükü genellikle alacaklı üzerinde olsa da, borçlunun itirazında belirttiği özel durumlar için (örneğin borcun ödendiği iddiası) ispat yükü borçluya geçebilir. İtirazın kaldırılması yolunda ise alacaklının elinde İİK m. 68'de belirtilen nitelikteki belgeler bulunmalıdır; aksi halde bu yol tercih edilemez. Bu nedenle, alacaklının elindeki belgelerin (fatura, sözleşme, banka dekontu, senet vb.) sağlamlığı ve borcun varlığını ispata yeterliliği süreçte belirleyicidir.\n\n**4. Kötü Niyetli Takipler ve İtirazlar:** İcra ve İflas Kanunu, hem alacaklının kötü niyetli takip başlatmasını hem de borçlunun haksız veya kötü niyetli itirazlarını engellemeye çalışır. Gerçekte var olmayan bir alacak için takip başlatan alacaklı veya borcu olmadığı halde kötü niyetle itiraz eden borçlu, karşı tarafın zararını tazmin etmekle yükümlü tutulabilir (İİK m. 67/2, m. 68/6). Bu durum, sürecin suistimal edilmesinin önüne geçmeyi amaçlar.\n\n**5. Hakların Korunması ve Anayasal İlkeler:** Cebri icra, devletin güç kullanma yetkisinin bir tezahürüdür. Bu nedenle, Anayasa Hukuku'nun temel esasları ve insan hakları ilkeleri icra sürecinde de dikkate alınmalıdır. Borçlunun mülkiyet hakkı, konut dokunulmazlığı gibi hakları, haciz işlemlerinde gözetilmelidir. İİK m. 82'de haczedilemeyen mal ve haklar düzenlenmiştir (örneğin asgari ücretin bir kısmı, aile eşyaları), bu düzenlemeler temel yaşam hakkının ve sosyal devlet ilkesinin bir yansımasıdır. Takip sürecinin her aşamasında adil yargılanma ve hukuki güvenlik ilkelerine uygun hareket edilmesi, hukuka uygunluğun ve meşruiyetin sağlanması açısından büyük önem taşır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders içeriği boyunca ilamsız takibin ne olduğunu, yasal dayanaklarını ve pratik uygulamalarını kapsamlı bir şekilde inceledik. Şimdi bu bilgileri kısa bir özetle pekiştirelim. İlamsız takip, alacaklının elinde mahkeme kararı (ilam) olmaksızın, icra dairesi aracılığıyla alacağını tahsil etmeye çalıştığı bir icra yolu olup, Türk İcra ve İflas Kanunu (İİK) tarafından düzenlenmektedir. Temel amacı, alacaklıya hızlı ve etkin bir tahsilat imkanı sunarken, borçlunun haklarını da güvence altına almaktır.\n\nSürecin ana hatlarını hatırlayacak olursak:\n\n1.  **Takip Talebi:** Alacaklının icra dairesine başvurusu ile başlar, alacak ve borçlu bilgileri ile takip yolu belirtilir.\n2.  **Ödeme Emri:** İcra dairesi tarafından borçluya gönderilir ve borcunu yedi gün içinde ödeme veya itiraz etme hakkı tanır.\n3.  **Borçlunun İtirazı:** Borçlu yedi gün içinde itiraz ederse takip durur. İtirazın süresinde ve usulüne uygun yapılması önemlidir.\n4.  **Takibin Kesinleşmesi:** Borçlunun itiraz etmemesi veya itirazın kaldırılması/iptali ile takip kesinleşir.\n5.  **Haciz:** Takibin kesinleşmesi üzerine alacaklı, borçlunun malvarlığına (taşınır, taşınmaz, banka hesapları, maaş vb.) haciz konulmasını talep edebilir.\n6.  **Satış ve Paraların Paylaştırılması:** Hacizli mallar satılarak elde edilen para, alacaklının alacağını karşılamak üzere ödenir veya paylaştırılır.\n\nBu süreçte, sürelerin doğru takibi, tebligatların usulüne uygun yapılması, ispat yükü prensipleri ve kötü niyetli davranışların hukuki sonuçları gibi kritik noktalara dikkat etmek gerekmektedir. Ayrıca, icra hukuku süreçlerinin, Anayasa'da güvence altına alınan temel hak ve özgürlükler (mülkiyet hakkı, adil yargılanma hakkı gibi) çerçevesinde yürütülmesi gerektiği unutulmamalıdır. Kemal Gözler'in de eserlerinde belirttiği gibi, hukukun üstünlüğü ve birey haklarının korunması ilkesi, cebri icra alanında dahi vazgeçilmez bir kılavuzdur.\n\nİlamsız takip, hukuk uygulamalarında en çok karşılaşılan ve mesleki hayatta sıklıkla ihtiyaç duyulan bilgilerden biridir. Bu konudaki yetkinliğiniz, hukuki danışmanlık, avukatlık veya icra memurluğu gibi mesleklerde size büyük avantaj sağlayacaktır. Konuyu daha iyi anlamak ve pekiştirmek için İcra ve İflas Kanunu'nu ilgili maddeleriyle birlikte okumanız, güncel yargıtay kararlarını incelemeniz ve pratik örnekler üzerinde çalışmanız tavsiye edilir. Unutmayın, hukuk sürekli gelişen bir alandır ve güncel mevzuatı takip etmek başarının anahtarıdır. Konuya ilişkin sorularınız olursa çekinmeden sorabilirsiniz."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi ilamsız takibin özelliklerinden biri değildir?",
+      "options": {
+        "A": "Takip başlatmak için önceden bir mahkeme kararı (ilam) gerekmez.",
+        "B": "Borçlu, ödeme emrine itiraz etme hakkına sahiptir.",
+        "C": "Genellikle kesinleşmesi halinde haciz aşamasına geçilir.",
+        "D": "Sadece kambiyo senetlerine dayalı alacaklar için uygulanabilir.",
+        "E": "Türk İcra ve İflas Kanunu'nda düzenlenmiştir."
+      },
+      "correctAnswer": "D",
+      "explanation": "İlamsız takip, sadece kambiyo senetlerine dayalı alacaklar için değil, adi alacaklar ve diğer belgesiz alacaklar için de Genel Haciz Yoluyla Takip şeklinde uygulanabilir. Bu nedenle D seçeneği yanlıştır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Alacaklı (A), borçlu (B) hakkında genel haciz yoluyla ilamsız icra takibi başlatmıştır. İcra dairesince düzenlenip B'ye tebliğ edilen ödeme emrine göre B'nin hak ve yükümlülükleri hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "B, borcunu yedi gün içinde ödeme emrinde belirtilen icra dairesi veznesine yatırabilir.",
+        "B": "B, borca itiraz etmek istiyorsa, tebliğden itibaren yedi gün içinde icra dairesine yazılı olarak itiraz etmelidir.",
+        "C": "B, ödeme emrine itiraz ederse, takip otomatik olarak durur.",
+        "D": "B, borcunu ödemez ve itiraz da etmezse, takip kesinleşir ve haciz yoluna gidilebilir.",
+        "E": "B, borcun tamamına itiraz edebileceği gibi, sadece faiz oranına veya yetkiye de itiraz edemez."
+      },
+      "correctAnswer": "E",
+      "explanation": "Borçlu, ödeme emrinde belirtilen borcun tamamına itiraz edebileceği gibi, borcun bir kısmına, faiz oranına veya icra dairesinin yetkisine de itiraz edebilir. İİK m. 62 bu duruma izin vermektedir. Bu nedenle E seçeneği yanlıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Borçlu (B), kendisine tebliğ edilen ödeme emrine süresinde itiraz etmiştir. Bu durumda alacaklı (A)'nın önünde hangi yasal yollar bulunmaktadır?",
+      "options": {
+        "A": "Doğrudan haciz talep edebilir.",
+        "B": "İtirazın iptali davası açabilir veya itirazın kaldırılmasını talep edebilir.",
+        "C": "Takibi tamamen durdurup, yeniden takip başlatmalıdır.",
+        "D": "Borçlunun itirazının kendiliğinden geçersiz sayılmasını beklemelidir.",
+        "E": "Sadece icra mahkemesine başvurarak itirazın kaldırılmasını isteyebilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Borçlunun ödeme emrine süresinde itiraz etmesi takibi durdurur. Bu durumda alacaklı, itirazın iptali davası açarak (genel mahkemelerde) veya elinde İİK m. 68'de belirtilen belgeler varsa icra mahkemesinden itirazın kaldırılmasını talep ederek takibi devam ettirebilir. A seçeneği yanlıştır çünkü itiraz takibi durdurmuştur. C ve D seçenekleri yasal yolları belirtmemektedir. E seçeneği, itirazın iptali davası yolunu göz ardı ettiği için eksiktir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İcra ve İflas Kanunu'na göre, genel haciz yoluyla takipte ödeme emrine itiraz süresi kaç gündür?",
+      "options": {
+        "A": "3 gün",
+        "B": "5 gün",
+        "C": "7 gün",
+        "D": "10 gün",
+        "E": "15 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra ve İflas Kanunu'nun 60. maddesine göre, genel haciz yoluyla takipte borçluya tebliğ edilen ödeme emrine itiraz süresi tebliğ tarihinden itibaren yedi gündür."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi Türk İcra ve İflas Kanunu'na göre haczedilemeyen mal ve haklardan biri olabilir?",
+      "options": {
+        "A": "Borçlunun bankadaki vadeli mevduat hesabı",
+        "B": "Borçlunun adına kayıtlı taşınmaz mal",
+        "C": "Borçlunun aldığı asgari ücretin dörtte üçü",
+        "D": "Borçlunun ticari işletmesine ait makine parkuru",
+        "E": "Borçlunun kira gelirleri"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra ve İflas Kanunu'nun 83/a maddesi uyarınca, borçlunun maaş, ücret ve benzeri gelirlerinin belli bir kısmı haczedilemez. Asgari ücretin bir kısmı da bu kapsamdadır. Borçlunun maaşının belli bir kısmı, nafaka alacakları hariç olmak üzere haczedilemez. Tamamı haczedilemez olmasa da, 'dörtte üçü' gibi bir kısım haczedilemez nitelikte olabileceğinden, haczedilemeyen mal ve haklara örnek teşkil eder (Genel kural maaşın 1/4'ü haczedilebilir, geriye kalan 3/4'ü haczedilemez). Diğer seçeneklerde belirtilen malvarlıkları ise (belli istisnalar dışında) haczedilebilir niteliktedir."
+    }
+  ]
+}

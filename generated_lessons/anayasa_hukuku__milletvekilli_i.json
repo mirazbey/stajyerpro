@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Milletvekilliği Kavramı:** Halk egemenliğinin temsili prensibine dayalı olarak, yasama organı olan Türkiye Büyük Millet Meclisi (TBMM) üyeliğini ifade eder. Milletvekilleri, seçildikleri bölgeyi değil, tüm milleti temsil ederler (Genel Temsil İlkesi).\n•   **Temsil Yetkisi:** Milletvekillerine verilen temsil yetkisi genel ve bağımsızdır. Vekiller, seçmenlerinden veya herhangi bir zümreden talimat alamazlar, kendi vicdanlarına göre hareket ederler. Bu durum, anayasal bir güvencedir.\n•   **Aktif ve Pasif Seçme Hakkı:** Aktif seçme hakkı, vatandaşların belli şartları taşıyarak oy kullanma hakkını ifade ederken; pasif seçme hakkı (seçilme yeterliliği), belli şartları taşıyan vatandaşların milletvekili adayı olma ve seçilme hakkını ifade eder.\n•   **Seçim Sistemleri:** Milletvekillerinin belirlenmesinde kullanılan yöntemlerdir. Türkiye'de nispi temsil sistemi (D'Hondt metodu) uygulanır. Temel amacı, Meclis'te siyasi partilerin aldıkları oy oranına yakın bir sandalye dağılımı sağlamaktır.\n•   **Yasama Dönemi:** Milletvekillerinin görev süresidir. Anayasamıza göre TBMM seçimleri beş yılda bir yapılır. Erken seçim kararı alınmadıkça veya savaş gibi istisnai durumlar olmadıkça bu süre sabittir.\n•   **Milletvekili Andı:** TBMM Genel Kurulu’nda görevine başlayan her milletvekili, Anayasa’ya ve yasalara bağlı kalacağına dair ant içer. Bu ant, vekillik görevinin başlangıcında yemin töreni ile gerçekleşir ve göreve başlamanın hukuki şartıdır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Milletvekili Seçilme Yeterliliği (T.C. Anayasası m. 76):** Onsekiz yaşını doldurmuş olmak, en az ilkokul mezunu olmak, kısıtlı olmamak, kamu hizmetinden yasaklı olmamak, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis cezası almamış olmak, bazı yüz kızartıcı suçlardan hüküm giymemiş olmak gibi temel şartları içerir. Ayrıca, askerlik hizmetini yapmış olmak (erkekler için) veya muaf olmak da önemlidir.\n•   **Milletvekili Seçimleri (T.C. Anayasası m. 77-80):** Milletvekili genel seçimlerinin beş yılda bir yapılacağını, seçimlerin serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre yargı denetimi ve gözetimi altında yapılacağını düzenler. Seçimlerin yenilenmesi kararı TBMM veya Cumhurbaşkanı tarafından alınabilir.\n•   **Milletvekilliği ile Bağdaşmayan Haller (T.C. Anayasası m. 82):** Milletvekilliği göreviyle bağdaşmayan bazı kamu görevlerini (yargıçlık, savcılık, kamu kurumlarında memurluk vb.) ve özel faaliyetleri (devletle doğrudan veya dolaylı sözleşme yapma gibi) düzenler. Bu haller, vekillerin görevlerini tarafsız ve bağımsız bir şekilde yerine getirmelerini sağlamayı amaçlar.\n•   **Yasama Dokunulmazlığı ve Sorumsuzluğu (T.C. Anayasası m. 83):** Yasama sorumsuzluğu, milletvekillerinin Meclis çalışmalarındaki oy, söz ve düşüncelerinden dolayı cezai, hukuki veya idari bir sorumluluklarının olmamasını ifade eder. Yasama dokunulmazlığı ise, milletvekili hakkında seçimden önce veya sonra işlediği iddia edilen bir suçtan dolayı tutuklama, sorguya çekme, gözaltına alma gibi işlemlere tabi tutulmamasını, ancak Meclis kararıyla dokunulmazlığının kaldırılması halinde kovuşturma yapılabilmesini ifade eder. Ağır cezayı gerektiren suçüstü hali istisnadır.\n•   **Milletvekilliğinin Sona Ermesi (T.C. Anayasası m. 84):** Milletvekilliğinin ölüm, istifa, kesin hüküm giyme veya kısıtlanma gibi durumlarla kendiliğinden sona ermesini veya TBMM Genel Kurulu tarafından alınan kararlarla (milletvekilliği ile bağdaşmayan bir görevi sürdürme, devamsızlık) düşürülmesini düzenler. Düşme kararına karşı Anayasa Mahkemesi'ne itiraz yolu açıktır.\n•   **Ant İçme (T.C. Anayasası m. 81):** TBMM üyelerinin göreve başlamadan önce Anayasa ve yasalara bağlı kalacaklarına dair ant içme zorunluluğunu belirtir. And içmeyen milletvekilleri Meclis çalışmalarına katılamazlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Seçilme Yeterliliği Sorunları:** Bir milletvekilinin seçimden sonra, seçilme yeterliliğini taşımadığı (örneğin, hapis cezası aldığı) anlaşılırsa, bu durum Yüksek Seçim Kurulu tarafından incelenir ve vekilliği iptal edilebilir. (Örnek: Sahtecilik suçundan hüküm giymiş bir adayın vekilliği)\n•   **Yasama Dokunulmazlığının Kaldırılması:** X Partisi milletvekili A'nın, seçimden önce işlediği iddia edilen bir zimmet suçu nedeniyle hakkında soruşturma açılması istendiğinde, savcılık fezleke düzenler. Bu fezleke TBMM'ye gönderilir ve dokunulmazlığının kaldırılmasına karar verilirse, yargılama süreci başlar. (Örnek: Meclis'te dokunulmazlığı kaldırılan bir vekilin yargılanması)\n•   **Yasama Sorumsuzluğu Uygulaması:** Bir milletvekilinin TBMM Genel Kurulu'nda yaptığı bir konuşmada, hükümet üyelerini ağır şekilde eleştirmesi ve bazı iddialarda bulunması, yasama sorumsuzluğu kapsamında değerlendirilir. Bu sözlerinden dolayı hakkında herhangi bir dava açılamaz. (Örnek: Bütçe görüşmelerindeki sert tartışmalar)\n•   **Milletvekilliği ile Bağdaşmayan Görev:** Milletvekili seçildikten sonra bir kamu bankasında yönetim kurulu üyeliğine devam eden bir kişinin, bu durumun Anayasa'nın 82. maddesine aykırılık teşkil etmesi nedeniyle vekilliği düşürülebilir. (Örnek: Bir vekilin aynı zamanda belediye başkanı olması durumu olamaz)\n•   **Milletvekilliğinin Düşürülmesi Kararı:** Bir milletvekili, TBMM çalışmalarına izinsiz ve mazeretsiz olarak belirli bir süre katılmadığında (örneğin bir ay içinde toplam beş birleşim günü), bu durum Genel Kurul'da oylanarak vekilliğinin düşmesine yol açabilir. Bu karara karşı ilgili vekilin Anayasa Mahkemesi'ne itiraz hakkı vardır.\n•   **Parti Kapatma ve Vekillik:** Siyasi parti kapatma davasında, bir partinin Anayasa Mahkemesi tarafından kapatılmasına karar verildiğinde, o partinin bazı milletvekillerinin de vekilliklerinin düşmesi söz konusu olabilir. (Örnek: Anayasa Mahkemesi'nin parti kapatma kararının milletvekilleri üzerindeki etkisi)"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Genel Temsil İlkesinin Önemi:** Milletvekilleri, kendilerini seçen bölgeyi veya partiyi değil, tüm ulusu temsil ederler. Bu ilke, vekillere herhangi bir talimat veya baskı altında kalmadan hareket etme özgürlüğü verir ve karar alma süreçlerinde ulusal çıkarları ön planda tutmalarını sağlar.\n•   **Yasama Dokunulmazlığı ve Sorumsuzluğu Arasındaki Fark:** Sorumsuzluk (mutlak ve sürekli) vekillere Meclis faaliyetleri sırasında düşünce ve ifade özgürlüğü tanırken, dokunulmazlık (nispi ve geçici) vekilleri yargı tacizinden korur ve Meclis'in çalışma düzenini güvence altına alır. Bu iki kavramın amaçları ve kapsamları farklıdır.\n•   **Milletvekilliğinin Düşmesi Kararlarının Yargısal Denetimi:** Anayasa'nın 84. maddesine göre, vekilliğin düşmesine ilişkin TBMM Genel Kurulu kararlarına karşı, kararın Resmi Gazete'de yayımlanmasından itibaren yedi gün içinde ilgili milletvekili veya diğer bir milletvekili tarafından Anayasa Mahkemesi'ne iptal davası açılabilir. Bu, keyfi uygulamaları engellemek için önemli bir güvencedir.\n•   **Seçim Barajı ve Temsilde Adalet:** Türkiye'deki %7'lik seçim barajı, siyasi istikrarı sağlamayı hedeflerken, nispi temsilin özüne aykırı düşebilmekte ve küçük partilerin Meclis'te temsilini zorlaştırmaktadır. Bu durum, temsilin adaletine yönelik tartışmaları beraberinde getirir.\n•   **Milletvekili Göreviyle Bağdaşmayan Haller Listesi:** Anayasa ve ilgili kanunlarda sayılan bu haller, vekillerin görevlerini çıkar çatışması olmaksızın yerine getirmesini sağlamak amacıyla geniş yorumlanmalıdır. Bağdaşmayan bir görevde ısrar edilmesi vekilliğin düşmesiyle sonuçlanır.\n•   **Vekilliğin Sona Ermesi Hallerinin Farklılaşması:** Vekilliğin sona erme nedenleri (ölüm, istifa, kısıtlanma, kesin hüküm giyme) ile düşme nedenleri (devamsızlık, bağdaşmaz görevde ısrar) arasındaki farkı anlamak önemlidir. Düşme kararı TBMM Genel Kurulu tarafından alınır ve yargı denetimine tabidir, diğerleri genellikle kendiliğinden veya YSK kararıyla gerçekleşir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Anayasa Maddelerini Kapsamlı Öğrenme:** Milletvekilliği ile ilgili Anayasa'nın 75-85. maddeleri arasındaki düzenlemeler, sınavın temelini oluşturacaktır. Bu maddelerin lafzını ezberlemekten ziyade, her bir maddenin amacı, kapsamı ve diğer maddelerle ilişkisini anlamak önemlidir.\n•   **Kavramsal Ayrım ve Tanımlar:** Yasama dokunulmazlığı ve yasama sorumsuzluğu, aktif ve pasif seçme hakkı, genel temsil ilkesi gibi temel kavramların tanımlarını, amaçlarını ve aralarındaki farkları net bir şekilde öğrenin. Sınavda bu kavramların karşılaştırılması sıkça sorulabilir.\n•   **Uygulama Alanları ve İstisnalar:** Özellikle yasama dokunulmazlığının kaldırılması süreci, vekilliğin düşmesi halleri ve bunların yargı denetimi gibi konuların pratik uygulamalarını ve Anayasa'da belirtilen istisnalarını (örneğin, ağır cezayı gerektiren suçüstü hali) iyi kavrayın.\n•   **Seçim Sistemleri ve Türkiye Uygulaması:** Nispi temsil sistemi, seçim barajı ve D'Hondt metodu gibi konuları anlayın. Türkiye'deki seçim sisteminin avantaj ve dezavantajlarını, temsil adaleti üzerindeki etkilerini yorumlayabilme yeteneği geliştirin.\n•   **Yüksek Seçim Kurulu (YSK)'nun Rolü:** Seçimlerin denetimi, seçilme yeterliliğine ilişkin itirazların karara bağlanması gibi konularda YSK'nın yetki ve görevlerini öğrenin. YSK kararlarının nihai niteliği önemlidir.\n•   **Güncel Gelişmeler ve İçtihatlar:** Konuyla ilgili Anayasa Mahkemesi kararları ve önemli içtihatları takip etmek, bilgilerinizi güncel tutmanızı ve sınavda karşınıza çıkabilecek yorum sorularına hazırlıklı olmanızı sağlayacaktır (Kemal Gözler'in kitabındaki güncel atıflara dikkat)."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türkiye Cumhuriyeti Anayasası'na göre, milletvekili seçilebilme yeterliliği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Onsekiz yaşını doldurmuş olmak gerekir.",
+        "B": "En az ilkokul mezunu olmak gerekir.",
+        "C": "Taksirli suçlar hariç olmak üzere, toplam bir yıl veya daha fazla hapis cezasına hüküm giymemiş olmak gerekir.",
+        "D": "Askerlik hizmetini yapmış olmak şartı yoktur.",
+        "E": "Kamu hizmetinden yasaklı olmamak gerekir."
+      },
+      "correctAnswer": "D",
+      "explanation": "T.C. Anayasası'nın 76. maddesine göre, askerlik hizmetini yapmamış olanlar milletvekili seçilemez. Yani askerlik hizmetini yapmış olmak veya askerlikten muaf olmak bir şarttır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi milletvekilliğinin kendiliğinden sona erme nedenlerinden biri değildir?",
+      "options": {
+        "A": "Milletvekilinin ölümü",
+        "B": "Milletvekilinin istifa etmesi",
+        "C": "Milletvekilinin kısıtlanması",
+        "D": "Milletvekilliği ile bağdaşmayan bir görevi sürdürmekte ısrar etmesi",
+        "E": "Milletvekilinin kesin hüküm giymesi"
+      },
+      "correctAnswer": "D",
+      "explanation": "Milletvekilliği ile bağdaşmayan bir görevi sürdürmekte ısrar etme hali, TBMM Genel Kurulu'nun kararıyla milletvekilliğinin düşmesine neden olur, kendiliğinden sona erme değildir. Diğer şıklar ise kendiliğinden sona erme halleridir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Yasama dokunulmazlığı ile yasama sorumsuzluğu arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yasama dokunulmazlığı kaldırılabilirken, yasama sorumsuzluğu kaldırılamaz.",
+        "B": "Yasama dokunulmazlığı vekili yargılamadan korurken, yasama sorumsuzluğu vekili Meclis içinde yaptığı eylemlerden korur.",
+        "C": "Yasama dokunulmazlığı Meclis dışındaki suçları kapsarken, yasama sorumsuzluğu Meclis içindeki beyanları kapsar.",
+        "D": "Yasama dokunulmazlığı sürekli iken, yasama sorumsuzluğu geçicidir.",
+        "E": "A, B ve C şıklarının hepsi doğru birer farkı ifade etmektedir."
+      },
+      "correctAnswer": "E",
+      "explanation": "Yasama dokunulmazlığı (nispi ve geçici) Meclis kararıyla kaldırılabilir ve vekili yargılamadan korur. Yasama sorumsuzluğu (mutlak ve sürekli) kaldırılamaz ve vekili Meclis içindeki oy, söz ve düşüncelerinden dolayı sorumluluktan muaf tutar. Dolayısıyla A, B ve C şıkları doğru farklardır ve E şıkkı hepsini kapsar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "TBMM Genel Kurulu tarafından milletvekilliğinin düşürülmesi kararı alındığında, ilgili milletvekilinin veya bir başka milletvekilinin bu karara karşı başvurabileceği hukuki yol ve süresi nedir?",
+      "options": {
+        "A": "Anayasa Mahkemesi'ne 15 gün içinde iptal davası açılabilir.",
+        "B": "Danıştay'a 7 gün içinde iptal davası açılabilir.",
+        "C": "Anayasa Mahkemesi'ne 7 gün içinde iptal davası açılabilir.",
+        "D": "Yargıtay'a 15 gün içinde itiraz edilebilir.",
+        "E": "İdari Yargı'ya başvurulamaz, Meclis kararları kesindir."
+      },
+      "correctAnswer": "C",
+      "explanation": "T.C. Anayasası'nın 84. maddesine göre, milletvekilliğinin düşmesi kararına karşı, kararın Resmî Gazete'de yayımlanmasından itibaren yedi gün içinde ilgili milletvekili veya diğer bir milletvekili tarafından Anayasa Mahkemesi'ne iptal davası açılabilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Milletvekilliği görevine başlayan bir üyenin, Anayasa'ya uygun olarak yerine getirmesi gereken ilk zorunlu hukuki işlem aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yasama faaliyetlerine katılmak",
+        "B": "Meclis Komisyonlarına üye olmak",
+        "C": "Milletvekili yemini etmek (ant içmek)",
+        "D": "Siyasi partisine kaydını yaptırmak",
+        "E": "Mal bildiriminde bulunmak"
+      },
+      "correctAnswer": "C",
+      "explanation": "T.C. Anayasası'nın 81. maddesine göre, TBMM üyeleri, göreve başlamadan önce Genel Kurul’da ant içerler. Ant içmeyen milletvekilleri, Meclis çalışmalarına katılamazlar. Bu, göreve başlamanın ilk ve zorunlu hukuki şartıdır."
+    }
+  ]
+}

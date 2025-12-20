@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Şahıs Şirketleri:** Ortakların kişisel emeğine ve güvenine dayanan, sermaye unsuru kadar kişisel niteliklerin önemli olduğu şirket türleridir. Ortakların sorumluluğu genellikle sınırsızdır.\n•   **Kollektif Şirket:** Ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla, gerçek kişiler arasında kurulan ve ortaklarından hiçbirinin sorumluluğu şirket alacaklılarına karşı sınırlanmamış olan şirkettir (TTK m. 211).\n•   **Komandit Şirket:** Ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla kurulan, ortaklardan bir veya birkaçı şirket alacaklılarına karşı sınırsız, diğer bir veya birkaçının sorumluluğu ise belirli bir sermaye miktarıyla sınırlı olan şirkettir (TTK m. 243).\n•   **Komandite Ortak:** Komandit şirkette, şirket borçlarından dolayı alacaklılara karşı sınırsız, müteselsil ve tüm malvarlığıyla sorumlu olan ortaktır. Yalnızca gerçek kişiler komandite ortak olabilir.\n•   **Komanditer Ortak:** Komandit şirkette, sorumluluğu şirkete getirdiği veya taahhüt ettiği sermaye miktarıyla sınırlı olan ortaktır. Gerçek veya tüzel kişiler komanditer ortak olabilir.\n•   **Sınırsız ve Müteselsil Sorumluluk:** Ortakların şirket borçlarından dolayı tüm malvarlıklarıyla ve diğer ortaklarla birlikte (birbirinden bağımsız olarak) sorumlu olması."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Ticaret Kanunu (TTK) No. 6102:** Kollektif ve komandit şirketlerin kuruluşu, işleyişi, ortakların hak ve borçları, sona ermesi ve tasfiyesi gibi tüm temel hükümleri düzenleyen ana kanundur.\n•   **Kollektif Şirket Hükümleri:** TTK'nın İkinci Kitap, Birinci Kısım, İkinci Bölüm'ünde (m. 211-242) özel olarak ele alınmıştır. Kuruluş sözleşmesinin yazılı şekil şartı ve ticaret siciline tescili zorunludur.\n•   **Komandit Şirket Hükümleri:** TTK'nın İkinci Kitap, Birinci Kısım, Üçüncü Bölüm'ünde (m. 243-264) düzenlenmiştir. Kollektif şirket hükümleri, komandit şirketin niteliğine uygun düştüğü ölçüde komandit şirket hakkında da uygulanır (TTK m. 244).\n•   **Ortakların Sorumluluk Rejimi:** Kollektif şirkette tüm ortaklar sınırsız ve müteselsil sorumludur (TTK m. 211). Komandit şirkette ise komandite ortaklar sınırsız, komanditer ortaklar ise koydukları sermaye ile sınırlı sorumludur (TTK m. 243).\n•   **Yönetim ve Temsil:** Kollektif şirketi yönetme ve temsil yetkisi tüm ortaklara aittir, aksi şirket sözleşmesiyle düzenlenmedikçe (TTK m. 218). Komandit şirkette ise yönetim hakkı sadece komandite ortaklara aittir; komanditer ortakların yönetim yetkisi yoktur (TTK m. 257).\n•   **Şirket Unvanı:** Kollektif şirketin unvanında tüm ortakların veya en az bir ortağın adı ve soyadı ile \"Kollektif Şirket\" ibaresi bulunmalıdır (TTK m. 47). Komandit şirketin unvanında ise sadece komandite ortağın adı ve soyadı ile \"Komandit Şirket\" ibaresi yer alabilir; komanditer ortağın adı unvanda yer alırsa o ortak komandite gibi sorumlu olur (TTK m. 47, 247/2)."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Kollektif Şirket Kuruluşu:** Ahmet ve Mehmet, danışmanlık hizmeti vermek üzere \"Ahmet ve Mehmet Kollektif Şirketi\" unvanıyla bir şirket kurarlar. Şirketin tüm borçlarından Ahmet ve Mehmet, tüm kişisel malvarlıklarıyla sınırsız ve müteselsilen sorumlu olacaktır.\n•   **Komandit Şirket Kuruluşu ve Ortak Sorumluluğu:** Ayşe (komandite ortak) ve bankacı Burak (komanditer ortak) bir yazılım şirketi kurarlar. Ayşe işin yönetimini üstlenirken, Burak şirkete 150.000 TL sermaye koyar. Şirket 700.000 TL borçlandığında, Ayşe tüm malvarlığıyla sorumlu iken, Burak sadece koyduğu 150.000 TL ile sorumludur.\n•   **Komanditer Ortağın Yönetim Yasağı:** \"Teknoloji Gelişim Komandit Şirketi\"nde Can bir komanditer ortaktır. Can'ın şirketi yönetme veya temsil etme yetkisi yoktur. Eğer Can, şirket adına bir sözleşme yaparsa, üçüncü kişilere karşı komandite ortak gibi sınırsız sorumlu olabilir (TTK m. 257/2).\n•   **Borçlardan Sorumluluk:** Bir kollektif şirketin yüklü miktarda borcu olduğunda ve şirketin malvarlığı yetersiz kaldığında, alacaklılar ortakların şahsi malvarlıklarına başvurabilirler. Ortaklardan biri tüm borcu öderse, diğer ortaklara rücu etme hakkına sahiptir.\n•   **Ortak Ölümü:** \"Güneş Kollektif Şirketi\"nin ortaklarından biri vefat ettiğinde, şirket sözleşmesinde aksine hüküm yoksa şirket sona erer. Ancak sözleşmede mirasçıların şirkete katılması veya kalan ortaklarla devam etme opsiyonu varsa şirket faaliyetine devam edebilir.\n•   **Sermaye Taahhüdünün Önemi:** Bir komandit şirkette komanditer ortağın taahhüt ettiği sermaye, onun sorumluluğunun üst sınırını belirler. Taahhüt edilen sermayenin ticaret siciline doğru ve eksiksiz tescil edilmesi, üçüncü kişilerle olan ilişkilerde belirleyici olacaktır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Sınırsız Sorumluluğun Ağır Sonuçları:** Kollektif şirket ortakları ile komandit şirketin komandite ortakları, şirket borçlarından dolayı tüm kişisel malvarlıklarıyla sorumlu oldukları için, bu şirket tipini tercih ederken risk analizi çok iyi yapılmalı ve kişisel riskler göz önünde bulundurulmalıdır.\n•   **Şirket Sözleşmesinin Detaylı Düzenlenmesi:** Şahıs şirketlerinde ortaklar arasındaki güven ve ilişki esastır. Ortakların hak ve borçları, yönetim, kar-zarar paylaşımı, ortaklıktan ayrılma, devir ve fesih gibi konular şirket sözleşmesinde ayrıntılı ve net bir şekilde belirtilmelidir.\n•   **Ticaret Unvanının Doğru Kullanımı:** Kollektif ve komandit şirketlerin unvanlarında kullanılan ibareler (\"Kollektif Şirket\", \"Komandit Şirket\") ve ortak adlarının gösterimi TTK'ya uygun olmalı, aksi halde hukuki sorunlar doğabilir. Özellikle komandit şirkette komanditer ortağın adının unvana dahil edilmesi, o ortağı komandite gibi sınırsız sorumlu kılar.\n•   **Komanditer Ortağın Yönetim Yasağı:** Komandit şirkette komanditer ortağın şirketi yönetme veya temsil etme yetkisi yoktur. Bu yasağa aykırı hareket etmesi halinde üçüncü kişilere karşı komandite ortak gibi sınırsız sorumlu olma riski vardır (TTK m. 257/2).\n•   **Ortaklar Arası Güven ve İş İlişkileri:** Şahıs şirketleri, ortakların kişisel güven ilişkisine dayanır. Bu nedenle, ortak seçimi ve işbirliği büyük önem taşır. Ortaklar arasındaki anlaşmazlıklar şirketin devamlılığını ciddi şekilde etkileyebilir ve kolayca feshe yol açabilir.\n•   **Ticaret Sicili Tescil Zorunluluğu:** Şirket sözleşmelerinin ve şirketle ilgili önemli değişikliklerin Ticaret Sicili'ne tescil ve ilanı zorunludur. Bu, üçüncü kişilerin şirketin durumu hakkında bilgi edinmesini sağlar ve iyi niyetli üçüncü kişilerin korunması açısından önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kollektif ve Komandit Şirket Tanımları:** Her iki şirket türünün TTK'daki tanımlarını, temel özelliklerini (şahıs şirketi olmaları, gerçek kişi ortak zorunluluğu) ve kuruluş şartlarını (yazılı sözleşme, tescil) iyi kavramak.\n•   **Ortakların Sorumluluk Rejimi:** Kollektif şirkette tüm ortakların sınırsız ve müteselsil sorumluluğu ile komandit şirkette komandite ve komanditer ortakların sorumluluklarının farklarını, yasal dayanaklarını ve pratik sonuçlarını netleştirmek.\n•   **Yönetim ve Temsil Yetkisi:** Kollektif şirkette tüm ortakların yönetim yetkisine sahip olması (sözleşmede aksi yoksa) ve komandit şirkette sadece komandite ortakların yönetim yetkisi olması konularını iyi anlamak. Komanditer ortağın yönetim yasağının istisnası ve sonuçlarına dikkat etmek.\n•   **Şirket Unvanı Kuralları:** Her iki şirket türünün ticaret unvanı seçimi ve tescili ile ilgili TTK hükümlerini bilmek. Özellikle komandit şirkette komanditer ortağın adının unvanda yer almasının hukuki sonuçları önemlidir.\n•   **Kollektif ve Komandit Şirket Arasındaki Temel Farklar:** Özellikle sorumluluk rejimi, yönetim ve temsil yetkisi, şirket unvanı ve ortakların kimliği (gerçek/tüzel kişi olabilirliği) açısından her iki şirket türünü karşılaştırmalı olarak analiz etmek, sınavda ayırt edici sorular için kritik öneme sahiptir.\n•   **Şirket Sözleşmesinin İçeriği:** Şirket sözleşmesinde yer alması gereken zorunlu ve ihtiyari hususları bilmek, bu şirket türlerinin \"sözleşmesel\" yapılarını anlamak açısından önemlidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Ticaret Kanunu'na göre, ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla kurulan ve ortaklarından hiçbirinin sorumluluğu şirket alacaklılarına karşı sınırlanmamış olan şirket türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kollektif Şirket",
+        "B": "Komandit Şirket",
+        "C": "Limited Şirket",
+        "D": "Anonim Şirket"
+      },
+      "correctAnswer": "A",
+      "explanation": "TTK m. 211'de Kollektif Şirket'in tanımı yapılmaktadır. Bu tanıma göre, ortakların sorumluluğunun şirket alacaklılarına karşı sınırlanmadığı şirket türü Kollektif Şirket'tir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir komandit şirkette, şirketin borçlarından dolayı tüm malvarlığıyla sınırsız ve müteselsil sorumlu olan ortak türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Komanditer Ortak",
+        "B": "Anonim Ortak",
+        "C": "Komandite Ortak",
+        "D": "Limited Ortak"
+      },
+      "correctAnswer": "C",
+      "explanation": "Komandit şirkette sınırsız ve müteselsil sorumlu olan ortaklara komandite ortak denir. Komanditer ortak ise yalnızca taahhüt ettiği sermaye ile sorumludur (TTK m. 243)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Kollektif şirketin yönetim ve temsil yetkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Yönetim ve temsil yetkisi sadece şirket müdürüne aittir.",
+        "B": "Tüm ortaklar, aksi şirket sözleşmesinde belirtilmedikçe, şirketi yönetme ve temsil etme yetkisine sahiptir.",
+        "C": "Sadece sermaye payı en yüksek olan ortak şirketi yönetebilir.",
+        "D": "Şirket alacaklıları yönetim yetkisini kullanabilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "TTK m. 218'e göre, şirket sözleşmesinde aksine hüküm olmadıkça, kollektif şirketi yönetme ve temsil yetkisi tüm ortaklara aittir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Komandit şirketin ticaret unvanı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Şirket unvanında yalnızca komandite ortaklardan birinin adı ve soyadı bulunabilir.",
+        "B": "Şirket unvanında 'Komandit Şirket' ibaresi yer almalıdır.",
+        "C": "Şirket unvanında bir komanditer ortağın adı ve soyadı yer alsa bile, o ortak komandite gibi sınırsız sorumlu olmaz.",
+        "D": "Şirket unvanında yer alacak gerçek kişi isimleri, tacir ortakların isimleri olmalıdır."
+      },
+      "correctAnswer": "C",
+      "explanation": "TTK m. 247/2'ye göre, komanditer ortağın adı şirket unvanına yazılırsa, o ortak üçüncü kişilere karşı komandite ortak gibi sınırsız sorumlu olur. Dolayısıyla C şıkkı yanlıştır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir komandit şirkette komanditer ortağın temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": {
+        "A": "Sorumluluğu koyduğu sermaye ile sınırlıdır.",
+        "B": "Yönetim ve temsil yetkisi yoktur.",
+        "C": "Şirket alacaklılarına karşı sınırsız sorumludur.",
+        "D": "Gerçek veya tüzel kişi olabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Komanditer ortağın en temel özelliği, sorumluluğunun koyduğu veya taahhüt ettiği sermaye miktarıyla sınırlı olmasıdır. Şirket alacaklılarına karşı sınırsız sorumlu olan komandite ortaktır (TTK m. 243)."
+    }
+  ]
+}

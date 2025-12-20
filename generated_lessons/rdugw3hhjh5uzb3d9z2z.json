@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nda hizmet sözleşmesi, günlük hayatımızda en sık karşılaştığımız ve bireylerin çalışma yaşamlarını doğrudan etkileyen temel sözleşme tiplerinden biridir. Bu ders kapsamında, hizmet sözleşmesinin ne olduğunu, diğer sözleşme türlerinden ayıran özelliklerini ve Türk Hukuku'ndaki yerini derinlemesine inceleyeceğiz. Hizmet sözleşmesi, Türk Borçlar Kanunu'nun (TBK) 393. maddesinde 'işçinin işverene bağımlı olarak belirli veya belirsiz bir süreyle iş görmeyi, işverenin de ona ücret ödemeyi üstlendiği sözleşme' olarak tanımlanmıştır. Bu tanım, sözleşmenin üç anahtar unsurunu ortaya koymaktadır: iş görme edimi, ücret ve bağımlılık. İş görme edimi, işçinin emeğini, bilgi ve becerisini işverenin emrine sunması; ücret ise bu edimin karşılığı olarak işverenin ödemeyi taahhüt ettiği ekonomik değeri ifade eder. Bağımlılık unsuru, hizmet sözleşmesini diğer iş görme sözleşmelerinden (eser sözleşmesi, vekalet sözleşmesi gibi) ayıran en kritik özelliktir. İşçi, işverenin talimatlarına, denetim ve gözetimine tabi olarak çalışır; işin nasıl, nerede ve ne zaman yapılacağı hususunda işverenin belirlemelerine uymakla yükümlüdür. Bu bağımlılık, hukuki, kişisel ve ekonomik bağımlılık şeklinde kendini gösterebilir. \n\nHizmet sözleşmesinin önemi, sadece bireysel çalışma ilişkilerini düzenlemesiyle sınırlı değildir. Toplumsal yaşamın ekonomik ve sosyal dengesini de doğrudan etkiler. Bu nedenle, Anayasa Hukuku'nun temel ilkeleri, özellikle sosyal devlet ilkesi, çalışma hakkı, sözleşme özgürlüğü ve emeğin korunması prensipleri, hizmet sözleşmelerinin hukuki zeminini oluşturur. Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserinde vurgulanan Anayasal ilkeler, özgürlüklerin ve güvencelerin temelini atar ve özel hukuk alanındaki düzenlemelerin sınırlarını çizer. Anayasa'da güvence altına alınan sosyal devlet ilkesi, işçilerin korunmasını ve adil çalışma koşullarının sağlanmasını devletin bir görevi olarak belirlerken, çalışma hakkı ve ödevi de bireylerin istihdam ve geçimlerini sağlama mekanizmalarını şekillendirir. Bu bağlamda, hizmet sözleşmesi özel hukuk alanında yer alsa da, kamusal nitelikteki Anayasal ilkelerden beslenir ve bu ilkelerin somut bir uygulama alanı bulduğu bir sözleşme tipidir. Bu girişle birlikte, dersimizin ilerleyen adımlarında bu kavramları daha detaylı ele alacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Türk Hukuku'nda hizmet sözleşmesinin yasal çerçevesini temel olarak iki ana kanun belirlemektedir: Türk Borçlar Kanunu (TBK) ve İş Kanunu (Kanun No. 4857). Bu iki kanun, hizmet sözleşmelerini farklı kapsam ve derinlikte ele alır. Türk Borçlar Kanunu (TBK) genel nitelikte bir kanun olup, tüm hizmet sözleşmeleri için temel hükümleri içermektedir. TBK'nın 393. maddesinden 470. maddesine kadar olan hükümler, hizmet sözleşmesinin kurulması, tarafların borçları, sona ermesi ve sonuçları gibi genel esasları düzenler. Bu hükümler, özellikle İş Kanunu kapsamına girmeyen hizmet sözleşmeleri (örneğin, bir avukat ile müvekkili arasındaki iş görme ilişkisinin bazı yönleri veya üst düzey yöneticiler ile şirket arasındaki ilişkiler) için uygulanacak temel hukuk kaynağını oluşturur. TBK, sözleşme özgürlüğü ilkesine daha geniş bir alan tanırken, yine de işçiyi koruyucu emredici hükümlere yer vermektedir.\n\nİş Kanunu (Kanun No. 4857) ise, TBK'ya göre daha özel ve koruyucu nitelikte bir kanundur. İş Kanunu, 'işçi' sıfatına haiz olanlar ile 'işveren' arasında kurulan hizmet sözleşmelerine uygulanır. Kanun'un kapsamı oldukça geniştir ve iş sağlığı ve güvenliği, çalışma süreleri, ücretin korunması, sendikalaşma, toplu iş sözleşmeleri, iş güvencesi gibi özel ve detaylı konuları düzenler. İş Kanunu'nun temel amacı, genellikle işveren karşısında zayıf konumda olan işçiyi korumaktır. Bu nedenle, İş Kanunu'nda yer alan birçok hüküm emredici niteliktedir ve bu hükümlere işçi aleyhine aykırı düzenlemeler yapılamaz. İşçi lehine yorum ilkesi, İş Kanunu'nun uygulanmasında vazgeçilmez bir prensiptir. Yorumda tereddüt olması halinde, işçi lehine olan yorum tercih edilir. TBK ve İş Kanunu arasındaki ilişki, 'genel-özel kanun' ilişkisi şeklindedir; yani, İş Kanunu'nun kapsamına giren bir hizmet sözleşmesi için öncelikle İş Kanunu hükümleri uygulanır, İş Kanunu'nda hüküm bulunmayan hallerde ise TBK hükümleri devreye girer. Ayrıca, bazı meslek grupları için (denizciler için Deniz İş Kanunu, basın mensupları için Basın İş Kanunu) özel kanunlar da mevcuttur. Bu kanunlar da aynı genel-özel kanun ilkesine tabi olarak uygulanır. Bu detaylı yasal çerçeve, hizmet sözleşmelerinin adil, dengeli ve hukuka uygun bir şekilde yürütülmesini sağlamayı amaçlamaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Hizmet sözleşmesinin pratik uygulamaları, sözleşmenin kurulmasından sona ermesine kadar geniş bir yelpazeyi kapsar. Sözleşmenin kurulması genellikle şekil şartına tabi değildir, yani sözlü olarak dahi kurulabilir. Ancak, ispat kolaylığı ve tarafların haklarını güvence altına almak amacıyla yazılı yapılması büyük önem taşır. İş Kanunu'na tabi iş ilişkilerinde işverenin, işçiye çalışma koşullarını, süresini, ücreti ve diğer bilgileri içeren yazılı bir belge verme yükümlülüğü bulunmaktadır. Sözleşmenin başlangıcında deneme süresi belirlenebilir; bu süre İş Kanunu'na göre en çok iki ay olabilir ve taraflara sözleşmeyi bildirimsiz ve tazminatsız feshetme imkanı tanır.\n\nSözleşme süresince tarafların karşılıklı borçları ortaya çıkar. İşçinin temel borcu, özen ve sadakat yükümlülüğü çerçevesinde iş görme edimini bizzat yerine getirmektir. İşçi, işverenin talimatlarına uymalı, işyerinin sırlarını saklamalı ve rekabet yasağına riayet etmelidir. İşverenin ise en temel borcu, işçinin emeğinin karşılığı olan ücreti zamanında ve eksiksiz ödemektir. Ücret, asgari ücretin altında olamayacağı gibi, eşit işe eşit ücret ilkesi de gözetilmelidir. Bunun yanı sıra işveren, işçinin kişiliğini koruma, iş sağlığı ve güvenliği önlemlerini alma, işçiye gerekli araç ve gereçleri sağlama, yıllık ücretli izin kullandırma ve eşit davranma gibi önemli borçlara sahiptir. Özellikle iş sağlığı ve güvenliği, günümüz çalışma hayatının en hassas konularından biridir ve işverenin bu konudaki sorumlulukları oldukça ağırdır.\n\nSözleşmenin sona ermesi ise çeşitli şekillerde gerçekleşebilir. Belirli süreli hizmet sözleşmeleri, sürenin dolmasıyla kendiliğinden sona ererken, belirsiz süreli sözleşmelerin sona ermesi için fesih bildirimi gerekir. İş Kanunu'na tabi belirsiz süreli iş sözleşmelerinde fesih için iş güvencesi hükümleri (İş Kanunu m. 18 vd.) devreye girer. İşveren, iş sözleşmesini geçerli bir nedene dayanmadan feshedemez ve işçinin işe iade davası açma hakkı vardır. Haklı nedenle fesih ise (İş Kanunu m. 24 ve 25, TBK m. 435), sözleşmenin çekilmez hale gelmesi durumunda, belirli süreli veya belirsiz süreli olmasına bakılmaksızın ve ihbar süresine gerek kalmaksızın derhal sona erdirilmesidir. Örneğin, işverenin ücreti ödememesi veya işçinin işyerinde tacizde bulunması haklı fesih nedenleri olabilir. Fesih sonucunda, işçinin çalışma süresi ve fesih nedenine bağlı olarak kıdem tazminatı, ihbar tazminatı, yıllık izin ücreti gibi alacak hakları doğabilir. Bu tazminatlar ve haklar, işçinin mağduriyetini gidermeyi amaçlayan önemli güvencelerdir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Hizmet sözleşmeleri alanında hem işverenler hem de işçiler için dikkat edilmesi gereken pek çok önemli husus bulunmaktadır. Öncelikle, işçi hakları ve güvenceleri konusu, Türk hukukunda özel bir hassasiyetle korunmaktadır. İş güvencesi, özellikle İş Kanunu kapsamındaki işçiler için büyük önem taşır. Belirsiz süreli iş sözleşmesiyle çalışan ve belirli bir kıdeme (genellikle 6 ay) sahip işçiler, işveren tarafından fesih bildirimiyle işten çıkarıldığında, bu feshin geçerli bir nedene dayanmadığını düşünerek işe iade davası açabilirler. Mahkeme, feshin geçersiz olduğuna karar verirse, işçinin işe iadesine veya iş güvencesi tazminatı ödenmesine hükmedebilir. Bu durum, işverenlerin keyfi fesih yapmasını engellemeyi hedefler.\n\nKıdem tazminatı ve ihbar tazminatı da işçi alacakları arasında önemli bir yer tutar. Kıdem tazminatı, işçinin aynı işverene bağlı olarak en az bir yıl çalışması ve İş Kanunu'nda belirtilen fesih hallerinden birinin gerçekleşmesi durumunda ödenen bir tazminattır. İhbar tazminatı ise, belirsiz süreli iş sözleşmelerinde, fesih bildirim sürelerine uyulmaması halinde, bildirim sürelerine tekabül eden ücretin karşı tarafa ödenmesi gereken bir tazminattır. Yıllık ücretli izin hakkı, işçinin dinlenme hakkının anayasal bir güvencesi olup, işveren tarafından engellenemez ve iş ilişkisi sona erdiğinde kullanılmamış izinlerin ücreti ödenmek zorundadır. İş sağlığı ve güvenliği (İSG) önlemleri, işveren için en temel ve ağır sorumluluklardan biridir. İşveren, işçilerin sağlığını ve güvenliğini tehlikeye atacak durumlardan kaçınmak, gerekli tüm önlemleri almak ve denetlemekle yükümlüdür. Bu alandaki ihlaller, hem idari para cezaları hem de cezai yaptırımlar ile ağır tazminat sorumlulukları doğurabilir.\n\nHizmet sözleşmesi ile diğer sözleşme türleri arasındaki ayrıma da özel dikkat gösterilmelidir. Özellikle eser sözleşmesi ve vekalet sözleşmesi ile hizmet sözleşmesi arasındaki farklar, uygulayıcılar için sıkça karıştırılan noktalardır. Ayırıcı temel kriter bağımlılık unsurudur. Eser sözleşmesinde yüklenici bir işin sonucunu (eseri) taahhüt eder ve işveren sadece sonuca odaklanır; işin nasıl yapıldığına karışmaz. Vekalet sözleşmesinde ise vekil, belirli bir işin görülmesini taahhüt eder ancak yine işverenin talimatlarına bağlılık hizmet sözleşmesindeki kadar yoğun değildir ve vekil genellikle daha bağımsız hareket eder. Bağımlılık unsuru, sözleşmenin hangi kanuna tabi olacağını ve dolayısıyla hangi hak ve yükümlülüklerin uygulanacağını belirlemesi açısından hayati öneme sahiptir.\n\nSon olarak, hizmet sözleşmelerinden kaynaklanan uyuşmazlıkların çözümünde zorunlu arabuluculuk kurumu, 2018 yılından bu yana önemli bir aşama haline gelmiştir. Dava açılmadan önce arabulucuya başvurmak bir dava şartıdır. Bu süreç, tarafların uyuşmazlıklarını mahkeme dışı, daha hızlı ve uygun maliyetli bir şekilde çözmelerini teşvik eder. Arabuluculuk sürecinin başarısız olması halinde ise, uyuşmazlıklar İş Mahkemeleri'nde çözüme kavuşturulur. İş hukukundaki sürekli güncellenen mevzuat ve Yargıtay içtihatları, bu alanda uzmanlaşmayı ve dikkatli olmayı gerektirmektedir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders kapsamında hizmet sözleşmesinin temel taşlarını kapsamlı bir şekilde inceledik. Hizmet sözleşmesi, Türk Hukuku'nda iş görme edimi, ücret ve bağımlılık unsurlarıyla tanımlanan, toplumsal ve ekonomik yaşamın vazgeçilmez bir parçası olan bir sözleşme türüdür. Bağımlılık unsuru, onu diğer iş görme sözleşmelerinden ayırarak işçi-işveren ilişkisine özgü hukuki sonuçlar doğurmaktadır. Yasal çerçeve açısından, Türk Borçlar Kanunu'nun genel hükümleri ile özellikle işçi lehine koruyucu nitelikteki İş Kanunu'nun özel hükümleri, bu sözleşme tipini düzenlemektedir. İş Kanunu'nun kapsamına giren ilişkilerde, işçi hak ve güvenceleri ön planda tutulmakta, bu da emredici hükümler ve işçi lehine yorum ilkesiyle desteklenmektedir.\n\nPratik uygulamalarda sözleşmenin kurulması genellikle şekle bağlı olmasa da yazılı yapılması önem arz ederken, tarafların karşılıklı borçları sözleşmenin sağlıklı yürütülmesi için hayati rol oynamaktadır. İşçinin özen, sadakat ve iş görme borcu ile işverenin ücret ödeme, iş sağlığı ve güvenliği önlemlerini alma ve eşit davranma borçları, bu ilişkinin temel dinamikleridir. Sözleşmenin sona ermesi ise, süreli veya belirsiz süreli olmasına göre farklı hukuki sonuçlar doğurmakta, haklı nedenle fesih gibi olağanüstü fesih yollarının yanı sıra iş güvencesi kapsamındaki işçiler için geçerli nedenle fesih gibi kurallar uygulanmaktadır. İşçi alacakları (kıdem ve ihbar tazminatları, yıllık izin ücreti) bu süreçte işçinin mağduriyetini önlemeye yönelik önemli güvencelerdir.\n\nDikkat edilmesi gerekenler başlığı altında, işçi hakları ve güvencelerinin (iş güvencesi, kıdem tazminatı, İSG) korunmasının önemi vurgulanmış, hizmet sözleşmesinin eser ve vekalet sözleşmelerinden ayırt edici özellikleri tekrar incelenmiş ve uyuşmazlık çözüm yollarında arabuluculuğun rolüne değinilmiştir. Bu bilgiler, sadece teorik bir anlayış kazandırmakla kalmayıp, aynı zamanda günlük hayatta ve mesleki uygulamalarda karşılaşılabilecek durumları doğru yorumlama ve hukuki süreçleri etkin yönetme becerisi kazandırmayı hedeflemektedir. Türk Hukuku'nda işçi-işveren ilişkilerinin dengeli ve adil bir şekilde sürdürülmesi, hem bireysel refah hem de toplumsal barış için kritik öneme sahiptir. Unutmayınız ki, hukuk dinamik bir alandır ve mevzuat ile içtihatlar sürekli gelişmektedir. Bu nedenle, hukuki gelişmeleri takip etmek ve kendinizi sürekli güncel tutmak, bu alandaki yetkinliğiniz için elzemdir. Bu dersin, hizmet sözleşmesi konusundaki temel bilgileri sağlam bir şekilde oturtmanıza yardımcı olduğunu umuyorum."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk Borçlar Kanunu'nda tanımlanan 'Hizmet Sözleşmesi'nin temel unsurlarından biri DEĞİLDİR?",
+      "options": {
+        "A": "İş görme edimi",
+        "B": "Ücret",
+        "C": "Bağımlılık",
+        "D": "Eserin teslimi",
+        "E": "Belirli veya belirsiz süre"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hizmet sözleşmesinin temel unsurları TBK m. 393'e göre iş görme edimi, ücret ve bağımlılıktır. Sözleşmenin süresi de (belirli veya belirsiz) önemli bir unsur olmasına rağmen, 'eserin teslimi' eser sözleşmesinin temel özelliğidir, hizmet sözleşmesinin değil."
+    },
+    {
+      "questionNumber": 2,
+      "question": "4857 sayılı İş Kanunu'na tabi bir iş sözleşmesinde, işçinin işe iade davası açabilmesi için genel şartlar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": {
+        "A": "İş sözleşmesinin belirsiz süreli olması",
+        "B": "İşyerinde en az 30 işçi çalışması",
+        "C": "İşçinin en az 6 aylık kıdeminin bulunması",
+        "D": "Feshin geçerli bir nedene dayanmadığı iddiası",
+        "E": "İş sözleşmesinin işçi tarafından haklı nedenle feshedilmiş olması"
+      },
+      "correctAnswer": "E",
+      "explanation": "İş güvencesi kapsamında işe iade davası, işverenin yaptığı feshin geçerli bir nedene dayanmadığı iddiasıyla açılır. İşçinin kendi tarafından haklı nedenle feshi durumunda işe iade davası söz konusu olmaz. Diğer seçenekler (belirsiz süreli sözleşme, 30 işçi sınırı ve 6 aylık kıdem) işe iade davası açabilmek için aranan genel şartlardandır (İş Kanunu m. 18)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Hizmet sözleşmesinin sona ermesiyle ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Belirli süreli hizmet sözleşmesi, sürenin sona ermesiyle kendiliğinden sona erer.",
+        "B": "Belirsiz süreli hizmet sözleşmelerinde fesih bildirimi zorunludur.",
+        "C": "İş Kanunu'na göre, deneme süresi içinde iş sözleşmesi bildirimsiz ve tazminatsız feshedilebilir.",
+        "D": "İşçinin ücretini haklı bir sebep olmaksızın ödemeyen işveren, iş sözleşmesini haklı nedenle feshetme hakkına sahiptir.",
+        "E": "Haklı nedenle fesih, hem belirli hem de belirsiz süreli hizmet sözleşmelerinde uygulanabilir."
+      },
+      "correctAnswer": "D",
+      "explanation": "İşçinin ücretinin haklı bir sebep olmaksızın ödenmemesi, İş Kanunu m. 24 uyarınca işçi için haklı nedenle fesih sebebidir. İşveren, kendi borcunu ihlal ettiği için iş sözleşmesini haklı nedenle feshetme hakkına sahip olmaz. Diğer seçenekler hizmet sözleşmesinin sona ermesiyle ilgili doğru ifadelerdir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Hizmet sözleşmesinden kaynaklanan uyuşmazlıklarda, 7036 sayılı İş Mahkemeleri Kanunu'na göre dava açmadan önce aşağıdakilerden hangisine başvurmak zorunludur?",
+      "options": {
+        "A": "Uzlaştırma Kurulu",
+        "B": "Hakem Kurulu",
+        "C": "Zorunlu Arabuluculuk",
+        "D": "Noter Onayı",
+        "E": "Bilirkişi İncelemesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesine göre, bireysel veya toplu iş sözleşmesinden kaynaklanan işçi veya işveren alacağı ve tazminatı ile işe iade talebiyle açılan davalarda, dava şartı olarak arabuluculuğa başvurulmuş olması gerekir. Bu durum, 'zorunlu arabuluculuk' olarak bilinir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki durumlardan hangisi, hizmet sözleşmesini eser sözleşmesinden ayıran temel özellik olarak kabul edilir?",
+      "options": {
+        "A": "Sözleşmenin yazılı şekilde yapılması",
+        "B": "Bir bedel (ücret) karşılığında yapılması",
+        "C": "Bir işin görülmesi veya sonucun elde edilmesi",
+        "D": "İşçinin işverenin denetim ve talimatlarına bağımlı olması",
+        "E": "Sözleşmenin belirli veya belirsiz süreli olması"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hizmet sözleşmesini eser sözleşmesinden ayıran en temel özellik 'bağımlılık' unsurudur. Hizmet sözleşmesinde işçi, işverenin denetim ve talimatları altında çalışır. Eser sözleşmesinde ise yüklenici, bir eser meydana getirmeyi taahhüt eder ve işin yapılış şekli konusunda daha bağımsızdır, önemli olan sonuçtur. Diğer seçenekler her iki sözleşme türünde de bulunabilecek ortak veya farklı seviyelerde özelliklerdir ancak temel ayırıcı değildir."
+    }
+  ]
+}

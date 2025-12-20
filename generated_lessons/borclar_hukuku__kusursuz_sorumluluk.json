@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kusursuz Sorumluluk Tanımı:** Bir kişinin, kendi kusuru olmasa dahi, yasanın belirlediği bazı durumlar altında, meydana gelen zarardan sorumlu tutulması halidir. Burada önemli olan, zarar veren fiil ile zarar arasındaki illiyet bağıdır, kusur aranmaz.\n•   **Kusurlu Sorumluluktan Farkı:** Geleneksel kusurlu sorumlulukta, zararın tazmin edilebilmesi için zarar verenin kusurlu (kasıtlı veya ihmalli) bir davranışının bulunması şarttır. Kusursuz sorumlulukta ise, kusurun varlığı bir şart olarak aranmaz; sorumluluk kanundan doğar.\n•   **Amaç ve Gerekçe:** Kusursuz sorumluluk, özellikle toplum için tehlike arz eden veya riskli faaliyetlerin yol açtığı zararların, bu faaliyetleri yürütenler veya bu riskleri oluşturanlar tarafından karşılanması ilkesine dayanır. Sosyal adalet, hakkaniyet ve riskin dağıtılması amacı güder.\n•   **Önemli Unsurları:** Kusursuz sorumluluğun doğabilmesi için bir zararın meydana gelmesi, bu zarar ile belirli bir olgu veya faaliyet arasında uygun illiyet bağının bulunması ve sorumluluğu öngören özel bir kanun hükmünün var olması gereklidir. Kusur unsuru aranmaz.\n•   **Kurtuluş Kanıtı:** Bazı kusursuz sorumluluk hallerinde, sorumlu tutulan kişiye, zararın kendisinden kaynaklanmadığını (örneğin mücbir sebep, zarar görenin veya üçüncü kişinin ağır kusuru gibi durumlar) ispat ederek sorumluluktan kurtulma imkanı tanınır. Bu, genellikle 'objektif özen yükümlülüğüne aykırılık' temelli sorumluluklarda görülür.\n•   **Genel ve Özel Hükümler:** Kusursuz sorumluluk, Borçlar Kanunu'nda (TBK) genel olarak düzenlenmemiştir; daha ziyade özel sorumluluk halleri olarak kanunda ve özel kanunlarda yer almaktadır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Borçlar Kanunu (TBK) Genel İlkesi:** TBK'nın genel sistematiği kusura dayalı sorumluluğu esas alsa da, belirli maddelerle kusursuz sorumluluk hallerini düzenlemiştir. Bu düzenlemeler, kanun koyucunun özel tehlike arz eden veya riskli alanlarda kusurdan bağımsız bir tazmin mekanizması öngörmesidir.\n•   **Adam Çalıştıranın Sorumluluğu (TBK m. 66):** 'Adam çalıştıran, çalıştırdığı kişinin yaptığı iş sırasında başkalarına verdiği zararı gidermekle yükümlüdür.' Bu sorumluluk, adam çalıştıranın kusuru olmasa bile doğar. Ancak, adam çalıştıran, 'çalıştırdığı kişiyi seçerken, talimat verirken, gözetirken ve denetlerken gerekli özeni gösterdiğini' ispat ederek sorumluluktan kurtulabilir (kurtuluş kanıtı).\n•   **Hayvan Bulunduranın Sorumluluğu (TBK m. 69):** 'Bir hayvanın bakımını ve yönetimini sürekli veya geçici olarak üstlenen kişi, hayvanın verdiği zarardan sorumludur.' Bu sorumluluk da kusursuzdur. Hayvan bulunduran, 'zararın doğmasını engellemek için gerekli dikkat ve özeni gösterdiğini' ispat ederek kurtulabilir.\n•   **Yapı Malikinin Sorumluluğu (TBK m. 71):** 'Bir yapının veya diğer bir eserin maliki, bunların kötü yapılmasından veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür.' Bu sorumluluk da kusursuzdur ve malikin kusuru aranmaz. Malikin bu sorumluluktan kurtulması oldukça zordur, ancak mücbir sebep gibi durumlar söz konusu olabilir.\n•   **Tehlike Sorumluluğu (TBK m. 67-68):** Kanunda özel olarak düzenlenmemiş olsa bile, 'önemli ölçüde tehlike arz eden bir işletmenin faaliyetinden doğan zararların tazmini için hakkaniyet gereğince tehlike sorumluluğu uygulanır.' Bu, genel bir tehlike sorumluluğu ilkesi getirerek, modern teknolojinin ve sanayinin yol açtığı riskleri kapsar. Özellikle özel kanunlarda (örneğin, Nükleer Enerji Kanunu, Çevre Kanunu) somutlaştırılır.\n•   **Motorlu Araç İşletenin Sorumluluğu (Karayolları Trafik Kanunu m. 85):** Bu madde uyarınca, 'Motorlu araç işleten bir kimsenin ölümü veya yaralanması ya da bir şeyin zarara uğramasına neden olursa, kusuru olmasa bile sorumlu tutulur.' Bu, kusursuz sorumluluğun en yaygın ve bilinen örneklerinden biridir ve motorlu araçların taşıdığı yüksek tehlike nedeniyle getirilmiştir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Hayvan Sahibinin Sorumluluğu:** Bir kişinin beslediği köpek, parkta gezinirken tasmasından kurtularak yoldan geçen bir çocuğa saldırır ve çocuğun yaralanmasına neden olursa, köpeğin sahibi kendi kusuru olmasa dahi bu zarardan TBK m. 69 uyarınca sorumlu olur. Köpek sahibi, zararı önlemek için tüm özeni gösterdiğini (örneğin, köpeğin tasması sağlamdı, eğitimliydi vb.) kanıtlayamazsa tazminat ödemek zorunda kalır.\n•   **Yapı Malikinin Sorumluluğu:** İnşaat halindeki bir binanın balkonundan düşen bir kalas, yoldan geçen bir araca zarar verirse, binanın maliki (inşaatın sahibi) TBK m. 71 uyarınca kusursuz olarak sorumlu olur. Malikin, binanın yapımında veya denetiminde bir kusuru olup olmadığına bakılmaz; yapının kendisinden kaynaklanan zarardan sorumludur.\n•   **Adam Çalıştıranın Sorumluluğu:** Bir kurye firmasında çalışan dağıtım elemanı, motosikletiyle sipariş götürürken trafik kurallarına uyduğu halde, dikkatsizliği nedeniyle başka bir araca çarparak zarar verirse, kurye firması TBK m. 66 uyarınca bu zarardan kusursuz olarak sorumlu tutulabilir. Firma, kuryeyi işe alırken, eğitim verirken veya denetlerken gerekli tüm özeni gösterdiğini ispatlaması halinde sorumluluktan kurtulabilir.\n•   **Tehlike Sorumluluğu Kapsamında Fabrika Kazası:** Bir kimyasal madde üreten fabrika, üretim esnasında meydana gelen teknik bir arıza nedeniyle çevreye zehirli gaz sızdırır ve bu durum civardaki kişilerin sağlığına zarar verirse, fabrika işletmesi TBK m. 67-68 ve ilgili özel kanunlar uyarınca tehlike sorumluluğu kapsamında kusursuz olarak sorumlu olur. Zararın oluşumunda fabrika yönetiminin doğrudan bir kusuru olmasa bile, tehlikeli faaliyetin kendisinden doğan risk nedeniyle sorumluluk doğar.\n•   **Motorlu Araç İşletenin Sorumluluğu:** Bir taksi şoförü, trafik ışıklarına uyarak ve hız limitini aşmadan seyir halindeyken, yolun karşısına aniden atlayan bir yayaya çarparak yaralanmasına neden olursa, taksi sahibi (işleteni) Karayolları Trafik Kanunu m. 85 uyarınca kusursuz olarak sorumlu tutulur. Taksi işleteni, kazanın mücbir sebepten veya üçüncü kişinin kusurundan kaynaklandığını kanıtlayamadığı sürece tazminat ödemekle yükümlüdür.\n•   **Ürün Sorumluluğu:** Bir gıda üreticisi, ürettiği yoğurdun içerisindeki yabancı bir madde nedeniyle tüketicinin zehirlenmesine yol açarsa, üretici, üretimin her aşamasında azami özeni göstermiş olsa dahi, kusursuz olarak sorumlu tutulur (Özel kanunlarla ve genel hukuk ilkeleriyle belirlenmiş bir sorumluluk türüdür)."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kanuni Düzenleme Şartı:** Kusursuz sorumluluğun uygulanabilmesi için mutlaka kanunda açık bir hükmün bulunması gerekir. Borçlar Hukuku'nda kusursuz sorumluluk, kıyas yoluyla veya genel bir ilke olarak her durumda uygulanamaz; kanunun belirlediği özel hallere özgüdür.\n•   **Kusurun Aranmaması:** Kusursuz sorumlulukta, zarar verenin kusurlu olup olmadığı (kasıt veya ihmal) araştırılmaz. Bu, özellikle ispat yükü açısından büyük kolaylık sağlar ve zarar görenin lehinedir. Zarar görenin yalnızca zararı, olguyu ve illiyet bağını ispat etmesi yeterlidir.\n•   **Kurtuluş Kanıtlarının Sınırlılığı:** Bazı kusursuz sorumluluk hallerinde (örneğin hayvan bulunduranın sorumluluğu, adam çalıştıranın sorumluluğu) kurtuluş kanıtı sunma imkanı varken, bazı hallerde (örneğin yapı malikinin sorumluluğu, tehlike sorumluluğu, KTK'daki işleten sorumluluğu) bu imkan ya çok sınırlıdır ya da sadece mücbir sebep, zarar görenin aşırı kusuru gibi objektif hallerle mümkündür. Kurtuluş kanıtının niteliği, sorumluluk türüne göre değişir.\n•   **İlliyet Bağı Önemli:** Kusursuz sorumlulukta kusur aranmasa da, zararla sorumluluğu doğuran olgu (hayvanın fiili, yapının düşmesi, işletmenin faaliyeti vb.) arasında uygun illiyet bağının bulunması şarttır. İlliyet bağının kesildiği durumlarda (mücbir sebep, zarar görenin veya üçüncü kişinin ağır kusuru gibi), sorumluluk ortadan kalkar.\n•   **Risk İlkesi:** Kusursuz sorumluluğun temelinde çoğu zaman 'risk ilkesi' yatar. Bir faaliyetten veya bir şeyden (hayvan, yapı, tehlikeli işletme) yarar sağlayan veya ondan kaynaklanan riski yaratan kişi, bu riskin gerçekleşmesi sonucunda doğan zararlardan da sorumlu olmalıdır.\n•   **Özel Kanunlardaki Yeri:** Kusursuz sorumluluk, Borçlar Kanunu dışındaki birçok özel kanunda (örn. Karayolları Trafik Kanunu, Çevre Kanunu, Nükleer Enerji Kanunu, Tüketicinin Korunması Hakkında Kanun) da önemli yer tutar. Bu kanunlar, belirli riskli alanlarda daha özel ve ağır sorumluluk rejimleri öngörür."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kavramsal Anlamayı Pekiştirin:** Kusursuz sorumluluğun tanımını, kusurlu sorumluluktan farklarını ve gerekçelerini tam olarak anlayın. Bu, konuyu farklı senaryolara uygulayabilmeniz için temeldir.\n•   **TBK Maddelerini Özümseyin:** Türk Borçlar Kanunu'nda yer alan adam çalıştıranın sorumluluğu (m. 66), hayvan bulunduranın sorumluluğu (m. 69) ve yapı malikinin sorumluluğu (m. 71) gibi temel maddelerin şartlarını, kapsamlarını ve kurtuluş kanıtı imkanlarını detaylıca öğrenin.\n•   **Özel Hukuktaki Örnekleri İnceleyin:** Karayolları Trafik Kanunu'ndaki motorlu araç işletenin sorumluluğu gibi özel kanunlarda yer alan kusursuz sorumluluk hallerini ve bunların özelliklerini bilin. Tehlike sorumluluğu kavramını ve uygulama alanlarını kavrayın.\n•   **Kurtuluş Kanıtlarını Detaylandırın:** Hangi sorumluluk türünde hangi kurtuluş kanıtlarının ileri sürülebileceğini, bunların ispat yükünün kime ait olduğunu ve ne gibi durumların kurtuluş kanıtı olarak kabul edildiğini iyi öğrenin (mücbir sebep, zarar görenin/üçüncü kişinin kusuru vb.).\n•   **Pratik Senaryolar Üzerinden Çalışın:** Verilen olay örneklerini analiz ederek, hangi kusursuz sorumluluk türünün uygulanacağını, sorumluluğun şartlarının olayda bulunup bulunmadığını ve varsa kurtuluş kanıtı imkanlarını değerlendirmeye yönelik problem çözme alıştırmaları yapın.\n•   **İlliyet Bağının Kesilmesi:** İlliyet bağını kesen nedenlerin (mücbir sebep, zarar görenin veya üçüncü kişinin ağır kusuru) sorumluluğa etkisini ve bu durumların pratik örneklerini gözden geçirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi kusursuz sorumluluğun temel özelliklerinden biri değildir?",
+      "options": {
+        "A": "Zarar verenin kusurunun aranmaması",
+        "B": "Sorumluluğun kanundan doğması",
+        "C": "Zarar ile fiil arasında illiyet bağının bulunması",
+        "D": "Zarar verenin kasıtlı veya ihmalli bir davranışının bulunması şartı"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kusursuz sorumlulukta, zarar verenin kasıtlı veya ihmalli bir davranışının bulunması şartı aranmaz. Bu, kusurlu sorumluluğun temel özelliğidir. Kusursuz sorumlulukta önemli olan, kanunda belirlenen hallerde, kusur aranmaksızın zararın tazmin edilmesidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Borçlar Kanunu'na (TBK) göre, aşağıdaki sorumluluk hallerinden hangisinde 'adam çalıştıran', çalıştırdığı kişinin verdiği zarardan sorumluluktan kurtulmak için 'çalıştırdığı kişiyi seçerken, talimat verirken, gözetirken ve denetlerken gerekli özeni gösterdiğini' ispat etmelidir?",
+      "options": {
+        "A": "Hayvan bulunduranın sorumluluğu (TBK m. 69)",
+        "B": "Yapı malikinin sorumluluğu (TBK m. 71)",
+        "C": "Adam çalıştıranın sorumluluğu (TBK m. 66)",
+        "D": "Motorlu araç işletenin sorumluluğu (KTK m. 85)"
+      },
+      "correctAnswer": "C",
+      "explanation": "TBK m. 66, adam çalıştıranın sorumluluğunu düzenler. Bu maddede açıkça belirtildiği üzere, adam çalıştıran, çalıştırdığı kişiyi seçerken, talimat verirken, gözetirken ve denetlerken gerekli özeni gösterdiğini ispat ederek sorumluluktan kurtulabilir. Diğer şıklardaki sorumluluk türleri için farklı kurtuluş kanıtları veya daha ağır sorumluluk şartları geçerlidir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir inşaat firması, yapı denetimlerini eksiksiz yapmasına rağmen, tamamlanan bir binanın dış cephesinden bir parçanın düşerek yoldan geçen bir araca zarar vermesi durumunda, inşaat firması (yapı maliki olarak) hangi sorumluluk türüne göre sorumlu tutulur?",
+      "options": {
+        "A": "Kusurlu sorumluluk",
+        "B": "Sözleşmeden doğan sorumluluk",
+        "C": "Kusursuz sorumluluk (Yapı Malikinin Sorumluluğu)",
+        "D": "Sebepsiz zenginleşme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bu durum, TBK m. 71'de düzenlenen 'Yapı Malikinin Sorumluluğu' kapsamına girer. Bu sorumluluk kusursuzdur; yani yapı malikinin (inşaat firmasının) kendi kusuru olmasa dahi, yapının kötü yapılmasından veya bakımındaki eksikliklerden doğan zarardan sorumlu tutulur. Yapı denetimini eksiksiz yapmış olması, bu sorumluluğu ortadan kaldırmaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisi, kusursuz sorumlulukta illiyet bağını kesen ve dolayısıyla sorumluluğu ortadan kaldıran bir sebep olarak kabul edilmez?",
+      "options": {
+        "A": "Mücbir sebep",
+        "B": "Zarar görenin ağır kusuru",
+        "C": "Üçüncü kişinin ağır kusuru",
+        "D": "Sorumlu kişinin hafif ihmali"
+      },
+      "correctAnswer": "D",
+      "explanation": "İlliyet bağını kesen ve sorumluluğu ortadan kaldıran sebepler genellikle dışsal, öngörülemez ve önlenemez nitelikteki olaylardır (mücbir sebep, üçüncü kişinin ağır kusuru) veya zarar görenin kendi fiilidir (zarar görenin ağır kusuru). Sorumlu kişinin hafif ihmali, kusursuz sorumluluk rejiminde zaten kusur aranmadığı için illiyet bağını kesen bir sebep olarak değerlendirilmez; aksine, bu durum varsa kusurlu sorumluluk da gündeme gelebilir, ancak kusursuz sorumluluğu etkilemez."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir otobüs firmasına ait otobüs, sürücünün tüm kurallara uymasına ve hiçbir kusurunun bulunmamasına rağmen, yolun bozuk olması nedeniyle kaza yapar ve yolculardan biri yaralanır. Karayolları Trafik Kanunu'na göre, otobüs firması (işleten olarak) bu zarardan nasıl sorumlu tutulur?",
+      "options": {
+        "A": "Hiçbir kusuru olmadığı için sorumlu tutulmaz.",
+        "B": "Sadece yolcu ile yapılan sözleşme kapsamında sorumlu tutulur.",
+        "C": "Karayolları Trafik Kanunu'nun öngördüğü kusursuz sorumluluk ilkesine göre sorumlu tutulur.",
+        "D": "Sadece otobüsün bakımsızlığı ispat edilirse sorumlu tutulur."
+      },
+      "correctAnswer": "C",
+      "explanation": "Karayolları Trafik Kanunu m. 85, motorlu araç işletenin kusursuz sorumluluğunu düzenler. Sürücünün kusuru olmasa bile, motorlu aracın işletilmesinden kaynaklanan zararlardan işleten sorumlu tutulur. Bu durumda otobüs firması, yolun bozuk olması gibi bir durumun mücbir sebep teşkil ettiğini kanıtlayamadığı sürece kusursuz sorumluluk ilkesi gereği tazminat ödemekle yükümlüdür."
+    }
+  ]
+}

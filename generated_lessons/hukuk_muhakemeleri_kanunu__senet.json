@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Senet:** Hukuk Muhakemeleri Kanunu'na göre, bir hukuki işlemi veya bir olguyu ispat etmeye yarayan, yazılı metin ve/veya imza içeren belgeye senet denir.\n•   **Resmi Senet:** Kamu görevlileri tarafından kendi görev alanları dâhilinde ve usulüne uygun olarak düzenlenmiş senetlerdir (örn. noter senedi, mahkeme tutanağı). Hukuki işlemin resmi şekilde yapılması zorunlu olan hallerde bu senetler kullanılır.\n•   **Adi Senet:** Resmi senet niteliğinde olmayan, taraflarca el yazısıyla yazılmış ve/veya imzalanmış belgelerdir (örn. el yazısıyla yazılmış bir alacak senedi, kira sözleşmesi).\n•   **İspat Gücü:** Bir senedin, iddia edilen hukuki olayın veya işlemin varlığını ne ölçüde kanıtlayabildiğini ifade eder. Resmi senetler kesin ispat gücüne sahipken, adi senetlerin ispat gücü bazı hallerde sınırlıdır.\n•   **İmza İnkarı:** Bir tarafın, kendisine ait olduğu iddia edilen bir belgedeki imzanın kendi imzası olmadığını ileri sürmesidir. Bu durum, senedin ispat gücünü doğrudan etkiler ve inceleme gerektirir.\n•   **Sahtelik İddiası:** Bir senedin maddi gerçeği yansıtmadığı, üzerinde tahrifat yapıldığı veya baştan itibaren gerçeğe aykırı düzenlendiği yönündeki iddiadır. Sahtelik iddiası, senedin delil değerini tamamen ortadan kaldırabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Belgeler ve Senetler (HMK m. 199):** Kanunda açıkça belirtilen haller dışında, her türlü belge delil olarak kullanılabilir. Bu belgeler mahkemeye sunulmalı ve taraflarca incelenmelidir.\n•   **Senetle İspat Zorunluluğu (HMK m. 200):** Belirli bir değerin üzerindeki hukuki işlemlerin (HMK m. 200/1'de belirlenen miktar ve üzeri) senede bağlanması zorunludur. Aksi takdirde tanıkla ispat mümkün değildir.\n•   **Senetle İspat Zorunluluğunun İstisnaları (HMK m. 201):** Bazı durumlarda senetle ispat zorunluluğu aranmaz. Bunlar; hukuki işlemin niteliği gereği, akrabalık ilişkisi, fiili imkansızlık veya başlangıç delili bulunması gibi hallerdir.\n•   **Resmi Senetlerin İspat Gücü (HMK m. 204-205):** Resmi senetler, içeriğinin doğru olduğunu ispat açısından kesin delil niteliğindedir. Sahteliği kanıtlanıncaya kadar geçerli sayılır. Resmiyeti kaldıran haller kanunda belirtilmiştir.\n•   **Adi Senetlerin İspat Gücü (HMK m. 206):** Adi senetler, tarafların ikrar etmesi veya kanunda belirlenen diğer hallerde, aleyhlerine düzenlendiği kişiye karşı kesin delil niteliği taşır. İmza inkarı halinde imza incelemesi yapılır.\n•   **Senetlerin İbrazı ve Saklanması (HMK m. 210, 219):** Taraflar, iddialarını ispat etmek için ellerindeki belgeleri mahkemeye ibraz etmek zorundadır. Mahkeme, delil olarak sunulan senetlerin aslını ister ve inceleme sonrası iade edebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Alacak Davasında Adi Senet):** A, B'ye 100.000 TL borç verdiğini ve bu borcun el yazılı bir senetle (adi senet) belgelendiğini iddia ediyor. B, senedin altındaki imzanın kendisine ait olmadığını (imza inkarı) ileri sürerse, mahkeme bilirkişi incelemesiyle imzanın kime ait olduğunu tespit edecektir.\n•   **Örnek 2 (Resmi Senet ve Kesin İspat):** X, Y'ye ait bir taşınmazı noter huzurunda yapılan bir satış vaadi sözleşmesiyle satın alma taahhüdünde bulunmuştur. Y daha sonra bu taahhüdünden dönmek isterse, noter senedi (resmi senet) kesin delil niteliği taşıyacağından X'in davasını kazanma ihtimali çok yüksektir.\n•   **Örnek 3 (Senetle İspat Zorunluluğu İstisnası):** C, D'ye 250.000 TL borç verdiğini iddia etmektedir. Normalde bu miktar için senetle ispat zorunludur. Ancak C ile D'nin çok yakın akraba olması ve aralarındaki güven ilişkisi nedeniyle senet düzenlenmemesi, tanık deliliyle ispat imkanı sağlayabilir (HMK m. 201).\n•   **Örnek 4 (Tahrifat İddiası):** E'nin F'ye yazdığı 50.000 TL'lik borç senedinde, senedin ibrazından önce 50.000 TL'nin '150.000 TL' olarak değiştirildiği iddia edilirse (sahtelik), mahkeme tahrifat olup olmadığını kriminal laboratuvar incelemesiyle tespit edecektir.\n•   **Örnek 5 (Açık Senet ve Kötüye Kullanım):** G, H'ye 'açık senet' olarak adlandırılan, borç miktarının boş bırakıldığı bir senet vermiştir. H, bu senedi anlaşılandan daha yüksek bir miktar yazarak doldurup icraya koyarsa, G, senedin anlaşmaya aykırı doldurulduğunu ispat ederek senedin geçerliliğine itiraz edebilir (HMK m. 202).\n•   **Örnek 6 (Elektronik Belge):** Bir şirket, diğer bir şirketle yaptığı sözleşmeyi elektronik imza ile imzalamış ve elektronik ortamda saklamıştır. Bu elektronik belge, 5070 sayılı Elektronik İmza Kanunu'na uygun olarak düzenlenmişse, HMK anlamında bir senet gibi kesin delil niteliği taşıyabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Senedin Aslının İbrazı:** Mahkemede senetle ispatın sağlanabilmesi için senedin aslının mahkemeye sunulması esastır. Fotokopi veya dijital suretler, aslının ibrazı istenmedikçe tek başına ispat gücüne sahip değildir.\n•   **İmza İnkarı ve Süresi:** İmza inkarı, belgenin içeriği hakkında bir beyanda bulunulmadan önce, ilk itiraz olarak açıkça ve kesin bir şekilde ileri sürülmelidir. Aksi halde imza ikrar edilmiş sayılabilir.\n•   **Senetle İspat Sınırının Değişkenliği:** HMK m. 200'deki senetle ispat zorunluluğu sınırı her yıl güncellenen kanuni bir miktardır. Bu miktarın takip edilmesi önemlidir.\n•   **Senetle İspat İstisnalarının Uygulama Alanı:** HMK m. 201'deki istisnalar (yakın hısımlık, fiili imkansızlık vb.), tanık dinlenmesini mümkün kılsa da, bu durum her zaman ispatın tanıkla sağlanacağı anlamına gelmez; tanık beyanının inandırıcı olması gerekir.\n•   **Elektronik İmzanın Değeri:** Nitelikli elektronik imza ile imzalanmış belgeler, ıslak imzalı adi senetler gibi delil niteliğine sahiptir ve sahteliği ispat edilinceye kadar geçerlidir.\n•   **Senet Üzerindeki Yorum ve Tamamlama:** Bir senedin içeriğindeki belirsizlikler veya boşluklar, tarafların gerçek iradeleri göz önünde bulundurularak yorumlanır. Ancak, HMK m. 202 uyarınca açık senedin anlaşmaya aykırı doldurulduğu iddiası tanıkla ispat edilebilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kavramsal Farklar:** Resmi senet ve adi senet arasındaki temel farkları, ispat gücü ve düzenlenme şekilleri açısından iyi kavramalısınız.\n•   **HMK Maddelerine Hakimiyet:** HMK m. 199, 200, 201, 204, 205, 206 gibi senetlerle ilgili temel maddelerin içeriğini ve uygulama alanlarını bilmelisiniz.\n•   **İspat Zorunluluğu ve İstisnaları:** HMK m. 200 ve 201'deki senetle ispat zorunluluğu kuralını ve istisnalarını (başlangıç delili, fiili imkansızlık, hısımlık vb.) örneklerle pekiştirin.\n•   **İmza İnkarı ve Sahtelik:** İmza inkarı ve sahtelik iddiası durumlarında yargılama sürecinin nasıl işlediğini, hangi delillerin kullanıldığını (bilirkişi incelemesi) ve sonuçlarını öğrenin.\n•   **Pratik Uygulamalar:** Verilen vaka örnekleri üzerinden hangi senedin kullanılacağını, ispat gücünü ve olası itirazları analiz etme becerisi geliştirin. Özellikle miktar sınırına dikkat edin.\n•   **Güncel Mevzuat:** HMK'daki senetle ispat zorunluluğu miktarının güncel durumunu ve elektronik belgelerle ilgili yasal düzenlemeleri takip edin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Hukuk Muhakemeleri Kanunu'na göre senetle ispat zorunluluğunun istisnalarından biri DEĞİLDİR?",
+      "options": {
+        "A": "Senedin düzenlenmesinin fiilen imkânsız olması.",
+        "B": "Hukuki işlemin yakın akrabalar arasında yapılmış olması.",
+        "C": "Hukuki işlem bedelinin HMK m. 200'de belirtilen sınırı aşması.",
+        "D": "İddia edilen hukuki olayın bir başlangıç delili ile desteklenmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 200'e göre, hukuki işlem bedelinin kanunda belirtilen sınırı aşması durumunda senetle ispat zorunluluğu doğar. Bu durum bir istisna değil, kuralın kendisidir. Diğer seçenekler HMK m. 201'de belirtilen istisnalardır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir adi senedin altındaki imzanın kendisine ait olmadığını iddia eden davalı için aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Davacı, imzanın davalıya ait olduğunu başka bir belgeyle ispat etmek zorundadır.",
+        "B": "Davalı, imzanın kendisine ait olmadığını sadece tanık beyanıyla ispat edebilir.",
+        "C": "İmza inkarı üzerine mahkeme, bilirkişi incelemesi yaptırarak imzanın kime ait olduğunu tespit eder.",
+        "D": "İmza inkar edildiği anda senet delil olmaktan çıkar ve hükme esas alınmaz."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 211'e göre, imza inkarı üzerine mahkeme, imzanın kime ait olduğunu tespit etmek için bilirkişi incelemesi de dahil olmak üzere gerekli araştırmaları yapar. İnkar üzerine senet hemen delil olmaktan çıkmaz."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Resmi senetler ile adi senetler arasındaki temel farklardan biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Resmi senetler her zaman el yazısıyla düzenlenmek zorundayken, adi senetler daktilo ile yazılabilir.",
+        "B": "Resmi senetler kamu görevlisi tarafından düzenlenirken, adi senetler taraflarca düzenlenir.",
+        "C": "Adi senetler ispat gücüne sahip değilken, resmi senetler her zaman kesin ispat gücüne sahiptir.",
+        "D": "Resmi senetlerde tahrifat iddiası ileri sürülemezken, adi senetlerde ileri sürülebilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Resmi senetler, kamu görevlileri (örn. noter, mahkeme katibi) tarafından usulüne uygun olarak düzenlenirken, adi senetler tarafların kendi aralarında düzenlediği belgelerdir. Resmi senetlerin her zaman el yazısı olması zorunlu değildir, adi senetlerin de ispat gücü vardır ve her ikisinde de tahrifat iddiası ileri sürülebilir. Resmi senetler sahteliği ispat edilinceye kadar kesin delildir (HMK m. 204-205)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir alacak senedinde borç miktarının sonradan anlaşmaya aykırı olarak doldurulduğu iddiası, Hukuk Muhakemeleri Kanunu'na göre hangi delille ispat edilebilir?",
+      "options": {
+        "A": "Sadece yazılı delille ispat edilebilir.",
+        "B": "Sadece yemin delili ile ispat edilebilir.",
+        "C": "Her türlü delille, hatta tanıkla dahi ispat edilebilir.",
+        "D": "Bu tür bir iddia hiçbir delille ispat edilemez, senet geçerlidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 202'ye göre, senedin anlaşmaya aykırı doldurulduğu iddiası, her türlü delille, yani tanık dâhil her ispat aracıyla ileri sürülebilir. Bu, senetle ispat zorunluluğunun önemli bir istisnasıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki durumlardan hangisinde bir elektronik belgenin HMK anlamında 'senet' niteliği taşıması söz konusu olabilir?",
+      "options": {
+        "A": "Sadece basılı çıktısı alındığında.",
+        "B": "İçeriğinde imza bulunmasa bile e-posta yoluyla gönderildiğinde.",
+        "C": "5070 sayılı Elektronik İmza Kanunu'na uygun nitelikli elektronik imza ile imzalandığında.",
+        "D": "Bir tarafın beyanı ile elektronik ortamda düzenlendiğinde, diğer tarafın onayı olmasa dahi."
+      },
+      "correctAnswer": "C",
+      "explanation": "5070 sayılı Elektronik İmza Kanunu'na uygun olarak güvenli elektronik imza ile oluşturulan elektronik belgeler, HMK anlamında yazılı delil niteliği taşır ve ispat gücü adi senetlerle eşdeğerdir (HMK m. 205/2, Kanun No. 5070 m. 5). Diğer seçenekler genellikle senedin gerektirdiği güvenilirliği ve ispat gücünü sağlamaz."
+    }
+  ]
+}

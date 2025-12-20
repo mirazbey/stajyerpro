@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tapu Sicili Nedir?**: Taşınmazlar üzerindeki ayni hakları (mülkiyet, ipotek, irtifak hakları vb.) ve bunlarla ilgili kişisel hakları (kira, satış vaadi gibi şerh edilebilen haklar) göstermek üzere devlet tarafından usulüne uygun olarak tutulan resmi defter ve belgeler bütünüdür. Amacı, taşınmaz üzerindeki hakların durumunu herkese açık, güvenilir ve şeffaf bir şekilde ortaya koymaktır.\n•   **Taşınmaz (Gayrimenkul) Nedir?**: Türk Medeni Kanunu'na göre taşınmazlar; arazi, tapu kütüğünde ayrı sayfaya kaydedilen bağımsız ve sürekli haklar ile kat mülkiyeti kütüğüne kaydedilen bağımsız bölümlerdir. Taşınmaz mülkiyetinin kazanılması, devredilmesi ve üzerinde sınırlı ayni hakların kurulması tapu siciline tescil ile gerçekleşir.\n•   **Ayni Haklar ve Kişisel Haklar**: Ayni haklar, eşya üzerinde doğrudan doğruya hakimiyet sağlayan ve herkese karşı ileri sürülebilen mutlak haklardır (örn. mülkiyet hakkı). Kişisel haklar ise sadece taraflar arasında ileri sürülebilen nispi haklardır (örn. kira hakkı). Bazı kişisel haklar (satış vaadi, şufa hakkı gibi) tapu siciline şerh edilerek ayni etki kazanabilir veya üçüncü kişilere karşı ileri sürülebilir hale gelir.\n•   **Tapu Sicilinin Temel İlkeleri**: Tapu sicilinin işleyişini düzenleyen ve güvenilirliğini sağlayan ilkeler vardır: **Aleniyet ilkesi** (sicilin herkese açık olması), **Tescil ilkesi** (ayni hakların doğumu, devri, sona ermesi için tescil şartı), **Mücerretlik ilkesi** (tescilin geçerliliği, dayandığı hukuki sebebin geçerliliğinden bağımsız olabilir), **Güven ilkesi** (sicildeki kayda iyiniyetle güvenen üçüncü kişilerin korunması), **Sebep ilkesi** (tescilin geçerli bir hukuki sebebe dayanması). Özellikle aleniyet ve güven ilkeleri, tapu sicilinin toplumsal önemini vurgular.\n•   **Tescil, Şerh ve Beyan**: Bu kavramlar tapu sicilinde farklı hukuki sonuçlar doğurur. **Tescil**, ayni hakların kurulması, devri veya sona ermesidir (örn. mülkiyetin tescili). **Şerh**, kanunda açıkça belirtilen bazı kişisel hakların (örn. satış vaadi, kira) veya hukuki durumların (örn. tasarruf yetkisi kısıtlaması) üçüncü kişilere karşı ileri sürülebilmesini sağlayan kayıtlardır. **Beyan**, bir taşınmazın hukuki durumuyla ilgili bilgi verici nitelikteki açıklamalardır (örn. kat irtifakı kurulu olması, taşınmazın niteliği)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Medeni Kanunu (TMK) Madde 997**: Tapu sicilinin tutulması, ilgili hükümler ve Tapu Sicili Tüzüğü'ne atıf yapar. Tapu sicilinin devlet tarafından tutulacağı ve hukuki niteliği bu madde ile belirlenir.\n•   **TMK Madde 1007 (Tapu Siciline Güven İlkesi)**: Tapu sicilindeki tescil, yolsuz olsa bile, bu tescile iyiniyetle dayanarak bir ayni hak kazanan üçüncü kişinin bu kazanımı korunur. Bu madde, tapu sicilinin en önemli ilkelerinden olan güven ilkesini düzenler. Sicil kayıtları, aksinin ispatı mümkün olsa dahi doğru kabul edilir.\n•   **TMK Madde 1023 (Tescilin Hukuki Etkileri)**: Bu madde, tapu siciline yapılan tescilin hukuki etkilerini, özellikle de yolsuz tescilin sonuçlarını ve iyiniyetli üçüncü kişilerin kazanımlarını ele alır. Yolsuz tescil, gerçek hak sahibi olmayan bir kişinin sicile malik olarak kaydedilmesi durumudur. Bu durumda, iyiniyetli üçüncü kişi, sicildeki kayda güvenerek hak edinirse, bu hakkı korunur.\n•   **Tapu Sicili Tüzüğü**: Türk Medeni Kanunu'nda yer alan genel esasların uygulamaya yansımasını düzenleyen ayrıntılı bir mevzuattır. Tapu ve Kadastro Genel Müdürlüğü'nün görevleri, tapu işlemlerinin usul ve esasları, belgelerin düzenlenmesi gibi konularda yol göstericidir.\n•   **Tescil Prosedürü ve Şekil Şartı**: Taşınmazlara ilişkin ayni hakların kurulması ve devri için tapu siciline tescil edilmesi gerekir (TMK 705). Tescil işlemi, yetkili tapu memuru huzurunda resmi senet düzenlenmesi veya kanunda öngörülen diğer resmi belgelerle yapılır (TMK 706). Bu, taşınmaz devirlerinde sıkça karşılaşılan ve uyulması zorunlu olan bir resmi şekil şartıdır.\n•   **Terkin ve Tadil (Düzeltme)**: Tapu sicilindeki bir hakkın sona ermesi veya değişmesi durumunda, ilgili kaydın sicilden silinmesine **terkin** denir (örn. ipoteğin kaldırılması). Sicildeki bir kaydın içeriğinde yapılan değişikliğe ise **tadil** denir (örn. yüzölçümü hatasının düzeltilmesi). Yolsuz tescillerin düzeltilmesi ise genellikle mahkeme kararı ile gerçekleşir (Tapu İptali ve Tescil Davası)."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Taşınmaz Satışı ve Tescil Süreci**: Ahmet, Burak'tan bir daire satın almak ister. Taraflar anlaşır ve tapu müdürlüğüne başvurur. Gerekli belgeler (kimlik, tapu senedi, emlak beyanı vb.) hazırlanır, harçlar ödenir. Tapu memuru huzurunda resmi satış senedi imzalanır ve dairenin mülkiyeti Ahmet adına tapu siciline tescil edilir. Bu tescil ile Ahmet mülkiyet hakkını kazanır.\n•   **İpotek Tesis Edilmesi**: Cem, ev satın almak için bankadan kredi çeker. Banka, Cem'in aldığı ev üzerinde ipotek tesis edilmesini şart koşar. Tapu müdürlüğüne başvurularak, banka lehine, belirli bir miktar için ipotek hakkı tapu siciline tescil edilir. Böylece banka, alacağını güvence altına almış olur ve bu ipotek kaydı herkesçe görülebilir hale gelir.\n•   **Geçit Hakkı Kurulması**: Deniz'in tarlasına ulaşmak için komşusu Elif'in arazisinden geçmesi gerekmektedir. Taraflar anlaşarak, Deniz lehine Elif'in arazisi üzerinde bir geçit hakkı kurulması için tapuya başvurur. Bu geçit hakkı, irtifak hakkı olarak tapu siciline tescil edilir. Bu tescil, Elif'in arazisini satın alacak üçüncü kişilere karşı da Deniz'in hakkını korur.\n•   **Tapu Sicilinde Hata ve Düzeltme Davası**: Faruk, tapu senedindeki parsel numarasının hatalı olduğunu fark eder (örn. 123 yerine 132 yazılmış). Bu bir maddi hata olup sicildeki kaydın gerçek durumu yansıtmamasını ifade eder. Faruk, Tapu ve Kadastro Genel Müdürlüğü'ne başvurabilir veya hatanın düzeltilmesi için mahkemede 'tapu kaydının düzeltilmesi' davası açabilir. Mahkeme kararı ile sicil düzeltilir.\n•   **Satış Vaadi Sözleşmesinin Şerhi**: Gizem, arsasını Hasan'a satmayı vaat eder ve bu vaadi noter huzurunda bir sözleşmeyle yapar. Hasan, bu satış vaadi sözleşmesinin tapu siciline şerh edilmesini talep eder. Şerh işlemi yapıldığında, Gizem daha sonra arsayı üçüncü bir kişiye satamaz; satsa bile Hasan şerhe dayanarak mülkiyetin kendi adına tescilini isteyebilir. Şerh, Hasan'ın kişisel hakkını güçlendirir.\n•   **Yolsuz Tescile Dayalı İyiniyetli Kazanım**: Bir tapu maliki Ayşe, arsasını vekaletnamesi sahte olan bir kişi tarafından Berna'ya satılmış gibi görünse bile, eğer Berna tapu sicilindeki kayda iyiniyetle güvenerek arsayı satın almış ve kendi adına tescil ettirmişse, Berna'nın mülkiyet hakkı TMK 1023 uyarınca korunur. Gerçek malik Ayşe, arsasını Berna'dan geri isteyemez ancak zararı için sahtecilik yapan kişiye karşı dava açabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Tapu Sicilinin Mutlak Güven İlkesinin İstisnaları**: TMK 1023'teki iyiniyetli kazanım ilkesi çok güçlüdür, ancak bazı durumlarda bu ilke uygulanmaz. Örneğin, tescilin dayandığı hukuki sebep (örn. satış sözleşmesi) mutlak butlanla sakatsa (örn. resmi şekil şartına uyulmamışsa) veya sicildeki yolsuzluğun açıkça biliniyor veya bilinmesi gerekiyor olması durumunda iyiniyet korunmaz. Sahte vekaletname ile yapılan işlemler de Yargıtay'ın istikrarlı kararlarıyla genellikle iyiniyetin korunmadığı durumlar olarak değerlendirilir.\n•   **Tescil Öncesi Detaylı Araştırma**: Taşınmaz alım-satımında veya üzerinde hak tesis edilmeden önce tapu sicilindeki kaydın dikkatlice incelenmesi çok önemlidir. Taşınmaz üzerinde ipotek, haciz, şerhler (meskeniyet şerhi, ihtiyati tedbir, satış vaadi, vefa hakkı vb.) veya diğer kısıtlayıcı beyanlar olup olmadığı kontrol edilmelidir. Ayrıca, belediye ve kadastro müdürlüklerinden imar durumu, ruhsat ve güncel kroki bilgileri edinilmelidir.\n•   **Resmi Şekil Şartının Önemi**: Taşınmaz mülkiyetinin devri ve taşınmaz üzerinde ayni hakların kurulması için resmi senetle ve tapu siciline tescil suretiyle yapılması zorunludur (TMK 706). Bu şekil şartına uyulmaması, yapılan sözleşmeyi kesin hükümsüz (mutlak butlan) kılar ve hukuki sonuç doğurmaz. Gayrimenkul satış vaadi sözleşmeleri ise noterde düzenlenmelidir.\n•   **Kadastro ve Tapu Sicili İlişkisi**: Kadastro, taşınmazların hukuki ve geometrik durumlarının tespit edildiği bir süreçtir. Kadastro kayıtları, tapu sicilinin temelini oluşturur. Kadastro güncelleme ve yenileme çalışmaları, tapu sicilinin güncel ve doğru kalması açısından kritik öneme sahiptir. Kadastroda yapılan hatalar, tapu siciline de yansıyabilir ve düzeltme davalarına konu olabilir.\n•   **Harçlar ve Vergiler**: Tapu işlemlerinden (alım-satım, ipotek tesisi, miras intikali vb.) kanunen belirlenmiş oranlarda tapu harcı ve vergiler alınır. Bu mali yükümlülüklerin zamanında ve eksiksiz yerine getirilmesi, işlemin tamamlanması için zorunludur. Aksi takdirde işlem gerçekleşmez veya sonradan cezalı ödemelerle karşılaşılabilir.\n•   **Vekaletname ile İşlem Yapma**: Taşınmaz devri gibi önemli işlemler vekaletname ile de yapılabilir. Ancak vekaletnamenin kapsamının açıkça belirtilmesi, özel yetki içermesi ve noterden düzenlenmiş olması gerekir. Vekaletnamenin sahteliği veya vekilin vekalet sınırlarını aşması durumlarında ciddi hukuki sorunlar ortaya çıkabilir ve sicile güven ilkesinin uygulanıp uygulanmayacağı tartışma konusu olabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel İlkeleri Kavrayın**: Tapu sicilinin aleniyet, tescil, mücerretlik, güven ve sebep ilkelerini tanımlarını, amaçlarını ve birbirleriyle ilişkilerini iyi anlayın. Özellikle 'güven ilkesi' ve bunun istisnaları sıkça soru konusu olabilir.\n•   **Türk Medeni Kanunu'ndaki İlgili Maddeler**: TMK Madde 997, 1007, 1023 ve 705-706 gibi anahtar maddelerin içeriğini ve hukuki sonuçlarını ezberleyin. Hangi maddelerin hangi ilkeyi veya durumu düzenlediğini bilin.\n•   **Anahtar Kavramlara Hakim Olun**: Tescil, şerh, beyan, terkin, tadil, ayni hak, kişisel hak, iyiniyet, yolsuz tescil gibi kavramların tanımlarını ve aralarındaki farkları net bir şekilde öğrenin. Bu terimleri bir vaka içerisinde doğru analiz edebilmek önemlidir.\n•   **Olay Sorularına Yönelik Çalışma**: Tapu sicili konusu, genellikle pratik olaylara dayalı (vaka) sorular şeklinde karşınıza çıkacaktır. Verilen bir senaryoda (örn. sahte vekaletname, yanlış tescil, iyiniyetli üçüncü kişi) hangi ilkenin veya kanun maddesinin uygulanacağını, hukuki sonucun ne olacağını ve kimin haklı olacağını analiz etme becerisi geliştirin.\n•   **Yargıtay İçtihatları ve Doktrin Görüşleri**: Sık karşılaşılan ihtilaflarda Yargıtay'ın yerleşik içtihatlarının ve doktrindeki genel kabul gören görüşlerin ana hatlarını bilmek, özellikle güven ilkesinin istisnaları ve yolsuz tescilin sonuçları konularında size yardımcı olacaktır.\n•   **Karşılaştırmalı Analiz Yapın**: Tescil ile şerh arasındaki farklar, ayni haklarla kişisel haklar arasındaki farklar, kadastro ile tapu sicili arasındaki ilişki gibi konularda karşılaştırmalı düşünme yeteneğinizi geliştirin. Bu, konuları daha derinlemesine anlamanıza yardımcı olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi tapu sicilinin temel ilkelerinden biri *değildir*?",
+      "options": {
+        "A": "Aleniyet İlkesi",
+        "B": "Tescil İlkesi",
+        "C": "Sınırlı Sorumluluk İlkesi",
+        "D": "Güven İlkesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tapu sicilinin temel ilkeleri arasında Aleniyet, Tescil, Güven, Mücerretlik ve Sebep ilkeleri yer alır. Sınırlı Sorumluluk İlkesi, Tapu Sicili Hukuku'nun temel ilkelerinden biri değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Medeni Kanunu'na göre, taşınmaz üzerindeki bir ayni hakkın kurulması, devri veya sona ermesi genellikle ne ile gerçekleşir?",
+      "options": {
+        "A": "Noter tasdikli sözleşme",
+        "B": "Adi yazılı sözleşme",
+        "C": "Tapu siciline tescil",
+        "D": "Sözlü anlaşma"
+      },
+      "correctAnswer": "C",
+      "explanation": "TMK Madde 705 uyarınca, taşınmaz mülkiyetinin kazanılması, tescil ile olur. Taşınmazlar üzerindeki ayni hakların kurulması ve devri de genellikle tapu siciline tescil ile mümkündür."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Tapu sicilindeki bir tescile iyiniyetle dayanarak bir ayni hak kazanan üçüncü kişinin bu kazanımının korunmasını öngören Türk Medeni Kanunu maddesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "TMK Madde 705",
+        "B": "TMK Madde 997",
+        "C": "TMK Madde 1023",
+        "D": "TMK Madde 1007"
+      },
+      "correctAnswer": "C",
+      "explanation": "TMK Madde 1023, 'Tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet veya diğer bir ayni hak kazanan üçüncü kişinin bu kazanımı korunur' hükmüyle tapu siciline güven ilkesinin temelini oluşturur. TMK 1007 ise devletin sorumluluğunu düzenler."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisinde tapu siciline şerh edilmesi durumunda bir kişisel hak güçlendirilerek üçüncü kişilere karşı ileri sürülebilir hale gelir?",
+      "options": {
+        "A": "Mülkiyet hakkı",
+        "B": "İpotek hakkı",
+        "C": "Satış vaadi sözleşmesi",
+        "D": "İrtifak hakkı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Satış vaadi sözleşmesi bir kişisel haktır. Tapu siciline şerh edildiğinde, bu hak güçlenir ve taşınmazın üçüncü kişilere devredilmesi halinde dahi ileri sürülebilir. Mülkiyet, ipotek ve irtifak hakları ise ayni haklar olup tescil ile kurulurlar."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ahmet, Ayşe'den bir taşınmaz satın alır ve mülkiyetini kendi adına tapu siciline tescil ettirir. Daha sonra Ayşe'nin aslında taşınmazın maliki olmadığı, sicile yolsuz olarak kaydedildiği ortaya çıkar. Eğer Ahmet bu durumu bilmeden ve bilebilecek durumda olmadan iyiniyetle hareket etmişse, Ahmet'in durumu için aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ahmet mülkiyeti kazanamaz, taşınmaz gerçek malikine döner.",
+        "B": "Ahmet'in kazanımı korunur ve taşınmazın maliki olmaya devam eder.",
+        "C": "Ahmet ancak taşınmazın değerini gerçek malikine ödeyerek malik kalabilir.",
+        "D": "Ahmet ve Ayşe arasında yeni bir sözleşme yapılması gerekir."
+      },
+      "correctAnswer": "B",
+      "explanation": "TMK Madde 1023 uyarınca, tapu sicilindeki tescile iyiniyetle dayanarak bir ayni hak kazanan üçüncü kişinin (Ahmet) bu kazanımı korunur. Bu durumda Ahmet taşınmazın maliki olmaya devam eder, gerçek malikin zararı ise yolsuz tescile sebep olan kişiden tazmin edilir."
+    }
+  ]
+}

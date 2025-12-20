@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•  **İdari Yargı ve Özellikleri:** İdarenin hukuka uygunluğunu denetleyen bağımsız yargı koludur. Kamu hukuku niteliğindeki uyuşmazlıklara bakar, genel yargıdan ayrı uzmanlık gerektirir.\n•  **İdari Dava Türleri:** İdari Yargılama Usulü Kanunu (İYUK) uyarınca başlıca iki tür dava vardır: İptal Davası ve Tam Yargı Davası.\n•  **İptal Davası:** İdari işlemlerin hukuka aykırılığı nedeniyle iptali istemiyle açılan davadır. Amacı idari işlemin hukuka uygunluğunu sağlamak ve idari hukuka aykırılığı gidermektir. Objektif niteliktedir.\n•  **Tam Yargı Davası (Tazminat Davası):** İdari işlem veya eylemlerden dolayı kişisel hakları ihlal edilenler tarafından açılan, uğradıkları zararların tazminini amaçlayan davadır. Sübjektif niteliktedir.\n•  **Yürütmenin Durdurulması:** İdari işlemin uygulanması halinde telafisi güç veya imkansız zararlar doğacak olması ve işlemin açıkça hukuka aykırı bulunması şartlarının birlikte gerçekleşmesi halinde, mahkemece dava sonuna kadar işlemin yürütülmesinin durdurulması kararıdır.\n•  **Dava Ehliyeti ve Dava Şartları:** Dava açabilmek için kişilerin belli bir hukuki menfaat ihlaline uğraması (menfaat ihlali), dava ehliyetine sahip olması ve kanunda öngörülen dava açma sürelerine uyulması gibi şartların bulunması gerekir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•  **İYUK'un Amacı ve Kapsamı (İYUK m.1):** İdarenin her türlü eylem ve işlemlerine karşı açılacak davaları ve bu davaların tabi olacağı yargılama usulünü düzenler.\n•  **İdari Dava Türleri ve Özellikleri (İYUK m.2):** İptal davaları (idari işlemler hakkında), tam yargı davaları (idari eylem ve işlemlerden dolayı kişisel hakları ihlal edilenler tarafından açılan tazminat davaları) ve idari sözleşmelerden doğan davalar olmak üzere idari dava türleri belirlenmiştir.\n•  **Dava Açma Süreleri (İYUK m.7, m.12):** İptal ve tam yargı davaları için genel dava açma süresi altmış gündür. Vergi mahkemelerinde otuz gündür. Bu süreler hak düşürücü niteliktedir ve idari uyuşmazlığın taraflarına veya ilgililere tebliğinden itibaren başlar. İdari makamlara başvuru halinde süreler (İYUK m.11) yeniden işlemeye başlar.\n•  **Yürütmenin Durdurulması Şartları ve Usulü (İYUK m.27):** Yürütmenin durdurulması kararının verilebilmesi için idari işlemin açıkça hukuka aykırı olması ve uygulanması halinde telafisi güç veya imkansız zararların doğacak olması şartları aranır. Karar teminat karşılığında verilebilir.\n•  **Dava Dilekçesinin Şekil Şartları ve İçeriği (İYUK m.3):** Davacı ve davalı idarenin ad ve adresleri, davanın konusu, hukuki sebep ve deliller, davanın türü gibi zorunlu unsurları içerir.\n•  **Dilekçeler Üzerinde İlk İnceleme ve Sonuçları (İYUK m.14, m.15):** Mahkeme, dava dilekçesinin İYUK m.3 ve m.5'e uygun olup olmadığını, görev ve yetki, süre, ehliyet, idari merci tecavüzü, husumet gibi dava şartlarını inceler. Eksiklik varsa tamamlanması istenir, aksi halde dilekçenin reddine veya davanın reddine karar verilebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•  **Memur Ataması İptal Davası:** Bir üniversitenin, sınavda başarılı olmasına rağmen haksız yere atamasını yapmadığı iddiasıyla açtığı iptal davası. Bu durumda mahkeme, atama işleminin hukuka uygunluğunu denetler.\n•  **Kamulaştırma Bedelinin Artırılması Talebi (Tam Yargı):** Kamulaştırma kararı hukuka uygun olmakla birlikte, belirlenen bedelin düşük olduğu iddiasıyla malikin açtığı kamulaştırma bedelinin artırılması ve ek tazminat davası.\n•  **İmar Planı İptali ve Yürütmenin Durdurulması:** Belediyenin yaptığı yeni bir imar planının, çevreye veya mülkiyet haklarına aykırı olduğunu düşünen bir vatandaşın, planın iptali ve uygulanmasının önlenmesi için yürütmenin durdurulması istemli dava açması.\n•  **İdari Para Cezasına İtiraz:** Bir işletmeye kesilen idari para cezasının hukuka aykırı olduğu iddiasıyla açılan iptal davası. Mahkeme, para cezasının dayanağı olan idari işlemin ve cezanın kendisinin hukuka uygunluğunu inceler.\n•  **Süre Aşımı Nedeniyle Davanın Reddi:** Kamu İhale Kurumu'nun bir kararının ilgilisine tebliğ edilmesinden itibaren 60 günlük dava açma süresi içinde dava açılmaması halinde, mahkemenin süre aşımı nedeniyle davayı reddetmesi.\n•  **İdari Merci Tecavüzü:** İdari işlemin tesis edilmesi gereken makam yerine başka bir makam tarafından tesis edilmesi veya dava açılmadan önce idari başvuru zorunluluğu olan durumlarda bu başvurunun yapılmaması nedeniyle davanın reddedilmesi."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•  **Hak Düşürücü Süreler:** İdari yargıda dava açma süreleri, kamu düzeninden olup hak düşürücü niteliktedir. Mahkeme bu sürelere uyulup uyulmadığını resen inceler ve süre aşımı durumunda davayı esastan incelemeden reddeder.\n•  **Menfaat İhlali Şartının Önemi:** İptal davası açabilmek için, davacının dava konusu idari işlemden kişisel, meşru ve güncel bir menfaatinin ihlal edilmiş olması gerekir. Bu şart, dava ehliyetinin bir parçasıdır.\n•  **İdari İşlem / İdari Eylem Ayrımı:** İptal davaları idari işlemlerin hukuka aykırılığını hedef alırken, tam yargı davaları idari eylem veya işlemlerden doğan zararların tazminini konu alır. Bu ayrım dava türünün doğru seçilmesi için kritiktir.\n•  **Dilekçe Ret Nedenleri:** İYUK m.3 (Dilekçelerde bulunması gereken hususlar) ve m.5 (Dilekçelerin verileceği yerler) maddelerine aykırılıklar (imza eksikliği, adres eksikliği, harç eksikliği vb.) mahkemece dilekçenin reddine neden olabilir. Reddedilen dilekçenin 30 gün içinde düzeltilerek yeniden verilmesi mümkündür.\n•  **Yürütmenin Durdurulması Kararının Şartlarının Birlikteliği:** Yürütmenin durdurulması kararı verilebilmesi için hem hukuka aykırılık hem de telafisi güç veya imkansız zararın birlikte bulunması zorunludur.\n•  **Kanun Yolları:** İdare ve vergi mahkemelerinin nihai kararlarına karşı istinaf yoluyla Bölge İdare Mahkemesi'ne, Bölge İdare Mahkemesi kararlarının belirli limitleri aşan veya kanunda belirtilen hallerde temyiz yoluyla Danıştay'a başvurulabilir. Kanun yollarındaki süreler de hak düşürücüdür."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•  **Önemli Süreleri Ezberleyin:** İdari yargıda dava açma süreleri (genel 60 gün, vergi 30 gün, özel kanunlardaki süreler), dilekçe düzeltme süresi (30 gün), cevap verme süresi (30 gün) gibi temel süreleri ve başlangıçlarını iyi bilin.\n•  **Dava Türlerinin Ayırıcı Özellikleri:** İptal davası ile tam yargı davası arasındaki temel farkları (amaç, nitelik, karar türü) çok iyi anlayın ve her birine ilişkin örnekleri kavramaya çalışın.\n•  **Görevli ve Yetkili Mahkeme Kurallarını Kavrayın:** Hangi uyuşmazlıkların hangi idari yargı yerinde (İdare Mahkemesi, Vergi Mahkemesi, Danıştay) ve hangi yerdeki mahkemede çözüme kavuşturulacağını belirleyen kurallara dikkat edin.\n•  **Yürütmenin Durdurulması Kurumunu Detaylı İnceleyin:** Yürütmenin durdurulmasının şartları, talep şekli, karar verme süreci ve bu karara karşı başvuru yolları (itiraz) hakkında detaylı bilgi sahibi olun.\n•  **Dava Dilekçesi Şekil Şartları ve İlk İnceleme:** İYUK m.3'te belirtilen dilekçe unsurlarını, bu unsurların eksikliğinin sonuçlarını (dilekçe reddi) ve ilk inceleme aşamasında mahkemenin neleri denetlediğini iyi öğrenin.\n•  **Kanun Yolları Mekanizmasını Anlayın:** İstinaf ve temyiz ayrımını, hangi kararlara karşı hangi kanun yolunun açık olduğunu, kanun yollarında incelenen hususları ve süreleri çalışın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi İdari Yargılama Usulü Kanunu'na (İYUK) göre bir idari dava türü DEĞİLDİR?",
+      "options": {
+        "A": "İptal Davası",
+        "B": "Tam Yargı Davası",
+        "C": "İdari Sözleşmelerden Doğan Davalar",
+        "D": "Genel Hükümlere Göre Açılan Tazminat Davası"
+      },
+      "correctAnswer": "D",
+      "explanation": "İYUK m.2'de idari dava türleri iptal davaları, tam yargı davaları ve idari sözleşmelerden doğan davalar olarak sayılmıştır. Genel hükümlere göre açılan tazminat davaları adli yargının görevidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İYUK'a göre, özel kanunlarında aksine hüküm bulunmayan hallerde, idari işlemlere karşı iptal davası açma süresi kaç gündür?",
+      "options": {
+        "A": "15 gün",
+        "B": "30 gün",
+        "C": "60 gün",
+        "D": "90 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK m.7'ye göre, özel kanunlarında aksine hüküm bulunmayan hallerde, Danıştay'da ve idare mahkemelerinde altmış gün içinde dava açılması gerekir. Vergi mahkemelerinde ise bu süre otuz gündür."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İdari işlemin uygulanması halinde telafisi güç veya imkansız zararların doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının birlikte bulunması halinde verilebilecek karar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Davanın reddi kararı",
+        "B": "Esas hakkında ret kararı",
+        "C": "Yürütmenin durdurulması kararı",
+        "D": "Görevsizlik kararı"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK m.27'ye göre, idari işlemin uygulanması halinde telafisi güç veya imkansız zararların doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının birlikte gerçekleşmesi halinde, mahkeme davalı idarenin savunması alındıktan veya savunma süresi geçtikten sonra yürütmenin durdurulmasına karar verebilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki dava şartlarından hangisi mahkemece resen (kendiliğinden) incelenmez?",
+      "options": {
+        "A": "Görev ve Yetki",
+        "B": "Dava Açma Süresi",
+        "C": "Menfaat İhlali",
+        "D": "Dava konusu işlemin hukuka uygunluğu"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dava konusu işlemin hukuka uygunluğu, davanın esasını teşkil eder ve yargılama sonucunda verilen hükümle karara bağlanır. Görev, yetki, süre, menfaat ihlali, ehliyet gibi unsurlar ise dava şartları olup, mahkemece yargılamanın başında resen incelenir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İYUK m.15 uyarınca dava dilekçesinde, davalı idarenin adresinin eksik olması nedeniyle ilk incelemede reddine karar verilen bir dilekçe için davacı ne kadar süre içinde bu eksikliği gidererek yeniden dava açabilir?",
+      "options": {
+        "A": "15 gün",
+        "B": "30 gün",
+        "C": "60 gün",
+        "D": "90 gün"
+      },
+      "correctAnswer": "B",
+      "explanation": "İYUK m.15/6'ya göre, dava dilekçelerinin ilk incelemede reddi halinde, ret kararının tebliğinden itibaren otuz gün içinde yeniden dava açılabilir. Bu süre içinde eksiklikler giderilerek yeni bir dilekçeyle dava açılması mümkündür."
+    }
+  ]
+}

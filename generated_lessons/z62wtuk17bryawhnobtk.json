@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Borç ilişkisi, Türk özel hukukunun temel taşlarından biridir ve günlük hayatımızın neredeyse her alanında karşımıza çıkar. Bir mal satın almaktan hizmet alımına, kredi kullanmaktan kira sözleşmesi yapmaya kadar pek çok işlem, bir borç ilişkisi doğurur. Bu ders içeriği kapsamında, borcun alacaklıya karşı nasıl yerine getirileceği, yani 'ifa' kavramı ve borcun çeşitli hukuki nedenlerle nasıl ortadan kalkacağı, yani 'sona erme' halleri Türk Borçlar Kanunu (TBK) çerçevesinde ayrıntılı olarak incelenecektir. Borç ilişkisi, en yalın tanımıyla, alacaklıya bir edimi borçludan talep etme yetkisi veren, borçluya ise bu edimi yerine getirme yükümlülüğü getiren hukuki bir bağdır. 'İfa', borcun konusunu oluşturan edimin, sözleşmeye veya kanuna uygun olarak, alacaklıya eksiksiz ve tam bir şekilde yerine getirilmesidir. İfa, borcu sona erdiren en doğal ve olağan yoldur. İfanın temel prensibi, 'tam ve gereği gibi ifa' ilkesidir; yani borçlu, borcunu tam olarak ve taahhüt ettiği niteliklerde yerine getirmekle yükümlüdür. 'Borcun sona ermesi' ise, borç ilişkisinin hukuki varlığını kaybetmesi ve dolayısıyla alacaklının talep hakkının, borçlunun ise ifa yükümlülüğünün ortadan kalkması durumudur. İfa dışında pek çok sona erme hali bulunmaktadır ve bu hallerin her birinin kendine özgü hukuki sonuçları vardır. Bu konular, Türk Borçlar Kanunu'nun İkinci Kısmı'nda, 'Borç İlişkilerinin Hükümleri' başlığı altında düzenlenmektedir. Borcun ifa ve sona erme mekanizmalarını anlamak, hem akademik hukuk eğitimi için hem de pratik hukuki sorunların çözümünde kritik bir öneme sahiptir; zira bu kavramlar, sözleşme hukukundan ticaret hukukuna, medeni hukuktan icra hukukuna kadar birçok alanda temel başvuru kaynaklarıdır. Bu ders, öğrencilere borcun doğumundan ifa edilerek veya başka yollarla sona ermesine kadar olan süreci derinlemesine analiz etme ve yorumlama becerisi kazandırmayı hedeflemektedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Borcun İfa Mekanizmaları",
+      "content": "Borcun ifası ve sona ermesiyle ilgili yasal çerçeve, esas olarak 6098 sayılı Türk Borçlar Kanunu (TBK) tarafından çizilmiştir. TBK, borcun ifasına ilişkin genel hükümleri 76 ila 88. maddelerinde, borcu sona erdiren halleri ise 132 ila 145. maddelerinde düzenlemiştir. Borcun ifası, borcun doğal yoldan sona erme şeklidir ve çeşitli unsurları barındırır. Öncelikle 'ifa yeri' (TBK m. 89), borcun nerede yerine getirileceğini belirtir. Taraflar sözleşmede aksi kararlaştırmamışsa, para borçları alacaklının ödeme zamanındaki yerleşim yerinde, parça borçları ise sözleşmenin kurulduğu sırada borç konusu şeyin bulunduğu yerde ifa edilir. Diğer borçlar ise borçlunun yerleşim yerinde ifa edilir. 'İfa zamanı' (TBK m. 90-96), borcun hangi tarihte veya sürede yerine getirilmesi gerektiğini düzenler. Taraflar vade kararlaştırmışsa, borç o vadede ifa edilir. Aksi takdirde, borç doğumu anından itibaren ifa edilebilir hale gelir. 'İfa konusu', borçlanılan edimin kendisidir. Bu, bir miktar para, bir malın teslimi, bir hizmetin görülmesi veya bir şeyin yapılmaması şeklinde olabilir. Parça borçlarında borçlu, belirli bir şeyi teslim etmekle yükümlüyken; çeşit borçlarında, aynı türden bir malı, ortalama nitelikte olacak şekilde ifa etmekle yükümlüdür. 'İfa kişileri' ise, borcu kimin ifa edebileceği ve kime ifa edilebileceği sorularına yanıt verir. Kural olarak borçlu borcunu kendisi ifa etmekle yükümlüdür, ancak şahsa bağlı olmayan borçlarda üçüncü bir kişi de borcu ifa edebilir (TBK m. 83). İfa, alacaklıya veya onun ifayı kabule yetkili kıldığı temsilcisine yapılmalıdır (TBK m. 84). Alacaklı, kısmi ifayı kabul etmek zorunda değildir (TBK m. 84/2). Borcun sona erme hallerine gelince, en önemlileri şunlardır: İfa ile sona erme (en doğal yol), ibra (alacaklının borçtan feragat etmesi, TBK m. 132), yenileme (tecdit – eski borcun yerine yeni bir borç konulması, TBK m. 133), takas (karşılıklı ve aynı cins iki borcun birbirini sona erdirmesi, TBK m. 139-145), birleşme (alacaklı ve borçlu sıfatlarının aynı kişide birleşmesi, TBK m. 135), kusursuz imkansızlık (borcun ifasının, borçlunun kusuru olmaksızın imkansız hale gelmesi, TBK m. 136). Ayrıca, şahsa sıkı sıkıya bağlı borçlarda borçlu veya alacaklının ölümü, belirli süreli borçlarda sürenin dolması ve belirli şarta bağlı borçlarda şartın gerçekleşmesi gibi durumlar da borcu sona erdirebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve Örnek Senaryolar",
+      "content": "Borcun ifası ve sona ermesi halleri, günlük ticari ve bireysel ilişkilerde sıkça karşılaşılan durumları kapsar ve çeşitli pratik sorunlara yol açabilir. Bu nedenle, sözleşmelerin hazırlanışı aşamasında ifa yeri, zamanı ve şeklinin açıkça belirlenmesi büyük önem taşır. Örneğin, bir satış sözleşmesinde malın nerede teslim edileceği (ifa yeri) ve ne zaman ödeneceği (ifa zamanı) netleştirilmelidir. Aksi takdirde, TBK'nın genel hükümleri devreye girecek ve bu durum taraflar arasında anlaşmazlıklara yol açabilecektir. İfanın ispatı, hukuki ihtilaflarda kilit bir rol oynar. Borcunu ifa eden borçlu, bu ifayı ispat etmekle yükümlüdür. Banka dekontları, makbuzlar, senetler, e-posta yazışmaları veya tanık beyanları gibi deliller ifanın ispatı için kullanılabilir. Özellikle yüksek meblağlı ödemelerde veya önemli edimlerin yerine getirilmesinde yazılı belge düzenlenmesi hayati öneme sahiptir. Borcun sona erme hallerinden biri olan ibra, alacaklının borçtan feragat etmesi anlamına gelir ve geçerliliği için yazılı şekil şartına tabidir (TBK m. 132). Bu, alacaklının 'borcunu ödedin, sana borç kalmadı' şeklinde sözlü bir beyanının tek başına yeterli olmadığı, yazılı bir ibra belgesinin düzenlenmesi gerektiğini gösterir. Yenileme (tecdit) ise mevcut bir borcu ortadan kaldırıp yerine yeni bir borç yaratır. Örneğin, yüksek faizli bir kredi borcunun, daha uygun koşullarda yeni bir kredi ile yapılandırılarak eski borcun kapatılması bir yenileme niteliği taşıyabilir. Bu durumda eski borca bağlı teminatlar ve yan haklar kural olarak sona erer, bu yüzden dikkatli olunmalıdır. Takas (TBK m. 139), karşılıklı ve aynı cins iki borcun birbirini sona erdirmesi durumudur. Örneğin, A kişisinin B kişisinden 10.000 TL alacağı varken, aynı zamanda B kişisinin de A kişisinden 7.000 TL alacağı varsa, B kişisi tek taraflı bir beyanla takası gerçekleştirerek kendi borcunu 3.000 TL'ye düşürebilir. Ancak takas için borçların muaccel olması ve aynı cinsten olması gerekir. Kusursuz imkansızlık (TBK m. 136), borcun ifasının borçlunun kusuru olmaksızın, objektif olarak imkansız hale gelmesiyle borcu sona erdirir. Örneğin, bir ressamın sipariş edilen tabloyu çizemeden vefat etmesi veya mücbir sebep sonucu bir malın telef olması bu duruma örnek teşkil edebilir. Borçlu, bu durumda ifa yükümlülüğünden kurtulurken, alacaklı da karşı edimi ifa borcundan kurtulur."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Özel Durumlar",
+      "content": "Borcun ifası ve sona ermesiyle ilgili süreçlerde göz önünde bulundurulması gereken birçok önemli detay bulunmaktadır. Öncelikle, 'ispat yükü' prensibi, ifayı gerçekleştiren borçlunun ifayı kanıtlama sorumluluğunu taşır. Bu nedenle, yapılan her ifanın yazılı bir belgeyle (makbuz, dekont, tutanak vb.) belgelenmesi veya en azından tanıklarla ispat edilebilir hale getirilmesi hukuki güvenlik açısından elzemdir. Aksi takdirde, borçlu borcunu ödediğini ispatlayamazsa, yeniden ifa etme yükümlülüğüyle karşı karşıya kalabilir. Bazı sona erme hallerinde 'şekil şartları' aranır. Örneğin, ibra sözleşmesinin geçerliliği için yazılı şekilde yapılması zorunludur (TBK m. 132). Bu tür şekil şartlarına uyulmaması, işlemin mutlak geçersizliğine yol açabilir. Borcun ifasında ve sona ermesinde 'iyi niyet ilkesi' (TMK m. 2) her zaman göz önünde bulundurulmalıdır. Taraflar, borç ilişkisinin devamı ve sona ermesi sürecinde dürüstlük kuralına uygun hareket etmek zorundadırlar. Örneğin, alacaklının ifayı kabulden haksız yere kaçınması, 'alacaklı temerrüdü'ne yol açabilir (TBK m. 106 vd.). Bu durumda alacaklı, temerrüdün sonuçlarına katlanmak zorunda kalabilir; örneğin, borçlunun sorumluluğu hafifleyebilir veya borçlu borç konusu şeyi tevdi ederek borcundan kurtulabilir. Borç ilişkilerinde önemli bir diğer kavram 'zamanaşımı'dır (TBK m. 146 vd.). Zamanaşımı, alacaklının alacağını dava yoluyla talep etme hakkını belirli bir süre sonra ortadan kaldıran bir hukuki müessesedir. Borç zamanaşımına uğrasa dahi, doğal borç olarak varlığını sürdürür; yani borçlu isterse ifa edebilir ancak dava edilemez. Bu durum, borcun sona ermesi değil, dava edilebilirlik özelliğinin kaybedilmesidir. Borcun zamanında veya gereği gibi ifa edilmemesi durumunda 'temerrüt' oluşur (TBK m. 117 vd.) ve bu durum gecikme faizi, sözleşmeden dönme veya tazminat gibi hukuki müeyyideleri beraberinde getirir. Sözleşmelerde 'ceza koşulu' (TBK m. 179 vd.) veya 'ifanın imkansızlığı halinde tazminat' (TBK m. 112 vd.) gibi özel düzenlemeler, ifa ve sona erme süreçlerinin sonuçlarını önemli ölçüde etkileyebilir. Özellikle tacirler arasındaki ilişkilerde, Türk Ticaret Kanunu'nun ilgili hükümleri (örn. ticari faiz) de devreye girebilir. Ayrıca, alacağın temliki (TBK m. 183 vd.) veya borcun nakli (TBK m. 195 vd.) gibi durumlar da borç ilişkisinin taraflarında değişiklik yaratarak ifa ve sona erme süreçlerini farklılaştırabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet, Pekiştirme ve Güncel Yaklaşımlar",
+      "content": "Bu ders içeriğinde, borç ilişkisinin en temel dinamiklerinden olan ifa ve sona erme kavramları Türk Borçlar Kanunu (TBK) ışığında detaylı bir şekilde incelenmiştir. Özetle, 'ifa' borcun konusunu oluşturan edimin alacaklıya eksiksiz ve uygun şekilde yerine getirilmesidir ve borcu sona erdiren en doğal yoldur. İfa yeri, ifa zamanı ve ifa kişileri gibi unsurlar, borcun usulüne uygun ifası için büyük önem taşır. 'Borcun sona ermesi' ise ifa dışındaki çeşitli hukuki nedenlerle borç ilişkisinin ortadan kalkması durumudur. İbra, yenileme, takas, birleşme ve kusursuz imkansızlık gibi haller, borcu sona erdiren başlıca yollardır. Her bir sona erme halinin kendine özgü şartları ve hukuki sonuçları bulunmaktadır. Örneğin, ibra yazılı şekle tabiyken, takas tek taraflı bir beyanla gerçekleşebilir. İfa edilmeyen veya gereği gibi ifa edilmeyen borçlar 'temerrüt' gibi hukuki durumları doğurarak gecikme faizi ve tazminat gibi ek yükümlülüklere yol açabilir. Ayrıca, ispat yükü, iyi niyet ilkesi ve zamanaşımı gibi genel hukuk prensipleri, borcun ifa ve sona erme süreçlerinde sürekli olarak dikkate alınması gereken unsurlardır. Özellikle güncel yaklaşımlarda, tüketici hukukundaki borcun ifası ve sona ermesine ilişkin özel hükümler (örn. ayıplı mal veya hizmetten doğan sorumluluklar, cayma hakkı), e-ticaret sözleşmelerindeki mesafeli satışa ilişkin düzenlemeler ve dijitalleşmenin getirdiği yeni ödeme yöntemleri ve ifa şekilleri (kripto varlıklarla ödeme gibi tartışmalar) önem kazanmaktadır. Bu gelişmeler, geleneksel borçlar hukuku prensiplerinin yeni teknolojiler ve sosyal ihtiyaçlar karşısında nasıl yorumlandığına dair sürekli bir dinamizm yaratmaktadır. Öğrencilerin bu dinamikleri anlamaları, sadece mevcut mevzuatı bilmeleri değil, aynı zamanda hukuki sorunlara yenilikçi ve kapsayıcı çözümler üretebilmeleri açısından da kritik öneme sahiptir. Bu dersin amacı, öğrencilere borçlar hukukunun bu temel alanında sağlam bir teorik altyapı sunmakla birlikte, pratik hayatta karşılaşılabilecek hukuki sorunlara çözüm odaklı yaklaşım becerisi kazandırmaktır. Bu kavramların pekiştirilmesi için, çeşitli senaryolar üzerinde tartışmalar yürütmek ve güncel yargı kararlarını incelemek, konuların daha iyi anlaşılmasına katkı sağlayacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk Borçlar Kanunu'na göre borcu sona erdiren haller arasında yer almaz?",
+      "options": {
+        "A": "İfa",
+        "B": "İbra",
+        "C": "Yenileme (Tecdit)",
+        "D": "Takas",
+        "E": "Alacağın Temliki"
+      },
+      "correctAnswer": "E",
+      "explanation": "Türk Borçlar Kanunu'na göre ifa, ibra, yenileme (tecdit), takas ve birleşme gibi haller borcu sona erdiren nedenlerdir. Alacağın temliki (devri) ise borcun alacaklısını değiştiren, ancak borcu sona erdirmeyen bir işlemdir. Borç aynı şekilde varlığını sürdürür, sadece alacaklı değişir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Borçlar Kanunu'na göre, aşağıdakilerden hangisi bir borcun ifa yeri olarak kabul edilmez?",
+      "options": {
+        "A": "Para borçlarında alacaklının ödeme zamanındaki yerleşim yeri",
+        "B": "Parça borçlarında sözleşmenin kurulduğu sırada borç konusu şeyin bulunduğu yer",
+        "C": "Diğer borçlarda borçlunun yerleşim yeri",
+        "D": "Tarafların sözleşmede açıkça kararlaştırdığı herhangi bir yer",
+        "E": "Borçlunun rızası olmaksızın alacaklının tek taraflı olarak belirlediği yer"
+      },
+      "correctAnswer": "E",
+      "explanation": "TBK m. 89'a göre, ifa yeri kural olarak tarafların anlaşmasıyla belirlenir. Anlaşma yoksa kanuni düzenlemelere bakılır: para borçları alacaklının yerleşim yerinde, parça borçları sözleşmenin kurulduğu yerde, diğer borçlar ise borçlunun yerleşim yerinde ifa edilir. Alacaklının borçlunun rızası olmaksızın ifa yerini tek taraflı belirlemesi mümkün değildir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ahmet, Mehmet'e olan 50.000 TL borcunu ödemek istemekte ancak Mehmet bu ödemeyi kabul etmemektedir. Bu durumda Ahmet'in hukuki hakları ve başvurabileceği yollar ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Ahmet borcundan kurtulur ve Mehmet'ten tazminat isteyebilir.",
+        "B": "Ahmet, mahkemeye başvurarak Mehmet'i ödemeyi kabule zorlayabilir.",
+        "C": "Ahmet, borcunu bir notere tevdi ederek borcundan kurtulabilir.",
+        "D": "Mehmet temerrüde düşer ve Ahmet'in borcu kendiliğinden sona erer.",
+        "E": "Ahmet, bu durumda borcunu ancak faiziyle birlikte ödemek zorunda kalır."
+      },
+      "correctAnswer": "C",
+      "explanation": "Alacaklının ifayı haksız yere kabulden kaçınması, 'alacaklı temerrüdü' (TBK m. 106) doğurur. Bu durumda borçlu, borç konusu şeyi tevdi ederek (teslim ederek) borcundan kurtulabilir. Para borçlarında bu tevdi, bir bankaya veya notere yapılabilir. Bu, borcu sona erdirir ve borçlu temerrüde düşmekten kurtulur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki ifadelerden hangisi 'kusursuz imkansızlık' ile borcun sona ermesi hali için doğru bir açıklamadır?",
+      "options": {
+        "A": "Borçlu, kendi kusuruyla borcun ifasını imkansız hale getirmiştir.",
+        "B": "Borcun ifası, borçlunun kusuru olmaksızın objektif olarak imkansız hale gelmiştir.",
+        "C": "Sadece para borçlarında ortaya çıkabilen bir durumdur.",
+        "D": "Borcun sona ermesi için alacaklının rızası şarttır.",
+        "E": "Borçlunun borcundan kurtulabilmesi için alacaklıya tazminat ödemesi gerekir."
+      },
+      "correctAnswer": "B",
+      "explanation": "TBK m. 136'ya göre, 'borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa, borç sona erer.' Burada anahtar kelimeler 'kusuru olmaksızın' ve 'objektif imkansızlık'tır. Borçlunun kusuru varsa veya imkansızlık sadece borçlu için subjektif nitelikteyse, bu durum kusursuz imkansızlık olarak kabul edilmez. Kusursuz imkansızlıkta borçlu, karşı edimi isteme hakkını kaybeder ve önceden almış olduğu edimleri iade etmekle yükümlüdür; alacaklıdan tazminat ödemesi gerekmez."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Borç ilişkisinde 'takas' (TBK m. 139 vd.) müessesesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Takas, karşılıklı ve aynı cinsten olan iki borcu sona erdirir.",
+        "B": "Takas beyanı tek taraflı bir irade beyanı ile gerçekleşir.",
+        "C": "Takasın yapılabilmesi için her iki borcun da muaccel (vadesi gelmiş) olması gerekir.",
+        "D": "Takas, borçların aynı miktarda olması halinde geçerlidir, farklı miktarlar takas edilemez.",
+        "E": "Bir tarafın rızası olmadan, zorla takas yapılamaz."
+      },
+      "correctAnswer": "D",
+      "explanation": "Takas, borçların aynı miktarda olması halinde değil, karşılıklı ve aynı cinsten olması halinde gerçekleşir. Eğer borçlar farklı miktardaysa, takas daha az olan borç miktarınca gerçekleşir ve geriye kalan borç devam eder. Örneğin, 10.000 TL alacak ile 7.000 TL borç takas edilebilir, bu durumda 7.000 TL'lik kısım takasla sona erer ve 3.000 TL'lik alacak devam eder. Bu nedenle D seçeneği yanlıştır. Takas tek taraflı bir irade beyanıyla yapılır ve karşı tarafın rızasına bağlı değildir."
+    }
+  ]
+}

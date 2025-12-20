@@ -1,0 +1,26 @@
+{
+  "topicId": "eAFQj60z3PGwANd3m9Xb",
+  "topicName": "Toplu İş Hukuku",
+  "subjectName": "İş Hukuku ve Sosyal Güvenlik",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Adım 1 Başlığı",
+      "content": "## Başlık\n\nİçerik buraya gelecek..."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "question": "Örnek soru metni?",
+      "options": {
+        "A": "Seçenek A",
+        "B": "Seçenek B",
+        "C": "Seçenek C",
+        "D": "Seçenek D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Doğru cevap açıklaması"
+    }
+  ],
+  "createdAt": ""
+}

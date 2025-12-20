@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Arabuluculuk (Mediation):** Taraflar arasındaki hukuki uyuşmazlığı, tarafsız bir üçüncü kişi (arabulucu) eşliğinde, mahkemeye gitmeden veya mahkeme sürecinde uzlaşarak çözmeyi amaçlayan, gizli ve gönüllü bir süreçtir.\n•   **Dava Şartı Arabuluculuk:** Türk hukukunda belirli dava türleri için dava açmadan önce arabuluculuğa başvurmanın zorunlu kılındığı durumdur. Bu zorunluluğa uyulmaması halinde dava, dava şartı eksikliği nedeniyle reddedilir. İşçi-işveren uyuşmazlıklarının büyük bir kısmı (işe iade davaları ve işçi-işveren alacak ve tazminat talepleri) dava şartı arabuluculuk kapsamındadır.\n•   **İhtiyari Arabuluculuk:** Tarafların, kanunen zorunlu olmamasına rağmen, kendi istekleriyle arabuluculuk yoluna başvurmasıdır. Bu durumda arabuluculuk süreci anlaşma ile sonuçlanırsa, bu anlaşma mahkeme kararı hükmünde olur.\n•   **Arabuluculuk Son Tutanağı:** Arabuluculuk sürecinin tamamlandığını gösteren resmi belgedir. Anlaşma sağlanıp sağlanmadığı, kısmi anlaşma olup olmadığı bu tutanakta belirtilir. Dava açma süreleri ve koşulları bu tutanağın düzenlenme tarihine göre belirlenir.\n•   **Anlaşma Belgesi:** Arabuluculuk süreci sonunda tarafların üzerinde uzlaştığı konuları içeren, icra edilebilir nitelikteki belgedir. Bu belge, mahkeme kararı veya ilam niteliğindedir ve icra edilebilir şerhi alınarak doğrudan icraya konulabilir.\n•   **Dava Açma Süresi:** Arabuluculuk süreci sonunda anlaşma sağlanamaması veya kısmi anlaşma sağlanması durumunda, uzlaşılamayan konularda dava açma hakkının kullanılması gereken belirli yasal sürelerdir. Bu süreler genellikle arabuluculuk son tutanağının düzenlendiği tarihten itibaren işlemeye başlar ve hak düşürücü niteliktedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **7036 Sayılı İş Mahkemeleri Kanunu m.3:** İşçi ile işveren arasındaki iş ilişkisinden veya İş Kanunu'na dayanan bireysel veya toplu iş sözleşmesinden kaynaklanan alacak ve tazminat ile işe iade taleplerinde, dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır. Aksi takdirde dava, dava şartı yokluğu nedeniyle usulden reddedilir.\n•   **6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (HUAK) m.18/A:** Dava şartı arabuluculuğa ilişkin genel hükümleri düzenler. Bu maddeye göre, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanağın düzenlendiği tarihten itibaren iki haftalık kesin süre içinde dava açılabilir. İş mahkemelerinde bu süre işe iade davaları için geçerlidir.\n•   **6325 Sayılı HUAK m.18/B:** Dava şartı arabuluculukta zaman aşımı ve hak düşürücü sürelerin işleyişini düzenler. Arabuluculuk bürosuna başvurudan son tutanağın düzenlenmesine kadar geçen sürede zaman aşımı durur ve hak düşürücü süreler işlemez. Dava açma süresi bu tutanağın düzenlenmesi ile yeniden başlar.\n•   **Türk Borçlar Kanunu (TBK) ve İş Kanunu (İK):** İşçi alacakları ve tazminatları ile ilgili genel zaman aşımı süreleri bu kanunlarda belirlenmiştir. Örneğin, kıdem tazminatı için 10 yıl, yıllık izin ücreti için 5 yıl gibi. Arabuluculuk süreci bu zaman aşımı sürelerinin durmasına neden olur.\n•   **Hukuk Muhakemeleri Kanunu (HMK) m.115/2:** Dava şartlarının noksanlığı halinde mahkemenin izleyeceği yolu belirtir. Dava şartı eksikliği tespit edildiğinde, dava usulden reddedilir. İş hukuku uyuşmazlıklarında arabuluculuğa başvurmama da bu kapsamda değerlendirilir.\n•   **İcra ve İflas Kanunu (İİK):** Arabuluculuk anlaşma belgesinin icra edilebilirliğine ilişkin düzenlemeler içerir. Taraflar ve avukatların imzalarıyla düzenlenmiş anlaşma belgesi, ilam niteliğinde belge olup, icra edilebilirlik şerhine gerek kalmaksızın doğrudan ilamlı icraya konu edilebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: İşçi Alacakları Uyuşmazlığı:** Bir işçi, kıdem tazminatı, ihbar tazminatı, fazla mesai alacağı ve yıllık izin ücreti talepleriyle işverene karşı dava açmak istemektedir. Öncelikle arabuluculuk bürosuna başvurulması zorunludur. Arabuluculuk süreci sonunda taraflar anlaşamazsa, işçi arabuluculuk son tutanağının düzenlendiği tarihten itibaren dava açma süreleri içinde (genel zamanaşımı süreleri dikkate alınarak) İş Mahkemesi'nde davasını açabilir.\n•   **Örnek 2: İşe İade Davası:** İşveren tarafından iş akdi feshedilen bir işçi, işe iade talebiyle dava açmadan önce arabulucuya başvurmak zorundadır. Arabuluculuk bürosuna başvuru, fesih bildiriminin tebliğinden itibaren 30 gün içinde yapılmalıdır. Arabuluculuk süreci sonunda anlaşma sağlanamaması halinde, son tutanağın düzenlenmesinden itibaren 2 haftalık kesin süre içinde İş Mahkemesi'nde işe iade davası açılmalıdır.\n•   **Örnek 3: Kısmi Anlaşma Durumu:** Bir işçi, kıdem tazminatı ve ihbar tazminatı için arabulucuya başvurur. Arabuluculuk görüşmelerinde kıdem tazminatı konusunda anlaşma sağlanırken, ihbar tazminatı konusunda anlaşma sağlanamaz. Bu durumda, arabuluculuk son tutanağında kısmi anlaşma ve anlaşılamayan konular belirtilir. İşçi, ihbar tazminatı alacağı için, son tutanağın düzenlenmesinden itibaren dava açma süreleri içinde dava yoluna gidebilir. Anlaşılan kıdem tazminatı ise anlaşma belgesi ile icra edilebilir.\n•   **Örnek 4: Anlaşma Belgesine Aykırılık:** İşçi ve işveren, arabuluculukta belirli bir miktar alacak konusunda anlaşma sağlar ve bir anlaşma belgesi imzalanır. Ancak işveren bu anlaşma belgesinde belirtilen ödemeyi yapmaz. İşçi, ayrıca bir dava açmaya gerek kalmaksızın, icra edilebilirlik şerhi alınmış veya doğrudan ilamlı icraya konulabilen arabuluculuk anlaşma belgesi ile icra takibi başlatabilir.\n•   **Örnek 5: Dava Şartı Kapsamı Dışındaki Haller:** İş kazası veya meslek hastalığından kaynaklanan tazminat davaları, rücu davaları, SGK prim alacakları gibi davalar dava şartı arabuluculuk kapsamında değildir. Bu tür davalarda taraflar dilerse ihtiyari arabuluculuğa başvurabilirler, ancak dava açmadan önce zorunlu bir arabuluculuk süreci yoktur.\n•   **Örnek 6: Arabuluculuk Süresinin Zaman Aşımına Etkisi:** İşçi, işten ayrıldıktan 9 yıl 11 ay sonra kıdem tazminatı talebiyle arabulucuya başvurur. Arabuluculuk süreci 1 ay sürer ve anlaşma sağlanamaz. Bu durumda, arabuluculuk sürecinde zaman aşımı durduğu için işçi, son tutanağın düzenlenmesinden itibaren kalan 1 aylık zaman aşımı süresi içinde davasını açmak zorundadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Arabuluculuk Süresinin Doğru Takibi:** Dava şartı arabuluculuğa başvuru ve arabuluculuk son tutanağının düzenlenmesi tarihleri, dava açma sürelerinin hesaplanmasında kritik öneme sahiptir. Özellikle işe iade davalarında 2 haftalık kesin süreye dikkat edilmelidir.\n•   **Zamanaşımı ve Hak Düşürücü Sürelerin Durması:** Arabuluculuk bürosuna başvurudan son tutanağın düzenlenmesine kadar geçen sürenin, zaman aşımı ve hak düşürücü sürelerin durmasına neden olduğu unutulmamalıdır. Bu süreler, son tutanakla birlikte kaldığı yerden işlemeye devam eder.\n•   **Yetkili Arabuluculuk Bürosu:** Arabuluculuk başvurusunun, uyuşmazlığın konusu olan yerdeki adli yargı ilk derece mahkemesi adalet komisyonuna bağlı arabuluculuk bürosuna yapılması gerekir. Yetkisiz başvuru süreci geciktirebilir veya usuli hatalara yol açabilir.\n•   **Son Tutanağın Eksiksiz Olması:** Arabuluculuk son tutanağında, sürecin nasıl sonuçlandığı (anlaşıldı/anlaşılamadı/kısmi anlaşıldı), tarafların isimleri ve imzaları eksiksiz yer almalıdır. Özellikle 'anlaşılamadı' ibaresi, dava açma hakkının doğduğunu gösterir.\n•   **Arabuluculuk Anlaşma Belgesinin Niteliği:** Anlaşma belgesinin mahkeme ilamı niteliğinde olduğu ve doğrudan icraya konulabileceği göz ardı edilmemelidir. Bu belge, yeni bir dava açmadan alacağın tahsilini sağlar.\n•   **Dava Şartı Kapsamındaki Uyuşmazlıklar:** İş ilişkisinden kaynaklanan işçi-işveren alacak ve tazminatları ile işe iade davaları dışındaki uyuşmazlıkların (örneğin iş kazası, rücu davaları) dava şartı arabuluculuk kapsamında olmadığını unutmamak, gereksiz başvurulardan kaçınmak önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kilit Kavramları Anlayın:** Arabuluculuk, dava şartı arabuluculuk, ihtiyari arabuluculuk, son tutanak ve anlaşma belgesi kavramlarını tanımlarını ve farklılıklarını iyi öğrenin.\n•   **Yasal Dayanakları Bilin:** 7036 sayılı İş Mahkemeleri Kanunu m.3 ve 6325 sayılı HUAK m.18/A ve m.18/B'nin dava şartı arabuluculuk açısından temel hükümler olduğunu ve içeriklerini kavrayın.\n•   **Süreleri Ezberleyin:** İşe iade davalarında arabuluculuk başvurusu için 30 gün, arabuluculuk sonrasında dava açmak için 2 haftalık kesin süreleri mutlaka bilin. Diğer alacak davaları için arabuluculuk sürecinin zamanaşımına etkisini anlayın.\n•   **Dava Şartı Yokluğunun Sonucu:** Arabuluculuğa başvurulmamasının veya usulüne uygun tamamlanmamasının davanın usulden reddine yol açacağını ve bunun hukuki sonuçlarını analiz edin.\n•   **Anlaşma Belgesinin Hukuki Niteliği:** Arabuluculuk anlaşma belgesinin mahkeme ilamı niteliğinde olduğunu ve doğrudan icraya konulabileceğini unutmayın. Bu durum, icra hukukuyla bağlantısını kurmanızı sağlar.\n•   **Örnek Senaryoları Değerlendirin:** Farklı iş hukuku uyuşmazlıkları (işe iade, alacaklar, kısmi anlaşma) üzerinden arabuluculuk sonrası dava açma süreçlerini pratik örneklerle pekiştirin. Hangi durumlarda dava şartı arabuluculuk var, hangilerinde yok, iyi ayırt edin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "7036 sayılı İş Mahkemeleri Kanunu'na göre, aşağıdaki uyuşmazlıklardan hangisi dava açılmadan önce arabuluculuğa başvurmayı zorunlu kılmaz?",
+      "options": {
+        "A": "İşçi alacakları (kıdem, ihbar, fazla mesai) talepleri",
+        "B": "İşe iade talepleri",
+        "C": "İş kazasından kaynaklanan maddi ve manevi tazminat davaları",
+        "D": "Bireysel iş sözleşmesinden kaynaklanan ücret alacağı davaları"
+      },
+      "correctAnswer": "C",
+      "explanation": "7036 sayılı Kanun m.3 uyarınca, iş kazası veya meslek hastalığından kaynaklanan maddi ve manevi tazminat davaları dava şartı arabuluculuk kapsamı dışında tutulmuştur. İşçi alacakları ve işe iade talepleri ise zorunlu arabuluculuk kapsamındadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İş akdi feshedilen bir işçi, fesih bildiriminin tebliğinden 25 gün sonra işe iade talebiyle arabuluculuk bürosuna başvurmuştur. Arabuluculuk süreci 10 gün sürmüş ve anlaşma sağlanamamıştır. İşçinin işe iade davası açma süresi arabuluculuk son tutanağının düzenlendiği tarihten itibaren ne kadardır?",
+      "options": {
+        "A": "15 gün",
+        "B": "1 ay",
+        "C": "2 hafta (14 gün)",
+        "D": "30 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İşe iade davalarında, arabuluculuk başvurusu fesih bildiriminin tebliğinden itibaren 30 gün içinde yapılmalıdır (işçi bu süreyi aşmamıştır). Arabuluculuk süreci sonunda anlaşma sağlanamazsa, arabuluculuk son tutanağının düzenlendiği tarihten itibaren 2 haftalık kesin süre içinde işe iade davası açılmalıdır (7036 S.K. m.3/1-b)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Arabuluculuk süreci sonunda tarafların kısmen anlaştığı ve anlaşılan hususların arabuluculuk anlaşma belgesine kaydedildiği bir durumda, anlaşılamayan hususlar için dava açma süresi ne zaman işlemeye başlar?",
+      "options": {
+        "A": "Arabuluculuk başvuru tarihinden itibaren",
+        "B": "Arabuluculuk anlaşma belgesinin imzalandığı tarihten itibaren",
+        "C": "Arabuluculuk son tutanağının düzenlendiği tarihten itibaren",
+        "D": "Mahkemenin belirleyeceği tarihten itibaren"
+      },
+      "correctAnswer": "C",
+      "explanation": "Arabuluculuk süreci sonunda anlaşma sağlanamaması veya kısmi anlaşma sağlanması durumunda, uzlaşılamayan konular için dava açma süreleri, arabuluculuk son tutanağının düzenlendiği tarihten itibaren işlemeye başlar (6325 S.K. m.18/B)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi, arabuluculuk anlaşma belgesinin hukuki niteliği açısından doğru bir ifadedir?",
+      "options": {
+        "A": "Sadece tavsiye niteliğindedir ve bağlayıcılığı yoktur.",
+        "B": "Mahkemede delil olarak kullanılabilir ancak icra edilemez.",
+        "C": "Mahkeme ilamı niteliğindedir ve icra edilebilir şerhiyle ilamlı icraya konulabilir.",
+        "D": "Mahkemeye sunulmadan tek başına hiçbir hukuki sonuç doğurmaz."
+      },
+      "correctAnswer": "C",
+      "explanation": "6325 sayılı HUAK m.18/A-5 uyarınca, arabuluculuk faaliyeti sonunda imzalanan anlaşma belgesi, icra edilebilirlik şerhi alınarak mahkeme ilamı gibi icra edilebilir. Taraflar ve avukatların imzalarını taşıyan anlaşma belgesi ise ilam niteliğinde belge kabul edildiğinden, ayrıca icra edilebilirlik şerhi alınmasına gerek kalmaksızın doğrudan ilamlı icraya konulabilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Arabuluculuk bürosuna başvurunun, zaman aşımı ve hak düşürücü süreler üzerindeki etkisi nedir?",
+      "options": {
+        "A": "Zaman aşımını durdurur, hak düşürücü süreleri etkilemez.",
+        "B": "Zaman aşımını keser, hak düşürücü süreleri durdurur.",
+        "C": "Zaman aşımını durdurur ve hak düşürücü süreler işlemez.",
+        "D": "Zaman aşımı ve hak düşürücü süreleri tamamen ortadan kaldırır."
+      },
+      "correctAnswer": "C",
+      "explanation": "6325 sayılı HUAK m.18/B uyarınca, arabuluculuk bürosuna başvurudan son tutanağın düzenlenmesine kadar geçen sürede zaman aşımı durur ve hak düşürücü süreler işlemez. Süreler, son tutanağın düzenlenmesiyle kaldığı yerden işlemeye devam eder."
+    }
+  ]
+}

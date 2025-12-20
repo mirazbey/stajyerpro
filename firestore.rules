@@ -1,0 +1,131 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper function to check if user is admin
+    function isAdmin() {
+      return request.auth != null && request.auth.token.email == 'haciyatmaz300@gmail.com';
+    }
+
+    // Helper function to check if user is owner
+    function isOwner(userId) {
+      return request.auth != null && request.auth.uid == userId;
+    }
+
+    // Users Collection (Strict Owner Access)
+    match /users/{userId} {
+      allow read, write: if isOwner(userId) || isAdmin();
+      
+      // Nested Collections
+      match /chat_sessions/{sessionId} {
+        allow read, write: if isOwner(userId);
+        
+        match /messages/{messageId} {
+          allow read, write: if isOwner(userId);
+        }
+      }
+      
+      match /study_plans/{planId} {
+        allow read, write: if isOwner(userId);
+      }
+
+      match /quiz_results/{resultId} {
+        allow read, write: if isOwner(userId);
+      }
+      
+      // Notifications (User's own notifications)
+      match /notifications/{notificationId} {
+        allow read, write: if isOwner(userId);
+      }
+    }
+
+    // Daily Stats (Authenticated Access)
+    match /daily_stats/{statId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Global Stats (Public Read, Auth Write)
+    match /stats/{statId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    // Content - Questions, Topics, Subjects (Read-only for users, Admin write)
+    match /subjects/{subjectId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+    
+    match /topics/{topicId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+    
+    match /questions/{questionId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+
+    match /knowledge_base/{docId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+
+    // Topic Lessons - Ders içerikleri (herkes okuyabilir)
+    match /topic_lessons/{lessonId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+
+    // Exam Related
+    match /exam_templates/{templateId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+
+    match /exams/{examId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+
+    // Exam Attempts (Authenticated Access)
+    match /exam_attempts/{attemptId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Quiz Results (Global - User's own quiz results)
+    match /quiz_results/{resultId} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null && request.auth.uid == request.resource.data.userId;
+      allow update, delete: if request.auth != null && request.auth.uid == resource.data.userId;
+    }
+
+    // Exam Usage Tracking (User's own usage)
+    match /exam_usage/{usageId} {
+      allow read: if request.auth != null && usageId.matches(request.auth.uid + '_.*');
+      allow write: if request.auth != null && request.resource.data.user_id == request.auth.uid;
+    }
+
+    // Wrong Answers (User's own wrong answers)
+    match /wrong_answers/{answerId} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null && request.auth.uid == request.resource.data.userId;
+      allow update, delete: if request.auth != null && request.auth.uid == resource.data.userId;
+    }
+
+    // Logging & Badges
+    match /ai_sessions/{sessionId} {
+      allow read, write: if request.auth != null;
+    }
+    
+    match /user_badges/{badgeId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Notifications (User's own notifications)
+    match /notifications/{notificationId} {
+      allow read, write: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null;
+    }
+  }
+}

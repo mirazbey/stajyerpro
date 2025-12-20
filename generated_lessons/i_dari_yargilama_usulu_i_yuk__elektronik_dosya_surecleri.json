@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **UYAP (Ulusal Yargı Ağı Bilişim Sistemi):** Türk yargı sisteminde elektronik dosya yönetimi, dava takibi, karar oluşturma ve tebligat gibi tüm yargısal süreçlerin dijital ortamda yürütülmesini sağlayan entegre bilişim sistemi. İdari yargılama süreçlerinin elektronikleşmesinin temel altyapısıdır.\n•   **E-Dava / E-Başvuru:** İdari yargıda dava dilekçelerinin, savunmaların, itirazların ve diğer yargısal belgelerin UYAP veya E-Devlet entegrasyonu aracılığıyla elektronik ortamda mahkemelere sunulması işlemidir. Bu sayede fiziksel dosya oluşturma ve elden evrak teslim etme zorunluluğu azalır.\n•   **Elektronik Tebligat (E-Tebligat):** İdari yargılama süreçlerinde taraflara, avukatlara ve diğer ilgili kişilere yargısal belgelerin (dilekçeler, ara kararlar, nihai kararlar vb.) güvenli elektronik tebligat sistemi (PTT-KEP veya UYAP aracılığıyla) üzerinden iletilmesidir. Tebligat Kanunu ve ilgili yönetmeliklerle düzenlenmiştir.\n•   **Elektronik İmza / Mobil İmza:** Elektronik ortamda üretilen verinin bütünlüğünü ve kimliğini doğrulayan, elle atılan imzaya eşdeğer hukuki geçerliliğe sahip sayısal veridir. İdari yargıda elektronik ortamda sunulan belgelerin geçerliliği için kritik öneme sahiptir. 5070 sayılı Elektronik İmza Kanunu ile düzenlenmiştir.\n•   **Elektronik Dosya:** İdari yargıda yürütülen bir davanın tüm bilgi ve belgelerinin (dilekçeler, tutanaklar, kararlar, deliller vb.) dijital ortamda saklandığı, UYAP sistemi üzerinden erişilebilen ve yönetilebilen sanal dosya bütünüdür. Fiziksel dosyanın dijital ikizidir ve hukuken aynı değeri taşır.\n•   **Duruşmasız İşlemler:** İdari Yargılama Usulü Kanunu'nun (İYUK) 20/B maddesi uyarınca, idari yargıda duruşma yapılmasına gerek olmayan iş ve işlemlerin elektronik ortamda yapılmasına ilişkin usullerdir. Bu tür işlemlerde tarafların veya avukatların fiziki olarak hazır bulunması zorunluluğu ortadan kalkar."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **2577 Sayılı İdari Yargılama Usulü Kanunu (İYUK) md. 20/B:** 'Duruşmasız işlerde elektronik işlemler' başlığını taşır. Bu madde, idari yargıda duruşma yapılmasına gerek olmayan tüm iş ve işlemlerin elektronik ortamda yapılabileceğini, bu işlemlere ilişkin usul ve esasların çıkarılacak yönetmelikle düzenleneceğini hükme bağlar. Elektronik ortamda yapılan işlemlerin fiziki ortamda yapılanlarla aynı hukuki sonuçları doğuracağını belirtir.\n•   **2577 Sayılı İdari Yargılama Usulü Kanunu (İYUK) md. 20/C:** 'Elektronik ortamda tebligat' başlığını taşır. İdari yargıda tebligatların elektronik ortamda yapılabileceğini düzenler ve elektronik tebligata ilişkin usul ve esasların 7201 sayılı Tebligat Kanunu ile birlikte çıkarılacak yönetmeliklerle belirleneceğini öngörür. Elektronik tebligatın zorunlu olduğu halleri ve tebligatın yapılmış sayılacağı anı belirtir.\n•   **5070 Sayılı Elektronik İmza Kanunu:** Elektronik imzanın hukuki niteliğini, elektronik sertifikaların düzenlenmesini ve kullanımını düzenler. İdari yargıdaki elektronik dosya süreçlerinde sunulan belgelerin hukuki geçerliliği için kullanılan elektronik imzanın yasal dayanağını oluşturur.\n•   **7201 Sayılı Tebligat Kanunu ve Elektronik Tebligat Yönetmeliği:** İdari yargıda da uygulanan genel tebligat hükümlerini ve özellikle elektronik tebligatın ne şekilde yapılacağını, kimlere zorunlu olduğunu, tebligatın ne zaman yapılmış sayılacağını ve usulünü detaylandıran ana düzenlemelerdir.\n•   **Ulusal Yargı Ağı Bilişim Sistemi (UYAP) Yönetmeliği:** UYAP'ın kuruluş, görev ve işleyişine ilişkin esas ve usulleri düzenler. İdari yargıda elektronik dosya süreçlerinin UYAP üzerinden nasıl yürütüleceği, elektronik evrakların oluşturulması, imzalanması, kaydedilmesi, tebligat işlemleri gibi teknik ve hukuki detayları içerir.\n•   **Arşiv Hizmetleri Hakkında Yönetmelik:** Elektronik ortamda oluşturulan resmi belgelerin arşivlenmesi ve saklanması süreçlerini düzenler. İdari yargı süreçlerinde ortaya çıkan elektronik belgelerin uzun vadeli korunması ve erişilebilirliği bu yönetmelik çerçevesinde sağlanır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Avukatın UYAP Üzerinden İdari Dava Açması:** Bir avukat, müvekkili adına idare mahkemesinde dava açmak istediğinde, dava dilekçesini ve eklerini UYAP Avukat Portalı üzerinden elektronik imza ile imzalayarak mahkemeye sunar. Sistem otomatik olarak bir dava numarası atar ve dilekçe havale edilir. Fiziksel dilekçe sunma ve harç yatırma işlemleri de yine portal üzerinden gerçekleştirilebilir.\n•   **İdare Mahkemesinin Elektronik Ara Karar Vermesi:** Yargılama devam ederken mahkeme, bir belgenin idareden istenmesine dair bir ara karar verdiğinde, bu kararı UYAP sistemi üzerinden elektronik ortamda oluşturur, hakim elektronik imzasıyla imzalar ve taraflara e-tebligat yoluyla gönderilmesini sağlar.\n•   **Bilirkişi Raporunun Elektronik Ortamda Sunulması:** İdari yargılama sırasında görevlendirilen bir bilirkişi, hazırladığı raporu belirlenen süre içerisinde UYAP Bilirkişi Portalından elektronik imza ile imzalayarak mahkemeye sunar. Taraflar ve mahkeme üyeleri rapora anında UYAP üzerinden erişebilir.\n•   **Vergi Davasında Tebligatın E-Posta ile Yapılması:** Bir mükellef hakkında açılan vergi davasında mahkeme, davalı vergi idaresine ve davacı mükellefe dava dilekçesini ve duruşma gününü e-tebligat yoluyla (KEP adresi veya UYAP sistemindeki adresleri üzerinden) tebliğ eder. Tebligat, muhatabın elektronik adresine ulaştığı tarihi takip eden beşinci günün sonunda yapılmış sayılır.\n•   **Vatandaşın E-Devlet Üzerinden İdari İşlem Takibi:** Bir vatandaş, E-Devlet kapısı üzerinden idari dava açmamış olsa dahi, idari birimlerle olan bazı yazışmalarını, idari başvurularının durumunu ve sonuçlarını elektronik ortamda takip edebilir. UYAP entegrasyonu sayesinde bu bilgiler vatandaşın e-Devlet profilinde görüntülenebilir.\n•   **Duruşma Tutanağının Elektronik Ortamda Oluşturulması:** Duruşmalı bir idari yargılamada, duruşma katibi tarafından UYAP üzerinden duruşma tutanağı oluşturulur. Hakim, tutanağı onaylayarak elektronik imzasıyla imzalar. Böylece tutanak anında elektronik dosyadaki yerini alır ve ilgili kişiler tarafından erişilebilir hale gelir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Elektronik İmza Geçerliliği ve Hukuki Nitelik:** Elektronik imzanın ıslak imzaya eşdeğer hukuki sonuç doğurabilmesi için 5070 sayılı Kanun’a uygun olarak güvenli elektronik imza niteliğinde olması ve nitelikli elektronik sertifika ile oluşturulması gerekir. Aksi takdirde, belgenin sıhhati ve hukuki değeri tartışmalı hale gelebilir.\n•   **Elektronik Tebligatın Yapıldığı An ve Süreler:** Elektronik tebligatın, muhatabın elektronik tebligat adresine ulaştığı tarihi takip eden beşinci günün sonunda yapılmış sayılması kuralı çok önemlidir. Bu süre, kanuni ve hak düşürücü sürelerin başlangıcında kritik rol oynar ve yanlış hesaplamalar hak kayıplarına yol açabilir.\n•   **Teknik Aksaklıklar ve Sistem Kesintileri:** UYAP veya diğer elektronik sistemlerde meydana gelebilecek teknik arızalar, siber saldırılar veya elektrik kesintileri gibi mücbir sebep hallerinde, sürelere ilişkin erteleme veya durma gibi özel hükümlerin olup olmadığına dikkat edilmelidir. Yönetmeliklerde bu durumlara ilişkin düzenlemeler mevcuttur.\n•   **Elektronik Ortamda Sunulamayacak Belgeler:** Bazı özel durumlarda veya teknik yetersizlikler nedeniyle belirli belgelerin (örneğin, çok büyük boyutlu veya özel formatlı deliller, fiziki aslı mutlaka görülmesi gereken belgeler) elektronik ortamda sunulamayabileceği unutulmamalıdır. Bu durumda fiziki ortamda sunum usulüne başvurulmalıdır.\n•   **Elektronik Dosyanın Güvenliği ve Gizliliği:** Elektronik ortamda tutulan dava dosyalarındaki kişisel verilerin korunması ve yargılamanın gizliliğinin sağlanması büyük önem taşır. UYAP sisteminin güvenlik standartlarına uyulması, yetkisiz erişimlerin engellenmesi ve veri sızıntılarının önlenmesi kritik bir dikkat noktasıdır.\n•   **Fiziki Dosya ile Elektronik Dosya Arasındaki Uyum:** Özellikle geçiş süreçlerinde veya istisnai durumlarda hem fiziksel hem de elektronik dosyanın bir arada yürütülmesi gerekebilir. Bu durumda iki dosya arasındaki uyumsuzlukların veya farklılıkların hukuki sonuçları ve çözüm yolları iyi anlaşılmalıdır. Elektronik dosyanın öncelikli olduğu haller genel kuraldır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **UYAP'ın İdari Yargıdaki İşlevi:** UYAP'ın idari yargılama süreçlerine entegrasyonunun amacını, sağladığı kolaylıkları (hız, şeffaflık, erişilebilirlik) ve hukuki sonuçlarını kavramak önemlidir.\n•   **İYUK'taki Elektronik İşlemlerle İlgili Hükümler:** İYUK md. 20/B (Duruşmasız İşlerde Elektronik İşlemler) ve md. 20/C (Elektronik Ortamda Tebligat) maddelerinin içeriklerini, kapsamlarını ve getirdiği yenilikleri eksiksiz bilmek gerekmektedir.\n•   **Elektronik Tebligatın Temel İlkeleri:** Elektronik tebligatın zorunlu olduğu kişiler, tebligatın yapılmış sayılacağı an (beşinci gün kuralı), tebligatın geçerlilik şartları ve bu konudaki kanun (7201 s. Tebligat K.) ve yönetmelik hükümlerini detaylıca öğrenmek kritiktir.\n•   **Elektronik İmzanın Hukuki Değeri:** 5070 sayılı Elektronik İmza Kanunu bağlamında elektronik imzanın tanımını, türlerini (güvenli/güvensiz), hukuki sonuçlarını ve ıslak imzaya eşdeğerliğini sağlayacak şartları iyi anlamak gereklidir.\n•   **Süre Hesaplamalarında Elektronik İşlemlerin Etkisi:** Özellikle elektronik tebligat sonrası kanuni sürelerin başlangıcının nasıl belirlendiği, mücbir sebeplerle sistem kesintisi durumunda sürelerin nasıl etkileneceği gibi pratik konulara yönelik bilgi sahibi olmak önemlidir.\n•   **Elektronik Dosya Yönetiminin Avantajları ve Zorlukları:** Elektronik dosya sisteminin yargılamaya getirdiği hız, maliyet tasarrufu, şeffaflık gibi avantajlarının yanı sıra, teknik altyapı eksiklikleri, güvenlik riskleri ve kullanıcı adaptasyonu gibi olası zorlukları da göz önünde bulundurarak bütüncül bir bakış açısı geliştirmek faydalıdır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, idari yargıda elektronik tebligatın yapılmış sayılacağı an aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tebligatın muhatabın elektronik adresine ulaştığı an.",
+        "B": "Tebligatın muhatabın elektronik adresine ulaştığı tarihi takip eden ikinci günün sonunda.",
+        "C": "Tebligatın muhatabın elektronik adresine ulaştığı tarihi takip eden beşinci günün sonunda.",
+        "D": "Tebligatın gönderildiği an.",
+        "E": "Tebligatın muhatap tarafından okunduğu an."
+      },
+      "correctAnswer": "C",
+      "explanation": "2577 sayılı İYUK'un 20/C maddesi ve 7201 sayılı Tebligat Kanunu'nun ilgili hükümlerine göre, elektronik tebligat muhatabın elektronik tebligat adresine ulaştığı tarihi takip eden beşinci günün sonunda yapılmış sayılır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi, idari yargıda elektronik imzayla ilgili temel yasal düzenlemedir?",
+      "options": {
+        "A": "6100 sayılı Hukuk Muhakemeleri Kanunu",
+        "B": "2577 sayılı İdari Yargılama Usulü Kanunu",
+        "C": "5070 sayılı Elektronik İmza Kanunu",
+        "D": "5271 sayılı Ceza Muhakemesi Kanunu",
+        "E": "7201 sayılı Tebligat Kanunu"
+      },
+      "correctAnswer": "C",
+      "explanation": "Elektronik imzanın hukuki niteliği, oluşturulması ve kullanımı 5070 sayılı Elektronik İmza Kanunu ile düzenlenmiştir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "UYAP (Ulusal Yargı Ağı Bilişim Sistemi) hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "Türk yargı sisteminde yargısal süreçleri dijital ortamda yürütmeyi sağlayan bir sistemdir.",
+        "B": "Sadece adli yargıda kullanılmakta olup, idari yargıda uygulaması bulunmamaktadır.",
+        "C": "Dava dilekçelerinin elektronik ortamda sunulmasına imkan tanır.",
+        "D": "Elektronik tebligat işlemlerinde önemli bir rol oynar.",
+        "E": "Karar oluşturma ve dosya takibi gibi işlemleri kapsar."
+      },
+      "correctAnswer": "B",
+      "explanation": "UYAP, hem adli hem de idari yargıda kullanılan, yargısal süreçlerin tamamını kapsayan entegre bir bilişim sistemidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "2577 sayılı İdari Yargılama Usulü Kanunu'nun 20/B maddesi hangi konuyu düzenlemektedir?",
+      "options": {
+        "A": "İdari davalarda temyiz süresi",
+        "B": "Duruşmasız işlerde elektronik işlemler",
+        "C": "Yürütmenin durdurulması kararları",
+        "D": "Kanun yollarına başvurma usulü",
+        "E": "İdari yargı mercilerinin görev ve yetkileri"
+      },
+      "correctAnswer": "B",
+      "explanation": "İYUK madde 20/B, 'Duruşmasız İşlerde Elektronik İşlemler' başlığı altında, duruşma yapılmasına gerek olmayan iş ve işlemlerin elektronik ortamda yapılmasına ilişkin usul ve esasları düzenler."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İdari yargıda avukatların UYAP üzerinden dava açarken kullandıkları imza türü aşağıdakilerden hangisi olmak zorundadır?",
+      "options": {
+        "A": "Mühürlü imza",
+        "B": "Parmak izi",
+        "C": "Güvenli elektronik imza",
+        "D": "Sıradan bir dijital imza",
+        "E": "Kaşeli imza"
+      },
+      "correctAnswer": "C",
+      "explanation": "Elektronik ortamda yapılan işlemlerin hukuki geçerliliği için 5070 sayılı Elektronik İmza Kanunu'na uygun olarak güvenli elektronik imza kullanılması zorunludur. Bu, UYAP üzerinden dava açan avukatlar için de geçerlidir."
+    }
+  ]
+}

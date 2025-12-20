@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Uzlaşma (Sulh):** Vergi hukukunda uzlaşma, vergi ihtilaflarının yargıya intikal etmeden veya yargı aşamasında idare ile mükellef arasında belirli usullerle çözümlenmesini sağlayan idari bir çözüm yoludur.\n•   **Amaç:** Vergi uyuşmazlıklarının hızlı, ekonomik ve etkin bir şekilde çözüme kavuşturulması, yargı yükünün azaltılması ve mükellef ile idare arasında karşılıklı rızaya dayalı bir mutabakat sağlanmasıdır.\n•   **Tarhiyat Öncesi Uzlaşma:** Vergi incelemesi tamamlandıktan sonra, vergi tarhiyatı yapılmadan önce (vergi ve ceza ihbarnamesi tebliğ edilmeden) mükellefin idare ile uzlaşma talebinde bulunmasıdır.\n•   **Tarhiyat Sonrası Uzlaşma:** Vergi ve ceza ihbarnamesinin mükellefe tebliğ edilmesinden sonra, dava açma süresi içinde veya dava açılmış ancak henüz karar verilmemişken mükellefin uzlaşma talebinde bulunmasıdır.\n•   **Uzlaşma Komisyonu:** Uzlaşma görüşmelerini yürüten ve kararı veren, idare bünyesinde oluşturulmuş yetkili mercidir.\n•   **Uyuşmazlık Konusu:** Genellikle matrah farkları, vergi ziyaı cezaları ve gecikme faizi gibi vergi tarhiyatından doğan anlaşmazlıklar uzlaşma konusu olabilir. Kaçakçılık suçuyla ilgili vergi cezaları uzlaşma kapsamı dışındadır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Vergi Usul Kanunu (VUK):** Uzlaşmaya ilişkin temel düzenlemeler 213 sayılı Vergi Usul Kanunu'nda yer almaktadır.\n•   **Tarhiyat Sonrası Uzlaşma:** VUK'un Ek 1, Ek 2 ve Ek 3. maddelerinde düzenlenmiştir. Bu maddeler uzlaşma kapsamı, uzlaşmaya başvurma süresi, uzlaşma komisyonlarının oluşumu ve uzlaşma neticesinin hukuki sonuçlarını belirler.\n•   **Tarhiyat Öncesi Uzlaşma:** VUK'ta doğrudan özel bir madde ile değil, genellikle geçici maddeler veya Maliye Bakanlığı tarafından çıkarılan yönetmeliklerle düzenlenir. Mevcut durumda VUK'un Geçici Madde 19'u ile düzenlenmekte olup, bu uygulama sürekli değil, belirli dönemler için uzatılmaktadır.\n•   **Uzlaşma Yönetmeliği:** Uzlaşma usul ve esasları, Maliye Bakanlığı tarafından çıkarılan \"Vergi Hatalarını Düzeltme ve Uzlaşma Yönetmeliği\" ile detaylı olarak belirlenir. Bu yönetmelik, uzlaşma talebinin şekli, süreci, komisyonların görev ve yetkileri gibi hususları içerir.\n•   **Hukuki Sonuç:** Uzlaşma sağlanması durumunda, uzlaşılan vergi ve ceza miktarı kesinleşir ve mükellefin bu tutarlar için dava açma hakkından feragat etmiş sayılması esastır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Tarhiyat Sonrası Uzlaşma):** Bir mükellefe, yapılan vergi incelemesi sonucunda 100.000 TL KDV farkı ve 150.000 TL vergi ziyaı cezası kesilmiştir. Mükellef, bu tutarlara itiraz etmek yerine, tebliğ tarihinden itibaren dava açma süresi içinde uzlaşma başvurusunda bulunmuştur. Uzlaşma Komisyonu ile yapılan görüşmelerde, vergi ziyaı cezasının %50'si üzerinden uzlaşmaya varılmıştır. Bu durumda mükellef, 100.000 TL KDV ve 75.000 TL vergi ziyaı cezasını ödemeyi kabul ederek uyuşmazlığı sonlandırmış olur.\n•   **Örnek 2 (Tarhiyat Öncesi Uzlaşma):** Bir şirketin defter ve belgeleri üzerinde yapılan vergi incelemesi sonucunda 200.000 TL kurumlar vergisi matrah farkı tespit edilmiştir. İnceleme raporu henüz mükellefe tebliğ edilmeden, inceleme elemanı uzlaşma imkanını mükellefe bildirir. Şirket, tarhiyat öncesi uzlaşma talebinde bulunur. Komisyon, matrah farkının bir kısmının kabul edilmesi karşılığında vergi ziyaı cezasında indirim teklif edebilir. Uzlaşma sağlanırsa, tarhiyat uzlaşılan tutar üzerinden yapılır.\n•   **Örnek 3 (Uzlaşmanın Sağlanamaması):** Mükellef A'ya kesilen yüklü bir özel usulsüzlük cezası için tarhiyat sonrası uzlaşma başvurusu yapılmıştır. Ancak, uzlaşma komisyonu ile mükellef arasında cezadan indirim konusunda mutabakat sağlanamamıştır. Uzlaşmanın sağlanamaması üzerine düzenlenen tutanağa istinaden, mükellef A, kendisine tebliğ edilen ceza ihbarnamesine karşı süresi içinde vergi mahkemesinde dava açma hakkını kullanmıştır.\n•   **Örnek 4 (Uzlaşmada Sürelerin Önemi):** Mükellef B, kendisine tebliğ edilen vergi/ceza ihbarnamesine karşı uzlaşma başvurusunu, ihbarnamenin tebliğ tarihinden itibaren 30 günlük dava açma süresinin son gününden sonra yapmıştır. Süresinde yapılmayan başvuru, uzlaşma komisyonu tarafından dikkate alınmayacaktır ve mükellefin uzlaşma hakkı kaybolmuş olacaktır.\n•   **Örnek 5 (Uzlaşmanın Kapsamı Dışında Kalan Ceza):** Bir mükellef, sahte belge düzenleme fiili nedeniyle Vergi Usul Kanunu'nun 359. maddesi kapsamına giren (kaçakçılık suçu) bir vergi cezası ile karşılaşmıştır. Bu tür cezalar, Kanun gereği uzlaşma kapsamı dışında kaldığından, mükellef uzlaşma talebinde bulunamaz, ancak yargı yoluna başvurabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Süreler:** Uzlaşma başvurusu için kanuni süreler çok kritiktir (tebliğden itibaren dava açma süresi veya inceleme raporunun tebliğinden sonraki belirli süreler). Sürelerin kaçırılması uzlaşma hakkının kaybedilmesine yol açar.\n•   **Feragat:** Uzlaşma sonucunda varılan mutabakat kesin niteliktedir. Uzlaşılan tutarlar için mükellefin dava açma hakkından vazgeçtiği kabul edilir. Ancak uzlaşma sağlanamaması veya uzlaşma kapsamı dışındaki konular için dava açma hakkı saklıdır.\n•   **Kapsam:** Her türlü vergi ve ceza uzlaşma kapsamında değildir. Özellikle kaçakçılık suçuna ilişkin vergi ziyaı cezaları ile özel usulsüzlük cezalarının bir kısmı uzlaşmaya konu edilemez.\n•   **İptal veya Red:** Uzlaşma talebi, kanuni şartları taşımaması halinde idarece reddedilebilir veya uzlaşma görüşmeleri olumsuz sonuçlanabilir. Bu durumlarda mükellefin yargı yoluna başvurma hakkı yeniden doğar.\n•   **Uzlaşma Komisyonunun Takdir Yetkisi:** Uzlaşma komisyonları, mükellefin sunduğu argümanları ve idarenin tespitlerini değerlendirerek, yasal sınırlar içinde indirim oranları konusunda takdir yetkisine sahiptir.\n•   **Psikolojik Faktörler:** Uzlaşma süreci, hem idare hem de mükellef için bir 'pazarlık' ortamı yaratabilir. Bu süreçte doğru strateji belirlemek ve gerekçeleri iyi sunmak önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Uzlaşmanın Tanımı ve Amacı:** Uzlaşmanın ne anlama geldiğini, vergi hukukundaki yerini ve temel hedeflerini (yargı yükünü azaltma, hızlı çözüm) iyi kavrayın.\n•   **Uzlaşma Türleri ve Farkları:** Tarhiyat öncesi ve tarhiyat sonrası uzlaşmanın temel farklarını, uygulama alanlarını ve başvuru zamanlarını karşılaştırmalı olarak öğrenin.\n•   **Yasal Dayanaklar:** VUK Ek Madde 1, 2, 3 ve Geçici Madde 19 gibi ana kanun maddelerini ve Uzlaşma Yönetmeliği'nin önemini bilin.\n•   **Başvuru Süreleri ve Hukuki Sonuçlar:** Uzlaşma başvurusu için geçerli olan süreleri ve uzlaşma sağlanması/sağlanamaması durumunda ortaya çıkan hukuki neticeleri (dava açma hakkının düşmesi/doğması) ezberleyin.\n•   **Uzlaşma Kapsamı Dışındaki Haller:** Hangi vergi ve cezaların uzlaşma kapsamı dışında kaldığını (örneğin, kaçakçılık cezaları) bilmek, doğru cevabı bulmanızda kritik olacaktır.\n•   **Uzlaşma Komisyonları:** Uzlaşma komisyonlarının oluşumu ve görevleri hakkında genel bilgi sahibi olun."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Vergi hukukunda uzlaşmaya ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Uzlaşma, vergi uyuşmazlıklarının yargı yoluna başvurmadan çözümlenmesini amaçlayan idari bir yoldur.",
+        "B": "Tarhiyat öncesi uzlaşma, vergi incelemesi tamamlandıktan ve vergi tarhiyatı yapıldıktan sonra mümkün olan bir yoldur.",
+        "C": "Uzlaşma sağlanması durumunda, uzlaşılan tutarlar için mükellefin dava açma hakkından feragat ettiği kabul edilir.",
+        "D": "Vergi Usul Kanunu'nun Ek 1. maddesi, tarhiyat sonrası uzlaşmayı düzenleyen temel hükümlerden biridir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tarhiyat öncesi uzlaşma, vergi incelemesi tamamlandıktan *ancak vergi tarhiyatı yapılmadan önce* gerçekleştirilir. Tarhiyat yapıldıktan sonra ise tarhiyat sonrası uzlaşma gündeme gelir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdaki vergi cezalarından hangisi genellikle uzlaşma kapsamı dışında kalır?",
+      "options": {
+        "A": "Vergi ziyaı cezası",
+        "B": "Usulsüzlük cezası",
+        "C": "Kaçakçılık suçuyla ilgili vergi ziyaı cezası",
+        "D": "Özel usulsüzlük cezası"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vergi Usul Kanunu'nun 359. maddesi kapsamına giren kaçakçılık suçuyla ilgili vergi ziyaı cezaları uzlaşma kapsamı dışında tutulmuştur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Tarhiyat sonrası uzlaşma başvurusu için genel olarak hangi süre esas alınır?",
+      "options": {
+        "A": "Vergi incelemesinin bittiği tarihten itibaren 15 gün",
+        "B": "Vergi ve ceza ihbarnamesinin tebliğ tarihinden itibaren dava açma süresi içinde",
+        "C": "Hesap döneminin kapanışından sonraki ilk ay içinde",
+        "D": "Herhangi bir süre kısıtlaması yoktur, her zaman başvurulabilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tarhiyat sonrası uzlaşma başvurusu, vergi ve ceza ihbarnamesinin mükellefe tebliğ edildiği tarihten itibaren dava açma süresi (genellikle 30 gün) içinde yapılmalıdır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Uzlaşma sağlanamaması durumunda mükellefin hukuki durumu hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Mükellef, uzlaşma talebinden feragat ettiği için dava açma hakkını kaybeder.",
+        "B": "Uzlaşma sağlanamaması durumunda, mükellef uzlaşma kapsamındaki tutarlar için yargı yoluna başvurabilir.",
+        "C": "Mükellef, sadece uzlaşma komisyonunun belirlediği tutarı ödemek zorundadır.",
+        "D": "Uzlaşma görüşmeleri yenilenmek üzere ertelenir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Uzlaşmanın sağlanamaması halinde, bu durum bir tutanakla tespit edilir ve mükellef, uzlaşma kapsamındaki tutarlar için süresi içinde vergi mahkemesinde dava açma hakkını kullanabilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi uzlaşmanın temel amaçlarından biri değildir?",
+      "options": {
+        "A": "Vergi uyuşmazlıklarını hızlı ve ekonomik yoldan çözmek.",
+        "B": "Yargı organlarının iş yükünü azaltmak.",
+        "C": "Mükellef ile idare arasında mutabakat sağlamak.",
+        "D": "Mükelleflerin her durumda vergi yükünü azaltmak."
+      },
+      "correctAnswer": "D",
+      "explanation": "Uzlaşma, her durumda mükellefin vergi yükünü azaltmayı garanti etmez; amacı uyuşmazlığı çözmek ve bir mutabakata varmaktır. Vergi yükünde azalma, uzlaşma sürecinin bir sonucu olabilir ancak temel amacı değildir."
+    }
+  ]
+}

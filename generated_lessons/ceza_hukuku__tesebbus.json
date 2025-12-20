@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "• **Tanım:** Teşebbüs, kişi tarafından işlemeyi kastettiği bir suçu tamamlamaya yönelik elverişli hareketlerle doğrudan doğruya icraya başlanmış, ancak failin elinde olmayan nedenlerle suçun tamamlanamaması durumudur. Ceza hukukunda suça tamamlanmaya yakın bu aşamayı cezalandırılabilir kılar.\n• **Amaç:** Suçun tamamlanamasa bile, suç işleme kastının ve yarattığı tehlikenin cezalandırılabilmesini sağlamaktır. Bu sayede, hukuka aykırı davranışların erken aşamada önlenmesi hedeflenir.\n• **Unsurlaar:** Teşebbüsün oluşabilmesi için;\n    1. Belirli bir suçu işleme kastı (genel ve özel kast).\n    2. Suçu işlemeye elverişli hareketlerle doğrudan doğruya icraya başlama.\n    3. Failin elinde olmayan nedenlerle suçun tamamlanamaması gerekir.\n• **İcra Hareketlerine Başlama:** Suçun tamamlanması için gerekli dışa vurulan, somut ve tehlikeli eylemlerin başlamasıdır. Hazırlık hareketlerinden farklıdır ve genellikle mağdura veya hukuki değere yönelik ilk doğrudan saldırı olarak kabul edilir. Objektif ve sübjektif yaklaşımlar vardır, TCK her ikisini de harmanlar.\n• **Elverişlilik:** İcra hareketlerinin suçu tamamlamaya objektif olarak uygun olmasıdır. Hem hareketin kendisi (örn. silahın ateş alması), hem de suçun konusu (örn. hayatta bir insan) elverişli olmalıdır. 'Mutlak surette imkansız' olan durumlarda elverişlilik yoktur ve teşebbüs oluşmaz (örn. ölüye ateş etmek).\n• **Tamamlanamama:** Suçun neticesinin, failin iradesi dışında kalan dışsal bir etken veya olayın müdahalesiyle gerçekleşememesidir. Bu, bir başkasının müdahalesi, beklenmedik bir durum veya failin planının başarısızlığı olabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "• **Türk Ceza Kanunu (TCK) m. 35 - Teşebbüs:** 'Kişi, işlemeyi kastettiği bir suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp da elinde olmayan nedenlerle tamamlayamaz ise teşebbüsten dolayı sorumlu tutulur.' Bu madde teşebbüsün tanımını, unsurlarını ve cezalandırılabilirliğini açıkça ortaya koyar.\n• **Teşebbüs Halinde Ceza:** TCK m. 35/2 uyarınca, teşebbüs halinde faile, işlemeyi kastettiği suçun tamamlanmış hali için öngörülen cezanın dörtte birinden dörtte üçüne kadarı indirilir. Bu, teşebbüsün tamamlanmış suça göre daha az cezalandırılmasını sağlar, ancak yine de ciddi bir yaptırım öngörür.\n• **TCK m. 36 - Gönüllü Vazgeçme:** 'Fail, suçun icra hareketlerinden gönüllü vazgeçer veya suçun tamamlanmasını önleyici tedbirler alırsa, teşebbüsten dolayı cezalandırılmaz.' Bu madde, faili pişmanlığa ve suçun tamamlanmasını engellemeye teşvik eder. Ancak, vazgeçtiği ana kadar yapmış olduğu hareketler bağımsız bir suç oluşturuyorsa, fail sadece bu suçtan sorumlu tutulur (örn. mala zarar verme).\n• **Hazırlık Hareketleri / İcra Hareketleri Ayırımı:** TCK'da 'doğrudan doğruya icraya başlama' ifadesiyle bu ayrım vurgulanır. Suç işleme kararının dış dünyaya yansıması ve suçun niteliğine göre objektif olarak suçun işlenmesine yönelik tehlikeli adımların atılması icra hareketi sayılır. Silah temin etmek hazırlık, bankanın kapısına dayatmak ise icradır.\n• **Suçun İmkansızlığı (Elverişsiz Teşebbüs):** TCK m. 35'teki 'elverişli hareketler' ifadesi, suçun mutlak surette imkansız olduğu durumlarda teşebbüsün cezalandırılamayacağını öngörür. Örneğin, ölmüş bir kişiyi öldürmeye teşebbüs edilemez. Ancak, nispi imkansızlık durumlarında (örn. çalınacak bir şeyin olmadığı kasayı açmaya çalışmak) teşebbüs söz konusu olabilir.\n• **Kastın Varlığı ve Taksirli Suçlar:** Teşebbüs, ancak kasten işlenebilen suçlarda mümkündür. Taksirli suçlarda, suç işleme kastı bulunmadığından teşebbüs de söz konusu olamaz. Failin, işlemeyi kastettiği suçun tamamlanmış haline yönelik kastı olmalıdır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "• **Örnek 1 (Tamamlanmış Teşebbüs):** Hırsızlık yapmak amacıyla bir konutun kapısını zorlayarak açan fail, içeri girmeye çalışırken komşuların sesini duyup olay yerinden kaçmıştır. Fail hırsızlık suçunu tamamlayamamış, ancak icra hareketleri başlamış ve elinde olmayan sebeplerle sonuca ulaşamamıştır.\n• **Örnek 2 (Tamamlanmamış Teşebbüs):** Bir kişiyi tabancayla vurarak öldürmek isteyen fail, hedefine doğru nişan alıp tetiği çekmiş, ancak merminin namluda sıkışması veya hedefini ıskalaması nedeniyle mağdur yaralanmamıştır. Burada failin iradesi dışı bir nedenle suç tamamlanmamıştır.\n• **Örnek 3 (Suçun İmkansızlığı – Konunun İmkansızlığı):** Bir kadına cinsel saldırıda bulunmak isteyen fail, kadının yatağına girmiş ancak kadının aslında bir manken olduğunu fark etmiştir. Bu durumda cinsel saldırı suçu ‘konusunun imkansızlığı’ nedeniyle mutlak surette imkansızdır, dolayısıyla teşebbüs oluşmaz.\n• **Örnek 4 (Gönüllü Vazgeçme):** Bir restoran sahibi, rakibini zehirleyerek öldürmek amacıyla yemeğine zehir katmış, ancak servis etmeden hemen önce pişmanlık duyarak zehirli yemeği dökmüş ve servis yapmamıştır. Bu durumda fail, gönüllü vazgeçme hükümleri uyarınca cinayete teşebbüsten cezalandırılmaz. Ancak yemeği dökmekle bir mala zarar verme suçu oluşmuşsa, o suçtan sorumlu tutulur.\n• **Örnek 5 (Hazırlık Hareketleri / İcra Hareketleri):** Bir bankayı soymayı planlayan A, gerekli malzemeleri (maske, silah) temin etmiş (hazırlık hareketi). Daha sonra bankanın önüne gelmiş, maskesini takıp silahını çekmiş ve bankaya doğru ilerlemeye başlamış (icra hareketi). Tam o sırada devriye gezen polis aracını görerek kaçmıştır. Bu durumda A, banka soygununa teşebbüsten sorumlu olacaktır, çünkü icra hareketlerine başlamıştır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "• **Kastın Önemi:** Teşebbüsün varlığı için, failin tamamlanmış suçu işlemeye yönelik 'doğrudan kastının' bulunması şarttır. Olası kastla işlenebilen suçlarda teşebbüs genellikle mümkün değildir, zira olası kastın doğası gereği fail sonucu 'göze alır' ancak 'istemez'.\n• **Elverişlilik Kriteri:** TCK'daki 'elverişli hareketler' ifadesi, suçun konusunun veya aracının mutlak surette suçu gerçekleştirmeye uygun olmaması durumunda teşebbüsün oluşmayacağını gösterir. Örneğin, öldürme kastıyla ölü birine ateş etmek teşebbüs sayılmaz, çünkü 'canlı bir insan' suçun konusu olarak yoktur.\n• **Gönüllü Vazgeçmede Bağımsız Suç:** Gönüllü vazgeçme durumunda fail, işlemeyi kastettiği asıl suçtan sorumlu tutulmaz. Ancak, vazgeçtiği ana kadar gerçekleştirdiği eylemler bağımsız bir suç (örn. kilitli kapıyı kırmak suretiyle mala zarar verme) oluşturuyorsa, fail sadece bu bağımsız suçtan dolayı cezalandırılır. Bu ayrım vaka sorularında sıkça karıştırılır.\n• **İcra Hareketlerinin Başlamasının Tespiti:** Hazırlık ve icra hareketleri arasındaki sınırın tespiti, özellikle karmaşık suçlarda ve sınav sorularında kritik öneme sahiptir. Yargıtay kararları ve doktrindeki görüşler bu konuda yol göstericidir. Genellikle, failin planını tamamlamaya yönelik, mağdurun veya hukuki değerin tehlikeye girdiği ilk doğrudan adım icra hareketi olarak kabul edilir.\n• **Hukuka Aykırılık ve Kusurluluk:** Teşebbüs de tam suç gibi hukuka aykırı ve kusurlu bir eylemi gerektirir. Meşru savunma gibi hukuka uygunluk nedenleri veya akıl hastalığı gibi kusurluluğu kaldıran haller, teşebbüsün de oluşmasına engel teşkil eder.\n• **Teşebbüste Ceza İndirimi:** Teşebbüs halinde uygulanacak ceza indirimi (dörtte birden dörtte üçe kadar), hakim tarafından olayın özelliklerine, icra hareketlerinin tamamlanmış suça yakınlığına ve failin kusur yoğunluğuna göre takdir edilir. İndirimin üst sınırı (dörtte üç), suçun tamamlanmasına en az yaklaşan teşebbüsler için; alt sınırı (dörtte bir) ise en çok yaklaşan teşebbüsler için uygulanabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "• **TCK m. 35 ve 36'yı Ezberleyin ve Anlayın:** Teşebbüs ve gönüllü vazgeçme maddelerinin lafzını bilmek, temel tanım ve koşulları anlamanın ilk adımıdır. Her kelimenin hukuki anlamını kavrayın.\n• **Hazırlık - İcra Ayrımına Odaklanın:** Olay örgülerinde hangi eylemlerin hazırlık, hangilerinin icra hareketi sayılacağını ayırt etme becerisi, vaka sorularının çözümü için elzemdir. Bu ayrım, bir eylemin teşebbüs olup olmadığını belirler.\n• **'Elverişlilik' ve 'Mutlak İmkansızlık' Kavramlarına Hakim Olun:** Suçun imkansızlığı durumları ve 'elverişli hareketler' koşulu arasındaki ilişkiyi iyi anlayın. Ölmüş kişiye ateş etme gibi mutlak imkansızlık durumları ile nispi imkansızlık durumları arasındaki farkları kavrayın.\n• **Gönüllü Vazgeçmenin Şartlarını ve Sonuçlarını Bilin:** Gönüllü vazgeçmenin faili teşebbüsten nasıl kurtardığını, ancak önceki hareketlerden oluşan bağımsız suçlardan sorumluluğun devam edebileceğini unutmayın. Bu, sıkça hata yapılan bir alandır.\n• **Kast ve Teşebbüs İlişkisini Kavrayın:** Taksirli suçlarda teşebbüsün mümkün olmadığını, teşebbüs için tamamlanmış suça yönelik 'kastın' zorunlu olduğunu aklınızdan çıkarmayın. Özellikle olası kast ile teşebbüsün tartışmalı durumlarını gözden geçirin.\n• **Çoktan Seçmeli Sorularda Detaylara Dikkat:** Sınavda çıkan sorular genellikle küçük detayları içerir. 'Elinde olmayan nedenler', 'doğrudan doğruya icraya başlama', 'gönüllülük' gibi anahtar kelimelerin anlamlarını iyi sindirmiş olmanız gerekmektedir. Özellikle örnek olay analizlerinde bu detaylar belirleyici olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "A, eski sevgilisi B'yi zehirlemek amacıyla yemeğine ölümcül dozda zehir karıştırmıştır. Ancak, yemeği servis etmeden hemen önce vicdan azabı duyarak yemeği çöpe dökmüş ve B'ye vermemiştir. Bu olayda A'nın hukuki sorumluluğu ne olacaktır?",
+      "options": {
+        "A": "Cinayete teşebbüsten sorumlu tutulur.",
+        "B": "Gönüllü vazgeçme hükümleri uyarınca cinayete teşebbüsten sorumlu tutulmaz.",
+        "C": "Sadece yemeğe zehir kattığı için mala zarar verme suçundan sorumlu tutulur.",
+        "D": "Suç işlemeye karar verdiği için kasten yaralama suçuna teşebbüsten sorumlu tutulur."
+      },
+      "correctAnswer": "B",
+      "explanation": "TCK m. 36 uyarınca, fail suçun icra hareketlerinden gönüllü vazgeçer veya suçun tamamlanmasını önleyici tedbirler alırsa, teşebbüsten dolayı cezalandırılmaz. A, yemeği servis etmeyerek cinayet suçunun tamamlanmasını gönüllü olarak engellemiştir. Yemeği çöpe dökmesi mala zarar verme olarak değerlendirilse de, cinayete teşebbüsten sorumluluğu ortadan kalkar."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir hırsız, gece vakti girmek istediği evin kapısını kırmaya başlamış, ancak kapının alarm sistemini devreye soktuğunu fark edince panikleyerek olay yerinden kaçmıştır. Hırsızın bu eylemi hukuken nasıl değerlendirilmelidir?",
+      "options": {
+        "A": "Hazırlık hareketleri aşamasında kaldığı için herhangi bir suçtan sorumlu tutulmaz.",
+        "B": "Mala zarar verme suçundan sorumlu tutulur.",
+        "C": "Hırsızlık suçuna teşebbüsten sorumlu tutulur.",
+        "D": "Gönüllü vazgeçme hükümleri uygulanır, sadece mala zarar verme suçundan sorumlu olur."
+      },
+      "correctAnswer": "C",
+      "explanation": "Hırsız, evin kapısını kırarak hırsızlık suçunun icra hareketlerine başlamıştır. Alarmın devreye girmesi failin elinde olmayan bir nedendir ve suçun tamamlanmasını engellemiştir. Bu durum TCK m. 35'te düzenlenen teşebbüs kapsamına girer. Mala zarar verme eylemi ise hırsızlığın icra hareketi kapsamında değerlendirilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "X, düşmanı Y'yi öldürmek amacıyla, Y'nin her gece kullandığı yolda pusu kurmuştur. Y'nin gelmesini beklerken, X'in silahı ateş almamış ve Y o an oradan geçmekte olan polis ekiplerince X'in varlığı fark edilmiştir. X yakalanmıştır. X'in silahının ateş almaması durumu, teşebbüsün hangi unsuruyla ilgilidir?",
+      "options": {
+        "A": "Kastın yokluğu",
+        "B": "Gönüllü vazgeçme",
+        "C": "Elinde olmayan nedenlerle suçun tamamlanamaması",
+        "D": "Hazırlık hareketleri aşamasında kalma"
+      },
+      "correctAnswer": "C",
+      "explanation": "X, öldürme kastıyla icra hareketlerine başlamış (pusu kurma, silahla hedef bekleme). Silahın ateş almaması, failin iradesi dışında bir nedendir ve suçun tamamlanmasını engellemiştir. Bu durum TCK m. 35'te belirtilen 'elinde olmayan nedenlerle tamamlayamaz ise' koşulunu karşılar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi, Türk Ceza Hukuku'nda 'mutlak surette imkansız teşebbüs' kapsamında değerlendirilir ve cezalandırılmaz?",
+      "options": {
+        "A": "Dolu sandığı ile bir kişiye ateş eden failin, hedefini ıskalaması.",
+        "B": "Bir kasayı soymak isteyen failin, kasanın boş olduğunu bilmemesi.",
+        "C": "Ölmüş bir kişiyi öldürme kastıyla bıçaklayan failin eylemi.",
+        "D": "Bir cüzdanı çalmak isteyen failin, cüzdanın delik olması nedeniyle paraları düşürmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "Mutlak surette imkansız teşebbüs, suçun konusunun veya aracının suçu gerçekleştirmeye hiçbir şekilde elverişli olmaması durumudur. Ölmüş bir kişiyi öldürme kastıyla bıçaklamak, canlı bir insan (suçun konusu) olmadığı için mutlak imkansızlıktır ve TCK m. 35'teki 'elverişli hareketler' koşulunu sağlamaz. Diğer seçenekler ise nispi imkansızlık veya tamamlanamamış teşebbüs durumlarıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "TCK'ya göre, bir suçun teşebbüs aşamasında kalması halinde faile verilecek ceza ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Tamamlanmış suç için öngörülen cezanın yarısı uygulanır.",
+        "B": "Tamamlanmış suç için öngörülen cezanın dörtte birinden dörtte üçüne kadarı indirilir.",
+        "C": "Teşebbüs halinde ceza verilmez, sadece adli para cezasına hükmedilir.",
+        "D": "Sadece işlenen hazırlık hareketlerinden dolayı ceza verilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "TCK m. 35/2 açıkça belirtildiği üzere, teşebbüs halinde faile, işlemeyi kastettiği suçun tamamlanmış hali için öngörülen cezanın dörtte birinden dörtte üçüne kadarı indirilir. Bu, teşebbüsün tamamlanmış suça göre daha hafif cezalandırılmasını sağlar."
+    }
+  ]
+}

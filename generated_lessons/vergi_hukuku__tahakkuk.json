@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tahakkuk (Accrual/Assessment):** Vergi borcunun mükellef tarafından ödenmesi gereken aşamaya gelmesidir. Vergi Usul Kanunu (VUK) Madde 22'ye göre 'Verginin, mükellef tarafından ödenmesi gereken safhaya gelmesidir.' Miktar ve mükellefin hukuken kesinleştiği andır.\n•   **Vergileme Süreci:** Vergi hukukunda vergileme süreci kronolojik olarak dört ana aşamadan oluşur: Tarh (assessment), Tebliğ (notification), Tahakkuk (accrual/assessment to be paid), ve Tahsil (collection). Tahakkuk, tebliğden sonra, tahsilden önce yer alır.\n•   **Tarh (Assessment):** Verginin miktarının kanunlarda gösterilen matrah ve nispetler üzerinden hesaplanarak tespit edilmesidir (VUK Madde 20). Tahakkukun ön aşamasıdır.\n•   **Tebliğ (Notification):** Vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların yetkili makamlar tarafından mükellefe veya vergi sorumlusuna bildirilmesidir (VUK Madde 21). Tahakkukun geçerliliği için tebliğ zorunludur.\n•   **Tahakkuk Fişi:** Beyana dayalı vergilerde (gelir vergisi, KDV gibi), mükellefin beyannameyi vermesi üzerine vergi dairesince düzenlenen ve verginin tahakkuk ettiğini gösteren belgedir. Bu fiş, aynı zamanda tebliğ hükmündedir (VUK Madde 23)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Vergi Usul Kanunu (VUK):** Tahakkuk kavramının temel yasal dayanağını oluşturan en önemli kanundur. VUK'un İkinci Kitap, İkinci Kısım'ında 'Vergi Tarh ve Tahakkuku' başlığı altında detaylı olarak düzenlenmiştir.\n•   **VUK Madde 22 - Tahakkuk:** 'Verginin, mükellef tarafından ödenmesi gereken safhaya gelmesidir.' Bu madde, tahakkukun tanımını yaparak hukuki niteliğini belirler. Tahakkuk ile vergi borcu muaccel hale gelir ve ödeme süreci başlar.\n•   **VUK Madde 20 - Tarh:** 'Verginin alacaklı amme idaresi tarafından kanunlarında gösterilen matrah ve nispetler üzerinden hesaplanarak miktarının tespit edilmesidir.' Tarh, tahakkuk öncesi vergi miktarının belirlenmesi işlemidir.\n•   **VUK Madde 21 - Tebliğ:** 'Vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların yetkili makamlar tarafından mükellefe veya vergi sorumlusuna yazı ile bildirilmesidir.' Tahakkukun hukuki geçerliliği için tebliğin usulüne uygun olarak yapılması şarttır.\n•   **VUK Madde 23 - Tahakkuk Fişi:** Beyanname usulü ile tarh ve tahakkuk ettirilen vergilerde, beyannamenin ilgili vergi dairesine verilmesi üzerine, vergi dairesince 'tahakkuk fişi' tanzim olunur ve bir nüshası mükellefe verilir. Bu fiş, verginin tahakkuk ettiğini ve tebliğ edildiğini gösterir.\n•   **VUK Madde 108 - Zaman Aşımı:** Vergi alacağı, tahakkuk zaman aşımı süresi içinde tahakkuk ettirilmezse veya tahakkuk ettirilse bile tahsil zaman aşımı süresi içinde tahsil edilemezse, zaman aşımına uğrar. Tahakkuk zaman aşımı, vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren beş yıldır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Gelir Vergisi Beyannamesi:** Bir gerçek kişi, yıllık Gelir Vergisi Beyannamesini (örneğin kira geliri, ticari kazanç vb.) elektronik ortamda veya kağıt üzerinde vergi dairesine verdiğinde, beyannamede belirtilen tutarlar üzerinden otomatik olarak bir tahakkuk fişi düzenlenir. Bu fişin mükellefe ulaşmasıyla vergi borcu tahakkuk eder ve ödeme süresi başlar.\n•   **Katma Değer Vergisi (KDV) Beyannamesi:** Bir işletme, aylık KDV beyannamesini (Hesaplanan KDV - İndirilecek KDV) vergi dairesine sunduğunda, ödenmesi gereken KDV tutarı üzerinden tahakkuk fişi düzenlenir. Bu fiş, KDV borcunun ödenebilir hale geldiğini ve yasal ödeme vadesinin başladığını gösterir.\n•   **Emlak Vergisi:** Belediyeler tarafından her yıl takdir ve ilan edilen emlak vergisi, mükellefe genellikle ilan yoluyla veya posta ile yapılan tebliğ neticesinde tahakkuk eder. Mükellef bu tahakkuk fişi veya bildirim üzerinden taksitler halinde ödemelerini yapar.\n•   **Motorlu Taşıtlar Vergisi (MTV):** Motorlu taşıtlar vergisi, aracın sicile kaydıyla birlikte otomatik olarak tahakkuk etmeye başlar ve her yılın belirli dönemlerinde (genellikle Ocak ve Temmuz) ilgili yıla ait MTV tutarları mükellefe bildirilmeden sistem üzerinden tahakkuk eder ve ödenir.\n•   **Veraset ve İntikal Vergisi:** Bir kişinin ölümü veya karşılıksız intikal (bağış) durumunda mirasçılar veya intikal edenler tarafından verilen beyanname sonrası, vergi dairesi yapılan inceleme ve hesaplamaların ardından vergi miktarını tarh eder ve tebliğ eder. Tebliğ ile birlikte vergi borcu tahakkuk etmiş olur."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Tahakkuk ve Tahsil Arasındaki Fark:** Tahakkuk, verginin ödenmesi gereken aşamaya gelmesi (muaccel olması) iken; tahsil, verginin fiilen devlet hazinesine ödenmesidir. Tahakkuk eden bir verginin hemen tahsil edilmesi şart değildir, ödeme süreleri kanunlarla belirlenmiştir.\n•   **Tebliğin Mutlak Önemi:** Vergi borcunun tahakkuk edebilmesi ve hukuki sonuç doğurabilmesi için mükellefe usulüne uygun olarak tebliğ edilmesi şarttır. Tebliğ eksik veya hatalı yapılmışsa, tahakkuk da sakat hale gelebilir ve bu durum mükellef lehine hukuki sonuçlar doğurabilir (örneğin dava açma süresinin başlamaması).\n•   **Hata Düzeltmeleri:** Tahakkuk eden bir vergi borcunda sonradan bir hata (maddi hata, hesap hatası, vergilendirme hatası) tespit edilirse, mükellef VUK hükümlerine göre düzeltme talebinde bulunabilir. Düzeltme sonucunda vergi tahakkuku değişebilir veya iptal edilebilir.\n•   **Yargı Yolu:** Tahakkuk eden vergi borcuna karşı, mükellefler vergi mahkemelerinde dava açma hakkına sahiptir. Dava açma süresi, tahakkuk fişinin tebliğ tarihinden itibaren genellikle 30 gündür. Bu süre içinde dava açılmazsa tahakkuk kesinleşir.\n•   **Zaman Aşımı Kuralı:** Vergi alacağının tahakkuk zaman aşımı süresi dolmadan tarh ve tebliğ işlemlerinin tamamlanması gerekir. Aksi takdirde, vergi alacağı zaman aşımına uğrar ve idare bu alacağı tahakkuk ettiremez ve dolayısıyla tahsil edemez."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımlara Hakim Olma:** Tarh, Tebliğ, Tahakkuk ve Tahsil kavramlarının VUK'taki yasal tanımlarını ve aralarındaki farkları net bir şekilde öğrenin. Özellikle tahakkukun vergileme sürecindeki yerini ve önemini kavrayın.\n•   **Vergileme Sürecinin Sıralaması:** Vergileme sürecinin Tarh -> Tebliğ -> Tahakkuk -> Tahsil şeklindeki kronolojik sıralamasını ve her bir aşamanın bir sonrakini tetikleyen niteliğini bilin.\n•   **VUK Maddeleri:** Tahakkuk (Md. 22), Tarh (Md. 20), Tebliğ (Md. 21) ve Tahakkuk Fişi (Md. 23) ile ilgili VUK maddelerini iyi anlayın ve önemli noktalarını hatırlayın.\n•   **Tahakkuk Türleri ve Örnekleri:** Beyana dayalı tahakkuk (Gelir Vergisi, KDV) ile idarece yapılan tahakkuk (Emlak Vergisi, MTV) arasındaki temel farkları ve her birine ilişkin güncel pratik örnekleri bilin.\n•   **Tahakkukun Hukuki Sonuçları:** Tahakkuk ile birlikte vergi borcunun muaccel hale gelmesi, ödeme sürelerinin başlaması, ceza uygulamaları ve mükellefin dava açma hakkı gibi hukuki sonuçlarını iyi öğrenin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Vergi hukukunda vergileme sürecinin doğru sıralaması aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarh, Tahakkuk, Tebliğ, Tahsil",
+        "B": "Tebliğ, Tarh, Tahakkuk, Tahsil",
+        "C": "Tarh, Tebliğ, Tahakkuk, Tahsil",
+        "D": "Tahakkuk, Tarh, Tebliğ, Tahsil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vergi Usul Kanunu'na göre vergileme süreci sırasıyla Tarh (vergi miktarının tespiti), Tebliğ (mükellefe bildirim), Tahakkuk (ödenecek hale gelmesi) ve Tahsil (fiilen ödenmesi) aşamalarından oluşur."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Vergi Usul Kanunu'na göre 'Tahakkuk' kavramını en doğru şekilde açıklar?",
+      "options": {
+        "A": "Verginin miktarının tespit edilerek hukuken belirlenmesi",
+        "B": "Verginin mükellef tarafından fiilen ödenmesi",
+        "C": "Verginin mükellef tarafından ödenmesi gereken safhaya gelmesi",
+        "D": "Vergilendirmeyi ilgilendiren hususların mükellefe bildirilmesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK Madde 22'de tahakkuk, 'Verginin, mükellef tarafından ödenmesi gereken safhaya gelmesidir.' şeklinde tanımlanmıştır. Diğer seçenekler sırasıyla Tarh, Tahsil ve Tebliğ kavramlarına karşılık gelir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Beyana dayalı vergilerde, mükellefin beyannameyi vermesi üzerine vergi dairesince düzenlenen ve verginin tahakkuk ettiğini gösteren belgeye ne ad verilir?",
+      "options": {
+        "A": "Vergi Levhası",
+        "B": "Tahsil Makbuzu",
+        "C": "Vergi Kimlik Kartı",
+        "D": "Tahakkuk Fişi"
+      },
+      "correctAnswer": "D",
+      "explanation": "VUK Madde 23'e göre beyana dayalı vergilerde beyannamenin verilmesi üzerine vergi dairesince 'tahakkuk fişi' düzenlenir. Bu fiş, hem tahakkuku hem de tebliği içerir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi, tahakkuk eden bir vergi borcuna ilişkin mükellefin yasal haklarından biri **değildir**?",
+      "options": {
+        "A": "Vergi hatasının düzeltilmesini talep etme",
+        "B": "Vergi mahkemesinde dava açma",
+        "C": "Zaman aşımı süresi dolmadan ödeme yapma",
+        "D": "Vergi borcunu idare onayı olmaksızın tamamen silme"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mükellefin tahakkuk eden vergi borcunu idare onayı olmaksızın tek taraflı olarak silme hakkı yoktur. Ancak hata düzeltme talebinde bulunma, dava açma veya zaman aşımı süresi dolmadan ödeme yapma gibi hak ve yükümlülükleri bulunmaktadır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Vergi Usul Kanunu'na göre, vergi alacağının tahakkuk zaman aşımı süresi ne kadardır?",
+      "options": {
+        "A": "Bir yıl",
+        "B": "İki yıl",
+        "C": "Üç yıl",
+        "D": "Beş yıl"
+      },
+      "correctAnswer": "D",
+      "explanation": "VUK Madde 114'e göre, vergi alacağının tahakkuk zaman aşımı, alacağın doğduğu takvim yılını takip eden yılın başından itibaren beş yıldır. Bu süre içinde tarh ve tebliğ yapılmazsa vergi alacağı zaman aşımına uğrar."
+    }
+  ]
+}

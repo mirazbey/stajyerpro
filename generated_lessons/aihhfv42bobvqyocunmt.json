@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "İtiraz süreleri, Türk hukuk sisteminde yargılamanın sağlıklı ve düzenli işlemesini, uyuşmazlıkların makul bir süre içinde çözüme kavuşturulmasını ve hukuki güvenliğin sağlanmasını temin eden kritik hukuki müesseselerden biridir. Temelde, bir işlem veya karara karşı yasal yollara başvurmak, bir hakkı kullanmak veya belirli bir eylemi gerçekleştirmek için kanun tarafından belirlenmiş zaman dilimlerini ifade ederler. Bu süreler, ilgililerin haklarını kullanma konusunda belirli bir özeni göstermelerini gerektirmekte, aksi takdirde hak kaybına yol açabilmektedir. Türk hukukunda 'itiraz süreleri' kavramı genellikle, idari işlemlerin iptali, yargı kararlarına karşı kanun yollarına başvurma, icra takiplerine itiraz etme gibi birçok farklı alanda karşımıza çıkar. Anayasa'mızın 36. maddesinde güvence altına alınan hak arama hürriyeti ve adil yargılanma hakkı, bu sürelerin düzenlenmesinde temel referans noktalarını oluşturur. Zira, bu süreler bir yandan hakların etkin kullanımını sağlarken, diğer yandan hukukun üstünlüğü ve hukuki barış ilkeleri doğrultusunda süreçlerin belirsizliğe sürüklenmesini engeller. Bu bağlamda, itiraz süreleri kamu düzeniyle yakından ilişkilidir ve taraflarca sözleşme veya iradi beyanlarla uzatılması ya da kısaltılması mümkün değildir. Türk hukukunda süreler genel olarak iki ana kategoriye ayrılabilir: 'hak düşürücü süreler' ve 'zamanaşımı süreleri'. 'İtiraz süreleri' ise genellikle hak düşürücü niteliktedir. Hak düşürücü süreler, kanunda belirtilen süre içinde kullanılmayan bir hakkın tamamen ortadan kalkması sonucunu doğururken; zamanaşımı süreleri, hakkı sona erdirmemekle birlikte, o hakkın dava veya icra yoluyla talep edilebilirliğini engeller. Bu temel ayrım, itiraz sürelerinin doğuracağı sonuçlar açısından büyük önem taşımaktadır ve hukuki uygulamada dikkatle gözetilmesi gereken bir husustur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "İtiraz sürelerinin düzenlenmesi, Türk hukuk sisteminde birden fazla kanunda ve farklı alanlarda karşımıza çıkmaktadır. Bu çok yönlü düzenleme, hukuk dallarının kendine özgü yapıları ve ihtiyaçları doğrultusunda şekillenmiştir. Genel olarak, 'itiraz süreleri' kavramının en sık rastlandığı mevzuat alanları İdari Yargılama Usulü Kanunu (İYUK), Hukuk Muhakemeleri Kanunu (HMK), Ceza Muhakemesi Kanunu (CMK) ve İcra ve İflas Kanunu (İİK) olarak öne çıkar. İdari Yargılama Usulü Kanunu'na göre, idari işlemlere karşı açılacak iptal davaları için genel itiraz süresi 60 gündür (vergi davaları için 30 gün). Bu süreler, idari eylemlere karşı tam yargı davaları için de önemli bir başlangıç noktası teşkil eder. İYUK ayrıca, yargı kararlarına karşı temyiz (30 gün) veya karar düzeltme (15 gün) gibi kanun yolları için de spesifik süreler öngörür. Hukuk Muhakemeleri Kanunu ise, adli yargıda verilen kararlara karşı istinaf (2 hafta) ve temyiz (2 hafta) kanun yollarına başvuru sürelerini düzenler. HMK ayrıca, bir takım ihtiyati tedbirlere, delil tespitine veya yargılama sürecindeki ara kararlara itiraz için de kısa ve özel süreler içerebilir. Ceza Muhakemesi Kanunu'nda ise, özellikle soruşturma aşamasında verilen tutuklama kararlarına itiraz (7 gün), adli kontrol kararlarına itiraz ve kovuşturmaya yer olmadığına dair kararlara itiraz gibi süreçlerde kısa ve kesin itiraz süreleri yer almaktadır. İcra ve İflas Kanunu da, borçlunun kendisine gönderilen ödeme emrine itirazı (7 gün), imzaya itirazı veya istihkak iddiasında bulunması gibi birçok noktada kesin itiraz süreleri belirlemiştir. Bu sürelerin hesaplanmasında genel bir kural olarak, sürenin başladığı gün hesaba katılmaz, süre son günün mesai bitimine kadar devam eder. Sürenin son gününün resmi tatile denk gelmesi halinde, süre ilk iş gününe uzar. Bu düzenlemeler, hukuki işlemlerde belirsizliği önlemeyi ve tarafların haklarını belirli bir zaman dilimi içinde kullanmaya teşvik etmeyi amaçlar. Her bir hukuk dalının kendi prosedürel ihtiyaçlarına göre bu süreleri detaylı bir şekilde düzenlemesi, sistemin karmaşıklığını artırsa da, aynı zamanda adaletin tecellisi ve hukuki güvenliğin sağlanması açısından hayati bir rol oynamaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "İtiraz sürelerinin pratik uygulamaları, hukuk pratiğinin en kritik ve en çok dikkat gerektiren alanlarından biridir. Zira bu sürelerin doğru anlaşılması, hesaplanması ve zamanında kullanılması, bireylerin ve tüzel kişilerin haklarını koruyabilmesi açısından hayati önem taşır. Bu bağlamda, farklı hukuk disiplinlerinden çeşitli örneklerle konuyu somutlaştırmak mümkündür. Örneğin, idare hukuku alanında, bir belediyenin imar planı değişikliği kararına karşı açılacak iptal davasında, ilgili kararın tebliğinden itibaren 60 günlük hak düşürücü süre işler. Bu süre, kararın kişiye tebliğ edildiği veya ilan yoluyla duyurulduğu tarihi takip eden günden itibaren başlar ve 60. günün mesai bitiminde sona erer. Eğer bu süre içinde dava açılmazsa, idari işlemin hukuka aykırı olduğu iddia edilse dahi, artık dava açma hakkı kaybedilir ve işlem kesinleşir. Başka bir örnek olarak, hukuk yargılamalarında bir mahkemenin verdiği nihai karara karşı istinaf veya temyiz kanun yoluna başvurmak için tebliğden itibaren 2 haftalık (genel kural) süreler öngörülmüştür. Bu sürelerin kaçırılması, kararın kesinleşmesine ve aleyhe olan hükümlerin uygulanabilir hale gelmesine neden olur. İcra hukuku alanında ise, borçluya tebliğ edilen bir ödeme emrine karşı itiraz süresi 7 gündür. Borçlu, bu 7 günlük süre içinde icra dairesine itiraz etmezse, takip kesinleşir ve borçlunun malvarlığına yönelik haciz işlemleri başlatılabilir. Ceza muhakemesinde de itiraz süreleri büyük önem taşır; örneğin, bir şüphelinin tutuklanmasına itiraz etmek için kararın yüze karşı tefhiminden veya tebliğinden itibaren 7 günlük süre bulunmaktadır. Bu süre içerisinde itiraz edilmediği takdirde tutuklama kararı kesinleşir ve daha üst bir mahkemede incelenme imkanı ortadan kalkar. Bu örnekler de göstermektedir ki, itiraz süreleri, sadece bir zaman dilimi olmaktan öte, hukuki güvenlik ve adaletin sağlanmasında vazgeçilmez bir rol oynar. Sürelerin başlangıcı, bitişi ve hesaplanması konusundaki en küçük bir hata dahi, telafisi güç veya imkansız hak kayıplarına yol açabilir. Bu nedenle, hukuki süreçlerde sürelerin titizlikle takip edilmesi, alanında uzman kişilerden destek alınması büyük önem taşımaktadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "İtiraz süreleri, hukuki süreçlerin en hassas noktalarından birini oluşturur ve bu alanda yapılan hatalar, geri dönülmez hak kayıplarına yol açabilir. Bu nedenle, itiraz süreleriyle ilgili olarak bazı temel hususlara özellikle dikkat edilmesi gerekmektedir. İlk olarak, 'hak düşürücü süre' ile 'zamanaşımı' arasındaki kritik ayrımın doğru anlaşılması hayati önem taşır. Çoğu itiraz süresi, hak düşürücü niteliktedir; yani, kanunda belirtilen süre içinde kullanılmayan hak tamamen ortadan kalkar ve sonradan ileri sürülemez. Zamanaşımı ise, hakkın kendisini değil, dava edilebilirliğini veya talep edilebilirliğini etkiler. İtiraz süreleri söz konusu olduğunda, genellikle hak düşürücü nitelikleri nedeniyle sürelerin kaçırılması durumunda eski hale getirme (restitutio in integrum) imkânı son derece kısıtlıdır veya bazı durumlarda hiç yoktur. İkinci önemli nokta, sürenin doğru başlangıç anının tespitidir. Süreler genellikle tebliğ veya tefhim (yüze karşı bildirim) ile başlar. Tebliğin usulüne uygun yapılıp yapılmadığı, sürenin doğru bir şekilde işlemeye başlayıp başlamadığını belirler. Tebligat Kanunu ve ilgili yönetmelik hükümleri bu noktada büyük önem arz eder. Usulsüz bir tebligat, sürenin başlamamasına veya hatalı başlamasına neden olabilir. Üçüncü olarak, sürenin hesaplanması konusu büyük bir titizlik gerektirir. Süreler genellikle gün, hafta veya ay olarak belirlenir. Sürenin başladığı gün hesaba katılmaz, son gün mesai saati bitimine kadar hak kullanılmalıdır. Sürenin son gününün resmi tatile (hafta sonu dahil) denk gelmesi halinde, süre takip eden ilk iş gününe uzar. Bu basit gibi görünen kuralın yanlış uygulanması dahi hak kaybına neden olabilir. Dördüncü olarak, itirazın yetkili merciye ve kanunda belirtilen şekil şartlarına uygun olarak yapılması şarttır. Yanlış mercie yapılan başvuru veya şekil eksikliği olan bir başvuru, süresinde yapılmış sayılmayabilir. Beşinci olarak, mücbir sebep veya beklenmeyen haller gibi olağanüstü durumların itiraz süreleri üzerindeki etkisi dikkatle değerlendirilmelidir. Türk hukukunda bu tür durumlar için bazı istisnai eski hale getirme hükümleri bulunsa da (örneğin HMK md. 95), bunların uygulama alanı genellikle dar tutulmuş ve ispatı zor şartlara bağlanmıştır. Son olarak, hukuki süreçlerdeki bu karmaşıklık ve potansiyel riskler göz önüne alındığında, bireylerin ve şirketlerin itiraz süreleriyle ilgili herhangi bir adım atmadan önce alanında uzman bir hukuk danışmanından destek alması, olası hak kayıplarının önüne geçmek için en doğru yaklaşımdır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu derste ele aldığımız 'itiraz sürelerinde düzenleme' konusu, Türk hukuk sisteminin işleyişi ve bireylerin hak arama özgürlüğünün etkin kullanımı açısından temel bir öneme sahiptir. İtiraz süreleri, hukuki güvenliğin sağlanması, yargılamanın belirli bir disiplin içinde yürütülmesi ve uyuşmazlıkların makul sürelerde çözüme kavuşturulması amacıyla kanun koyucu tarafından belirlenen kesin zaman dilimleridir. Temel olarak, bir hukuki işleme veya karara karşı yasal yollara başvurmak, bir hakkı kullanmak veya belirli bir eylemi gerçekleştirmek için tanınan son zamanı ifade ederler. Bu süreler genellikle 'hak düşürücü' nitelikte olup, kanunda belirtilen süre içinde kullanılmayan hakların tamamen ortadan kalkması sonucunu doğurur ki bu, 'zamanaşımı' müessesesinden ayrılan en kritik noktadır. Türk hukukunda itiraz süreleri, İdari Yargılama Usulü Kanunu'ndan Hukuk Muhakemeleri Kanunu'na, Ceza Muhakemesi Kanunu'ndan İcra ve İflas Kanunu'na kadar birçok farklı hukuk dalında kendi özel koşulları ve prosedürleri çerçevesinde düzenlenmiştir. Her bir dalın kendine özgü süreleri ve bu sürelerin başlangıç, hesaplanma ve sonuçları hakkında detaylı hükümleri bulunmaktadır. Bu durum, konunun multidisipliner yapısını açıkça ortaya koymaktadır. Pratik uygulamada, idari iptal davalarındaki 60 günlük süre, yargı kararlarına karşı kanun yollarındaki 2 haftalık süreler veya icra takiplerindeki 7 günlük itiraz süreleri gibi örnekler, bu müessesenin ne kadar geniş bir alana yayıldığını göstermektedir. Bu sürelerin kaçırılması, telafisi güç veya imkansız hak kayıplarına, yargı kararlarının kesinleşmesine ve idari işlemlerin nihai hale gelmesine yol açtığından, özellikle sürenin doğru tespiti, başlangıcı, hesaplanması ve yetkili mercie usulüne uygun başvuru yapılması hayati önem taşır. Anayasal temelleri hak arama özgürlüğü ve adil yargılanma hakkına dayanan bu düzenlemeler, aynı zamanda hukuki barışın ve kamu düzeninin korunmasında da merkezi bir rol oynar. Bu nedenle, hukuki süreçlerde itiraz sürelerine azami dikkat gösterilmesi, uzman hukuki destek alınması ve tebligat süreçlerinin titizlikle takip edilmesi, olası olumsuz sonuçların önüne geçmek için vazgeçilmezdir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "İdari Yargılama Usulü Kanunu (İYUK) uyarınca, bir idari işlemin iptali davası açma süresi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İşlemin tebliğinden itibaren 30 gün",
+        "B": "İşlemin tebliğinden itibaren 60 gün",
+        "C": "İşlemin tebliğinden itibaren 7 iş günü",
+        "D": "İşlemin ilanından itibaren 1 yıl"
+      },
+      "correctAnswer": "B",
+      "explanation": "İdari Yargılama Usulü Kanunu'nun 7. maddesine göre, idari işlemlerin iptali için dava açma süresi, özel kanunlarda aksine bir hüküm bulunmadıkça, tebliğ tarihini izleyen günden itibaren 60 gündür. Vergi uyuşmazlıkları gibi bazı özel durumlarda bu süre 30 gün olarak belirlenebilir, ancak genel kural 60 gündür."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk hukukunda 'itiraz süreleri' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "İtiraz süreleri genellikle kamu düzenine ilişkin olup, taraflarca değiştirilemez.",
+        "B": "Hak düşürücü nitelikteki itiraz sürelerinin kaçırılması, hakkın tamamen ortadan kalkmasına neden olur.",
+        "C": "Sürenin son gününün resmi tatile denk gelmesi durumunda, süre takip eden ilk iş gününe uzar.",
+        "D": "Zamanaşımı sürelerinin kaçırılması halinde, eski hale getirme (restitutio in integrum) imkânı her zaman mümkündür."
+      },
+      "correctAnswer": "D",
+      "explanation": "Zamanaşımı sürelerinin kaçırılması halinde hakkın kendisi değil, dava edilebilirliği ortadan kalkar ve eski hale getirme (mücbir sebep vb. istisnalar dışında) genellikle mümkün değildir veya çok sınırlıdır. Ayrıca, eski hale getirme esasen zamanaşımı değil, hak düşürücü süreler ve usuli işlemlerde, belirli şartlar altında (HMK m.95 gibi) uygulanan istisnai bir kurumdur. 'Her zaman mümkündür' ifadesi kesinlikle yanlıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir borçluya, 20 Mayıs 2024 Pazartesi günü noter aracılığıyla usulüne uygun olarak bir ödeme emri tebliğ edilmiştir. İcra ve İflas Kanunu'na göre, borçlunun bu ödeme emrine itiraz etme süresi en geç hangi tarihte sona erer? (2024 yılı için resmi tatiller dışındaki günler dikkate alınacaktır.)",
+      "options": {
+        "A": "26 Mayıs 2024 Pazar",
+        "B": "27 Mayıs 2024 Pazartesi",
+        "C": "28 Mayıs 2024 Salı",
+        "D": "3 Haziran 2024 Pazartesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "İcra ve İflas Kanunu'nun 62. maddesine göre, borçlunun ödeme emrine itiraz süresi 7 gündür. Süreler, tebliğ tarihini izleyen günden itibaren işlemeye başlar.\nTebliğ tarihi: 20 Mayıs 2024 Pazartesi.\nSürenin başlangıcı: 21 Mayıs 2024 Salı.\n7. gün: 21 (1), 22 (2), 23 (3), 24 (4), 25 (5), 26 (6), 27 (7) Mayıs 2024 Pazartesi.\nDolayısıyla, itiraz süresi en geç 27 Mayıs 2024 Pazartesi günü mesai bitiminde sona erer."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Hukuk Muhakemeleri Kanunu (HMK) uyarınca, bir ilk derece mahkemesi kararının istinaf yoluna başvurma süresi, özel bir düzenleme bulunmadıkça, kural olarak kaç haftadır?",
+      "options": {
+        "A": "1 hafta",
+        "B": "2 hafta",
+        "C": "3 hafta",
+        "D": "1 ay"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hukuk Muhakemeleri Kanunu'nun 345. maddesine göre, istinaf yoluna başvuru süresi, özel kanunlarda aksine hüküm bulunmadıkça, tebliğden itibaren iki haftadır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ceza Muhakemesi Kanunu (CMK) kapsamında verilen bir tutuklama kararına karşı itiraz süresi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kararın tefhim veya tebliğinden itibaren 3 gün",
+        "B": "Kararın tefhim veya tebliğinden itibaren 7 gün",
+        "C": "Kararın tefhim veya tebliğinden itibaren 15 gün",
+        "D": "Kararın tefhim veya tebliğinden itibaren 30 gün"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ceza Muhakemesi Kanunu'nun 268. maddesine göre, hâkim ve mahkeme kararlarına karşı itiraz süresi, ilgililerin kararı öğrendiği tarihten itibaren yedi gündür. Tutuklama kararları da bu genel kurala tabidir."
+    }
+  ]
+}

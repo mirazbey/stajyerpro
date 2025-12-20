@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar: Anayasa Mahkemesi Bireysel Başvuru Sürecinde Ön İnceleme",
+      "content": "Değerli öğrenciler ve hukuk camiasının kıymetli üyeleri, Türk hukukunda bireysel başvuru mekanizmasının etkinliğini sağlayan kritik aşamalardan biri olan 'Ön İnceleme Aşaması Kuralları' dersimize hoş geldiniz. Bu ders içeriği, özellikle Anayasa Mahkemesi'ne yapılan bireysel başvurular bağlamında ön inceleme sürecinin temel dinamiklerini kavramak amacıyla tasarlanmıştır. 'Ön inceleme,' genel anlamda bir hukuki sürecin başlangıcında, dosyanın esasa ilişkin incelemeye geçilmeden önce belirli şekil şartları ve kabul edilebilirlik kriterleri açısından değerlendirildiği, adeta bir 'filtre' görevi gören ilk aşamadır. Anayasa Mahkemesi (AYM) nezdindeki bireysel başvuru sistematiğinde ise bu aşama, Yüksek Mahkeme'nin iş yükünü hafifletmek, açıkça dayanaktan yoksun veya kabul edilemez nitelikteki başvuruların esasa geçmeden reddedilmesini sağlamak ve böylece yargılama ekonomisine katkıda bulunarak hak ihlallerinin daha hızlı ve etkili bir şekilde ele alınmasını temin etmek gibi hayati işlevlere sahiptir. Bireysel başvuru hakkı, Türkiye'de 2010 Anayasa değişikliği ile tanınan ve temel hak ve özgürlüklerin korunmasında Anayasa Mahkemesi'ne başvuruyu mümkün kılan olağanüstü bir yargı yoludur. Bu hakkın etkin kullanımı ve AYM'nin hak koruma fonksiyonunu layıkıyla yerine getirebilmesi, ön inceleme aşamasının titizlikle yürütülmesine bağlıdır. Ön inceleme, Anayasa'nın tanıdığı bu hakkın suistimalini engellerken, aynı zamanda meşru ve geçerli hak ihlali iddialarının Yüksek Mahkeme önüne gelmesini garanti altına alır. Bu derste, bu kritik aşamanın hukuki dayanaklarını, uygulama esaslarını ve dikkat edilmesi gereken noktaları detaylıca ele alacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Kabul Edilebilirlik Kriterleri",
+      "content": "Anayasa Mahkemesi'ne bireysel başvuruda ön inceleme aşamasının yasal çerçevesi, başta Türkiye Cumhuriyeti Anayasası olmak üzere, 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun ve Anayasa Mahkemesi İçtüzüğü ile belirlenmiştir. Anayasa'nın 148. maddesinin üçüncü fıkrası, herkesin anayasal hak ve özgürlüklerinin ihlal edildiği iddiasıyla Anayasa Mahkemesi'ne bireysel başvuruda bulunabileceğini belirtirken, bu başvurunun kabul edilebilirliğine ilişkin şartların kanunla düzenleneceğini emreder. Bu çerçevede, 6216 sayılı Kanun'un özellikle 45. ila 51. maddeleri, bireysel başvurunun esaslarını, başvuru hakkının kapsamını ve ön inceleme aşamasında dikkate alınacak kabul edilebilirlik kriterlerini ayrıntılı olarak düzenlemektedir. Bu kriterler şunlardır: Birincisi, başvuru yolunun tüketilmesidir. Başvurucu, Anayasa ile güvence altına alınmış temel hak ve özgürlüklerinden birinin kamu gücü tarafından ihlal edildiği iddiasıyla AYM'ye başvurmadan önce, ihlale yol açtığı ileri sürülen işlem veya eylem için kanun yollarının tüketilmesi şartını yerine getirmelidir. İkincisi, süre şartıdır; bireysel başvuruların, olağan kanun yollarının tüketildiği tarihten itibaren otuz gün içinde yapılması gerekmektedir. Üçüncüsü, başvurucunun mağduriyetidir; başvurucu, ihlalden doğrudan etkilenmiş olmalı, yani 'mağdur' sıfatına sahip olmalıdır. Dördüncüsü, başvurunun 'açıkça dayanaktan yoksun olmaması' veya 'kabul edilemezlik nedenleri' bulunmamasıdır. Bu, iddia edilen ihlalin bariz bir temeli olmaması, başvuruya konu ihlalin anayasal bir hakla ilgili olmaması veya başvurunun ciddiyetten uzak olması gibi durumları ifade eder. Beşincisi, şekil şartlarıdır; başvurunun yazılı yapılması, gerekli belgelerin eklenmesi ve başvuru harcının ödenmesi gibi formalitelerin yerine getirilmesi zorunludur. AYM, ön inceleme aşamasında bu kriterlere uygunluğu, bünyesindeki Komisyonlar veya Bölümler aracılığıyla denetler. Kabul edilebilirlik incelemesi sonucunda, bu kriterlerden herhangi birinin eksikliği durumunda başvuru esasa geçilmeden reddedilir. Bu yapı, hem bireysel başvuru mekanizmasının ciddiyetini korur hem de AYM'nin asıl görevi olan hak ihlallerini esastan inceleme kapasitesini sürdürmesini sağlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve Süreç İşleyişi",
+      "content": "Ön inceleme aşaması, bireysel başvuru sürecinin pratik işleyişinde hayati bir rol oynar. Anayasa Mahkemesi'ne yapılan bireysel başvuru, öncelikle Başvurular Bürosu'na teslim edilir ve burada şekli bir ön kontrol ve kayıt işlemi yapılır. Başvuru, daha sonra Anayasa Mahkemesi İçtüzüğü'nde belirtilen usul ve esaslar çerçevesinde, başvuruların ön incelemesini yapmakla görevli 'Komisyonlara' veya 'Bölümlere' havale edilir. Komisyonlar, başvuruların kabul edilebilirlik şartlarını haiz olup olmadığını değerlendirir. Bu değerlendirme sırasında, başvuru dilekçesi, ekleri, ilgili mahkeme kararları ve diğer belgeler titizlikle incelenir. Uygulamada, Komisyonlar genellikle üç üyeden oluşur ve başvurunun kabul edilebilirliğine ilişkin oy birliği veya oy çokluğuyla karar alırlar. Ön inceleme aşamasında, en sık karşılaşılan ret nedenleri arasında 'başvuru yollarının tüketilmemiş olması', 'süre aşımı', 'açıkça dayanaktan yoksun olma' ve 'başvurucunun mağduriyet sıfatının bulunmaması' yer almaktadır. Örneğin, başvurucu yerel mahkemeler nezdindeki tüm hukuki yolları (istinaf, temyiz) denemeden AYM'ye başvurmuşsa, başvurusu 'başvuru yollarının tüketilmemiş olması' nedeniyle reddedilir. Ya da hak ihlaline yol açan son nihai kararın kesinleşmesinden itibaren 30 günlük süre içinde başvuru yapılmamışsa, 'süre aşımı' nedeniyle kabul edilemezlik kararı verilir. 'Açıkça dayanaktan yoksun olma' ise, başvurucunun iddialarının hukuki veya fiili hiçbir temele dayanmadığı, keyfi veya subjektif yorumlardan ibaret olduğu durumlarda söz konusu olur. Eğer Komisyon, başvuruyu kabul edilebilir bulursa, dosya esas incelemesine geçilmek üzere ilgili Bölüme gönderilir ve başvurunun içeriği hakkında ilgili kamu makamından görüş istenebilir. Ancak, başvurunun kabul edilemez bulunması halinde, başvurucuya bu durum gerekçeleriyle birlikte bildirilir ve bu karar kesindir; itiraz yolu kapalıdır. Bu durum, başvuru sahiplerinin dilekçelerini hazırlarken ve hukuki süreçlerini yönetirken azami dikkat ve özeni göstermelerinin ne denli kritik olduğunu açıkça ortaya koymaktadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Başvurucunun Sorumlulukları",
+      "content": "Anayasa Mahkemesi bireysel başvuru sürecinde ön inceleme aşamasının önemi göz önüne alındığında, başvurucuların ve avukatlarının dikkat etmesi gereken bir dizi kritik nokta bulunmaktadır. Öncelikle, 'olağan kanun yollarının tüketilmesi' şartı, başvuru mekanizmasının ikincil niteliğinin bir gereğidir ve bu şartın eksiksiz yerine getirilmesi elzemdir. Bu, sadece kanunda öngörülen başvuru yollarını kullanmakla kalmayıp, aynı zamanda bu yollarda ileri sürülmesi mümkün olan tüm iddiaların usulüne uygun bir şekilde ileri sürülmesini de kapsar. İkinci olarak, 'süre' şartı katı bir şekilde uygulanmakta olup, 30 günlük başvuru süresinin kaçırılması, istisnai durumlar dışında başvurunun kabul edilemez bulunmasına yol açar. Bu nedenle, kanun yollarının tüketildiği tarihin doğru tespiti büyük önem taşır. Üçüncü olarak, başvurunun 'açıkça dayanaktan yoksun olmaması' veya 'kabul edilemezlik nedenlerinin bulunmaması' kriteri, başvurucunun iddialarını somut delillerle desteklemesini ve Anayasa'da güvence altına alınan bir hak ihlaline dayandırmasını gerektirir. Anayasa Mahkemesi, kanun yolunda incelenmesi gereken basit bir hata iddiasını veya mahkemelerin takdir yetkisine ilişkin bir hususu, Anayasal bir hak ihlali olarak değerlendirmez. Dördüncü olarak, başvuru dilekçesinin hazırlanmasında büyük bir özen gösterilmeli, ihlal edildiği iddia edilen hak veya özgürlük açıkça belirtilmeli, ilgili Anayasa maddesi ile bağlantısı kurulmalı ve ihlale yol açan olaylar kronolojik ve anlaşılır bir biçimde ifade edilmelidir. Başvurucu, iddialarını destekleyici tüm belgeleri eksiksiz sunmalıdır. Beşinci olarak, başvurucu, mağdur sıfatına sahip olduğunu ve ihlalden doğrudan etkilendiğini ispatlamakla yükümlüdür. Son olarak, ön inceleme aşamasında verilen 'kabul edilemezlik' kararlarının kesin olması, başvurucuların ilk başvurularını hazırlarken hukuki destek almalarının ve süreci titizlikle takip etmelerinin önemini bir kez daha vurgular. Bu aşama, bireysel başvuru hakkının adeta bir 'kapısı' niteliğindedir ve bu kapıdan geçmek, ancak belirlenen kurallara uygun hareket etmekle mümkündür."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme: Anayasa Mahkemesi Bireysel Başvurusunda Ön İncelemenin Kritik Rolü",
+      "content": "Değerli hukuk öğrencileri ve uygulayıcıları, bu derste Anayasa Mahkemesi'ne yapılan bireysel başvurulardaki 'Ön İnceleme Aşaması Kuralları'nı tüm yönleriyle ele aldık. Dersimiz boyunca vurguladığımız üzere, ön inceleme aşaması, bireysel başvuru sisteminin etkinliği ve Anayasa Mahkemesi'nin işleyişi açısından vazgeçilmez bir öneme sahiptir. Bu aşama, Yüksek Mahkeme'nin sadece Anayasal hak ve özgürlüklerin ihlali iddialarını esastan incelemesini sağlayarak, yargı kaynaklarının verimli kullanılmasını temin eden kritik bir 'filtre' görevi görmektedir. Ön incelemede aranan temel kabul edilebilirlik kriterlerini tekrar gözden geçirecek olursak: Olağan kanun yollarının tüketilmesi, 30 günlük başvuru süresine riayet, başvurucunun doğrudan mağdur olması, başvurunun açıkça dayanaktan yoksun olmaması ve diğer şekil şartlarının eksiksiz yerine getirilmesidir. Bu kriterlerin herhangi birindeki eksiklik, başvurunun esastan incelemeye geçemeden 'kabul edilemezlik' kararıyla sonuçlanmasına yol açar. Hukuki dayanağını Anayasa'dan alan, 6216 sayılı Kanun ve İçtüzük ile detaylandırılan bu kurallar, Anayasa Mahkemesi'nin hak koruma misyonunu layıkıyla yerine getirebilmesi için bir güvence niteliğindedir. Bireysel başvuru mekanizmasının tam anlamıyla anlaşılması ve doğru bir şekilde uygulanması, bu ön inceleme kurallarının titizlikle kavranmasına bağlıdır. Her bir başvurucunun ve avukatının, bu kurallara uygun hareket etmesi, hem kendi hak arayışlarının başarıya ulaşması hem de Anayasa Mahkemesi'nin yargılama sürecinin sağlıklı işlemesi açısından hayati öneme sahiptir. Unutulmamalıdır ki, kabul edilemezlik kararları kesin nitelikte olup, başvurucular için yeni bir hukuki yol sunmamaktadır. Bu nedenle, ilk başvurunun hazırlanışında gösterilecek özen, sürecin başarıya ulaşmasındaki en temel unsurdur. Gelecekteki hukuki çalışmalarınızda ve uygulamalarınızda bu bilgilerin sizlere ışık tutmasını dilerim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Anayasa Mahkemesi'ne bireysel başvuru sürecinde 'ön inceleme' aşamasının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bireysel başvuru harcının tahsil edilip edilmediğini kontrol etmek.",
+        "B": "Başvuruların Anayasal hak ihlali iddialarını esastan inceleyerek bir ihlal kararı vermek.",
+        "C": "Açıkça dayanaktan yoksun veya kabul edilemez nitelikteki başvuruları esasa geçmeden elemek ve mahkemenin iş yükünü azaltmak.",
+        "D": "Başvurucunun iddialarının haklılığını ispatlaması için ek süre tanımak."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa Mahkemesi bireysel başvuru sürecinde ön inceleme aşamasının temel amacı, açıkça dayanaktan yoksun veya kabul edilemez nitelikteki başvuruları esasa geçmeden eleyerek Anayasa Mahkemesi'nin iş yükünü hafifletmek ve yargılama ekonomisine katkıda bulunmaktır. Harç kontrolü şekil şartıdır, ihlal kararı esastan inceleme sonucudur, ek süre tanımak ise ön incelemenin doğrudan amacı değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun'a göre, Anayasa Mahkemesi'ne bireysel başvurunun kabul edilebilirlik şartlarından biri olan 'süre' şartı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İhlale yol açtığı iddia edilen idari işlemin tesisinden itibaren 60 gün içinde başvuru yapılmalıdır.",
+        "B": "Olağan kanun yollarının tüketilmesinden itibaren 30 gün içinde başvuru yapılmalıdır.",
+        "C": "Kamu gücü tarafından bir ihlal gerçekleştirildiği tarihten itibaren 1 yıl içinde başvuru yapılmalıdır.",
+        "D": "Anayasa Mahkemesi'nin belirleyeceği makul bir süre içinde başvuru yapılmalıdır."
+      },
+      "correctAnswer": "B",
+      "explanation": "6216 sayılı Kanun'un 47. maddesi uyarınca, bireysel başvuruların olağan kanun yollarının tüketildiği tarihten, kanun yolu öngörülmeyen hâllerde ise ihlalin öğrenildiği tarihten itibaren 30 gün içinde yapılması gerekmektedir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi Anayasa Mahkemesi bireysel başvurusunda 'olağan kanun yollarının tüketilmemiş olması' nedeniyle verilen kabul edilemezlik kararına ilişkin doğru bir ifadedir?",
+      "options": {
+        "A": "Başvurucu, sadece temyiz yolunu kullanmış, istinaf yolunu denememişse başvuru kabul edilebilir.",
+        "B": "Başvurucu, yerel mahkemelerdeki tüm başvuru yollarını kullanmış ancak iddialarını usulüne uygun ileri sürmemişse bu durum kanun yollarının tüketilmesine engel değildir.",
+        "C": "Başvurucunun, ihlale yol açtığı ileri sürülen işlem veya eylem için kanunda öngörülen tüm yargısal ve idari başvuru yollarını tüketmeden Anayasa Mahkemesi'ne başvurması halinde kabul edilemezlik kararı verilir.",
+        "D": "Kanun yollarının tüketilmesi şartı, Anayasa Mahkemesi'nin takdirine bağlı olarak esnetilebilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa Mahkemesi'ne bireysel başvuru ikincil nitelikte bir başvuru yolu olduğundan, başvurucunun ihlale yol açtığı ileri sürülen işlem veya eylem için kanunda öngörülen idari ve yargısal tüm başvuru yollarını tüketmeden AYM'ye başvurması halinde, başvurusu 'olağan kanun yollarının tüketilmemiş olması' nedeniyle kabul edilemez bulunur. İddiaların usulüne uygun ileri sürülmemesi de kanun yollarının tüketildiği anlamına gelmez."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Anayasa Mahkemesi'nin bireysel başvurularda ön inceleme sonucunda verdiği 'kabul edilemezlik' kararlarının hukuki niteliği ve sonuçları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Kabul edilemezlik kararları, itiraz yolu açık olmak üzere, Bölümler tarafından yeniden incelenebilir.",
+        "B": "Kabul edilemezlik kararları, başvurucunun aynı iddialarla Avrupa İnsan Hakları Mahkemesi'ne başvurmasını engeller.",
+        "C": "Kabul edilemezlik kararları, Anayasa Mahkemesi açısından kesindir ve aleyhine olağan bir kanun yolu bulunmamaktadır.",
+        "D": "Kabul edilemezlik kararları, başvurucunun harç ve masraflarını geri almasını sağlar."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa Mahkemesi'nin bireysel başvurularda ön inceleme sonucunda verdiği 'kabul edilemezlik' kararları kesindir. Bu kararlara karşı herhangi bir itiraz veya kanun yolu bulunmamaktadır. Bu durum, başvurunun ciddiyetini ve ön inceleme aşamasının önemini pekiştirir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Anayasa Mahkemesi bireysel başvurusunda 'açıkça dayanaktan yoksun olma' kriteri ile ilgili aşağıdakilerden hangisi yanlış bir ifadedir?",
+      "options": {
+        "A": "Başvurucunun iddialarının hukuki veya fiili hiçbir temele dayanmadığı durumları ifade eder.",
+        "B": "İhlal iddiasının Anayasa ile korunan bir hakla ilgili olmaması durumunu kapsar.",
+        "C": "Başvurucunun temel hak ve özgürlüklerine ilişkin ihlal iddiasını yeterli delillerle destekleyememesi halinde kabul edilemezlik nedeni olabilir.",
+        "D": "Bu kriter, Anayasa Mahkemesi'nin, yerel mahkemelerin takdir yetkisini kullanarak verdiği kararları esastan yeniden incelemesini gerektirir."
+      },
+      "correctAnswer": "D",
+      "explanation": "'Açıkça dayanaktan yoksun olma' kriteri, Anayasa Mahkemesi'nin yerel mahkemelerin takdir yetkisi alanına giren veya yalnızca kanun yolunda incelenmesi gereken basit bir hata iddiasını esastan yeniden incelemesini gerektirmez. AYM, bir kanun yolu mahkemesi değildir ve yerel mahkemelerin kararlarını denetlerken, yalnızca anayasal hak ihlali olup olmadığını inceler, basit hukuka aykırılık iddialarını değil."
+    }
+  ]
+}

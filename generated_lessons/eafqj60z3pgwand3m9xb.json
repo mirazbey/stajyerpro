@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nun önemli bir dalı olan Toplu İş Hukuku dersimize hoş geldiniz. Bu ders içeriği, toplumsal yaşamın temel dinamiklerinden biri olan işçi-işveren ilişkilerinin kolektif düzeydeki düzenini ele almaktadır. Toplu İş Hukuku, bireysel iş hukukundan farklı olarak, işçi ve işverenin eşit olmayan pazarlık güçlerini dengelemeyi, iş barışını sağlamayı ve sosyal adaleti gerçekleştirmeyi hedefler. Temelinde işçilerin örgütlenme özgürlüğü ve kolektif temsil hakkı yatar. Bu bağlamda, Türkiye Cumhuriyeti Anayasası'nın temel esasları, özellikle de Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserinde vurgulanan sendika kurma özgürlüğü (m. 51), toplu iş sözleşmesi hakkı (m. 53) ve grev hakkı (m. 54) gibi hükümler, Toplu İş Hukuku'nun anayasal zeminini oluşturur. Bu haklar, bireysel özgürlüklerin ötesinde, işçi sınıfının kolektif gücünü ve pazarlık kapasitesini artırarak demokratik ve sosyal bir hukuk devletinin vazgeçilmez unsurlarıdır. Dersimizin ilk bölümünde, Toplu İş Hukuku'nun tanımını, tarihsel gelişimini ve Türk sosyal ve ekonomik hayatındaki önemini irdeleyeceğiz. Ayrıca, bu hukuk dalının temelini oluşturan anahtar kavramları derinlemesine inceleyeceğiz. İşçi sendikası, işveren sendikası, sendikal örgütlenme özgürlüğü, toplu iş sözleşmesi, grev ve lokavt gibi terimlerin hukuki anlamları ve işlevleri üzerinde duracağız. Bu kavramların doğru anlaşılması, Toplu İş Hukuku'nun karmaşık yapısını çözümlemek için kritik öneme sahiptir. Türkiye'deki toplu iş ilişkilerinin gelişiminde uluslararası sözleşmelerin ve ILO (Uluslararası Çalışma Örgütü) ilkelerinin de önemli bir rol oynadığını belirtmek gerekir. Bu ilkeler, Anayasamız ve ilgili kanunlarımız aracılığıyla iç hukukumuza entegre edilmiş ve sendikal hakların güvence altına alınmasında belirleyici olmuştur. Toplu İş Hukuku, sadece işçilerin ve işverenlerin hak ve yükümlülüklerini düzenlemekle kalmaz, aynı zamanda bir ülkenin sosyo-ekonomik istikrarı ve demokratik yapısı için de kritik bir denge unsuru teşkil eder. Bu ders, sizlere Türk Toplu İş Hukuku'nun teorik ve pratik boyutlarını bir bütün olarak sunmayı amaçlamaktadır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Toplu İş Hukuku'nun yasal çerçevesi, başta Türkiye Cumhuriyeti Anayasası olmak üzere, özel kanunlar ve uluslararası sözleşmelerle şekillenmektedir. Anayasamız, bu alandaki temel hak ve özgürlüklerin güvencesini oluşturur. Anayasa'nın 51. maddesi 'Sendika Kurma Hakkı', 53. maddesi 'Toplu İş Sözleşmesi Hakkı' ve 54. maddesi 'Grev Hakkı ve Lokavt'ı düzenlemektedir. Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserinde de vurgulandığı üzere, bu maddeler sosyal devlet ilkesinin bir gereği olarak kabul edilir ve işçi-işveren ilişkilerinde dengeyi sağlamayı amaçlar. Bu anayasal zemin üzerinde, 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu (STİSK), Toplu İş Hukuku'nun birincil ve en kapsamlı düzenlemesidir. STİSK, sendikaların kuruluşundan işleyişine, üyelik koşullarından faaliyetlerine, toplu iş sözleşmelerinin yapılmasından uygulanmasına, grev ve lokavtın şartlarından sonuçlarına kadar geniş bir yelpazede detaylı hükümler içerir. Kanun, sendika kurma özgürlüğünü, sendikaya üye olma ve üyelikten ayrılma serbestisini, sendikal güvenceleri ve sendika faaliyetlerinin çerçevesini net bir şekilde belirler. İş Kanunu (4857 sayılı Kanun) ise, bireysel iş hukukunun temelini oluşturmakla birlikte, toplu iş ilişkilerini dolaylı olarak etkileyen ve bazı toplu iş hukuku prensiplerine atıfta bulunan hükümleri barındırır. Örneğin, sendikal nedenlerle yapılan fesihlerde öngörülen sendikal tazminat hükümleri, 4857 sayılı Kanun içerisinde yer alır ve sendikal hakların korunmasında önemli bir güvence sağlar. Ayrıca, İşsizlik Sigortası Kanunu ve ilgili diğer ikincil mevzuat da toplu iş ilişkilerinin bazı yönlerini düzenleyebilir. Uluslararası Çalışma Örgütü (ILO) Sözleşmeleri, özellikle de 87 sayılı 'Sendika Özgürlüğü ve Sendikal Hakların Korunması Sözleşmesi' ile 98 sayılı 'Örgütlenme ve Toplu Pazarlık Hakkı İlkelerinin Uygulanmasına İlişkin Sözleşme', Türkiye tarafından onaylanarak iç hukukumuzun bir parçası haline gelmiştir. Bu uluslararası normlar, Türk Toplu İş Hukuku'nun yorumlanmasında ve uygulanmasında yol gösterici bir nitelik taşır ve anayasal hakların somutlaştırılmasında önemli bir role sahiptir. Bu bölüm, yasal metinlerin sadece kuru maddelerden ibaret olmadığını, aksine toplumsal ve ekonomik hayatı doğrudan etkileyen canlı düzenlemeler olduğunu gösterecektir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Toplu İş Hukuku'nun teorik bilgilerini pratik uygulamalarla pekiştirmek, konuyu daha iyi anlamamızı sağlayacaktır. Bu bölümde, işçi ve işverenlerin günlük iş yaşamında karşılaştığı temel toplu iş hukuku süreçlerini ve bu süreçlerin hukuki sonuçlarını detaylandıracağız. Öncelikle, sendika kurma ve sendikaya üye olma hakkı üzerinde duralım. İşçilerin serbestçe sendika kurma ve diledikleri sendikaya üye olma hakkı, Anayasa ve 6356 sayılı Kanun ile güvence altına alınmıştır. Bir işyerinde toplu iş sözleşmesi yapabilmek için sendikanın belirli bir yetki oranına (işkolunda %1, işyerinde %40) sahip olması gerekmektedir. Yetki tespiti süreci, sendikal faaliyetlerin en kritik aşamalarından biridir ve yetki itirazları mahkemelerce çözümlenir. Sendikal güvenceler kapsamında, sendika üyeliği veya faaliyetleri nedeniyle işçinin iş sözleşmesinin feshedilmesi durumunda işverenin sendikal tazminat ödeme yükümlülüğü bulunmaktadır. Bu, işçilerin sendikal haklarını özgürce kullanabilmeleri için önemli bir koruyucudur. İkinci olarak, Toplu İş Sözleşmesi (TİS) sürecini inceleyeceğiz. TİS, işçi sendikası ile işveren veya işveren sendikası arasında yapılan ve iş koşulları, ücret, sosyal haklar gibi konularda genel düzenlemeler içeren yazılı bir anlaşmadır. TİS'in normatif hükümleri, kapsamına giren tüm iş sözleşmeleri için emredici niteliktedir ve tarafları bağlar. Borç doğurucu hükümleri ise, TİS'i yapan taraflar arasında uygulanır. TİS'in süresi en az bir, en fazla üç yıldır. TİS'in iş sözleşmeleri üzerindeki etkisi, işçilere TİS'ten daha elverişli haklar tanınması halinde bireysel iş sözleşmelerinin geçerliliğini koruması, aksi halde TİS hükümlerinin doğrudan uygulanması şeklinde ortaya çıkar. Üçüncü olarak, grev ve lokavt konuları. Grev, işçilerin toplu iş sözleşmesi yapılması sırasında veya sözleşmenin uygulanmasıyla ilgili bir uyuşmazlıkta, hak ve menfaatlerini korumak amacıyla işi bırakmalarıdır. Lokavt ise, işverenin işyerinde faaliyeti durdurarak işçilerin işe gelmesini engellemesidir. Grev ve lokavt, 6356 sayılı Kanun'da belirtilen usul ve esaslara uygun olarak yapılmalıdır; aksi halde kanun dışı kabul edilirler ve hukuki sonuçlar doğururlar. Grev ve lokavt öncesinde, uyuşmazlığın çözümü için arabuluculuk süreçleri işletilir. Bu pratik süreçler, toplu iş hukukunun dinamik doğasını ve taraflar arasındaki sürekli etkileşimi gözler önüne serer."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Toplu İş Hukuku alanında karşılaşılan karmaşık durumlar ve güncel gelişmeler, konuya yaklaşırken dikkatli olmayı gerektirir. Öncelikle, sendikal faaliyetlerin hukuka uygunluk denetimi büyük önem taşır. Özellikle sendika üyeliği tespiti, yetki tespiti süreçleri ve toplu iş sözleşmesi görüşmeleri sırasında ortaya çıkan uyuşmazlıklar, iş mahkemelerinde sıklıkla dava konusu olmaktadır. Yargıtay'ın bu konulardaki güncel kararları, mevzuatın yorumlanmasında ve uygulanmasında yol göstericidir. Örneğin, sendikal tazminatın hesaplanması, sendika temsilcisi güvencesi veya grev yasağına aykırı hareketlerin sonuçları gibi hususlarda Yargıtay içtihadı sürekli olarak gelişmekte ve derinleşmektedir. Doktrindeki tartışmalar da, mevzuattaki boşlukların doldurulması veya mevcut hükümlerin farklı açılardan yorumlanması noktasında zengin bir kaynak sunar. İşverenlerin ve sendikaların hak ve yükümlülükleri, karşılıklı saygı ve iyi niyet prensibi çerçevesinde değerlendirilmelidir. İşverenin yönetim hakkı ile işçilerin sendikal hakları arasındaki denge, Toplu İş Hukuku'nun en hassas noktalarından biridir. Sendikaların işyerinde faaliyet yürütme, üyeleriyle iletişim kurma ve toplu iş sözleşmesi görüşmeleri yapma hakları; işverenin işleyişi aksatmama, üretim düzenini koruma ve diğer çalışanların haklarına saygı gösterme yükümlülüğü ile çatışmayacak şekilde kullanılmalıdır. Ayrıca, küreselleşme ve dijitalleşmenin getirdiği yeni çalışma biçimleri (örneğin platform çalışması, esnek çalışma) ve iş ilişkileri, Toplu İş Hukuku'nun mevcut yapısını zorlamakta ve yeni düzenlemeler ihtiyacını gündeme getirmektedir. Bu gelişmeler, toplu iş sözleşmelerinin kapsamını, sendikal örgütlenmenin yapısını ve grev hakkının kullanılma biçimlerini yeniden düşünmeyi gerektirebilir. Pandemi döneminde alınan kararlar ve bunların toplu iş ilişkilerine etkileri gibi güncel vakalar da, bu alandaki dinamizmi açıkça ortaya koymaktadır. Bu noktaların dikkate alınması, hem hukuk uygulayıcıları hem de işçi ve işverenler için sağlıklı ve sürdürülebilir toplu iş ilişkileri tesis etmenin anahtarıdır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu kapsamlı ders içeriğimizde Toplu İş Hukuku'nun temel kavramlarından güncel pratik uygulamalarına kadar geniş bir yelpazede bilgi edindik. Özetle, Toplu İş Hukuku'nun, işçi ve işveren ilişkilerini bireysel düzeyden çıkararak kolektif bir zemine taşıyan, sosyal adaleti ve iş barışını sağlamayı hedefleyen dinamik bir hukuk dalı olduğunu gördük. Dersimizin başında, Toplu İş Hukuku'nun anayasal temellerini, özellikle Türkiye Cumhuriyeti Anayasası'nın 51, 53 ve 54. maddeleri ışığında ve Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserindeki yaklaşımla ele aldık. Bu hakların, sosyal devlet ve demokratik toplum ilkeleri açısından vazgeçilmez nitelikte olduğunu vurguladık. Ardından, 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu başta olmak üzere, 4857 sayılı İş Kanunu ve uluslararası mevzuatın bu alandaki yasal çerçeveyi nasıl oluşturduğunu detaylandırdık. Bu kanunların, sendika kurma, üye olma, toplu iş sözleşmesi yapma, grev ve lokavt gibi temel hak ve süreçleri nasıl düzenlediğini analiz ettik. Pratik uygulamalar bölümünde ise, sendika yetki tespiti, toplu iş sözleşmesinin tarafları, kapsamı ve hükümleri ile grev ve lokavt süreçlerinin işleyişi hakkında bilgiler sunduk. Bu bölümlerde, teorik bilgilerin gerçek yaşamdaki yansımalarını ve hukuki sonuçlarını örneklerle somutlaştırdık. Son olarak, dikkat edilmesi gereken noktalar başlığı altında, güncel Yargıtay içtihatları, doktrindeki tartışmalar, sendikal güvenceler ve yeni çalışma biçimlerinin Toplu İş Hukuku üzerindeki etkilerine değindik. Bu konuların, sürekli değişen iş hayatı koşullarına adaptasyon yeteneği açısından kritik öneme sahip olduğunu belirttik. Toplu İş Hukuku, sadece hukuki bir disiplin olmanın ötesinde, toplumsal uzlaşmanın ve ekonomik istikrarın temelini oluşturan önemli bir mekanizmadır. İşçi ve işveren taraflarının hak ve yükümlülüklerini dengeli bir şekilde düzenleyerek, hem çalışma hayatında adaleti sağlar hem de ülkenin genel refahına katkıda bulunur. Bu dersin, sizlere bu alandaki temel bilgileri kazandırmakla kalmayıp, aynı zamanda bu konulara eleştirel bir bakış açısı geliştirmeniz için bir başlangıç noktası olmasını dilerim. Toplu İş Hukuku'nun dinamik yapısı göz önünde bulundurularak, güncel mevzuatı ve içtihatları takip etmeye devam etmeniz büyük önem taşımaktadır. Başarılar dilerim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'na göre, bir işkolunda sendikanın toplu iş sözleşmesi yapma yetkisi kazanabilmesi için aşağıdakilerden hangisi şart değildir?",
+      "options": {
+        "A": "İşkolu barajının %1 olması",
+        "B": "İşyerinde çalışan işçilerin en az %40'ının sendikaya üye olması",
+        "C": "Sendikanın tüzüğünde toplu iş sözleşmesi yapma yetkisinin bulunması",
+        "D": "Sendikanın kuruluşundan itibaren en az 3 yıl geçmesi"
+      },
+      "correctAnswer": "D",
+      "explanation": "6356 sayılı Kanun'a göre, sendikanın kuruluşundan itibaren belirli bir süre geçmesi toplu iş sözleşmesi yapma yetkisi için bir şart değildir. Önemli olan, sendikanın işkolu barajını (%1) ve işyeri barajını (%40) sağlaması ile tüzüğünde toplu iş sözleşmesi yapma yetkisinin bulunmasıdır. Madde 41 ve 42'de yetki tespiti ve şartları düzenlenmiştir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Anayasa'da güvence altına alınan toplu iş hukukuna ilişkin haklardan biri değildir?",
+      "options": {
+        "A": "Sendika kurma hakkı",
+        "B": "Toplu iş sözleşmesi yapma hakkı",
+        "C": "Grev hakkı",
+        "D": "Kıdem tazminatı hakkı"
+      },
+      "correctAnswer": "D",
+      "explanation": "Türkiye Cumhuriyeti Anayasası'nın 51. maddesi sendika kurma hakkını, 53. maddesi toplu iş sözleşmesi yapma hakkını ve 54. maddesi grev hakkını güvence altına almıştır. Kıdem tazminatı hakkı ise 4857 sayılı İş Kanunu ve ilgili mevzuatta düzenlenen bireysel iş hukuku kapsamındaki bir haktır, Anayasa'da doğrudan toplu iş hukuku kapsamında güvence altına alınmamıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Toplu iş sözleşmesinin (TİS) iş sözleşmeleri üzerindeki etkisi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "TİS hükümleri her zaman bireysel iş sözleşmelerinin önüne geçer, aksi hükümler geçersizdir.",
+        "B": "Bireysel iş sözleşmeleri ile TİS hükümleri arasında farklılık olması halinde, işçi lehine olan hüküm uygulanır.",
+        "C": "TİS'in sadece borç doğurucu hükümleri iş sözleşmelerini etkiler.",
+        "D": "TİS hükümleri, sadece TİS'i imzalayan işçiler için geçerlidir."
+      },
+      "correctAnswer": "B",
+      "explanation": "6356 sayılı Kanun'a göre, toplu iş sözleşmesinin normatif hükümleri, iş sözleşmeleriyle çatıştığında işçi lehine olan hüküm uygulanır. Bu, işçi lehine ilkesinin bir yansımasıdır. TİS'in borç doğurucu hükümleri taraflar arasında uygulanırken, normatif hükümleri kapsamındaki iş sözleşmelerini etkiler ve işçilere daha elverişli haklar tanıyabilir. TİS hükümleri, sendika üyesi olsun olmasın, kapsamdaki tüm işçiler için belirli şartlarla geçerli olabilir (dayanışma aidatı ödeyenler, genişletme kararı vb.)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir grevin kanuni grev sayılabilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi zorunlu değildir?",
+      "options": {
+        "A": "Uyuşmazlığın Toplu İş Sözleşmesi Kanunu kapsamında bir menfaat uyuşmazlığı olması",
+        "B": "Grev kararının sendika genel kurulunca alınmış olması",
+        "C": "Arabuluculuk sürecinin tüketilmiş olması",
+        "D": "Grev kararının karşı tarafa ve ilgili mercilere tebliğ edilmesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "6356 sayılı Kanun'a göre grev kararı, ilgili işçi sendikasının yönetim kurulu tarafından alınır (m. 58). Genel kurulun grev kararı alması zorunlu değildir. Diğer seçeneklerde belirtilen hususlar ise (menfaat uyuşmazlığı, arabuluculuk süreci, karar tebliği) kanuni grevin şartları arasında yer almaktadır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'nda düzenlenen sendikal güvencelerden biri değildir?",
+      "options": {
+        "A": "İşçilerin sendikaya üye olmaktan dolayı işten çıkarılamaması",
+        "B": "Sendika temsilcilerinin iş güvencesinden yararlanması",
+        "C": "Sendikal faaliyetlerin işverence engellenememesi",
+        "D": "İşverenin sendika üyesi olmaya zorlanması"
+      },
+      "correctAnswer": "D",
+      "explanation": "6356 sayılı Kanun, işçilerin sendika üyesi olmaktan dolayı işten çıkarılmasını yasaklar ve sendika temsilcilerine özel iş güvenceleri tanır. Ayrıca sendikal faaliyetlerin işverence engellenemeyeceğini hükme bağlar. Ancak işverenin sendika üyesi olmaya zorlanması gibi bir düzenleme Türk Hukukunda mevcut değildir. İşverenler, işveren sendikalarına serbestçe üye olabilirler ancak bu bir zorunluluk değildir ve Sendikalar Kanunu işverenin sendika üyeliğini zorunlu tutmaz. Seçenek D, doğrudan sendikal güvencelerle ilgili olmayıp, sendika özgürlüğünün tersine bir zorlama ifadesidir."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Arabuluculuk:** Hukuk uyuşmazlıklarında tarafların, bağımsız ve tarafsız bir üçüncü kişi (arabulucu) eşliğinde, kendi çözümlerini üretmelerini ve anlaşmalarını sağlamayı amaçlayan, alternatif bir uyuşmazlık çözüm yöntemidir.\n•   **Zorunlu Arabuluculuk (Dava Şartı Arabuluculuk):** Belirli uyuşmazlık türlerinde, dava açılmadan önce arabulucuya başvurulmasının kanunen bir zorunluluk (dava şartı) olarak öngörülmesidir. Bu şart yerine getirilmeden dava açılması halinde, dava usulden reddedilir.\n•   **Yeni Zorunlu Arabuluculuk Alanları:** İş uyuşmazlıkları (7036 S.K.), tüketici uyuşmazlıkları (6502 S.K.) ve ticari uyuşmazlıklar (6102 S.K.) zorunlu arabuluculuk uygulamasına tabi tutulmuştur.\n•   **Arabuluculuğun Amaçları:** Yargı yükünü azaltmak, uyuşmazlıkları daha hızlı, daha az maliyetli ve tarafların iradesine uygun şekilde çözmek, taraflar arasındaki ilişkileri korumak ve gizliliği sağlamaktır.\n•   **Arabulucu Kimdir?:** Hukuk Fakültesi mezunu, beş yıllık kıdemi olan, arabuluculuk eğitimi almış ve Adalet Bakanlığı Arabuluculuk Sicili'ne kayıtlı bağımsız ve tarafsız bir hukukçudur.\n•   **Son Tutanak:** Arabuluculuk sürecinin sonunda tarafların anlaşıp anlaşamadığını, anlaşma şartlarını veya sürecin anlaşmazlıkla sonuçlandığını belgeleyen resmi tutanaktır. Anlaşma tutanağı, icra edilebilirlik şerhi ile mahkeme ilamı niteliği kazanabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İş Uyuşmazlıkları:** 7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesi uyarınca, işçi veya işveren alacağı ve tazminatı ile işe iade talebiyle açılan davalarda, arabulucuya başvurulmuş olması dava şartıdır. İş kazası veya meslek hastalığından kaynaklanan maddi ve manevi tazminat davaları ile hizmet tespit davaları bu kapsamda değildir.\n•   **Tüketici Uyuşmazlıkları:** 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 73/A maddesi uyarınca, tüketici mahkemelerinde görülen ve değeri belirli parasal sınırın üzerindeki uyuşmazlıklarda (2024 yılı için 104.000 TL) dava açılmadan önce arabulucuya başvurulması dava şartıdır. Tüketici hakem heyetlerinin görev alanına giren uyuşmazlıklar bu kapsamda değildir.\n•   **Ticari Uyuşmazlıklar:** 6102 sayılı Türk Ticaret Kanunu'nun 5/A maddesi uyarınca, konusu bir miktar paranın ödenmesi olan alacak ve tazminat taleplerine ilişkin ticari davalarda dava açılmadan önce arabulucuya başvurulması dava şartıdır. Örneğin, ticari defter veya fatura kaynaklı alacak davaları bu kapsamdadır.\n•   **Genel Çerçeve:** 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, arabuluculuk müessesesinin genel işleyişini, arabulucuların yetki ve sorumluluklarını, sürecin temel prensiplerini ve son tutanağın hukuki niteliğini düzenler.\n•   **Zamanaşımı ve Hak Düşürücü Süreler:** Arabuluculuğa başvuru ile birlikte zamanaşımı durur ve hak düşürücü süreler işlemez. Arabuluculuk süreci sonunda tutanağın düzenlendiği tarihten itibaren süreler kaldığı yerden işlemeye başlar.\n•   **İcra Edilebilirlik Şerhi:** Arabuluculuk sonucunda tarafların anlaşması halinde düzenlenen son tutanak, mahkemeden icra edilebilirlik şerhi alınarak ilam (mahkeme kararı) niteliği kazanır ve ilamlı icraya konu edilebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **İş Uyuşmazlığı:** Bir işçi, iş sözleşmesinin haksız feshedildiğini iddia ederek kıdem tazminatı, ihbar tazminatı, fazla mesai ve UBGT (Ulusal Bayram ve Genel Tatil) ücreti alacaklarını talep etmektedir. İşçi, dava açmadan önce arabulucuya başvurmak zorundadır.\n•   **Tüketici Uyuşmazlığı:** Bir tüketici, satın aldığı bir elektronik ürünün ayıplı olduğunu ileri sürerek ödediği bedelin iadesini veya ürünün misli ile değiştirilmesini talep etmektedir. Talep edilen bedel, tüketici hakem heyetlerinin görev sınırını aşıyorsa, dava açmadan önce arabulucuya başvurulması zorunludur.\n•   **Ticari Uyuşmazlık:** İki tacir firma arasında yapılan bir mal alım satım sözleşmesinden doğan, ödenmemiş fatura bedeli nedeniyle alacak davası açılması planlanmaktadır. Dava açılmadan önce arabulucuya başvurulması dava şartıdır.\n•   **İş Uyuşmazlığı (İşe İade):** Bir işveren, bir işçinin iş sözleşmesini geçerli sebep olmaksızın feshetmiştir. İşçi işe iade talebinde bulunmak istemektedir. Bu durumda da işe iade arabuluculuğuna başvurulması dava şartıdır (7036 S.K. m. 3/1).\n•   **Tüketici Uyuşmazlığı (Konut Finansmanı):** Bir tüketici, konut finansmanı kredisi nedeniyle banka ile yaşadığı bir uyuşmazlıkta fazladan ödediği komisyon veya faizlerin iadesini talep etmektedir. Uyuşmazlık bedeli parasal sınırın üzerindeyse, dava açmadan önce arabulucuya başvurmak zorundadır.\n•   **Ticari Uyuşmazlık (Sigorta Alacağı):** Bir şirket, uğradığı ticari bir zararın sigorta poliçesi kapsamında karşılanmadığı iddiasıyla sigorta şirketine karşı alacak davası açmayı düşünmektedir. Bu tür bir alacak talebi de ticari dava niteliğinde olup dava şartı arabuluculuğa tabidir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Dava Şartının Önemi:** Zorunlu arabuluculuk kapsamında olan bir davada, arabuluculuğa başvurulmadan dava açılması halinde, mahkeme davayı usulden reddedecektir. Bu, yargılamanın başında telafisi güç hak kayıplarına yol açabilir.\n•   **İstisnalar:** Her ne kadar geniş bir uygulama alanı bulunsa da, iş kazası/meslek hastalığı davaları, hizmet tespit davaları, işe iade dışındaki fesih geçersizliği davaları gibi bazı uyuşmazlıklar dava şartı arabuluculuk kapsamı dışındadır. Tüketici hakem heyetlerinin görev alanına giren düşük bedelli uyuşmazlıklar da zorunlu arabuluculuk kapsamına girmez.\n•   **Masraflar ve Ücretler:** Arabuluculuk süreci sonunda anlaşma sağlanırsa, arabuluculuk ücreti taraflarca aksi kararlaştırılmadıkça eşit ödenir. Anlaşma sağlanamazsa, iki saatlik ücret Adalet Bakanlığı bütçesinden karşılanır. Belirli koşullarda dava açılması halinde yargılama gideri olarak avukatlık ücreti ve mahkeme masrafları, arabuluculuk ücretini aşabilir.\n•   **Gizlilik:** Arabuluculuk sürecindeki tüm görüşmeler ve belgeler gizlidir. Taraflar ve arabulucu, bu bilgileri üçüncü kişilerle paylaşamaz ve yargılamada delil olarak kullanamaz.\n•   **İrade Serbestisi ve Anlaşmanın Bağlayıcılığı:** Arabuluculukta çözüm tamamen tarafların iradesine bağlıdır. Anlaşma sağlanırsa, bu anlaşma taraflar için bağlayıcıdır ve icra edilebilirlik şerhi alınarak mahkeme kararı gibi uygulanabilir.\n•   **Arabulucu Seçimi:** Arabuluculuk büroları aracılığıyla listelerden arabulucu atanabildiği gibi, taraflar anlaşırlarsa doğrudan bir arabulucu seçebilirler. Arabulucunun tarafsızlığı ve bağımsızlığı sürecin sağlıklı ilerlemesi için esastır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kapsam ve İstisnalar:** Zorunlu arabuluculuğun hangi uyuşmazlık türlerinde (iş, tüketici, ticari) uygulandığını ve hangi durumlarda uygulanmadığını (iş kazası, hizmet tespiti, tüketici hakem heyeti sınırı altı vb.) iyi anlayın.\n•   **Dava Şartı Niteliği:** Dava şartı arabuluculuğa başvurulmamasının hukuki sonucunun (davanın usulden reddi) önemini kavrayın.\n•   **Kanun Maddeleri ve Parasal Sınırlar:** İlgili kanun maddelerini (7036 S.K. m. 3, 6502 S.K. m. 73/A, 6102 S.K. m. 5/A) ve özellikle tüketici uyuşmazlıklarındaki güncel parasal sınırları bilin.\n•   **Arabuluculuk Sürecinin Etkileri:** Arabuluculuğun zamanaşımı ve hak düşürücü süreler üzerindeki durdurucu etkisini ve arabuluculuk anlaşma tutanağının icra edilebilirlik şerhi ile kazandığı ilam niteliğini unutmayın.\n•   **Arabuluculuk Ücretleri ve Giderleri:** Anlaşma halinde ve anlaşma sağlanamaması halinde arabuluculuk ücretinin kim tarafından ödendiği ile ilgili genel kuralları gözden geçirin.\n•   **Temel Kavramlar:** Arabuluculuk, zorunlu arabuluculuk, arabulucu, son tutanak gibi temel terimlerin tanımlarını ve özelliklerini bilmek, genel bir perspektif için önemlidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdaki iş uyuşmazlıklarından hangisi 7036 sayılı İş Mahkemeleri Kanunu kapsamında dava şartı arabuluculuğa tabidir?",
+      "options": {
+        "A": "İş kazası sonucu oluşan maddi ve manevi tazminat davaları",
+        "B": "İş sözleşmesinden kaynaklanan kıdem tazminatı talepleri",
+        "C": "Hizmet tespit davaları",
+        "D": "İşveren vekili aleyhine açılan zimmet davası"
+      },
+      "correctAnswer": "B",
+      "explanation": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesine göre, işçi veya işveren alacağı ve tazminatı ile işe iade talebiyle açılan davalarda arabulucuya başvurulmuş olması dava şartıdır. İş kazası, hizmet tespiti ve cezai nitelikteki davalar bu kapsamda değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Tüketici uyuşmazlıklarında dava şartı arabuluculuk uygulamasına ilişkin olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Tüm tüketici uyuşmazlıkları, parasal sınıra bakılmaksızın dava şartı arabuluculuğa tabidir.",
+        "B": "Sadece banka ve finans kuruluşlarıyla ilgili tüketici uyuşmazlıkları dava şartı arabuluculuğa tabidir.",
+        "C": "Tüketici hakem heyetlerinin görev alanına giren uyuşmazlıklarda da dava şartı arabuluculuk zorunludur.",
+        "D": "Tüketici mahkemelerinin görev alanına giren ve parasal sınırı aşan uyuşmazlıklarda dava şartı arabuluculuk zorunludur."
+      },
+      "correctAnswer": "D",
+      "explanation": "6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 73/A maddesi uyarınca, tüketici mahkemelerinin görev alanına giren ve değeri belirli parasal sınırın üzerindeki uyuşmazlıklarda dava açmadan önce arabulucuya başvurulması dava şartıdır. Tüketici hakem heyetlerinin görev alanına giren uyuşmazlıklar bu kapsamda değildir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ticari uyuşmazlıklarda dava şartı arabuluculuğun kapsamına giren uyuşmazlıklar, 6102 sayılı Türk Ticaret Kanunu'na göre genel olarak hangi nitelikte olmalıdır?",
+      "options": {
+        "A": "Ticari davaların tamamı",
+        "B": "Konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri",
+        "C": "Şirketler hukukuna ilişkin tüm davalar",
+        "D": "Fikri mülkiyet hukukundan doğan ticari davalar"
+      },
+      "correctAnswer": "B",
+      "explanation": "6102 sayılı Türk Ticaret Kanunu'nun 5/A maddesi, ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmasını dava şartı olarak düzenlemiştir. Tüm ticari davaları kapsamaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Zorunlu arabuluculuk kapsamında olan bir davada, arabuluculuğa başvurulmadan doğrudan dava açılmasının hukuki sonucu nedir?",
+      "options": {
+        "A": "Mahkeme, davacıya arabuluculuk başvurusu için ek süre verir.",
+        "B": "Dava, usulden reddedilir.",
+        "C": "Dava, esastan incelenmeye devam eder ancak yargılama giderleri davacıya yüklenir.",
+        "D": "Dava açılmamış sayılır."
+      },
+      "correctAnswer": "B",
+      "explanation": "Dava şartı olan arabuluculuğa başvurulmadan dava açılması halinde, mahkeme dava şartı eksikliği nedeniyle davayı usulden reddeder. Eksiklik giderilemediği takdirde dava açılamaz."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Arabuluculuk sürecine başvurulması, zamanaşımı ve hak düşürücü süreler üzerindeki etkisi açısından aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Süreler işlemeye devam eder, herhangi bir etkisi olmaz.",
+        "B": "Süreler durur ve arabuluculuk süreci sonunda kaldığı yerden işlemeye başlar.",
+        "C": "Süreler baştan itibaren yeniden işlemeye başlar.",
+        "D": "Sadece hak düşürücü süreler durur, zamanaşımı süreleri etkilenmez."
+      },
+      "correctAnswer": "B",
+      "explanation": "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na göre, arabuluculuğa başvurulmasıyla zamanaşımı durur ve hak düşürücü süreler işlemez. Süreler, arabuluculuk süreci sonunda tutanağın düzenlendiği tarihten itibaren kaldığı yerden işlemeye devam eder."
+    }
+  ]
+}

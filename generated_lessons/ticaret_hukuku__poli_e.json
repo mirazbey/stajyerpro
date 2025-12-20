@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Poliçe Tanımı:** Türk Ticaret Kanunu'na göre (TTK), poliçe bir kambiyo senedi olup, keşidecinin (düzenleyenin) muhataba (üçüncü kişi) hitaben belirli bir bedeli, belirli bir tarihte, lehtar (alacaklı) veya emrine havale edeceği kişiye ödeme emrini içeren kayıtsız şartsız bir ödeme vaadidir.\n•   **Poliçenin Tarafları:** Başlangıçta üç temel taraf bulunur: **Keşideci (Düzenleyen)**: Poliçeyi düzenleyip imzalayan ve ödeme emrini veren kişi; **Muhatap (Ödeyecek Kişi)**: Poliçede belirtilen bedeli ödemesi gereken kişi (poliçeyi kabul ettiğinde asıl borçlu olur); **Lehtar (Alacaklı)**: Poliçe bedelini tahsil edecek ilk kişi.\n•   **Zorunlu Unsurlar:** Bir senedin poliçe sayılabilmesi için kanunda belirtilen bazı zorunlu unsurları taşıması gerekir: 'Poliçe' kelimesi, kayıtsız şartsız belirli bir bedeli ödeme emri, muhatabın adı soyadı/ticaret unvanı, ödeme yeri, düzenlenme tarihi ve yeri, lehtarın adı soyadı/ticaret unvanı ve keşidecinin imzası.\n•   **Ciro:** Poliçenin devredilmesini sağlayan hukuki işlemdir. Lehtar veya ciranta (devreden), poliçeyi kendi elinden çıkararak yeni bir kişiye (ciranta) devreder. Ciro, poliçenin arkasına veya alonj denilen bir eklentiye yazılan bir beyanla yapılır ve poliçe borçlularının sorumluluğunu zincirleme olarak devam ettirir.\n•   **Kabul:** Muhatabın poliçe bedelini vadesinde ödeyeceğini taahhüt etmesidir. Muhatap, poliçe üzerine 'kabul edilmiştir' veya benzeri bir ibare yazıp imzalayarak poliçeyi kabul eder ve böylece poliçenin asıl borçlusu haline gelir.\n•   **Aval:** Poliçe bedelinin ödenmesini güvence altına almak için bir borçlu lehine verilen şahsi teminattır. Aval veren kişi, lehine aval verdiği kişinin sorumluluğu gibi sorumludur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **TTK m. 671 (Zorunlu Unsurlar):** Poliçenin tanımını ve zorunlu şekil şartlarını düzenler. Buna göre, bir senedin poliçe sayılabilmesi için 'Poliçe' kelimesi, kayıtsız şartsız ödeme emri, muhatabın adı, vade, ödeme yeri, lehtarın adı, düzenlenme tarihi ve yeri, keşidecinin imzası gibi unsurları içermesi gerekir.\n•   **TTK m. 676 vd. (Ciro):** Poliçenin devir şekillerini (nama, emre, hamiline) ve cironun hükümlerini (temlik, garanti, teşhis fonksiyonu) düzenler. Ciro, poliçenin el değiştirmesini ve borçlular zincirinin oluşmasını sağlar.\n•   **TTK m. 690 vd. (Kabul):** Muhatabın poliçeyi kabul etmesinin hukuki sonuçlarını belirler. Kabul, muhatabı poliçenin asıl borçlusu yapar ve lehtara veya hamiline karşı doğrudan sorumluluk yükler.\n•   **TTK m. 702 vd. (Aval):** Poliçeye ilişkin avalin ne olduğunu, nasıl verileceğini ve aval verenin sorumluluğunun kapsamını açıklar. Aval, bir nevi garanti olup, lehine aval verilen kişinin borcunu ödememesi halinde avalist ödeme yükümlülüğü altına girer.\n•   **TTK m. 709 vd. (Vade):** Poliçede vadenin türlerini (görüldüğünde, görüldükten belirli bir süre sonra, düzenlenme gününden belirli bir süre sonra, belirli bir günde) ve bunların hukuki sonuçlarını düzenler.\n•   **TTK m. 713 vd. (Protesto ve Rücu Hakkı):** Poliçenin kabul edilmemesi veya ödenmemesi durumunda hamilin rücu hakkını kullanabilmesi için çekmesi gereken protestoyu ve protestonun şekil ve sürelerini düzenler. Protesto çekilmesi, rücu hakkının korunması için hayati önem taşır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Ticari İşlemde Poliçe Kullanımı:** Bir toptancı (keşideci), mal sattığı perakendeci müşterisinden (muhatap) olan alacağını, başka bir tedarikçisine (lehtar) ödemek amacıyla bir poliçe düzenleyebilir. Bu durumda toptancı, perakendeciye bir ödeme emri verir ve tedarikçisi poliçeyi tahsil eder.\n•   **Ciro Yoluyla Devir:** Lehtar, elindeki poliçeyi vadesi gelmeden önce nakit ihtiyacını karşılamak için bir başka kişiye (örneğin bir banka veya faktoring şirketi) ciro ederek devredebilir. Bu durumda yeni hamil, poliçe bedelini muhataptan talep etme hakkını kazanır.\n•   **Kabulün Önemi:** Bir muhatap, kendisine sunulan poliçeyi 'kabul' ettiğinde, keşideciye veya lehtara değil, doğrudan hamiline karşı borç altına girer. Örneğin, inşaat şirketinin malzeme tedarikçisi için bankasına düzenlettiği poliçeyi bankanın kabul etmesi, bankayı asıl borçlu yapar.\n•   **Ödenmeme ve Protesto Süreci:** Poliçe vadesinde muhataba ibraz edildiğinde ödenmezse, hamil, noter aracılığıyla süresinde bir 'protesto' çektirerek muhatap dışındaki keşideci ve cirantalara karşı rücu hakkını korur. Aksi halde rücu haklarını kaybedebilir.\n•   **Aval Uygulaması:** Bir tacir (keşideci), borçlusu (muhatap) adına düzenlediği poliçenin daha güvenli olmasını sağlamak için bir üçüncü kişiden (örneğin bir bankadan veya varlıklı bir şahıstan) aval isteyebilir. Aval veren kişi, muhatap ödeme yapmadığı takdirde borcu ödemeyi taahhüt eder.\n•   **Beyaz Ciro:** Poliçenin arkasına sadece cirantanın imzasının atılmasıyla yapılan ciroya 'beyaz ciro' denir. Bu durumda poliçe hamiline yazılı senet gibi işlem görür ve zilyetliğin devriyle devredilebilir. Ancak beyaz ciroda devralan kişi, sonradan kendi adını veya başkasının adını yazarak ciroyu tamamlayabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Zorunlu Unsurların Eksikliği:** TTK m. 671'de belirtilen zorunlu unsurlardan birinin eksikliği, senedin poliçe niteliğini kaybetmesine neden olur. Örneğin, 'poliçe' kelimesinin olmaması veya keşidecinin imzasının bulunmaması senedi geçersiz kılar (istisnalar hariç).\n•   **Vade Belirlemedeki Hatalar:** Vade olarak kanunda belirtilen türlerin dışında (örneğin 'görüldüğünde veya 30 gün sonra') bir vade belirlenmesi poliçeyi geçersiz kılar. Belirli bir güne bağlı olması veya görüldüğünde, görüldükten belirli bir süre sonra gibi kesin ifadeler içermesi gerekir.\n•   **Protesto Süreleri ve Rücu Hakkı:** Poliçenin vadesinde ödenmemesi veya kabul edilmemesi halinde hamilin keşideci ve cirantalara karşı rücu haklarını kullanabilmesi için süresinde protesto çekmesi şarttır. Protesto, kural olarak ödeme vadesini takip eden iki iş günü içinde yapılmalıdır; aksi halde rücu hakları kaybedilebilir.\n•   **Def'i Hakkı Sınırlamaları:** Poliçe, temel ilişkiden soyutlanmış bir senet olduğundan, borçlular kural olarak önceki hamil ile aralarındaki şahsi def'ileri yeni hamile karşı ileri süremezler. Ancak, hamilin borçlunun zararına bilerek hareket ettiği (kötü niyetli olduğu) ispat edilirse bu def'iler ileri sürülebilir.\n•   **Aval ile Kefalet Farkı:** Aval, kefaletten farklı olarak müstakil bir taahhüttür ve lehine aval verilen borçlunun borcu geçersiz olsa bile avalistin taahhüdü geçerliliğini koruyabilir (şekle aykırılık hariç). Aval veren kişi, lehine aval verdiği borçlunun borcu gibi sorumlu olur.\n•   **Zamanaşımı Süreleri:** Poliçe borçlarına ilişkin dava açma süreleri TTK'da kısadır: Hamilin muhataba karşı açacağı davalar 3 yıl; hamilin cirantalara ve keşideciye karşı açacağı davalar 1 yıl; cirantaların kendi aralarındaki rücu davaları ise 6 ay içinde zamanaşımına uğrar. Bu sürelerin kaçırılması hak kaybına yol açar."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Tanım ve Temel Unsurlar:** Poliçenin TTK'daki tanımını ve zorunlu unsurlarını ezberleyin. Hangi unsurun eksikliğinin senedin poliçe niteliğini kaybettirdiğini bilin.\n•   **Taraflar ve Rolleri:** Keşideci, muhatap, lehtar, ciranta, avalist gibi tarafların kimler olduğunu ve poliçe ilişkisindeki rollerini ve sorumluluklarını anlayın.\n•   **Ciro ve Kabulün Hukuki Sonuçları:** Cironun temlik, garanti ve teşhis fonksiyonlarını; kabulün muhatabı nasıl asıl borçlu hale getirdiğini ve poliçenin tedavül kabiliyetini nasıl etkilediğini öğrenin.\n•   **Aval ve Protesto Mekanizması:** Avalin kefaletten farklarını, avalin geçerlilik şartlarını ve protestonun neden gerekli olduğunu, protesto çekme sürelerini ve rücu hakkı üzerindeki etkilerini iyice kavrayın.\n•   **Zamanaşımı Süreleri:** Poliçe hukukuna özgü kısa zamanaşımı sürelerini ve bu sürelerin hangi taraflar arasındaki ilişkilere uygulandığını kesinlikle bilin.\n•   **Def'iler ve Soyutluk İlkesi:** Poliçenin temel ilişkiden soyutluğu prensibini ve bunun borçluların ileri sürebileceği def'i türleri üzerindeki sınırlayıcı etkisini, kötü niyet istisnasını gözden geçirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi bir poliçenin zorunlu unsurlarından biri DEĞİLDİR?",
+      "options": {
+        "A": "Poliçe kelimesi",
+        "B": "Kayıtsız şartsız belirli bir bedeli ödeme emri",
+        "C": "Muhatabın adı soyadı veya ticaret unvanı",
+        "D": "Poliçeyi kabul etmeme halinde uygulanacak faiz oranı",
+        "E": "Keşidecinin imzası"
+      },
+      "correctAnswer": "D",
+      "explanation": "Poliçenin zorunlu unsurları TTK m. 671'de sayılmıştır. Faiz oranı, poliçenin zorunlu unsurları arasında yer almaz. Faiz, ancak ödeme geciktiğinde söz konusu olabilir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Poliçede 'aval' veren bir kişinin sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Avalist sadece lehine aval verdiği kişinin ödeme gücü yetersiz olursa sorumlu olur.",
+        "B": "Avalist, lehine aval verdiği kişinin borcu geçersiz olsa bile kendi taahhüdü geçerliliğini korur (şekle aykırılık halleri hariç).",
+        "C": "Avalist, lehine aval verdiği kişiye karşı ileri sürülebilecek tüm def'ileri hamile karşı da ileri sürebilir.",
+        "D": "Avalist, poliçeyi düzenleyen keşidecinin kefili gibidir.",
+        "E": "Avalist sadece poliçenin düzenlenme yerinde ikamet eden bir kişi olabilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Aval, kefaletten farklı olarak bağımsız bir taahhüttür. Avalistin taahhüdü, lehine aval verilen kişinin taahhüdü şekil eksikliği dışında geçersiz olsa bile geçerliliğini korur (TTK m. 702/3). Diğer şıklar yanlıştır; avalistin sorumluluğu bağımsızdır ve belirli def'ileri ileri sürme hakkı sınırlıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Hamilin, vadesinde ödenmeyen bir poliçe nedeniyle keşideci ve cirantalara karşı rücu hakkını kullanabilmesi için yerine getirmesi gereken temel şart nedir?",
+      "options": {
+        "A": "Muhataba karşı icra takibi başlatması",
+        "B": "Poliçenin düzenlendiği yerdeki ticaret odasına başvurması",
+        "C": "Süresinde noter aracılığıyla protesto çekmesi",
+        "D": "Keşideci ve tüm cirantalara ihtarname göndermesi",
+        "E": "Poliçeyi yeni bir kişiye ciro etmesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vadesinde ödenmeyen veya kabul edilmeyen bir poliçe için hamilin keşideci ve cirantalara karşı rücu hakkını kullanabilmesi için kural olarak süresinde (vadeyi takip eden iki iş günü içinde) protesto çekmesi şarttır (TTK m. 713 vd.). Protesto, ödememe veya kabul etmeme halini resmi olarak tespit eder."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir poliçede keşidecinin imzasının eksik olması durumunda aşağıdakilerden hangisi söz konusu olur?",
+      "options": {
+        "A": "Poliçe, hamiline yazılı senet haline gelir.",
+        "B": "Senet adi havale olarak geçerli olur.",
+        "C": "Senet, poliçe niteliğini kaybeder ve geçersizdir.",
+        "D": "Sadece muhatap poliçeyi kabul ederse geçerli sayılır.",
+        "E": "Hamil, eksikliği keşideci adına tamamlayabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Keşidecinin imzası, poliçenin TTK m. 671'de sayılan zorunlu unsurlarından biridir. Bu unsurun eksikliği, senedin poliçe niteliğini kaybetmesine ve dolayısıyla geçersiz olmasına yol açar."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Hamilin, cirantalara karşı rücu davası açma hakkı ne kadar süre içinde zamanaşımına uğrar?",
+      "options": {
+        "A": "Poliçenin düzenleme tarihinden itibaren 3 yıl",
+        "B": "Protesto tarihinden itibaren 1 yıl",
+        "C": "Protesto tarihinden itibaren 6 ay",
+        "D": "Vadeden itibaren 2 yıl",
+        "E": "Hamilin durumu öğrenmesinden itibaren 3 ay"
+      },
+      "correctAnswer": "B",
+      "explanation": "TTK m. 726'ya göre, hamilin cirantalara ve keşideciye karşı açacağı rücu davaları, süresinde çekilen protesto tarihinden veya senette 'masrafsız' kaydı varsa vadenin bittiği tarihten itibaren bir yıl geçmekle zamanaşımına uğrar."
+    }
+  ]
+}

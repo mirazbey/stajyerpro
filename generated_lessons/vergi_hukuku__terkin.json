@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Terkin Tanımı:** Vergi borcunun belirli yasal şartlar altında, vergi idaresi tarafından tahsilinden vazgeçilerek kayıtlardan silinmesidir. Borcun tamamen ortadan kalkması sonucunu doğurur.\n•   **Amaç:** Mükellefin ödeme gücünü aşan, tahsili imkansız veya ekonomik olmayan durumlarda, kamu yararı ve hakkaniyet ilkeleri çerçevesinde mükellefe kolaylık sağlamak, idari ve yargısal süreçleri azaltmaktır.\n•   **Uygulama Alanı:** Genellikle kesinleşmiş vergi borçları için söz konusu olmakla birlikte, özel durumlarda gecikme zammı ve vergi cezaları da terkin kapsamına girebilir.\n•   **Zamanaşımı ile Farkı:** Terkin, borcu tamamen ortadan kaldırır. Zamanaşımı ise borcu silmez, sadece idarenin tahsil etme yetkisini sona erdirir, borç doğal borç olarak varlığını sürdürebilir.\n•   **Tecil ve Taksitlendirme ile Farkı:** Tecil (erteleme) ve taksitlendirme, borcun ödeme süresini veya şeklini düzenler; borcu silmezler. Terkin ise borcun kendisini yok eder.\n•   **Hukuki Niteliği:** Terkin, çoğu durumda idarenin takdir yetkisine bağlıdır; ancak belirli şartların varlığı halinde mükellefin başvurusu üzerine değerlendirilmesi zorunlu bir işlemdir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Vergi Usul Kanunu (VUK) Madde 116 (Mücbir Sebep ve Afet Halleri):** Yangın, deprem, su basması, yer kayması, salgın hastalık gibi afetler veya mücbir sebep halleri dolayısıyla mükelleflerden tahsili imkansız hale gelen vergi borçlarının, Hazine ve Maliye Bakanlığınca (veya yetkilendirilmiş birimlerce) terkin edilebileceğini düzenler. Terkin için mükellefin ödeme gücünü kaybetmesi ve borcun tahsilinin fiilen imkansız hale gelmesi şartı aranır.\n•   **Vergi Usul Kanunu (VUK) Madde 117 (Tahsil İmkansızlığı ve Küçük Alacaklar):** Tahsili için yapılan giderlerin borcun miktarını aşacağı anlaşılan ve Maliye Bakanlığınca belirlenecek limitin altındaki küçük alacakların terkin edilebileceğini öngörür. Bu madde, ekonomik olmayan tahsilat işlemlerinin önlenmesini amaçlar.\n•   **Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK) Madde 106:** Kamu alacaklarının (vergi borçları dahil) terkinini düzenler. Bu maddeye göre; tahsil imkanı kalmamış amme alacakları, kanunlarda ayrıca aksine bir hüküm bulunmadıkça, alacağın tahsilinden vazgeçilerek terkin edilebilir. Özellikle vefat eden borçlunun mirası reddedilmiş veya mirasçıların borcu ödemeye yeterli malvarlığı yoksa bu madde devreye girer. Ayrıca, VUK 117'ye benzer şekilde, tahsil masrafları alacaktan fazla olacak küçük tutarlı alacakların terkini de bu madde kapsamındadır.\n•   **Özel Kanunlardaki Hükümler:** Bazı dönemlerde çıkarılan Torba Kanunlar veya özel düzenlemelerle belirli sektörlerdeki veya belirli afetlerden etkilenen mükelleflerin vergi borçlarının terkini veya yeniden yapılandırılmasına ilişkin geçici maddeler yer alabilir.\n•   **Bakanlar Kurulu/Cumhurbaşkanı Kararları:** VUK ve AATUHK'da belirtilen terkin limitleri ve uygulama usulleri, Hazine ve Maliye Bakanlığı tarafından çıkarılan tebliğler veya Cumhurbaşkanlığı kararnameleri ile detaylandırılabilir veya güncellenebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Deprem Sonucu İş Yeri Yıkımı:** Bir bölgede meydana gelen şiddetli deprem sonucunda, bir esnafın iş yeri ve ticari faaliyetleri tamamen durmuş, ticari defterleri ve belgeleri kaybolmuş ve tüm malvarlığını yitirmiştir. Bu durumda esnafın deprem nedeniyle oluşan ödeme gücü kaybı gerekçesiyle vergi borçlarının (gelir vergisi, KDV, muhtasar vb.) VUK Madde 116 kapsamında terkini talep edilebilir.\n•   **Örnek 2: Mükellefin Vefatı ve Tahsil İmkansızlığı:** Ticari faaliyeti olan bir şahıs mükellefin vefat etmesi ve geride mirasçı bırakmaması veya mirasçılarının borcu reddetmesi durumunda, Vergi Dairesi, bu mükellefin kalan küçük tutarlı vergi borçlarının tahsilinin fiilen imkansız olduğunu değerlendirerek AATUHK Madde 106 veya VUK Madde 117 kapsamında terkin edebilir.\n•   **Örnek 3: Salgın Hastalık Nedeniyle Ekonomik Çöküş:** Bir ülkede veya bölgede etkili olan salgın hastalık (örn. pandemi) nedeniyle belirli sektörlerde faaliyet gösteren mükelleflerin işleri tamamen durmuş, uzun süre kapalı kalmış ve telafisi mümkün olmayan büyük zararlar görmüştür. Hükümet, bu durumdaki mükelleflerin belirli şartları taşıyan vergi borçlarının VUK Madde 116 kapsamında terkinine karar verebilir.\n•   **Örnek 4: Küçük Tutarlı ve Tahsili Ekonomik Olmayan Borçlar:** Bir mükellefin geçmiş dönemden kalan 200 TL tutarındaki bir vergi borcunun tahsili için yapılacak tebligat, icra takibi gibi işlemlerin maliyetinin bu tutarı aşacağı anlaşıldığında, Vergi Dairesi bu borcu VUK Madde 117 veya AATUHK Madde 106 uyarınca re'sen terkin edebilir.\n•   **Örnek 5: Hukuki Mücadele Sonrası Kesinleşmiş Karar:** Bir mükellefin vergi mahkemesinde kaybettiği ve Danıştay onayından geçerek kesinleşen bir vergi borcu bulunmaktadır. Ancak mükellef, kesinleşen bu borcu ödeyemeyecek durumda olduğunu bir afet veya mücbir sebep ile ispat ederse, borcun terkini için tekrar başvuru yapabilir. Bu durum, kesinleşmiş borçların da terkin edilebileceğini gösterir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İdarenin Takdir Yetkisi:** Terkin, genellikle idarenin geniş bir takdir yetkisi alanında gerçekleşir. Yani, yasal şartlar oluşsa bile idare her zaman terkin kararı vermek zorunda değildir; ancak talebi değerlendirmekle yükümlüdür. Bu yetki keyfi kullanılamaz, hukuka uygunluk ve eşitlik ilkelerine riayet edilmelidir.\n•   **Mükellefin İspat Yükümlülüğü:** Terkin talebinde bulunan mükellefin, ödeme gücünü kaybettiğini veya mücbir sebep/afet nedeniyle borcun tahsilinin imkansız hale geldiğini ilgili delillerle (ekspertiz raporları, afet tespit tutanakları, sağlık raporları vb.) ispat etmesi gerekir.\n•   **Hangi Borçlar Terkin Edilemez?:** Genellikle gümrük vergileri veya özel tüketim vergisi gibi bazı dolaylı vergiler ile bazı kamu alacakları için terkin uygulaması daha kısıtlı olabilir veya özel düzenlemeler gerektirebilir.\n•   **Başvuru Süresi ve Şekli:** Terkin için belirli bir başvuru süresi yasalarda açıkça belirtilmese de, mücbir sebep veya afetin meydana geldiği tarihten itibaren makul bir süre içinde başvurulması beklenir. Başvurular, ilgili vergi dairesine dilekçe ile yapılır.\n•   **Geri Alınan Terkin Kararları:** Terkin kararının, mükellefin yanıltıcı bilgi veya belge sunması sonucunda alındığının sonradan tespit edilmesi durumunda, terkin kararı iptal edilebilir ve silinen borçlar tekrar tahakkuk ettirilerek tahsil edilebilir.\n•   **Maliye Bakanlığı Yetkisi:** Terkin işlemleri genellikle Hazine ve Maliye Bakanlığı'nın yetkisindedir. Belirli tutarların altındaki terkin işlemleri için bu yetki vergi dairelerine veya defterdarlıklara devredilebilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Tanımları Kavrayın:** Terkinin tanımını, hangi kavramlardan (tecil, taksitlendirme, zamanaşımı) ayrıldığını net bir şekilde öğrenin. Farklılıklarını örneklerle açıklayabilmelisiniz.\n•   **Yasal Temelleri Bilin:** Vergi Usul Kanunu'nun (VUK) 116 ve 117. maddeleri ile Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un (AATUHK) 106. maddesinin ana içeriğini ve hangi durumlarda uygulandığını iyi anlayın.\n•   **Terkin Nedenlerini Gruplandırın:** Mücbir sebep ve afet halleri (VUK 116) ile tahsil imkansızlığı ve küçük alacaklar (VUK 117, AATUHK 106) arasındaki ayrımı ve her birinin uygulama şartlarını özümseyin.\n•   **Yetkili Mercileri Hatırlayın:** Terkin kararını kimin (Hazine ve Maliye Bakanlığı, Vergi Dairesi) alabileceği ve bu mercilerin yetki devri durumlarını bilin.\n•   **Örnek Vaka Analizi Yapın:** Farklı senaryolar (deprem, vefat, ekonomik kriz vb.) karşısında terkin şartlarının oluşup oluşmadığını ve hangi kanun maddesinin uygulanacağını değerlendirme becerisi geliştirin.\n•   **Hukuki Niteliğini Anlayın:** Terkinin idarenin takdir yetkisi mi yoksa mükellefin mutlak hakkı mı olduğu konusundaki genel eğilimi ve bunun pratik sonuçlarını bilin. Terkinin sonuçlarını (borcun tamamen silinmesi, faiz ve cezaların durumu) iyi kavrayın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi vergi borcunun terkin edilme nedenlerinden biri değildir?",
+      "options": {
+        "A": "Yangın, deprem gibi doğal afetler sonucu ödeme gücünün kaybedilmesi",
+        "B": "Mükellefin borcunu tecil (erteleme) talebinde bulunması",
+        "C": "Mücbir sebep halleri nedeniyle borcun tahsilinin imkansız hale gelmesi",
+        "D": "Tahsil masraflarının borç miktarını aşacağı küçük alacaklar",
+        "E": "Vefat eden mükellefin mirasının reddedilmesi ve mirasçıların olmaması"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tecil (erteleme), borcun ödeme süresini düzenler ancak borcun kendisini silmez. Terkin nedenleri arasında mücbir sebep, doğal afet, tahsil imkansızlığı nedeniyle küçük alacaklar ve borçlunun vefatı sonucu oluşan tahsil imkansızlığı yer alır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Vergi Usul Kanunu'nun 117. maddesine göre terkin edilebilecek alacaklar için temel kriter nedir?",
+      "options": {
+        "A": "Mükellefin bir şirketin iflas etmesi",
+        "B": "Vergi borcunun tecil edilmiş olması",
+        "C": "Tahsili için yapılacak giderlerin borcun miktarını aşacak olması",
+        "D": "Borcun zamanaşımına uğramış olması",
+        "E": "Mükellefin uzlaşma talebinde bulunması"
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK Madde 117, tahsil masraflarının borcun miktarını aşacağı anlaşılan ve Maliye Bakanlığınca belirlenecek limitin altındaki küçük alacakların terkinini düzenler. Diğer seçenekler terkinin doğrudan nedeni değildir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Terkin ile zamanaşımı arasındaki temel fark aşağıdaki ifadelerden hangisinde doğru olarak belirtilmiştir?",
+      "options": {
+        "A": "Terkin borcu sadece ertelerken, zamanaşımı borcu tamamen siler.",
+        "B": "Terkin borcu tamamen ortadan kaldırırken, zamanaşımı borcu sadece tahsil edilemez kılar.",
+        "C": "Her ikisi de borcu tamamen siler ancak farklı yasalara tabidirler.",
+        "D": "Terkin idarenin takdiridir, zamanaşımı mükellefin hakkıdır.",
+        "E": "Terkin sadece vergi borçları için, zamanaşımı tüm kamu alacakları için geçerlidir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Terkin, vergi borcunu tamamen ortadan kaldıran bir işlemdir. Zamanaşımı ise borcun tahsil edilme yetkisini sona erdirir, ancak borcun kendisi doğal borç olarak varlığını sürdürebilir ve mükellef öderse iade talep edemez."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir mükellefin uğradığı sel felaketi sonucunda işyerinin ve tüm ticari defterlerinin kullanılamaz hale gelmesi nedeniyle ödeme gücünü kaybetmesi durumunda, bu mükellefin vergi borçlarının terkin edilebilmesi için hangi kanun maddesi temel alınır?",
+      "options": {
+        "A": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 102",
+        "B": "Vergi Usul Kanunu Madde 117",
+        "C": "Vergi Usul Kanunu Madde 116",
+        "D": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 51",
+        "E": "Gelir Vergisi Kanunu Madde 89"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sel felaketi, Vergi Usul Kanunu'nun 116. maddesinde belirtilen mücbir sebep veya afet hallerindendir. Bu madde, bu tür durumlar nedeniyle tahsili imkansız hale gelen vergi borçlarının terkinine olanak tanır. VUK 117 ise daha çok küçük tutarlı ve tahsili ekonomik olmayan borçlar için geçerlidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Vergi borçlarının terkinine ilişkin kararları almakla görevli ana merci aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Danıştay Vergi Dava Daireleri Kurulu",
+        "B": "Sayıştay",
+        "C": "Maliye Bakanlığı (veya yetkilendirilmiş birimleri)",
+        "D": "Türkiye Büyük Millet Meclisi (TBMM)",
+        "E": "Vergi Mahkemeleri"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vergi borçlarının terkinine ilişkin kararlar, ilgili yasal düzenlemeler çerçevesinde Hazine ve Maliye Bakanlığı (eski adıyla Maliye Bakanlığı) veya bu Bakanlık tarafından yetkilendirilmiş vergi daireleri veya defterdarlıklar tarafından alınır."
+    }
+  ]
+}

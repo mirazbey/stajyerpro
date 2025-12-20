@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Kefalet sözleşmesi, Türk Hukuku'nda özellikle Borçlar Hukuku alanında önemli bir yere sahip olan, uygulamada sıkça karşılaşılan bir güvence sözleşmesi türüdür. Bu ders kapsamında, kefalet sözleşmesinin ne olduğunu, taraflarını, hukuki niteliğini ve diğer benzer hukuki kurumlarla arasındaki farkları ele alacağız. Kefalet sözleşmesi, bir kişinin, borçlunun borcunu ödememesi halinde, bu borcun alacaklıya karşı ifasını taahhüt ettiği sözleşmedir. Yani kefil, asıl borçlunun borcunu ödeme yükümlülüğü altına girerek alacaklıya ek bir güvence sağlamaktadır. Sözleşmenin tarafları alacaklı ile kefildir; asıl borçlu sözleşmenin tarafı değildir, ancak sözleşmenin kurulmasına neden olan borcun sahibidir. Kefalet sözleşmesinin temel niteliği fer'i (ikincil) bir borç ilişkisi olmasıdır. Bu, kefilin borcunun asıl borcun varlığına, geçerliliğine ve sona ermesine bağlı olduğu anlamına gelir. Asıl borç herhangi bir nedenle sona erdiğinde, kefilin borcu da kendiliğinden sona erer. Aynı şekilde, asıl borç batıl ise veya hiç doğmamışsa, kefalet sözleşmesi de geçersiz olacaktır. Kefalet sözleşmesini diğer güvence türlerinden, örneğin garanti sözleşmesinden veya teselsülden ayırmak önemlidir. Garanti sözleşmesinde garantör, borçlunun borcundan bağımsız olarak, belirli bir sonucun gerçekleşmemesi riskini üstlenir ve bu risk gerçekleşirse kendisi doğrudan sorumlu olur. Oysa kefil, her zaman asıl borcun bir yansıması olarak sorumluluk taşır. Teselsül (müteselsil sorumluluk) ise, birden fazla borçlunun aynı borcun tamamından sorumlu olmasıdır; burada her borçlu asıl borçludur, kefalet sözleşmesindeki gibi fer'i bir sorumluluk söz konusu değildir. Kefalet sözleşmesinin ekonomik fonksiyonu, alacaklılar için kredi ve güven ilişkilerini güçlendirmek, borçlular için ise finansmana erişimi kolaylaştırmaktır. Bu nedenle, bankacılık, ticaret ve günlük yaşamda yaygın olarak kullanılmaktadır. Bu giriş bölümünde, kefalet sözleşmesinin temel taşlarını anlamak, ilerleyen bölümlerdeki detaylı incelemeler için sağlam bir zemin oluşturacaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Kefalet sözleşmesine ilişkin yasal düzenlemeler Türk Borçlar Kanunu'nun (TBK) 581. maddesi ve devamında yer almaktadır. Bu maddeler, kefalet sözleşmesinin kurulmasından sona ermesine kadar tüm aşamaları detaylı bir şekilde düzenlemektedir. Kefalet sözleşmesinin geçerliliği için TBK tarafından öngörülen en önemli koşullardan biri şekil şartıdır. Buna göre, kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olduğu azami miktar ile kefalet tarihi el yazısıyla belirtilmedikçe geçerli olmaz (TBK m. 583/1). Ayrıca, müteselsil kefalet halinde, bu hususun veya bu anlama gelen bir ifadenin de el yazısıyla yazılması zorunludur. Bu şekil şartı, kefilin korunması amacıyla getirilmiş emredici bir hükümdür. Kefalet sözleşmesinin kurulabilmesi için asıl borcun mevcut ve geçerli olması gerekir. Gelecekte doğacak veya şarta bağlı bir borç için de kefalet verilebilir; ancak bu durumda kefilin sorumluluğu, borcun doğmasına veya şartın gerçekleşmesine bağlıdır. Kefalet türleri TBK'da farklı ayrımlara tabi tutulmuştur. En temel ayrım adi kefalet ve müteselsil kefalettir. Adi kefalette, alacaklı kural olarak önce asıl borçluya başvurmak, borçlunun taşınır ve taşınmaz mallarını haczettirmek zorundadır (önce borçluya başvurma def'i). Ancak, borçlunun iflas etmesi veya hakkında yapılan takip sonucunda borçlunun aciz vesikası alması gibi durumlarda, alacaklı doğrudan kefile başvurabilir. Müteselsil kefalette ise, kefil borçlu ile birlikte müteselsil borçlu sıfatını taşır ve alacaklı, asıl borçluya başvurmadan doğrudan kefile başvurabilir. Müteselsil kefaletin, uygulamada özellikle bankacılık işlemlerinde çok daha yaygın olduğunu belirtmek gerekir. Diğer kefalet türleri arasında birlikte kefalet (aynı borç için birden çok kefilin olması), kefile kefalet (kefilin borcuna kefil olma) ve geri kefalet (kefilin rücu hakkına kefil olma) sayılabilir. Kefaletin kapsamı da yasa ile belirlenmiştir. Kefil, aksi kararlaştırılmadıkça, asıl borçla birlikte faizlerden, yargılama ve takip giderlerinden ve alacaklının borçluya ihtarda bulunması veya dava açması nedeniyle uğradığı zararlardan sorumludur (TBK m. 589). Ancak, bu sorumluluk, kefalet senedinde gösterilen azami miktarı aşamaz. Kanun koyucu, özellikle aile hukuku bağlamında, eşin rızası gibi ek koruyucu hükümler getirmiştir (TBK m. 584). Ticari işletmelerde kefalet gibi özel durumlar da Türk Ticaret Kanunu ve diğer özel kanunlarda ek düzenlemelerle yer alabilir. Bu yasal çerçeve, kefalet sözleşmesinin hukuki güvenlik içinde kurulmasını ve yürütülmesini sağlamayı amaçlamaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Kefalet sözleşmesi, günlük hayatta ve ticari ilişkilerde çok geniş bir kullanım alanına sahiptir. En yaygın pratik uygulamalarından biri, bankalar tarafından verilen kredilerde karşımıza çıkar. Bir banka, kredi başvurusunda bulunan müşterisinden, borcun geri ödenmesini garanti altına almak amacıyla bir veya birden fazla kefil talep edebilir. Bu durumda, genellikle müteselsil kefalet sözleşmeleri düzenlenir. Kira sözleşmelerinde de kiracının kira bedelini ödememesi veya kiralanana zarar vermesi riskine karşı ev sahipleri, kefil göstermesini isteyebilirler. Ticari hayatta ise, tedarikçi firmalar veya distribütörler, bayilerine veya müşterilerine tanıdıkları vadeli satışlarda, alacaklarını güvence altına almak için kefalet sözleşmelerine başvurabilirler. Kefalet sözleşmesinin kurulması aşamasında, yasal şekil şartlarına titizlikle uyulması büyük önem taşır. Kefalet senedinin el yazısıyla doldurulması gereken kısımlarının eksiksiz ve doğru bir şekilde yazılması, ileride ortaya çıkabilecek hukuki ihtilafları önleyecektir. Kefilin ehliyeti de göz önünde bulundurulmalıdır; sınırlı ehliyetsizler, yasal temsilcilerinin rızası olmadan kefil olamazlar. Sözleşmenin ifası aşamasında, asıl borçlunun borcunu ödememesi durumunda alacaklı, kefil ile olan sözleşmenin türüne (adi veya müteselsil) göre hareket edecektir. Adi kefalette önce borçluya başvurma zorunluluğu varken, müteselsil kefalette alacaklı doğrudan kefile başvurabilir. Kefil, alacaklı tarafından talep edildiğinde, asıl borçluya ait def'ileri (itirazları), örneğin borcun zamanaşımına uğradığı veya ifa edildiği def'ilerini ileri sürebilir. Ayrıca, kendi şahsına ait def'ileri de (örneğin kefalet sözleşmesinin geçersizliği) ileri sürme hakkına sahiptir. Kefilin ödeme yapması halinde, kefil ödediği miktar oranında alacaklının haklarına halef olur (rücu hakkı). Bu, kefilin ödediği borcu asıl borçludan talep etme hakkı kazandığı anlamına gelir. Hatta, alacaklının sahip olduğu teminatları da kendi adına talep edebilir. Bu rücu hakkının etkin bir şekilde kullanılabilmesi için, kefilin ödeme yapmadan önce veya yaparken durumu asıl borçluya bildirmesi ve gerektiğinde ihtarda bulunması tavsiye edilir. Son olarak, elektronik imzalarla yapılan kefalet sözleşmelerinin geçerliliği de güncel uygulamalar arasında yer almaktadır. Nitelikli elektronik imza kullanılarak yapılan sözleşmeler de yazılı şekil şartını karşılar nitelikte kabul edilmektedir. Bu pratik bilgiler, kefalet sözleşmelerinin sorunsuz bir şekilde işlemesi ve tarafların haklarının korunması açısından hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Kefalet sözleşmesinin hukuki ve mali riskleri göz önüne alındığında, hem kefil olacak kişi hem de alacaklı tarafından azami dikkat gösterilmesi gereken birçok nokta bulunmaktadır. Öncelikle, kefil olacak kişilerin TBK m. 584 hükmüne dikkat etmesi gerekmektedir. Bu maddeye göre, eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal ayrı yaşama hakkı doğmadıkça, ancak diğer eşin yazılı rızasıyla kefil olabilir. Bu düzenleme, aile birliğini korumak ve eşlerin birbirlerinin mali durumunu tehlikeye atmasını engellemek amacıyla getirilmiştir. Bu rıza şartının yerine getirilmemesi, kefalet sözleşmesini geçersiz kılabilir. Kefilin sorumluluğu her zaman kefalet senedinde belirtilen azami miktar ile sınırlıdır (TBK m. 583). Kefil, taahhüt ettiği bu azami miktarı aşan bir sorumluluk altına sokulamaz. Bu durum, kefili aşırı ve öngörülemeyen risklerden korur. Bu nedenle, kefalet senedindeki miktarın doğru ve açık bir şekilde belirtilmesi esastır. Kefaletin sona erme halleri de dikkatle incelenmelidir. Kefalet süreli ise, sürenin dolmasıyla sona erer. Süresiz kefalette ise, kefil belirli şartlar altında fesih hakkını kullanabilir (TBK m. 598). Asıl borcun herhangi bir nedenle sona ermesi (ödeme, ibra, takas, yenileme vb.) kefaleti de kendiliğinden sona erdirir, çünkü kefalet fer'i niteliktedir. Alacaklının kendi kusuruyla borçlunun temerrüde düşmesini zorlaştırması veya teminatları azaltması gibi durumlarda da kefil sorumluluktan kurtulabilir (TBK m. 592). Özellikle, alacaklının borçluya ait teminatları serbest bırakması, azaltması veya kötü yönetmesi durumunda kefil, bu durumdan doğan zarar oranında kefalet sorumluluğundan kurtulur. Bu, alacaklının da kefilin haklarına saygı göstermesi gerektiği anlamına gelir. Kefil, rücu hakkını kullanırken dikkatli olmalıdır. Ödeme yapmadan önce asıl borçluya durumu bildirmesi ve ona savunma imkanı tanıması, rücu hakkının gelecekteki olası itirazlarla karşılaşmasını engelleyebilir. Ayrıca, ödeme yapıldığında elindeki tüm belgeleri ve alacaklının haklarına halef olduğunu gösteren delilleri saklaması önemlidir. Borcun ifasında temerrüde düşen asıl borçluya karşı alacaklının hareketsiz kalması (ihmal) da kefil için risk oluşturabilir. Eğer bu ihmal nedeniyle kefilin rücu hakkı tehlikeye girerse, kefil belirli şartlar altında sorumluluktan kurtulabilir. Bu durumlar, özellikle ticari hayatta sürekli ilişkilerde önem kazanır. Kefil olmayı düşünen kişilerin, sözleşme maddelerini çok dikkatli okumaları, sorumluluklarının kapsamını tam olarak anlamaları ve gerekirse hukuki danışmanlık almaları hayati öneme sahiptir. Aynı şekilde, alacaklılar da kefalet sözleşmesinin geçerliliğini ve etkinliğini sağlamak adına tüm yasal gerekliliklere uymalıdırlar."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu kapsamlı ders içeriğinde, Türk Borçlar Kanunu'nda düzenlenen kefalet sözleşmesini detaylı bir şekilde inceledik. Kefalet sözleşmesi, bir borçlunun borcunu ifa etmemesi halinde alacaklıya karşı bu borcun ifasını üstlenen kefilin taahhüdünü içeren, fer'i nitelikte bir güvence sözleşmesidir. Temel kavramlar bölümünde, kefilin, asıl borçlunun ve alacaklının kim olduğunu ve kefaletin fer'i karakterinin önemini vurguladık. Kefalet, asıl borcun varlığına ve geçerliliğine sıkı sıkıya bağlıdır ve bu yönüyle garanti sözleşmesinden ve müteselsil sorumluluktan ayrılır. Yasal çerçeve başlığı altında, kefalet sözleşmesinin geçerliliği için aranan şekil şartını (yazılılık, azami miktar ve tarih, müteselsil kefalette özel ibarelerin el yazısıyla yazılması) ve bu şartın kefilin korunmasındaki rolünü ele aldık. Adi kefalet ve müteselsil kefalet arasındaki temel farkları (önce borçluya başvurma def'i hakkı) ve diğer kefalet türlerini inceledik. Kefilin sorumluluğunun asıl borç, faiz, yargılama ve takip giderleri gibi unsurları kapsayabileceğini, ancak her zaman kefalet senedindeki azami miktar ile sınırlı olduğunu belirttik. Pratik uygulamalar bölümünde, kefalet sözleşmesinin bankacılık, kira ve ticari ilişkilerdeki yaygın kullanım alanlarına değindik. Sözleşmenin kurulmasından icrasına kadar olan süreçte dikkat edilmesi gerekenleri, kefilin def'i haklarını ve ödeme yapması halinde sahip olduğu rücu hakkını detaylandırdık. Elektronik imzalarla yapılan kefalet sözleşmelerinin de güncel mevzuat kapsamında geçerli olduğunu ekledik. Dikkat edilmesi gerekenler başlığı altında ise, özellikle eşin rızası (TBK m. 584) gibi kefili koruyucu hükümlerin önemine vurgu yaptık. Kefaletin sona erme hallerini (süre dolması, asıl borcun sona ermesi, alacaklının kusuru) ve alacaklının teminatları azaltması gibi durumlarda kefilin sorumluluktan kurtulabileceği durumları açıkladık. Kefil adaylarına, sözleşme metinlerini dikkatlice okumaları, sorumluluklarının kapsamını tam olarak anlamaları ve hukuki danışmanlık almaları konusunda güçlü bir tavsiyede bulunduk. Özetle, kefalet sözleşmesi güçlü bir güvence aracı olmakla birlikte, içerdiği riskler nedeniyle taraflarca büyük bir ciddiyet ve hukuki bilgiyle yaklaşılması gereken bir kurumdur. Yasal şartlara uygunluk, şeffaflık ve sorumluluk bilinci, bu sözleşmelerin sağlıklı bir şekilde işlemesinin anahtarıdır. Bu dersin amacı, katılımcıların kefalet sözleşmesine ilişkin hukuki bilgi düzeylerini artırarak, hem teorik hem de pratik düzeyde bilinçli kararlar almalarını sağlamaktır. Kefalet, Türk hukukunda önemli bir kurum olup, doğru anlaşıldığında taraflara önemli avantajlar sunarken, ihmal edildiğinde ciddi hukuki ve mali sorunlara yol açabilmektedir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Borçlar Kanunu'na göre, kefalet sözleşmesinin hukuki niteliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Kefilin borcu, asıl borcun varlığına ve geçerliliğine bağlı olan fer'i (ikincil) nitelikte bir borçtur.",
+        "B": "Kefil, asıl borçtan bağımsız olarak, belirli bir sonucun gerçekleşmemesi riskini üstlenir.",
+        "C": "Kefalet sözleşmesi, müteselsil borçluluk durumunda her borçlunun asıl borçlu olarak kabul edildiği bir sözleşme türüdür.",
+        "D": "Kefalet sözleşmesi, her zaman adi yazılı şekilde yapılmak zorunda olup, el yazısıyla herhangi bir ibare içermez.",
+        "E": "Kefil, asıl borçlunun borcunu ödememesi halinde, borcun sadece ana parasından sorumludur, faizlerden sorumlu değildir."
+      },
+      "correctAnswer": "A",
+      "explanation": "Kefalet sözleşmesi, TBK m. 581'de düzenlendiği üzere, kefilin borcunun asıl borcun varlığına, geçerliliğine ve sona ermesine sıkı sıkıya bağlı olduğu fer'i (ikincil) bir borç ilişkisidir. Diğer seçenekler, garanti sözleşmesi (B), müteselsil sorumluluk (C), şekil şartları (D) veya sorumluluğun kapsamı (E) hakkında yanlış veya eksik bilgi içermektedir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Borçlar Kanunu'na göre, geçerli bir kefalet sözleşmesi için aşağıdaki şekil şartlarından hangileri zorunludur?",
+      "options": {
+        "A": "Sadece yazılı şekilde yapılması yeterlidir.",
+        "B": "Sözleşmenin noter huzurunda yapılması ve tasdik edilmesi gerekmektedir.",
+        "C": "Sorumlu olunan azami miktarın, kefalet tarihinin ve müteselsil kefalet ise bu ibarenin kefilin el yazısıyla belirtilmesi zorunludur.",
+        "D": "Kefalet senedinin el yazısıyla yazılması zorunlu olmayıp, matbu formlar kullanılabilir.",
+        "E": "Sözlü olarak yapılan kefalet sözleşmeleri, iki tanık huzurunda yapıldığı takdirde geçerlidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "TBK m. 583/1'e göre, kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olduğu azami miktar ile kefalet tarihi, müteselsil kefalet ise bu ibare, kefilin el yazısıyla belirtilmedikçe geçerli olmaz. Bu, kanunun kefili korumak amacıyla getirdiği emredici bir şekil şartıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ayşe, Can'dan aldığı borcun ödenmesi için bankaya müteselsil kefil olmuştur. Buna göre, Can'ın borcunu ödememesi durumunda alacaklı bankanın Ayşe'ye karşı takip hakkı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Banka, önce Can'ın tüm malvarlığına başvurmak ve haciz yoluyla borcu tahsil edemezse Ayşe'ye yönelebilir.",
+        "B": "Banka, Can'ın iflas etmesi veya hakkında aciz vesikası alınması halinde Ayşe'ye doğrudan başvurabilir.",
+        "C": "Banka, Can'a başvurmadan doğrudan Ayşe'ye başvurabilir ve borcun tamamını Ayşe'den talep edebilir.",
+        "D": "Ayşe, bankadan önce Can'a başvurmasını isteyemez çünkü kefalet sözleşmesi adi kefalettir.",
+        "E": "Banka, müteselsil kefalet olsa bile, borcun sadece yarısını Ayşe'den talep edebilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Müteselsil kefalette (TBK m. 586), kefil borçlu ile birlikte müteselsil borçlu sıfatını taşır. Bu durumda alacaklı, asıl borçluya başvurmadan doğrudan kefile başvurabilir ve borcun tamamını ondan talep edebilir. 'Önce borçluya başvurma def'i' hakkı adi kefalete özgüdür. Seçenek B adi kefalette doğrudan başvuru hallerini belirtir, ancak müteselsil kefalette bu koşullar aranmaz. Seçenek E, sorumluluğun sınırına ilişkin yanlış bir ifadedir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi Türk Borçlar Kanunu'na göre kefaletin sona erme nedenlerinden biri değildir?",
+      "options": {
+        "A": "Asıl borcun ödenmesiyle kefilin borcunun da sona ermesi.",
+        "B": "Kefalet sözleşmesinde belirli bir süre öngörülmüşse, bu sürenin dolması.",
+        "C": "Alacaklının, kefilin rızası olmaksızın asıl borçluya verdiği teminatları serbest bırakması ve bu durumun kefilin rücu hakkını zarara uğratması.",
+        "D": "Asıl borçlunun iflas etmesi üzerine alacaklının kefile başvurma imkanının ortadan kalkması.",
+        "E": "Alacaklının, kefili borçtan ibra etmesi (aklama)."
+      },
+      "correctAnswer": "D",
+      "explanation": "Asıl borçlunun iflas etmesi, adi kefalette alacaklının doğrudan kefile başvurma imkanını doğurur, kefaletin sona ermesine neden olmaz (TBK m. 585/1, c.3). Aksine, bu durum kefilin sorumluluğunu daha da acil hale getirir. Diğer seçenekler ise TBK'da düzenlenen kefaletin sona erme hallerindendir: asıl borcun sona ermesi (A), süreli kefalette sürenin dolması (B), alacaklının kusuruyla teminatları azaltması (C - TBK m. 592), ve ibra (E - TBK m. 590)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Türk Borçlar Kanunu'na göre, evli bir kişinin kefil olmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Evli bir kişi, diğer eşinin rızası olmaksızın serbestçe kefil olabilir.",
+        "B": "Evli bir kişi, mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal ayrı yaşama hakkı doğmadıkça, ancak diğer eşinin yazılı rızasıyla kefil olabilir.",
+        "C": "Eşlerden biri ticari işletme sahibiyse, ticari borçları için kefalet vermesi durumunda eş rızası aranmaz.",
+        "D": "Evli kişinin kefil olabilmesi için her iki eşin de sözleşmeyi imzalaması zorunludur.",
+        "E": "Evlilik birliği içerisinde kefil olma tamamen yasaktır."
+      },
+      "correctAnswer": "B",
+      "explanation": "TBK m. 584'e göre, evli bir kişi, mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal ayrı yaşama hakkı doğmadıkça, ancak diğer eşinin yazılı rızasıyla kefil olabilir. Bu düzenleme, aile birliğini ve eşlerin mali güvenliğini korumak amacıyla getirilmiştir. Diğer seçenekler kanuna aykırı veya eksik bilgi içermektedir."
+    }
+  ]
+}

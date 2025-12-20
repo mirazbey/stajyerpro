@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İlamsız Takip Nedir?**\n    İlamsız takip, alacaklının elinde bir mahkeme kararı (ilam) veya ilam niteliğinde belge bulunmaksızın, para ve teminat alacakları için başlattığı icra takibi türüdür. Borçlunun itiraz hakkı vardır ve itiraz etmesi halinde takip durur. Temel amacı, mahkeme süreçlerine gerek kalmadan, borcun ödenmesini sağlamaktır.\n\n•   **Takip Talebi**\n    İlamsız takibin başlangıcıdır. Alacaklının veya vekilinin, yetkili icra dairesine borçlunun kimlik ve adres bilgileri, alacak miktarı, dayanağı, takip yolu ve faiz talebi gibi bilgileri içeren bir dilekçe ile başvurmasıdır. Yeni düzenlemelerle birlikte, takip talepleri genellikle UYAP (Ulusal Yargı Ağı Bilişim Sistemi) üzerinden elektronik ortamda oluşturulmakta ve gönderilmektedir.\n\n•   **Ödeme Emri**\n    İcra dairesince, takip talebi üzerine borçluya gönderilen ve belirli bir süre (genellikle 7 gün) içinde borcu ödemesini veya itiraz etmesini bildiren resmi belgedir. Yeni düzenlemeler, ödeme emrinin tebliğ usul ve esaslarında elektronik tebligatın (e-Tebligat) yaygınlaşmasıyla önemli değişiklikler getirmiştir.\n\n•   **İtiraz ve İtirazın Sonuçları**\n    Borçlu, ödeme emrinin tebliğinden itibaren yasal süre içinde borcun tamamına veya bir kısmına, faize ya da yetkiye itiraz edebilir. İtiraz, takibi durdurur. Alacaklı, duran takibi devam ettirebilmek için itirazın kaldırılması veya itirazın iptali davası açmak zorundadır. Yeni düzenlemeler, özellikle itirazın kaldırılması ve iptali süreçlerinde elektronik işlemlerin hızlanmasını sağlamıştır.\n\n•   **Takibin Kesinleşmesi**\n    Borçlunun ödeme emrine yasal süresi içinde itiraz etmemesi veya itirazın mahkemece kaldırılması/iptal edilmesi halinde takip kesinleşir. Takibin kesinleşmesi ile alacaklı, haciz ve satış işlemleri gibi cebri icra yollarına başvurma hakkını kazanır. Yeni düzenlemeler, takibin kesinleşme süreçlerini hızlandırmaya yönelik elektronik altyapı desteği sağlamaktadır.\n\n•   **Yeni Düzenlemeler Kapsamı**\n    'Yeni Düzenlemeler', özellikle 2000'li yılların başından itibaren İcra ve İflas Kanunu'nda (İİK) yapılan ve başta UYAP entegrasyonu, e-Tebligat zorunluluğu, gider avansı uygulaması, belirli alacak türlerine yönelik özel hükümler ve icra hukukunda hız ve etkinliği artırmaya yönelik değişiklikleri ifade eder. Bu değişiklikler, icra takibi süreçlerini modernleştirmiş ve dijitalleşmeye uygun hale getirmiştir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İcra ve İflas Kanunu (İİK)**\n    İlamsız takibin temel yasal dayanağı 2004 sayılı İcra ve İflas Kanunu'dur. Özellikle İİK'nın 42. ve devamı maddeleri ilamsız takibin genel hükümlerini düzenler. Yeni düzenlemeler, bu kanunun çeşitli maddelerinde yapılan değişikliklerle hayata geçirilmiştir. Örneğin, elektronik işlemler ve tebligat hükümleri İİK'nın ilgili maddelerine yansımıştır.\n\n•   **Elektronik Tebligat (e-Tebligat) Zorunluluğu**\n    7201 sayılı Tebligat Kanunu ve ilgili yönetmeliklerde yapılan değişiklikler uyarınca, kamu kurum ve kuruluşları, sermaye şirketleri, şahıs şirketleri, serbest meslek erbabı, birlikler ve odalar gibi tüzel ve gerçek kişilerin belirli koşullar altında PTT tarafından verilen elektronik tebligat adresi (KEP) kullanma zorunluluğu getirilmiştir. Bu durum, icra takiplerinde ödeme emirlerinin ve diğer tebligatların hızla ve güvenli bir şekilde yapılmasını sağlamıştır (Tebligat Kanunu m. 7/a).\n\n•   **UYAP ve e-İcra Sistemi**\n    İcra ve İflas Kanunu'nun 58. maddesi ve ilgili diğer hükümleri, icra dairelerinde tüm işlemlerin UYAP üzerinden elektronik ortamda yürütülmesine olanak tanımaktadır. Alacaklılar, takip taleplerini UYAP üzerinden gönderebilir, ödeme emirlerini görüntüleyebilir ve takibin tüm aşamalarını elektronik ortamda takip edebilirler. Bu sistem, evrak yükünü azaltmış ve takip süreçlerini hızlandırmıştır.\n\n•   **Gider Avansı Uygulaması**\n    Hukuk Muhakemeleri Kanunu'nun 120. maddesi uyarınca dava açılırken uygulanan gider avansı prensibi, İcra ve İflas Kanunu'na yapılan atıflar veya benzer yorumlar ile icra takiplerinde de yorumlanabilmekteydi. Ancak doğrudan 'icra gider avansı' şeklinde bir madde olmasa da, takip talebiyle birlikte yatırılması gereken harçlar ve masraflar (başvurma harcı, peşin harç, posta giderleri vb.) aslında bu avansın icra hukukundaki karşılığıdır. Yeni düzenlemelerle bu masrafların elektronik ortamda ödenmesi kolaylaştırılmıştır (İİK m. 58, Harçlar Kanunu).\n\n•   **Borçlunun Mal Beyanı ve Haciz Talebi Süreleri**\n    İİK'nın 74. ve devamı maddelerinde düzenlenen mal beyanı zorunluluğu ve haciz talep süreleri, takibin etkinliği açısından kritik öneme sahiptir. Yeni düzenlemeler, borçlunun malvarlığına ilişkin bilgilerin elektronik sistemler aracılığıyla daha hızlı ve doğru bir şekilde tespit edilmesine olanak sağlamıştır. Alacaklının haciz talebini ödeme emrinin tebliğinden ve takibin kesinleşmesinden sonra yasal süresi içinde (1 yıl) yapması gerekir (İİK m. 78).\n\n•   **Tüketici Alacaklarında Özel Düzenlemeler**\n    6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK) ve ilgili mevzuat, tüketici kredileri veya tüketici sözleşmelerinden doğan alacakların takibinde bazı özel hükümler öngörmektedir. Özellikle faiz oranları, temerrüt hükümleri ve icra takibine konu edilebilecek alacak miktarları gibi konularda tüketiciyi koruyucu yaklaşımlar, icra hukuku uygulamalarını etkilemektedir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Elektronik Ortamda Takip Başlatma**\n    Bir alacaklının, kiracısından alamadığı kira bedelleri için ilamsız takip başlatması gerektiğini varsayalım. Avukatı, UYAP üzerinden icra dairesine elektronik takip talebini gönderir. Gerekli harç ve masrafları online olarak öder. İcra dairesi, ödeme emrini borçlu kiracının KEP adresine elektronik olarak tebliğ eder. Bu süreç, fiziki evrak ve posta trafiğini ortadan kaldırarak takibin hızla başlamasını sağlar.\n\n•   **E-Tebligat ile Ödeme Emri Tebliği**\n    Bir şirketin tedarikçisine olan fatura borcunu ödemediği durumda, tedarikçi şirket ilamsız takip başlatır. İcra dairesi, şirket borçluya ödeme emrini şirketin kayıtlı KEP adresine elektronik olarak gönderir. Tebligat, borçlunun KEP hesabına düştüğü an yapılmış sayılır ve yasal süreler bu andan itibaren işlemeye başlar. Bu, klasik postaya göre çok daha hızlı ve güvenilir bir tebliğ yöntemidir.\n\n•   **Borçlunun Süresinde İtiraz Etmemesi**\n    Bir bankanın, kredi kartı borcunu ödemeyen müşterisi hakkında başlattığı ilamsız takipte, ödeme emri borçluya usulüne uygun şekilde tebliğ edilir. Borçlu, yasal 7 günlük süre içinde herhangi bir itirazda bulunmaz. Bu durumda takip kesinleşir ve banka, borçlunun malvarlığı üzerine haciz talebinde bulunabilir. Yeni düzenlemeler, bu sürenin elektronik tebligat ile daha hızlı başlamasını sağlar.\n\n•   **İtirazın İptali Davası Öncesi Elektronik İşlemler**\n    Yukarıdaki örnekte borçlu, ödeme emrine süresi içinde itiraz eder ve takibi durdurur. Banka avukatı, itirazın iptali davası açmak için UYAP üzerinden dava dilekçesini hazırlar ve mahkemeye sunar. Tüm dava süreci ve duruşmalar, gerektiğinde SEGBİS (Ses ve Görüntü Bilişim Sistemi) gibi elektronik araçlarla desteklenerek yürütülebilir, bu da yargılama sürecini hızlandırır.\n\n•   **Haciz Talebinde E-Haciz Uygulamaları**\n    Takip kesinleştikten sonra alacaklı, borçlunun banka hesapları, maaşı veya diğer taşınır/taşınmaz malları üzerine haciz talep edebilir. Yeni düzenlemelerle birlikte, bankalara, Tapu ve Kadastro Genel Müdürlüğü'ne veya Sosyal Güvenlik Kurumu'na (SGK) gönderilen haciz yazıları genellikle elektronik ortamda (e-haciz) iletilmektedir. Bu, haciz işlemlerinin çok daha hızlı ve verimli yapılmasını sağlar, borçlunun mallarını kaçırmasını zorlaştırır.\n\n•   **Kira Alacağı Takibinde Yenilikler**\n    Yeni Türk Borçlar Kanunu ve İİK'daki bazı düzenlemelerle, kira alacaklarına ilişkin ilamsız takiplerde tahliye talebi de birleştirilebilmektedir (İİK m. 269). Bu süreçte de, takip talebinden ödeme emrine ve itiraza kadar tüm aşamalar elektronik olarak yürütülebilir ve tebligatlar KEP aracılığıyla yapılabilir, tahliye davası da e-dava olarak açılabilir. Bu durum, kira uyuşmazlıklarında alacaklılar için süreci hızlandırmıştır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Yetkili İcra Dairesi Tespiti**\n    İlamsız takip başlatılırken, borçlunun yerleşim yerindeki icra dairesi veya sözleşmede belirlenen yerdeki icra dairesi gibi yetkili icra dairesinin doğru tespit edilmesi kritik öneme sahiptir. Yetki itirazı, takibin durmasına neden olabilir ve yetkisizlik kararı alınırsa alacaklı yeniden yetkili yerde takip başlatmak zorunda kalır, bu da zaman ve maliyet kaybına yol açar. Yetkili icra dairesi, İİK m. 50 ve HMK'nın ilgili hükümleri uyarınca belirlenir.\n\n•   **Takip Talebindeki Zorunlu Unsurlar ve Eksikliklerin Sonuçları**\n    İİK m. 58'e göre takip talebinde alacaklının ve borçlunun kimlik bilgileri, alacak miktarı, dayanağı, faiz oranı, takip yolu gibi unsurların eksiksiz ve doğru belirtilmesi zorunludur. Bu unsurlardan birinin eksik veya hatalı olması, icra dairesinin takip talebini reddetmesine veya ödeme emrinin iptaline yol açabilir. Bu da alacaklı için sürecin uzaması anlamına gelir.\n\n•   **Tebligat Hatalarının Takibe Etkisi**\n    Ödeme emrinin borçluya usulüne uygun şekilde tebliğ edilmesi, takibin geçerliliği için temel şarttır. Tebligatın hatalı yapılması, borçlunun tebligata itiraz etme hakkı olmasa dahi, takibin durmasına veya iptaline yol açabilir. Özellikle e-Tebligat sisteminde KEP adresinin güncel ve doğru olması, tebligatın hukuken geçerli sayılması için önemlidir. Borçlu KEP adresi yoksa, klasik tebligat usullerine dikkat edilmelidir.\n\n•   **Borçlunun Süresinde İtiraz Etmemesinin Önemi**\n    Borçlunun ödeme emrine yasal süresi (genellikle 7 gün) içinde itiraz etmemesi, takibin kesinleşmesine ve alacaklının haciz işlemlerine başlamasına doğrudan yol açar. Borçlu, bu süreyi kaçırdığında, ancak gecikmiş itiraz veya menfi tespit davası gibi daha zorlu ve maliyetli yollara başvurabilir. Bu nedenle borçlunun yasal süreleri titizlikle takip etmesi gerekir.\n\n•   **Haksız Takip Halinde Tazminat Sorumluluğu**\n    Alacaklının haksız ve kötü niyetle takip başlatması durumunda, borçlu İİK'nın ilgili maddeleri (örneğin m. 72) uyarınca menfi tespit davası açarak borçlu olmadığını kanıtlayabilir. Takip durdurulur ve borçlu lehine hüküm verilirse, alacaklı haksız takip nedeniyle borçlunun uğradığı zararları tazmin etmekle yükümlü olabilir. Yeni düzenlemeler bu sorumlulukları kaldırmamış, aksine elektronik kayıtların daha şeffaf olmasını sağlamıştır.\n\n•   **Gider Avansı ve Harçların Doğru Hesaplanması ve Ödenmesi**\n    Takip başlatılırken yatırılması gereken başvuru harcı, peşin harç, posta giderleri gibi masrafların doğru hesaplanması ve süresi içinde ödenmesi gerekir. Aksi takdirde icra dairesi takip talebini işleme koymayabilir veya eksikliklerin giderilmesi için ek süre verebilir. Elektronik sistemler üzerinden bu ödemelerin hızlıca yapılması mümkün olsa da, miktarların ve ödeme usullerinin doğru anlaşılması önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Kavramları Ezberleme ve Anlama**\n    İlamsız takip, takip talebi, ödeme emri, itiraz, takibin kesinleşmesi gibi temel kavramların tanımlarını, amaçlarını ve birbirleriyle ilişkilerini çok iyi anlamak ve ezberlemek sınav başarısı için esastır. Bu kavramlar, icra hukukunun alfabesini oluşturur.\n\n•   **İİK'daki Temel Maddelerin Numaralarını ve İçeriklerini Bilme**\n    İcra ve İflas Kanunu'nun ilamsız takiple ilgili temel maddelerini (örn. İİK m. 42, 58, 60, 62, 78) numaralarıyla birlikte bilmek ve bu maddelerin neyi düzenlediğini özetleyebilmek önemlidir. Bu, vaka sorularını çözerken veya doğrudan bilgi sorularına cevap verirken hızlı ve doğru karar vermenizi sağlar.\n\n•   **Vaka Çözme Becerisini Geliştirme**\n    Sınavlarda genellikle teorik bilginin pratik olaylara uygulanmasını gerektiren vaka soruları sorulur. Farklı senaryolarda (kira alacağı, fatura alacağı vb.) ilamsız takibin nasıl işleyeceğini, olası sorunları (yetki itirazı, tebligat hatası) ve çözüm yollarını (itirazın iptali, gecikmiş itiraz) düşünebilme yeteneğinizi geliştirmelisiniz.\n\n•   **Süreleri ve Usul Kurallarını Öğrenme**\n    İcra hukukunda süreler hayati öneme sahiptir (ödeme emrine itiraz süresi, haciz isteme süresi vb.). Bu süreleri ve takibin her aşamasındaki usul kurallarını (örn. takip talebinin içeriği, itirazın şekli) doğru bilmek, sınavda puan kaybetmenizi önleyecektir. Yeni düzenlemelerle gelen süre değişikliklerine veya sürelerin hesaplanmasındaki farklılıklara dikkat edilmelidir.\n\n•   **Yeni Düzenlemelerin Getirdiği Değişikliklere Odaklanma**\n    E-tebligat zorunluluğu, UYAP entegrasyonu, e-haciz gibi yeni uygulamaların ilamsız takibe etkilerini ve pratikteki yansımalarını detaylıca çalışmalısınız. Bu tür \"yeni\" konular, sınavda sıklıkla soru olarak karşınıza çıkabilir. Hangi meslek gruplarının veya şirketlerin KEP adresi kullanmak zorunda olduğunu bilmek gibi detaylar önemlidir.\n\n•   **Sık Yapılan Hataları Gözden Geçirme**\n    Yetkisiz icra dairesinde takip başlatma, takip talebinde eksik bilgi, tebligatın usulsüz yapılması gibi pratikte sıkça karşılaşılan hataların takibin hukuki akıbeti üzerindeki etkilerini öğrenmek, hem sınavda doğru cevabı bulmanıza hem de mesleki yaşamınızda dikkatli olmanıza yardımcı olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi ilamsız takibin temel özelliklerinden biri değildir?",
+      "options": {
+        "A": "Alacaklının elinde bir mahkeme kararı olmaması.",
+        "B": "Para ve teminat alacakları için uygulanabilmesi.",
+        "C": "Borçlunun itiraz hakkının bulunması.",
+        "D": "Borçlunun itirazı halinde takibin kesinleşmeye devam etmesi."
+      },
+      "correctAnswer": "D",
+      "explanation": "İlamsız takipte borçlu süresi içinde itiraz ederse, takip durur. Takibin kesinleşmesi için alacaklının itirazın kaldırılması veya iptali davası açması gerekir. Bu nedenle D seçeneği temel özelliklerinden biri değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İlamsız takibin yeni düzenlemeleri kapsamında, ödeme emrinin tebliğine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Tüm gerçek kişilere e-tebligat zorunluluğu getirilmiştir.",
+        "B": "Sermaye şirketlerine ödeme emri sadece PTT aracılığıyla fiziki olarak tebliğ edilebilir.",
+        "C": "Belirli tüzel ve gerçek kişiler için KEP adresi üzerinden yapılan e-tebligat yasal geçerlilik taşır.",
+        "D": "E-tebligat, ancak borçlunun rızasıyla yapılabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Yeni düzenlemelerle birlikte, kamu kurum ve kuruluşları, sermaye şirketleri, şahıs şirketleri, serbest meslek erbabı gibi belirli tüzel ve gerçek kişilere KEP adresi üzerinden e-tebligat yapılması zorunlu hale getirilmiştir ve bu tebligat yasal geçerlilik taşır. Tüm gerçek kişilere zorunluluk yoktur ve şirketlere sadece fiziki tebligat yapıldığı iddiası yanlıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Borçlu, kendisine tebliğ edilen ödeme emrine yasal süresi içinde itiraz ederse, aşağıdaki sonuçlardan hangisi meydana gelir?",
+      "options": {
+        "A": "Takip doğrudan kesinleşir ve haciz işlemlerine geçilir.",
+        "B": "Alacaklı, borçlunun mallarına hemen haciz koyabilir.",
+        "C": "Takip durur ve alacaklının takibi devam ettirmek için hukuki yollara başvurması gerekir.",
+        "D": "Borçlu, icra dairesine giderek borcunu faiziyle birlikte ödemek zorunda kalır."
+      },
+      "correctAnswer": "C",
+      "explanation": "Borçlunun yasal süresi içinde itiraz etmesi, ilamsız takibi durdurur. Takibin devam ettirilebilmesi için alacaklının itirazın kaldırılması (İİK m. 68) veya itirazın iptali (İİK m. 67) davası açması gerekir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi ilamsız takipte \"yeni düzenlemeler\" kapsamında sağlanan pratik kolaylıklardan biridir?",
+      "options": {
+        "A": "Tüm dava ve takip işlemlerinin sadece fiziki evrak üzerinden yürütülmesi zorunluluğu.",
+        "B": "İcra dairelerinde yalnızca elle yazılmış takip taleplerinin kabul edilmesi.",
+        "C": "UYAP üzerinden elektronik ortamda takip başlatma ve süreçleri takip etme imkanı.",
+        "D": "Borçluya ödeme emrinin tebliğ edilmesi için sadece iadeli taahhütlü posta kullanılması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Yeni düzenlemelerle birlikte UYAP sistemine entegre edilen e-İcra sistemi sayesinde, alacaklılar takip taleplerini elektronik ortamda hazırlayıp gönderebilir, harç ve masrafları online ödeyebilir ve takibin tüm aşamalarını bilgisayar üzerinden takip edebilirler. Bu, süreci önemli ölçüde hızlandıran pratik bir kolaylıktır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İlamsız takipte yetkili icra dairesinin doğru tespit edilmesinin önemi nedir?",
+      "options": {
+        "A": "Yanlış yetkili icra dairesinde başlatılan takipte, borçlunun itiraz hakkı olmaz.",
+        "B": "Yetki itirazı, takibin durmasına neden olur ve yeniden yetkili icra dairesinde takip başlatma zorunluluğu doğurur.",
+        "C": "Yetkisiz icra dairesi, ödeme emrini borçluya daha hızlı tebliğ eder.",
+        "D": "Yetki itirazı, takibin kesinleşmesini hızlandırır."
+      },
+      "correctAnswer": "B",
+      "explanation": "Yetkili icra dairesinin doğru tespit edilmesi çok önemlidir. Borçlu, ödeme emrine yetki yönünden itiraz ederse, takip durur. İcra mahkemesi yetkisizlik kararı verirse, takip dosyası yetkili icra dairesine gönderilir veya alacaklının yeni bir takip başlatması gerekir, bu da zaman ve maliyet kaybına yol açar."
+    }
+  ]
+}

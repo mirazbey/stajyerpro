@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "Bu ders içeriği, Hukuk Muhakemeleri Kanunu (HMK) kapsamındaki \"Soruşturma\" konusuna odaklanmaktadır. Ancak, belirtilen PDF kaynağı (Kemal Gözler, Anayasa Hukukunun Genel Esasları) Ceza Muhakemesi Hukuku'ndaki soruşturma konusuyla doğrudan ilgili değildir. Bu nedenle ders içeriği, Ceza Muhakemesi Hukuku genel prensipleri ve ilgili mevzuat çerçevesinde oluşturulmuştur.\n\n•   **Soruşturma Evresi:** Ceza Muhakemesi Hukuku'nda, bir suçun işlendiği şüphesi üzerine Cumhuriyet Savcısı tarafından, kamu davası açılmasına yer olup olmadığına karar vermek amacıyla delillerin toplanması, şüphelinin sorgulanması, mağdur ve tanıkların dinlenmesi gibi işlemlerin yapıldığı ilk evredir. Bu evre, kovuşturma (duruşma) evresinden önce gelir.\n•   **Amaç:** Soruşturmanın temel amacı, maddi gerçeği ortaya çıkarmak, şüpheli hakkında kamu davası açılmasını gerektirecek yeterli şüphe ve delil bulunup bulunmadığını tespit etmek, varsa delilleri toplamak, muhafaza etmek ve değerlendirmektir.\n•   **İlgili Taraflar:** Bu evrede temel süjeler Cumhuriyet Savcısı, Kolluk Kuvvetleri (Adli Kolluk), Şüpheli, Müdafi (şüpheli avukatı), Mağdur ve Müşteki (şikayetçi) ile Vekilidir (mağdur/müşteki avukatı).\n•   **Gizlilik İlkesi:** Soruşturma evresi işlemleri, kural olarak gizlidir (CMK m. 157). Bu durum, delillerin karartılmasını önlemek, kişilerin lekelenmeme hakkını korumak ve soruşturmanın sağlıklı yürütülmesini sağlamak içindir. Ancak müdafiin dosya inceleme hakkı gibi istisnaları mevcuttur.\n•   **Yazılılık İlkesi:** Soruşturma evresindeki tüm işlemler tutanağa bağlanır ve yazılı olarak kayıt altına alınır. Bu, şeffaflık, denetlenebilirlik ve delillerin güvenilirliği açısından önemlidir.\n•   **Hukuka Uygunluk İlkesi:** Soruşturma evresinde yapılan tüm işlemlerin ve toplanan delillerin hukuka uygun olması zorunludur. Hukuka aykırı yollarla elde edilen deliller, mahkemede hükme esas alınamaz (CMK m. 217/2)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Soruşturma evresi, esas olarak 5271 sayılı Ceza Muhakemesi Kanunu (CMK) ile düzenlenmiştir. Bazı önemli maddeler şunlardır:\n\n•   **CMK m. 2 (Tanımlar):** Şüpheli, müdafi, vekil, mağdur, müşteki gibi soruşturma evresine özgü temel kavramların tanımları bu maddede yer alır. Örneğin, 'şüpheli', soruşturma evresinde suç şüphesi altında bulunan kişiyi ifade eder.\n•   **CMK m. 160 (Cumhuriyet Savcısının Görevi):** 'Cumhuriyet savcısı, ihbar veya başka bir suretle bir suçun işlendiği izlenimini veren bir hâli öğrenir öğrenmez kamu davasını açmaya yer olup olmadığına karar vermek üzere hemen işin gerçeğini araştırmaya başlar.' Bu madde, Cumhuriyet Savcısının soruşturmayı başlatma görevini ve yetkisini düzenler.\n•   **CMK m. 161 (Cumhuriyet Savcısının Görev ve Yetkileri):** Cumhuriyet savcısının delil toplama, gerekli tedbirleri alma, kolluğa emir ve talimat verme, ifade alma, sorgu yapma gibi geniş yetkileri bu maddede detaylandırılır. Soruşturma işlemlerini bizzat yapabileceği gibi, adli kolluk aracılığıyla da yapabilir.\n•   **CMK m. 170 (İddianamenin Düzenlenmesi):** Soruşturma evresi sonunda, toplanan delillerin suçun işlendiği hususunda yeterli şüphe oluşturması durumunda Cumhuriyet Savcısı tarafından iddianame düzenlenir. İddianamede şüphelinin kimliği, isnat edilen suç, ilgili kanun maddeleri, deliller ve gerekçe yer alır.\n•   **CMK m. 172 (Kovuşturmaya Yer Olmadığı Kararı - KYOK):** Soruşturma evresi sonunda, kamu davasının açılması için yeterli şüphe oluşturacak delil elde edilememesi veya kovuşturma olanağının bulunmaması hallerinde Cumhuriyet Savcısı tarafından KYOK kararı verilir. Bu karar, kovuşturma evresine geçilmeksizin soruşturmanın sona erdiğini gösterir.\n•   **CMK m. 173 (KYOK Kararına İtiraz):** Mağdur veya müştekinin KYOK kararına itiraz etme hakkı bu maddede düzenlenmiştir. İtirazın nereye ve hangi sürede yapılacağı belirtilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Şikayet Üzerine Soruşturma:** Bir vatandaş, evinin soyulduğunu ve değerli eşyalarının çalındığını belirterek emniyet birimlerine şikayette bulunur. Emniyet, olayın Cumhuriyet Savcısına bildirilmesiyle birlikte soruşturma işlemlerine başlar. Olay yeri incelemesi yapılır, parmak izleri alınır, güvenlik kamerası kayıtları incelenir, şüpheli olabilecek kişilerin ifadeleri alınır. Savcı, toplanan delilleri değerlendirerek kamu davası açmaya yeterli şüphe olup olmadığına karar verir.\n•   **Örnek 2: Suçüstü Hali ve Gözaltı:** Bir polis memuru, uyuşturucu madde ticareti yaparken suçüstü yakaladığı bir kişiyi derhal gözaltına alır. Durum Cumhuriyet Savcısına bildirilir. Savcı, şüphelinin ilk ifadesinin alınmasını, üst aramasının ve ev aramasının yapılmasını emreder. Toplanan deliller ışığında şüphelinin tutuklanması talebiyle sulh ceza hakimliğine sevk edilip edilmeyeceğine veya serbest bırakılıp bırakılmayacağına karar verilir.\n•   **Örnek 3: Bir Kurum Tarafından İhbar:** Bir banka, müşteri hesaplarında şüpheli para hareketleri tespit ederek MASAK'a (Mali Suçları Araştırma Kurulu) ihbarda bulunur. MASAK, durumu ilgili Cumhuriyet Başsavcılığı'na bildirir. Savcılık, geniş çaplı bir soruşturma başlatır; banka kayıtlarını, SWIFT mesajlarını inceler, şüpheli işlemlerle ilgili kişilerin ifadelerini alır ve gerekirse uzman bilirkişilerden rapor ister.\n•   **Örnek 4: Mağdurun Şikayetini Geri Çekmesi:** Bir hakaret suçunda mağdur, şikayette bulunduktan sonra şüpheli ile uzlaşır ve şikayetini geri çeker. Hakaret suçu, şikayete bağlı suçlardan olduğundan, şikayetin geri çekilmesi üzerine Cumhuriyet Savcısı, 'kovuşturmaya yer olmadığı kararı' (KYOK) verir ve soruşturmayı sonlandırır.\n•   **Örnek 5: Toplumsal Olaylarda Delil Toplama:** Bir toplumsal gösteri sırasında mala zarar verme ve kamu düzenini bozma eylemleri meydana gelir. Cumhuriyet Savcılığı, bu olaylarla ilgili re'sen soruşturma başlatır. Olay yerindeki kamera kayıtları, gazeteci ve vatandaşlar tarafından çekilen görüntüler incelenir, tanıklar dinlenir, zarara uğrayan yerlerin keşfi yapılır. Şüphelilerin tespiti ve delillerin toplanması bu süreçte büyük önem taşır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Hukuka Aykırı Delillerin Yasaklığı (CMK m. 217/2):** Soruşturma evresinde elde edilen en önemli deliller dahi, eğer hukuka aykırı yollarla (işkence, kanuna aykırı arama, usulsüz dinleme vb.) elde edilmişse, yargılamada hükme esas alınamaz. Bu durum, adil yargılanma hakkının temel güvencesidir ve soruşturmacıların en çok dikkat etmesi gereken hususlardan biridir.\n•   **Şüphelinin Hakları:** Soruşturma evresinde şüphelinin susma hakkı, müdafi yardımından yararlanma hakkı, yakalanma anından itibaren haklarının bildirilmesi (CMK m. 147), delil toplanmasını isteme hakkı gibi temel hakları bulunmaktadır. Bu hakların ihlali, yargılamanın ilerleyen aşamalarında ciddi sorunlara yol açabilir.\n•   **Müdafiin Dosya İnceleme Hakkı (CMK m. 153):** Soruşturmanın gizliliği ilkesi olsa da, müdafiin soruşturma dosyasını inceleme ve örnek alma hakkı vardır. Ancak bu hak, soruşturmanın amacını tehlikeye düşürecek durumlarda kısıtlanabilir (örneğin tanıkların kimliklerinin gizlenmesi veya teknik takip kayıtlarının belirli aşamalara kadar gösterilmemesi).\n•   **Yetki ve Görev Ayrımı:** Suçun işlendiği yer, olayın niteliği ve ilgili mevzuat uyarınca soruşturmayı yürütecek Cumhuriyet Savcılığı'nın yetkisi ve görev alanı doğru belirlenmelidir. Yanlış yetki veya görev kullanımı, ileride yargılamanın geçersizliğine neden olabilir.\n•   **Gözaltı ve Tutuklama Süreleri:** Şüphelinin gözaltında tutulma ve tutuklanma süreleri kanunla sıkı bir şekilde belirlenmiştir. Bu sürelere riayet edilmemesi, hukuka aykırı kişi hürriyetinden yoksun bırakılma anlamına gelir ve ağır ihlallerden sayılır. Sürelerin aşılması halinde ilgili sorumlular hakkında yasal işlem yapılır.\n•   **Uzlaştırma ve Ön Ödeme:** Bazı suçlarda, soruşturma evresinde mağdur ile şüpheli arasında uzlaştırma yoluna gidilmesi veya şüphelinin ön ödeme yapmasıyla soruşturmanın sona erdirilmesi mümkündür. Bu alternatif çözüm yolları, yargı yükünü azaltırken tarafların anlaşmasını teşvik eder."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "HMGS sınavı kapsamında 'Soruşturma' konusuna hazırlanırken aşağıdaki noktalara özellikle odaklanmak önemlidir:\n\n•   **Soruşturma Evresinin Tanımı ve Amacı:** Soruşturmanın ne olduğu, hangi amaçla yapıldığı ve Ceza Muhakemesi Hukuku'ndaki yeri temel düzeyde bilinmelidir. Kovuşturma evresi ile farkları anlaşılmalıdır.\n•   **Cumhuriyet Savcısının Rolü ve Yetkileri:** Cumhuriyet Savcısının soruşturmayı başlatma, yürütme, delil toplama, kolluğa emir ve talimat verme, gözaltı ve ifade alma süreçlerindeki merkezi rolü iyi kavranmalıdır. CMK m. 160 ve 161 kritik öneme sahiptir.\n•   **Soruşturma Evresinin Sonuçları:** Soruşturma sonunda verilebilecek kararlar (İddianame Düzenlenmesi, Kovuşturmaya Yer Olmadığı Kararı) ve bu kararların şartları ile hukuki sonuçları bilinmelidir.\n•   **Şüphelinin Temel Hakları:** Özellikle susma hakkı, müdafi yardımından yararlanma hakkı, yakalama ve gözaltı süreçlerindeki hakları ve bu hakların ihlalinin sonuçları sınavda sıkça sorulan konular arasındadır.\n•   **Delil Elde Etme ve Değerlendirme İlkeleri:** Hukuka aykırı yollarla elde edilen delillerin durumu (CMK m. 217/2) ve delillerin hukuki niteliği (kuvvetli şüphe, basit şüphe) iyi anlaşılmalıdır.\n•   **Özel Soruşturma Yöntemleri:** Teknik takip, iletişimin denetlenmesi, gizli soruşturmacı gibi özel soruşturma tedbirlerinin hangi şartlarda ve hangi usullerle uygulanabileceği hakkında bilgi sahibi olmak faydalı olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Ceza Muhakemesi Kanunu'na göre, soruşturma evresinin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Maddi gerçeği araştırmak ve kamu davası açmaya yeterli şüphe olup olmadığını tespit etmek.",
+        "B": "Şüphelinin suçlu olup olmadığına karar vermek ve mahkumiyet hükmü kurmak.",
+        "C": "Sanığın cezalandırılması için kesin deliller toplamak.",
+        "D": "Kovuşturma evresindeki yargıcın yerine geçerek karar vermek."
+      },
+      "correctAnswer": "A",
+      "explanation": "Soruşturma evresinin temel amacı, kamu davası açılmasına yer olup olmadığına karar vermek üzere delil toplamak ve maddi gerçeği araştırmaktır. Suçluluk kararı ve mahkumiyet hükmü kovuşturma evresinde verilir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi soruşturma evresine özgü bir kavram değildir?",
+      "options": {
+        "A": "Şüpheli",
+        "B": "Müdafi",
+        "C": "Kovuşturmaya Yer Olmadığı Kararı",
+        "D": "Sanık"
+      },
+      "correctAnswer": "D",
+      "explanation": "'Sanık' kavramı, hakkında kamu davası açıldıktan ve iddianame kabul edildikten sonra yargılanan kişiyi ifade eder ve kovuşturma evresine aittir. Soruşturma evresindeki kişiye 'şüpheli' denir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ceza Muhakemesi Kanunu'na göre, hukuka aykırı yollarla elde edilen delillerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Suçun ortaya çıkarılması için her türlü delil hukuka uygun kabul edilir.",
+        "B": "Sadece ağır suçlarda hukuka aykırı deliller kullanılamaz.",
+        "C": "Hukuka aykırı olarak elde edilen deliller, hükme esas alınamaz.",
+        "D": "Şüpheli itiraz etmezse hukuka aykırı deliller kullanılabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 217/2'ye göre, 'Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir.' Ancak, 'Hukuka aykırı olarak elde edilmiş deliller, yargılama sırasında hükme esas alınamaz.' Bu, adil yargılanma hakkının temel bir prensibidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "CMK m. 160'a göre, bir suçun işlendiği izlenimini veren bir hâli öğrenir öğrenmez kamu davasını açmaya yer olup olmadığına karar vermek üzere hemen işin gerçeğini araştırmaya başlamakla görevli makam veya kişi kimdir?",
+      "options": {
+        "A": "Mahkeme Hakimi",
+        "B": "Cumhuriyet Savcısı",
+        "C": "Kolluk Amiri",
+        "D": "Mağdur veya Müşteki"
+      },
+      "correctAnswer": "B",
+      "explanation": "CMK m. 160 açıkça Cumhuriyet Savcısını bu görevle yetkilendirmiştir. Soruşturma evresinin lideri ve sorumlusu Cumhuriyet Savcısıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Şikayete bağlı bir suçta, mağdurun şikayetini geri çekmesi üzerine Cumhuriyet Savcısı hangi kararı verir?",
+      "options": {
+        "A": "İddianame düzenleyerek davayı açar.",
+        "B": "Kovuşturmaya yer olmadığı kararı (KYOK) verir.",
+        "C": "Suçun vasfını değiştirir.",
+        "D": "Yargılamanın başlamasını bekler."
+      },
+      "correctAnswer": "B",
+      "explanation": "Şikayete bağlı suçlarda şikayetin geri çekilmesi, kovuşturma şartının ortadan kalkması anlamına gelir. Bu durumda Cumhuriyet Savcısı, kamu davası açma şartı kalmadığı için 'Kovuşturmaya Yer Olmadığı Kararı' (KYOK) verir."
+    }
+  ]
+}

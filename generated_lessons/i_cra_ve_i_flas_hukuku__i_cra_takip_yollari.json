@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İcra Takip Yolları:** Alacaklının, alacağını devlet gücüyle tahsil etmek amacıyla başvurduğu hukuki süreç ve yöntemlerdir. Türk hukukunda temel olarak ilamlı ve ilamsız takip olmak üzere iki ana kategoriye ayrılır.\n•   **Alacaklı:** Borç ilişkisinden doğan bir alacağı bulunan ve bu alacağın tahsili için icra takibi başlatan taraftır.\n•   **Borçlu:** Alacaklıya karşı bir borcu bulunan ve icra takibine muhatap olan taraftır.\n•   **İcra Dairesi:** İcra takiplerini başlatan, yürüten ve sonuçlandıran, Adalet Bakanlığı'na bağlı resmi mercidir. Takip taleplerini alır, ödeme/icra emirlerini düzenler ve tebliğ eder, haciz işlemlerini yapar.\n•   **Takip Talebi:** Alacaklının, alacağının tahsili amacıyla İcra Dairesi'ne yazılı olarak yaptığı ve takibin başlamasını sağlayan resmi başvurudur. İİK m. 58'de düzenlenir.\n•   **Ödeme Emri/İcra Emri:** İcra Dairesi tarafından borçluya gönderilen ve belirli bir süre içinde borcunu ödemesini veya itiraz etmesini bildiren resmi evraktır. İlamlı takiplerde 'icra emri', ilamsız takiplerde ise 'ödeme emri' gönderilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İcra ve İflas Kanunu (İİK):** İcra takip yollarının temelini oluşturan 2004 sayılı kanundur. Tüm takip süreçleri, tarafların hak ve yükümlülükleri, itiraz ve şikayet yolları bu kanunda detaylıca düzenlenmiştir.\n•   **İİK m. 42 (İlamlı Takip):** Bir ilama (mahkeme kararı) veya ilam niteliğindeki belgeye dayanan takiplerin ilamlı takip yoluyla yapılacağını düzenler. Bu takiplerde borçluya doğrudan 'icra emri' gönderilir.\n•   **İİK m. 43 (İlamsız Takip):** İlamlı takip dışındaki tüm takiplerin, özellikle bir mahkeme kararı olmadan doğrudan alacağın tahsili amacıyla başlatılan takiplerin ilamsız takip olduğunu belirtir. Bu yolda borçluya 'ödeme emri' gönderilir.\n•   **İİK m. 58 (Takip Talebi):** Takip talebinde bulunması gereken unsurları (alacaklı ve borçlunun kimliği, alacağın miktarı, dayanağı, takip yolu vb.) detaylandırır. Takibin doğru bir şekilde başlatılması için bu maddede belirtilen şartlara uyulması zorunludur.\n•   **İİK m. 60 (Ödeme Emri):** İlamsız takiplerde borçluya gönderilen ödeme emrinin içeriğini, ödeme ve itiraz sürelerini düzenler. Borçlunun 7 gün içinde borcu ödemesi veya itiraz etmesi gerektiğini belirtir.\n•   **İİK m. 150/e (Kambiyo Senetlerine Mahsus Haciz Yoluyla Takip):** Poliçe, bono, çek gibi kambiyo senetlerine özgü hızlı ve özel bir takip yolunu düzenler. Bu takiplerde borçluya 5 gün içinde borcu ödemesi veya itiraz etmesi gerektiğini belirten özel bir ödeme emri gönderilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Genel Haciz Yoluyla İlamsız Takip:** Bankadan kredi çeken bir kişinin taksitlerini ödememesi durumunda bankanın, herhangi bir mahkeme kararı olmaksızın doğrudan İcra Dairesi'ne başvurarak borçluya ödeme emri göndertmesi. Borçlu itiraz etmezse takip kesinleşir ve haciz işlemleri başlatılabilir.\n•   **İlamlı Takip:** Bir boşanma davasında mahkemenin nafakaya hükmetmesi üzerine, nafakayı alamayan alacaklı eşin, mahkeme kararını (ilam) icra dairesine sunarak borçlu eşe icra emri göndertmesi. Borçlu, icra emrindeki borcu ödemezse doğrudan haciz yoluna gidilebilir.\n•   **Kambiyo Senetlerine Özgü Haciz Yoluyla Takip:** Bir tedarikçinin müşterisine kestiği çeki zamanında tahsil edememesi üzerine, icra dairesine çek aslını ibraz ederek kambiyo senetlerine mahsus haciz yoluyla takip başlatması. Borçlu 5 gün içinde ödeme yapmaz veya imzaya itiraz etmezse takip kesinleşir.\n•   **Kira Alacağı ve Tahliye Talepli Takip:** Kiracının kira borcunu ödememesi üzerine ev sahibinin, kira sözleşmesi ve ödenmeyen kira bedellerini gösteren belgelerle ilamsız tahliye ve kira alacağı takibi başlatması. Borçluya gönderilen ödeme emrinde kira borcunu ödemesi ve tahliye edilmesi gerektiği bildirilir.\n•   **İpotekli Alacağın Paraya Çevrilmesi Yoluyla Takip:** Bankanın, ipotekle teminat altına alınan bir konut kredisini ödemeyen borçlunun taşınmazının satılarak alacağının tahsili için ipotekli alacağın paraya çevrilmesi yoluyla takip başlatması. Bu takipte ipotekli taşınmazın satışı talep edilir.\n•   **İptal Davası Sonucu Başlatılan Takip:** Borçlunun alacaklılarından mal kaçırmak amacıyla yaptığı hileli devirlerin mahkeme kararıyla iptal edilmesi sonrasında, alacaklının bu iptal kararını kullanarak devredilen mallar üzerinden icra takibi başlatması."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Doğru Takip Yolunun Seçimi:** Alacaklının elindeki belgeye (ilam, senet, adi belge) göre doğru takip yolunu seçmesi (ilamlı, ilamsız, kambiyo senetlerine özgü) hayati önem taşır. Yanlış yol seçimi takibin reddine veya itirazlara yol açabilir.\n•   **Sürelerin Takibi:** Borçlunun ödeme emrine itiraz süresi (genellikle 7 gün), kambiyo senetlerinde imza itiraz süresi (5 gün) ve ödeme süreleri gibi kanuni sürelerin kaçırılmaması çok önemlidir. Sürelerin kaçırılması hak kayıplarına neden olabilir.\n•   **İtiraz ve Şikayet Farkı:** Borçlu, ödeme emrine alacağın esasına ilişkin itirazlarını (borcun olmadığını, ödendiğini vb.) 'itiraz' yoluyla yapar. İcra dairesi işlemlerindeki usulsüzlüklere karşı ise 'şikayet' yoluna başvurulur. Bu iki hukuki yol karıştırılmamalıdır.\n•   **Haciz Prosedürü ve Sınırları:** Haczedilemeyecek mallar (İİK m. 82) ve haczin usulü kanunda açıkça belirtilmiştir. Bu sınırlamalara uyulmaması haczin iptaline yol açabilir.\n•   **Kesinleşme ve Takibin İlerleyişi:** Bir icra takibinin haciz aşamasına geçebilmesi için borçlunun ödeme emrine süresinde itiraz etmemesi veya itirazın kaldırılması/iptali davalarının alacaklı lehine sonuçlanması ile takibin kesinleşmesi gerekir.\n•   **Yetkili İcra Dairesi:** Takibin doğru icra dairesinde başlatılması esastır. Yetki kuralları İİK ve Hukuk Muhakemeleri Kanunu (HMK) ile belirlenir. Genellikle borçlunun yerleşim yeri veya sözleşmenin icra edileceği yer icra daireleri yetkilidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Ana Takip Yollarını ve Temel Farklarını Öğrenin:** İlamlı, ilamsız (genel haciz, kambiyo senetlerine özgü, ipoteğin paraya çevrilmesi) takip yollarının hangi durumlarda kullanıldığını ve aralarındaki temel prosedür farklarını iyice kavrayın.\n•   **İİK'nın Önemli Maddelerine Odaklanın:** Özellikle takip talebi (m. 58), ödeme/icra emri (m. 60, m. 24), itirazın iptali (m. 67), itirazın kaldırılması (m. 68), haczedilemeyecek mallar (m. 82) gibi temel maddelerin içeriğini bilin.\n•   **Süreleri Ezberleyin:** Ödeme emrine itiraz süresi (7 gün), kambiyo senetlerinde ödeme/itiraz süresi (5 gün), şikayet süresi (7 gün) gibi kanuni süreler sınavda sıkça sorulan konulardır. Pratik örneklerle pekiştirin.\n•   **Borçlunun Savunma Mekanizmalarını Anlayın:** İtiraz (imza, borca), şikayet, istirdat davası, menfi tespit davası gibi borçlunun hukuki imkanlarını ve bunların hangi aşamalarda kullanıldığını öğrenin.\n•   **Terimleri Doğru Kullanın:** Alacaklı, borçlu, takip talebi, ödeme emri, icra emri, haciz, satış, paraya çevirme gibi temel kavramların tanımlarını ve hukuki anlamlarını doğru bir şekilde ifade edebilme yeteneğinizi geliştirin.\n•   **Vaka Analizi Yapın:** Farklı senaryolar üzerinde (örneğin, elinde çek olan alacaklı, mahkeme kararı olan alacaklı, sadece adi senet olan alacaklı) hangi takip yolunun seçileceğini ve sürecin nasıl işleyeceğini zihninizde canlandırın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Bir alacaklının elinde kesinleşmiş bir mahkeme kararı (ilam) bulunuyorsa, alacağını tahsil etmek için hangi icra takip yoluna başvurması gerekmektedir?",
+      "options": {
+        "A": "İlamsız genel haciz yoluyla takip",
+        "B": "Kambiyo senetlerine özgü haciz yoluyla takip",
+        "C": "İlamlı takip",
+        "D": "İpoteğin paraya çevrilmesi yoluyla takip"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kesinleşmiş bir mahkeme kararı (ilam) veya ilam niteliğindeki belgelere dayanılarak başlatılan takipler İlamlı Takip yoluyla yapılır (İİK m. 42). Bu yolda borçluya doğrudan icra emri gönderilir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İlamsız genel haciz yoluyla başlatılan bir icra takibinde, borçluya gönderilen ödeme emrine itiraz süresi kaç gündür?",
+      "options": {
+        "A": "3 gün",
+        "B": "5 gün",
+        "C": "7 gün",
+        "D": "10 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İlamsız genel haciz yoluyla takiplerde borçlunun ödeme emrine itiraz süresi, ödeme emrinin tebliğinden itibaren 7 gündür (İİK m. 60). Kambiyo senetlerine özgü takipte ise bu süre 5 gündür."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi bir icra takibinde 'ödeme emri' gönderilen takip yollarından biridir?",
+      "options": {
+        "A": "İlamlı takip",
+        "B": "Çeke dayalı kambiyo senetlerine özgü takip",
+        "C": "Mahkeme ilamına dayalı nafaka takibi",
+        "D": "Kesinleşmiş tahliye kararına dayalı takip"
+      },
+      "correctAnswer": "B",
+      "explanation": "İlamlı takiplerde (A, C, D seçenekleri) borçluya 'icra emri' gönderilir. 'Ödeme emri' ilamsız takiplerde ve kambiyo senetlerine özgü takip gibi özel ilamsız takip yollarında gönderilir. Çeke dayalı takip de kambiyo senetlerine özgü bir takip yolu olup borçluya ödeme emri gönderilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir icra takibine karşı borçlunun, icra dairesinin yapmış olduğu işlemlerdeki usulsüzlüklere dayanarak başvurabileceği hukuki yol aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İtiraz",
+        "B": "Menfi tespit davası",
+        "C": "Şikayet",
+        "D": "İstirdat davası"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra dairesinin işlemlerine ilişkin usulsüzlükler ve kanuna aykırılıklar hakkında başvurulacak hukuki yol 'şikayet'tir (İİK m. 16). 'İtiraz' borcun esasına yöneliktir, 'menfi tespit' borçlu olmadığını tespit ettirmek içindir, 'istirdat' ise haksız ödenen parayı geri almaktır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İcra ve İflas Kanunu'na göre, aşağıdakilerden hangisi genel haciz yoluyla ilamsız takibin aşamalarından biri değildir?",
+      "options": {
+        "A": "Takip talebi",
+        "B": "Ödeme emrinin tebliği",
+        "C": "Haciz talebi ve haciz",
+        "D": "İlamın icraya konulması"
+      },
+      "correctAnswer": "D",
+      "explanation": "'İlamın icraya konulması', ilamlı takibin başlangıç aşamasıdır. Genel haciz yoluyla ilamsız takipte bir ilam (mahkeme kararı) söz konusu olmadığı için bu aşama ilamsız takip yolunda yer almaz. Genel haciz yoluyla ilamsız takibin aşamaları takip talebi, ödeme emrinin tebliği, ödeme/itiraz süresinin geçmesiyle takibin kesinleşmesi, haciz talebi ve hacizdir."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku sistematiği içerisinde, özellikle ticaret hayatının lokomotifi konumunda olan anonim şirketler, ekonomik kalkınmanın ve sermaye birikiminin temel taşlarından birini oluşturmaktadır. Bu ders içeriği, anonim şirketlerin hukuki varlıklarını sürdürmelerini, karar almalarını ve temsilde bulunmalarını sağlayan hayati önemdeki 'organları' üzerine odaklanacaktır. Anonim şirket, Türk Ticaret Kanunu (TTK) madde 329 ve devamında düzenlenmiş, sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı sadece malvarlığıyla sorumlu bulunan bir sermaye şirketidir. Tüzel kişiliğe sahip olması nedeniyle, fiziki bir varlığı olmayan bu hukuki yapı, iradesini oluşturmak, kararlar almak ve bu kararları uygulamaya koymak için 'organlara' ihtiyaç duyar. Organlar, bir şirketin 'beyni' ve 'eli' konumundadır; yani hem şirketin stratejik yönünü belirler hem de günlük operasyonları yürütürler. Bu derste, özellikle 6102 sayılı Türk Ticaret Kanunu çerçevesinde anonim şirketin temel organları olan Genel Kurul, Yönetim Kurulu ve denetim mekanizmalarını detaylıca inceleyeceğiz. Bu organların her birinin kendine özgü görev, yetki ve sorumlulukları bulunmaktadır ve şirket işleyişi açısından ayrılmaz bir bütünün parçalarıdırlar. Bu giriş bölümünde, organ kavramının hukuki anlamını, anonim şirket yapısındaki önemini ve ders boyunca ele alacağımız ana organların genel çerçevesini anlamış olacağız. Unutulmamalıdır ki, bu ders içeriği Türk Ticaret Kanunu ve ilgili mevzuatı esas almaktadır; sunulan Anayasa hukuku kaynağı, konumuz olan ticaret hukuku özelindeki anonim şirket organları için doğrudan bir referans teşkil etmemektedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Anonim şirket organlarının yasal çerçevesi, öncelikle 6102 sayılı Türk Ticaret Kanunu (TTK) tarafından çizilmiştir. TTK, bu organların kuruluşu, işleyişi, yetkileri ve sorumluluklarını detaylı bir şekilde düzenlemektedir. Anonim şirketlerin üç temel organı bulunmaktadır: Genel Kurul, Yönetim Kurulu ve denetim mekanizmaları. \n\n**1. Genel Kurul (TTK m. 407 vd.):** Şirketin en üst karar organıdır ve tüm pay sahiplerinden oluşur. Şirketin temel ve stratejik kararlarını alma yetkisine sahiptir. Görev ve yetkileri arasında şirket esas sözleşmesinin değiştirilmesi, sermaye artırımı ve azaltımı, birleşme, bölünme, tür değiştirme, sona erme kararı alınması, Yönetim Kurulu üyelerinin seçilmesi ve azli, finansal tabloların onaylanması, kar dağıtımı, yılsonu bilançosunun tasdiki gibi hayati konular yer alır. Genel Kurul, olağan ve olağanüstü olmak üzere iki şekilde toplanır. Olağan Genel Kurul, her faaliyet döneminin sonundan itibaren üç ay içinde toplanır ve Yönetim Kurulu'nun yıllık raporunu, finansal tabloları inceler, ibra kararı alır. Olağanüstü Genel Kurul ise, şirket için zorunlu veya acil bir karar alınması gerektiğinde toplanır. Toplantı nisapları ve karar nisapları, kararın niteliğine göre TTK’da farklı şekillerde düzenlenmiştir (örneğin, esas sözleşme değişikliği için ağırlaştırılmış nisaplar). Genel Kurul kararlarının hukuka ve esas sözleşmeye uygunluğu büyük önem taşır; aksi halde iptal veya butlan davalarına konu olabilirler.\n\n**2. Yönetim Kurulu (TTK m. 359 vd.):** Şirketin yürütme ve temsil organıdır. Genel Kurul tarafından seçilen bir veya daha fazla üyeden oluşur. Yönetim Kurulu, şirketin işlerini yönetmek ve şirketi temsil etmekle yükümlüdür. TTK'da Yönetim Kurulu üyeleri için belirli nitelikler (gerçek veya tüzel kişi olma, bağımsız üyelik vb.) ve görev dağılımı (Başkan, murahhas üye, genel müdür) düzenlenmiştir. Yönetim Kurulu'nun başlıca görevleri arasında şirket yönetiminin ve temsilinin sağlanması, şirket işlerinin yürütülmesi, finansal tabloların ve yıllık faaliyet raporunun hazırlanması, iç yönerge çıkarılması, üst düzey yöneticilerin atanması ve denetlenmesi bulunur. Yönetim Kurulu üyeleri, kanundan ve esas sözleşmeden doğan yükümlülüklerine aykırı hareket etmeleri halinde hem şirkete hem de pay sahipleri ve şirket alacaklılarına karşı sorumlu olurlar. Bu sorumluluk hem hukuki (tazminat) hem de belirli durumlarda cezai nitelikte olabilir.\n\n**3. Denetim Mekanizmaları (TTK m. 397 vd.):** 6102 sayılı TTK ile anonim şirketlerde klasik anlamda 'Denetçi' organı kaldırılmış, yerine 'bağımsız denetim' zorunluluğu getirilmiştir. Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu (KGK) tarafından yetkilendirilmiş bağımsız denetim kuruluşları veya bağımsız denetçiler, şirketin finansal tablolarının Türkiye Denetim Standartları'na uygunluğunu denetlerler. Bu denetimin amacı, finansal tabloların güvenilirliğini ve şeffaflığını sağlamaktır. Bağımsız denetim raporu, Genel Kurul'un finansal tabloları onaylama sürecinde kritik bir rol oynar. Ayrıca, şirket iç denetim sistemlerini kurarak kendi faaliyetlerini sürekli olarak denetleme ve riskleri yönetme sorumluluğuna sahiptir. Bu yeni düzenleme, kurumsal yönetişim ilkelerine uygun olarak şirketin hesap verebilirliğini artırmayı hedeflemektedir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Anonim şirket organlarının teorik yapısını anlamak kadar, bu yapıların günlük işleyişte nasıl bir araya geldiğini ve pratik sorunları nasıl çözdüğünü görmek de büyük önem taşır. Pratik uygulamalar, teorik bilgiyi somutlaştıran en etkili yöntemdir. Örneğin, bir anonim şirketin Yönetim Kurulu, şirketin faaliyet alanını genişletmek amacıyla yeni bir yatırım projesi başlatma kararı alabilir. Bu proje için önemli miktarda sermaye ihtiyacı doğduğunda, Yönetim Kurulu bir sermaye artırımı teklifini Genel Kurul'a sunar. Genel Kurul, toplanarak bu sermaye artırımını onaylar veya reddeder. Eğer onaylarsa, esas sözleşme değişikliği ve sermaye artırımına ilişkin diğer usuller TTK'ya uygun olarak tamamlanır. Burada, Yönetim Kurulu'nun 'yönetim' yetkisi (proje geliştirme) ile Genel Kurul'un 'temel karar alma' yetkisi (sermaye artırımı) arasındaki ilişki net bir şekilde görülür.\n\nBir başka pratik uygulama senaryosu, Yönetim Kurulu üyelerinin sorumluluğuyla ilgilidir. Şirketin bir Yönetim Kurulu üyesi, kendi kişisel menfaatleri doğrultusunda şirkete zarar verecek bir işlem yaptığında, diğer Yönetim Kurulu üyeleri veya pay sahipleri, TTK m. 553 ve devamı uyarınca bu üyeye karşı tazminat davası açabilirler. Bu durum, Yönetim Kurulu üyelerinin 'özen ve bağlılık yükümlülüğü' ilkesinin önemini ortaya koyar. Üyeler, görevlerini yaparken basiretli bir tacir gibi hareket etmek, şirket menfaatlerini korumak ve tüm şirket sırlarını saklamak zorundadırlar. Aksi takdirde, hem şirkete hem de pay sahiplerine ve alacaklılara karşı doğan zararlardan şahsen sorumlu tutulabilirler. Yönetim Kurulu toplantılarında alınan kararların usulüne uygun tutanak altına alınması, muhalif kalan üyelerin şerhlerini düşmesi de olası sorumluluklardan kurtulma veya sorumluluklarını sınırlandırma adına pratik bir önem taşır.\n\nŞirket içi uyuşmazlıklarda ise, örneğin azınlık pay sahiplerinin Yönetim Kurulu kararlarını veya Genel Kurul kararlarını TTK m. 445 ve 447 çerçevesinde iptal davası açarak dava etmeleri mümkündür. Bu, azınlık haklarının korunması ve çoğunluğun sınırsız keyfi davranışlarının engellenmesi açısından kritik bir mekanizmadır. Ayrıca, halka açık anonim şirketlerde Sermaye Piyasası Kurulu (SPK) düzenlemeleri ve kurumsal yönetim ilkeleri, organların işleyişine ek kurallar ve şeffaflık yükümlülükleri getirerek daha karmaşık ve denetimli bir pratik alan yaratır. Bu örnekler, organlar arasındaki dinamik etkileşimi, yetki sınırlarını ve olası hukuki sonuçları anlamak için değerli perspektifler sunmaktadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Anonim şirket organlarının işleyişinde, sadece yasalara uyum sağlamak değil, aynı zamanda belirli ilkelere ve pratik hususlara dikkat etmek, şirketin sürdürülebilirliği ve kurumsal yönetişim kalitesi açısından büyük önem taşır. Bu bölümde, özellikle vurgulanması gereken kritik noktaları ele alacağız.\n\nÖncelikle, **sorumluluk hükümleri** Yönetim Kurulu üyeleri için hayati bir uyarı niteliğindedir. TTK m. 553 ve devamında düzenlenen 'sorumluluk' kavramı, Yönetim Kurulu üyelerinin kanundan ve esas sözleşmeden doğan yükümlülüklerini kusurlu olarak ihlal etmeleri halinde şirkete, pay sahiplerine ve şirket alacaklılarına karşı doğan zararlardan şahsen sorumlu olmalarını ifade eder. Bu sorumluluk, hem hukuki hem de belirli durumlarda cezai nitelikte olabilir. Bu nedenle, Yönetim Kurulu üyeleri görevlerini basiretli bir tacir gibi özenle yerine getirmeli, şirket menfaatlerini her şeyin üstünde tutmalı ve çıkar çatışmalarından kaçınmalıdır. Alınan kararların ispatı için toplantı tutanaklarının düzenli tutulması ve karşı oyların şerh düşülmesi sorumluluk riskini azaltıcı bir uygulamadır.\n\nİkinci olarak, **azınlık hakları**nın korunması, anonim şirketlerde adil ve dengeli bir yönetim için vazgeçilmezdir. TTK, azınlık pay sahiplerine Genel Kurul'u toplantıya çağırma, gündeme madde ekleme, özel denetim isteme ve Genel Kurul kararlarının iptalini veya butlanını talep etme gibi önemli haklar tanır. Bu haklar, çoğunluğun keyfi yönetimini engellemek ve azınlığın şirket üzerindeki etkisini sağlamak amacıyla mevcuttur. Azınlık haklarının göz ardı edilmesi, şirket içi gerilimlere ve hukuki uyuşmazlıklara yol açabilir.\n\nÜçüncü olarak, **iç yönergeler** ve **kurumsal yönetim ilkeleri**nin önemi göz ardı edilmemelidir. Yönetim Kurulu, TTK m. 366 uyarınca şirketin yönetimi ve temsilini düzenleyen bir iç yönerge çıkarabilir. Bu yönerge, görev dağılımı, yetki devri, toplantı usulleri gibi konularda Yönetim Kurulu'nun işleyişini şeffaflaştırır ve etkinleştirir. Özellikle halka açık şirketler için Sermaye Piyasası Kurulu tarafından yayımlanan 'Kurumsal Yönetim İlkeleri', şirketin şeffaflık, hesap verebilirlik, adillik ve sorumluluk prensiplerine uygun yönetilmesini teşvik eder. Bu ilkelerin benimsenmesi, sadece yasal uyumu sağlamakla kalmaz, aynı zamanda şirketin itibarını ve yatırımcı güvenini de artırır.\n\nSon olarak, **uyuşmazlıkların çözümü** ve doğru hukuki danışmanlık almak, organlar arasındaki veya şirket ile dış paydaşlar arasındaki sorunların etkin bir şekilde yönetilmesi için kritik öneme sahiptir. Ticari uyuşmazlıklar genellikle karmaşık olup, dava süreçleri yerine arabuluculuk veya uzlaşma gibi alternatif çözüm yolları da değerlendirilmelidir. Tüm bu dikkat edilmesi gerekenler, anonim şirketlerin hukuki ve etik sınırlar içinde başarılı bir şekilde faaliyet göstermesini temin eder."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders boyunca anonim şirketlerin hukuki varlıklarını sürdürmelerini sağlayan en temel yapı taşları olan organlarını detaylı bir şekilde inceledik. Anonim şirketler, tüzel kişiliğe sahip olmaları nedeniyle, iradelerini oluşturmak, karar almak ve bu kararları icra etmek için Genel Kurul, Yönetim Kurulu ve modern bağımsız denetim mekanizmaları gibi organlara ihtiyaç duyarlar. Her bir organın kendine özgü ve devredilemez görev ve yetkileri bulunmaktadır; ancak bu organlar, şirketin genel menfaatleri doğrultusunda birbirleriyle uyumlu ve karşılıklı kontrol içerisinde faaliyet gösterirler.\n\nGenel Kurul, pay sahiplerinin katılımıyla oluşan, şirketin temel ve stratejik kararlarını alan en üst irade organıdır. Esas sözleşme değişikliklerinden kar dağıtımına kadar birçok hayati karar Genel Kurul'un yetkisindedir. Yönetim Kurulu ise, şirketin günlük işlerini yöneten, şirketi üçüncü kişilere karşı temsil eden ve Genel Kurul kararlarını uygulayan yürütme organıdır. Üyelerinin özen ve bağlılık yükümlülüğü altında çalışmaları ve kanunlara, esas sözleşmeye uygun hareket etmeleri büyük önem taşır; aksi takdirde ciddi sorumluluklarla karşılaşabilirler. Bağımsız denetim mekanizmaları ise, finansal tabloların güvenilirliğini ve şeffaflığını sağlayarak şirketin hesap verebilirliğini güçlendirir.\n\nÖzetle, anonim şirket organlarının işleyişi, 'güçler ayrılığı' ve 'denge-denetim' prensipleri üzerine kuruludur. Her organın yetki ve sorumluluklarının net bir şekilde belirlenmiş olması, şirket içindeki çatışmaları minimize eder ve verimli bir yönetim sağlar. Ancak, bu sistemin tam olarak işleyebilmesi için Yönetim Kurulu üyelerinin basiretli tacir ilkesine uygun davranması, azınlık haklarının korunması, şeffaflık, hesap verebilirlik ve kurumsal yönetim ilkelerine riayet edilmesi zorunludur. Gelecekteki trendler, özellikle dijitalleşmenin ve yapay zekanın şirket yönetimine etkileri, sürdürülebilirlik ilkelerinin kurumsal karar alma süreçlerine entegrasyonu ve yönetim kurullarının çeşitliliği gibi konuların anonim şirket organlarının işleyişini daha da dönüştüreceğini göstermektedir. Bu bilgiler ışığında, dersimizin temel amacına ulaştığımızı ve anonim şirket organları konusundaki bilginizi pekiştirdiğinizi umuyorum. Başarılar dilerim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, 6102 sayılı Türk Ticaret Kanunu'na göre anonim şirketin Yönetim Kurulu'nun devredilemez ve vazgeçilemez görev ve yetkileri arasında yer almaz?",
+      "options": {
+        "A": "Şirketin üst düzey yöneticilerini atamak ve görevden almak.",
+        "B": "Şirket için gerekli iç yönergeleri hazırlamak ve uygulamaya koymak.",
+        "C": "Şirketin finansal tablolarını, yıllık faaliyet raporunu ve denetçi raporunu Genel Kurul'a sunmak.",
+        "D": "Şirket esas sözleşmesini değiştirmek."
+      },
+      "correctAnswer": "D",
+      "explanation": "Türk Ticaret Kanunu'nun 375. maddesi, Yönetim Kurulu'nun devredilemez ve vazgeçilemez görev ve yetkilerini sayar. Esas sözleşmeyi değiştirmek, şirket için temel bir karar olup, TTK m. 421 uyarınca Genel Kurul'un yetkisindedir. A, B ve C seçenekleri ise Yönetim Kurulu'nun devredilemez görevleri arasında yer almaktadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Anonim şirket Genel Kurulu'nda bir kararın alınabilmesi için belirli nisaplar aranır. Olağan bir Genel Kurul toplantısında, pay sahipleri veya temsilcilerinin toplantıda hazır bulunabilmesi için asgari hangi nisap aranır?",
+      "options": {
+        "A": "Şirket sermayesinin en az dörtte birini temsil eden payların varlığı.",
+        "B": "Şirket sermayesinin en az üçte birini temsil eden payların varlığı.",
+        "C": "Şirket sermayesinin en az beşte birini temsil eden payların varlığı.",
+        "D": "Şirket sermayesinin en az yarısını temsil eden payların varlığı."
+      },
+      "correctAnswer": "A",
+      "explanation": "6102 sayılı Türk Ticaret Kanunu'nun 418. maddesine göre, anonim şirketlerin olağan Genel Kurul toplantısında, şirket sermayesinin en az dörtte birini temsil eden payların sahiplerinin veya temsilcilerinin hazır bulunması şarttır. İlk toplantıda bu nisap sağlanamazsa, ikinci toplantı için nisap aranmaz."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir anonim şirketin Yönetim Kurulu üyesi, görevi sırasında kusurlu davranışlarıyla şirkete zarar vermiştir. Bu Yönetim Kurulu üyesinin hukuki sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Sorumluluk, sadece şirkete karşı değil, pay sahipleri ve şirket alacaklılarına karşı da doğabilir.",
+        "B": "Yönetim Kurulu üyesi, özen ve bağlılık yükümlülüğünü ihlal etmişse sorumlu tutulabilir.",
+        "C": "Sorumluluktan kurtulmak için, zararın kendisinin kusurundan kaynaklanmadığını ispat etmesi gerekir.",
+        "D": "Yönetim Kurulu üyesinin sorumluluğu, sadece kasıtlı fiillerinden doğar; ağır ihmal sorumluluk doğurmaz."
+      },
+      "correctAnswer": "D",
+      "explanation": "TTK m. 553'e göre Yönetim Kurulu üyeleri, kanun ve esas sözleşmeden doğan yükümlülüklerini kusurlu (kasıt veya ihmal) olarak ihlal ettikleri takdirde, hem şirkete hem de pay sahipleri ve şirket alacaklılarına karşı verdikleri zarardan sorumludurlar. Kasıt veya ihmal, sorumluluğun şartlarından olup, ağır ihmal de sorumluluk doğurur. Dolayısıyla 'sadece kasıtlı fiillerden doğar' ifadesi yanlıştır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "6102 sayılı Türk Ticaret Kanunu ile anonim şirketlerde denetim mekanizmalarında önemli değişiklikler yapılmıştır. Bu değişikliklere göre, aşağıdaki denetim türlerinden hangisi belirli anonim şirketler için zorunlu hale getirilmiştir?",
+      "options": {
+        "A": "Yüksek Denetleme Kurulu denetimi",
+        "B": "İç Denetçi denetimi",
+        "C": "Bağımsız denetim",
+        "D": "Ortak Denetleme Komitesi denetimi"
+      },
+      "correctAnswer": "C",
+      "explanation": "6102 sayılı TTK ile anonim şirketlerde klasik anlamdaki 'denetçi' sistemi kaldırılarak, yerine Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu (KGK) tarafından yetkilendirilmiş 'bağımsız denetim' kuruluşları veya bağımsız denetçiler tarafından yapılan denetim zorunlu hale getirilmiştir. Bu, özellikle büyüklük kriterlerini karşılayan anonim şirketler için geçerlidir (TTK m. 397)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Anonim şirketlerde azınlık pay sahiplerine tanınan haklardan biri de Genel Kurul'un toplantıya çağrılmasını isteme hakkıdır. Bu hakkın kullanılabilmesi için, azınlık pay sahiplerinin şirket sermayesinin en az ne kadarını temsil etmesi gerekir?",
+      "options": {
+        "A": "En az onda birini",
+        "B": "En az yirmide birini",
+        "C": "En az otuzda birini",
+        "D": "En az ellide birini"
+      },
+      "correctAnswer": "A",
+      "explanation": "Türk Ticaret Kanunu'nun 411. maddesine göre, şirket sermayesinin en az onda birini, halka açık şirketlerde ise yirmide birini temsil eden pay sahipleri, Yönetim Kurulu'ndan Genel Kurul'u toplantıya çağırmasını veya zaten mevcut olan bir Genel Kurul gündemine madde eklenmesini isteyebilirler. Soru genel olarak 'anonim şirketlerde' dediği için, genel kural olan onda birini referans almak en uygunudur."
+    }
+  ]
+}

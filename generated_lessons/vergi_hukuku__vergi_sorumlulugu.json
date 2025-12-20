@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "Vergi Sorumluluğu, Vergi Hukuku'nun temel taşlarından biridir ve vergi mükellefiyetinin farklı boyutlarını ele alır. Bu bölümde, vergi sorumluluğuna ilişkin anahtar kavramlar açıklanacaktır:\n\n•\t**Vergi Mükellefi:** Kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir. Verginin nihai yükümlüsü ve muhatabıdır (VUK m. 8).\n•\t**Vergi Sorumlusu:** Verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir. Vergi mükellefi olmamakla birlikte, verginin tarh, tebliğ ve ödeme gibi safhalarından sorumlu tutulmuştur. Örneğin, ücret stopajında işveren (VUK m. 8).\n•\t**Asıl Sorumluluk:** Vergi mükellefinin kendi adına ve hesabına doğan vergi borcundan doğrudan sorumlu olmasıdır. Bu, vergi sorumluluğunun birincil ve temel biçimidir.\n•\t**İkinci Derece Sorumluluk (Tali Sorumluluk):** Vergi mükellefinin borcunu ödememesi veya ödeyememesi durumunda devreye giren sorumluluktur. Kanuni temsilcilerin ve mirasçıların sorumluluğu bu kategoriye girer ve asıl borçluya başvurulduktan sonra uygulanır.\n•\t**Müşterek ve Müteselsil Sorumluluk:** Birden fazla kişinin aynı vergi borcundan birlikte sorumlu olmasıdır. Alacaklı vergi dairesi, borcun tamamını sorumlu kişilerden herhangi birinden talep edebilir. Ödeyen kişi, diğer sorumlulara rücu etme hakkına sahiptir (Örn: Limited şirket ortaklarının sermaye hisseleri oranında müteselsil sorumluluğu).\n•\t**Kanuni Temsilcilerin Sorumluluğu:** Tüzel kişilerin (şirketler, vakıflar vb.) ve velayet/vesayet altındakilerin (küçükler, kısıtlılar) vergi borçlarından, bunları temsil eden gerçek kişilerin (yönetim kurulu üyeleri, müdürler, veli, vasi) kanunda belirtilen şartlar dahilinde sorumlu tutulmasıdır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Vergi sorumluluğu, büyük ölçüde Vergi Usul Kanunu (VUK) ve Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK) ile diğer vergi kanunlarında düzenlenmiştir. Bu düzenlemeler, verginin tahsil edilebilirliğini sağlamak ve vergi kaçağını önlemek amacını taşır.\n\n•\t**Vergi Usul Kanunu (VUK) m. 8:** \"Mükellef, vergi kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir. Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir.\" Bu madde mükellef ve sorumlu ayrımının temelini oluşturur.\n•\t**VUK m. 10 (Kanuni Temsilcilerin Sorumluluğu):** \"Tüzel kişilerle küçüklerin ve kısıtlıların VUK’ta yazılı ödevleri kanuni temsilcileri, veli veya vasileri tarafından yerine getirilir. Bu kişiler, bu ödevlerin yerine getirilmemesi yüzünden mükelleflerin veya vergi sorumlularının varlığından tamamen veya kısmen alınamayan vergi ve buna bağlı alacaklardan şahsen ve müteselsilen sorumludurlar.\" Bu madde, temsilcilerin ödevleri yerine getirmemesi durumunda şahsi sorumluluklarını düzenler.\n•\t**VUK m. 11 (Vergi Kesenlerin Sorumluluğu):** \"Yaptıkları veya yapacakları ödemelerden vergi kesmeye mecbur olanlar, kestikleri vergilerin ödenmesinden ve süresinde beyan edip yatırmalarından sorumludurlar.\" Stopaj müessesesinin yasal dayanağı olup, ödemeyi yapanın vergi sorumlusu sıfatıyla borçlu olduğunu belirtir.\n•\t**VUK m. 356 (Mirasçıların Sorumluluğu):** Mirasçıların, murisin vergi borçlarından miras hisseleri oranında sorumlu olacağını belirtir. Mirasın reddi halinde sorumluluk kalkar.\n•\t**Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK) m. 35 (Kanuni Temsilcilerin ve Tüzel Kişiliklerin Sorumluluğu):** VUK m. 10'a paralel olarak, tüzel kişilerle küçük ve kısıtlıların amme alacaklarından doğan borçlarından kanuni temsilcilerinin, veli ve vasilerinin, temsil ettikleri kişilerin mal varlığından tahsil edilemeyen kısmından şahsen ve müteselsilen sorumlu olacaklarını düzenler. Bu madde AATUHK kapsamında tüm amme alacaklarını kapsar.\n•\t**Diğer Vergi Kanunları (GVK, KVK, KDV K vb.):** Bu kanunlar, stopaj, tevkifat ve KDV'de sorumlu tayini gibi spesifik vergi sorumluluğu durumlarını düzenleyen hükümler içerir. Örneğin, KDV Kanunu'nun 9. maddesi vergi sorumlusunu belirleyebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "Vergi sorumluluğu kavramını daha iyi anlamak için günlük hayattan veya iş dünyasından örnekler üzerinden inceleyelim:\n\n•\t**Limited Şirket Müdürünün Sorumluluğu:** Bir limited şirketin müdürü, şirketin vergi beyannamelerini süresinde vermekten ve vergilerini ödemekten sorumludur. Eğer şirket, vergi borçlarını ödeyemez duruma düşerse, müdür AATUHK m. 35 uyarınca şirketin mal varlığından tahsil edilemeyen borçlardan şahsen ve müteselsilen sorumlu tutulabilir. Bu sorumluluk, müdürün görevde olduğu dönemdeki borçlarla sınırlıdır.\n•\t**Mirasçıların Murisin Vergi Borçlarından Sorumluluğu:** Bir kişi vefat ettiğinde, geride kalan mirasçılar, murisin (vefat edenin) ödenmemiş vergi borçlarından miras hisseleri oranında sorumludurlar. Örneğin, üç mirasçı varsa ve her birinin miras payı eşitse, her biri borcun üçte birinden sorumlu olur. Mirasın reddi halinde bu sorumluluk ortadan kalkar.\n•\t**Kira Ödemelerinde Stopaj Sorumluluğu:** Bir işletme, bir gayrimenkul sahibinden işyeri kiralar ve her ay kira öder. Gelir Vergisi Kanunu'na göre, işyeri kira ödemeleri üzerinden %20 oranında gelir vergisi stopajı yapılması zorunludur. Bu durumda, kirayı ödeyen işletme, kestiği vergiyi vergi dairesine beyan edip ödemekle yükümlü olan vergi sorumlusudur. Kirayı alan mülk sahibi ise mükelleftir.\n•\t**Serbest Meslek Erbabının KDV Sorumluluğu:** Bir avukatın veya doktorun verdiği hizmet karşılığında aldığı ücret üzerinden KDV hesaplaması ve bunu beyan edip ödemesi asıl sorumluluktur (mükellefiyet). Ancak, KDV Kanunu m. 9 kapsamında bazı hizmet alımlarında (örneğin, tam tevkifat uygulanan hizmetlerde), hizmeti alan taraf sorumlu sıfatıyla KDV'nin tamamını beyan edip öder.\n•\t**Tasfiye Halindeki Şirketin Vergi Borçları:** Bir şirketin tasfiyesine karar verildiğinde, tasfiye memuru atanır. Tasfiye memuru, şirketin tasfiye sürecindeki tüm vergi yükümlülüklerini yerine getirmekten ve şirketin vergi borçlarının ödenmesini sağlamaktan sorumludur. Eğer tasfiye memuru bu görevini ihmal eder ve şirketin borçları ödenemezse, AATUHK m. 35'e göre şahsi sorumluluğu doğabilir.\n•\t**Vergi Kesenlerin Sorumluluğu:** Bir şirket, çalışanlarına ücret öderken gelir vergisi ve damga vergisi kesintisi yapar. Bu kesintileri süresinde beyan edip vergi dairesine yatırmazsa, VUK m. 11 uyarınca kesilen vergilerin ödenmesinden vergi sorumlusu olarak şirket sorumludur."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "Vergi sorumluluğu kavramı geniş kapsamlı olduğundan, bazı kritik noktalara özellikle dikkat etmek gerekmektedir:\n\n•\t**Sorumluluğun Şahsiliği ve Devredilemezliği:** Vergi sorumluluğu, ilgili kişiye özgüdür ve bir başkasına devredilemez. Ancak, miras yoluyla mirasçılara geçişi istisnai bir durumdur ve miras payı oranında gerçekleşir.\n•\t**VUK m. 10 ve AATUHK m. 35 Arasındaki Farklar:** Her iki madde de kanuni temsilcilerin sorumluluğunu düzenlese de, VUK m. 10 daha çok \"vergi ve buna bağlı alacakları\" kapsarken, AATUHK m. 35 \"amme alacaklarının\" tamamını (vergi, resim, harç, fon, prim vb.) kapsar. Ayrıca, VUK m. 10'da sorumluluğun doğması için kanuni temsilcinin ödevleri yerine getirmemesi \"yüzünden\" borcun alınamaması şartı aranırken, AATUHK m. 35'te tüzel kişiliğin mal varlığından tahsil edilememe şartı ön plandadır.\n•\t**Vergi Cezalarında Sorumluluk:** Kanuni temsilcilerin vergi aslına ilişkin sorumluluğu, çoğu zaman vergi cezalarını da kapsar. Ancak, vergi ziyaı cezası gibi şahsi sorumluluk gerektiren bazı cezalar (örneğin, kaçakçılık) doğrudan temsilcinin kendisine kesilebilir.\n•\t**Zamanaşımı ve Sorumluluğun Kapsamı:** Vergi sorumluluğu da zamanaşımı hükümlerine tabidir. Genellikle, vergi borcunun kendisi için geçerli olan 5 yıllık zamanaşımı süresi, sorumlular için de geçerlidir. Ayrıca, kanuni temsilcilerin sorumluluğu genellikle görevde oldukları dönemdeki borçlarla sınırlıdır.\n•\t**Kasıt ve İhmal Ayrımı:** Kanuni temsilcilerin sorumluluğunda, genellikle kanuni ödevlerin yerine getirilmesinde gösterilen \"özen ve ihtimam\" eksikliği (ihmal) veya kasıtlı davranışlar sorumluluğun kapsamını ve derecesini etkileyebilir. Kasıtlı davranışlar, vergi suçlarına yol açarak daha ağır yaptırımları beraberinde getirebilir.\n•\t**Sorumluluğun Tespiti ve Tarh Aşaması:** Vergi sorumluluğunun tespiti ve ilgili kişinin sorumlu sıfatıyla vergi alacağı ile muhatap kılınması, verginin tarh edilmesi aşamasında gerçekleşir. Vergi idaresi, ilgili kanun hükümlerine göre sorumluluğun şartlarının oluşup oluşmadığını araştırır ve gerekli işlemleri yapar."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "HMGS sınavında Vergi Sorumluluğu konusu genellikle temel kavramları anlama, yasal dayanakları ilişkilendirme ve pratik durumları analiz etme yeteneğini ölçer. Başarılı olmak için aşağıdaki noktalara odaklanmanız tavsiye edilir:\n\n•\t**Temel Tanımlara Hakim Olun:** Vergi mükellefi, vergi sorumlusu, asıl sorumluluk, ikinci derece sorumluluk, müşterek ve müteselsil sorumluluk gibi temel kavramları net bir şekilde tanımlayabilmeli ve farklarını bilmelisiniz.\n•\t**Yasal Dayanakları İyi Kavrayın:** Vergi Usul Kanunu'nun 8., 10. ve 11. maddeleri ile Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 35. maddesi, bu konunun ana omurgasını oluşturur. Bu maddelerin içeriklerini ve uygulamadaki yerlerini iyi anlamalısınız.\n•\t**Örnek Olayları Analiz Edin:** Sınavda karşılaşabileceğiniz vaka tipi sorular için, daha önce gördüğünüz pratik örnekler üzerinden kimin hangi sıfatla (mükellef/sorumlu) ne derecede sorumlu olduğunu ayırt etme becerisi geliştirin.\n•\t**Kanuni Temsilcilerin ve Mirasçıların Sorumluluğuna Odaklanın:** Bu iki sorumluluk türü sıkça karıştırılabilir veya sorulara konu olabilir. Hangi durumlarda, kimlerin ne şekilde sorumlu olduğunu (şahsen, müteselsilen, hisse oranında) iyi öğrenin.\n•\t**Sorumluluğun Kapsamı ve Sınırları:** Sorumluluğun hangi hallerde doğduğu, hangi borçları kapsadığı (vergi aslı, ceza, zam), zamanaşımı ve devredilemezlik gibi sınırlayıcı unsurları gözden kaçırmayın.\n•\t**Çoktan Seçmeli Sorulara Hazırlık:** Verilen senaryolarda doğru mükellef/sorumlu eşleştirmeleri, kanun maddelerinin doğru yorumlanması ve sorumluluk türleri arasındaki ince farkların tespiti üzerine kurulu sorulara hazırlıklı olun. Özellikle VUK m. 10 ile AATUHK m. 35 arasındaki farkları iyi anlayın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Vergi Usul Kanunu'na göre 'vergi sorumlusu' tanımına en uygun örnektir?",
+      "options": {
+        "A": "Gelir Vergisi mükellefi olan bir serbest meslek erbabı",
+        "B": "Bir şirketin, çalışanlarına ödediği ücretlerden kestiği gelir vergisi için vergi dairesine karşı sorumlu olan kendisi",
+        "C": "Katma Değer Vergisi mükellefi olan bir perakendeci",
+        "D": "Emlak Vergisi mükellefi olan bir taşınmaz sahibi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vergi sorumlusu, verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişidir. 'A, C ve D' şıklarındaki kişiler doğrudan verginin mükellefidir. 'B' şıkkındaki şirket, çalışanların gelir vergisini kesip devlete ödemekle yükümlü olduğu için vergi sorumlusu konumundadır (VUK m. 8 ve m. 11)."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Limited şirketin kanuni temsilcisi olan müdürün, şirketin kamu borçlarından şahsen ve müteselsilen sorumlu tutulması, öncelikle hangi kanun hükmüne dayanmaktadır?",
+      "options": {
+        "A": "Vergi Usul Kanunu m. 10",
+        "B": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 35",
+        "C": "Gelir Vergisi Kanunu m. 94",
+        "D": "Türk Ticaret Kanunu m. 624"
+      },
+      "correctAnswer": "B",
+      "explanation": "Limited şirket müdürünün şirketin kamu borçlarından (vergi dahil tüm amme alacakları) şahsen ve müteselsilen sorumlu tutulması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK) m. 35 hükmü gereğidir. VUK m. 10 da kanuni temsilci sorumluluğunu düzenler ancak AATUHK m. 35, tüm amme alacaklarını kapsar ve uygulamada şirket yöneticileri için genellikle bu madde esas alınır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi mirasçıların murisin vergi borçlarından sorumluluğu ile ilgili doğru bir ifadedir?",
+      "options": {
+        "A": "Mirasçılar, murisin tüm vergi borçlarından şahsen ve sınırsız olarak sorumludur.",
+        "B": "Mirasçılar, murisin vergi borçlarından miras hisseleri oranında sorumludurlar.",
+        "C": "Mirasçılar, murisin vefatından önceki vergi borçlarından sorumlu değildirler.",
+        "D": "Mirasçılar, mirası reddetmiş olsalar dahi murisin vergi borçlarından müteselsilen sorumludurlar."
+      },
+      "correctAnswer": "B",
+      "explanation": "Mirasçılar, murisin vergi borçlarından miras hisseleri oranında sorumludurlar (VUK m. 356). Mirasın reddi durumunda sorumlulukları ortadan kalkar ve sınırsız sorumluluk söz konusu değildir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir işletme, bir meskenin kira ödemesini yaparken, ev sahibine brüt kira bedelinden stopaj kesintisi yaparak ödemiştir. Bu senaryoda 'vergi sorumlusu' kimdir?",
+      "options": {
+        "A": "Ev sahibi",
+        "B": "Kiracı işletme",
+        "C": "Kira sözleşmesini düzenleyen emlakçı",
+        "D": "Meskenin bağlı olduğu belediye"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mesken kira ödemelerinde Gelir Vergisi Kanunu'na göre stopaj uygulaması yoktur, ancak işyeri kira ödemelerinde stopaj vardır. Soruda bir 'işletme'nin kira ödediği belirtildiğinden, bu bir ticari faaliyet kapsamında işyeri kirası kabul edilebilir. Bu durumda, kirayı ödeyen işletme, kestiği vergiyi devlete yatırmakla yükümlü olduğu için vergi sorumlusudur (VUK m. 8 ve m. 11, GVK m. 94)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Vergi Usul Kanunu'nun 10. maddesine göre, tüzel kişilerin kanuni temsilcileri, yerine getirilmeyen vergi ödevleri yüzünden mükelleflerin varlığından tamamen veya kısmen alınamayan vergi ve buna bağlı alacaklardan nasıl sorumludur?",
+      "options": {
+        "A": "Sadece idari para cezalarından",
+        "B": "Sadece vergi aslından",
+        "C": "Şahsen ve müteselsilen",
+        "D": "Temsil ettikleri tüzel kişiliğin ödemediği borçlardan sınırlı olarak"
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK m. 10 açıkça belirtir ki, tüzel kişilerin kanuni temsilcileri, vergi ödevlerinin yerine getirilmemesi yüzünden mükelleflerin varlığından alınamayan vergi ve buna bağlı alacaklardan 'şahsen ve müteselsilen' sorumludurlar. Bu, temsilcinin kendi mal varlığıyla da sorumlu olduğu ve alacaklı idarenin borcun tamamını bu kişilerden herhangi birinden talep edebileceği anlamına gelir."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "• **Uzlaştırma:** Şikâyete bağlı suçlar ve kanunda açıkça belirtilen bazı resen takip edilen suçlarda, şüpheli veya sanık ile mağdur veya suçtan zarar görenin, bağımsız bir uzlaştırmacı aracılığıyla anlaşarak uyuşmazlığın giderilmesi sürecidir.\n• **Süre (Müddet):** Uzlaştırma sürecinin tamamlanması için kanun veya yönetmelik tarafından öngörülen zaman dilimidir. Bu süreler, uzlaştırmanın etkinliği ve adil yargılanma hakkı açısından kritik öneme sahiptir.\n• **Yetki:** Uzlaştırma sürecini başlatma, yürütme ve sona erdirme konusunda yasal olarak belirlenmiş mercilerin (örneğin Cumhuriyet savcısı, mahkeme) sahip olduğu hukuki güçtür.\n• **Görevlendirme:** Uzlaştırma yapmak üzere tarafların talebi veya re'sen yetkili mercilerce uzlaştırmacının tayin edilmesidir. Uzlaştırmacının nitelikleri ve atanması yasal düzenlemelere tabidir.\n• **Değişiklikler:** Uzlaştırma sürecindeki sürelerin uzatılması, uzlaştırmacının değiştirilmesi, dosyanın farklı bir yetkili mercie sevk edilmesi gibi, başlangıçtaki durumdan farklılaşan halleri ifade eder.\n• **Ceza Muhakemesi Hukuku (CMK):** Uzlaştırmanın temel yasal çerçevesini çizen, usul ve esaslarını belirleyen kanundur. Uzlaştırma müessesesi CMK m. 253 ve devamında düzenlenmiştir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "• **CMK m. 253:** Uzlaştırma kapsamındaki suçları, uzlaştırma usulünü, Cumhuriyet savcısının yetkisini ve uzlaştırma teklifini düzenler.\n• **CMK m. 253/A:** Uzlaştırma bürosunun görevlerini, uzlaştırmacı atamasını ve uzlaştırma giderlerini içerir. Uzlaştırmacının görevlendirilmesi esaslarını belirler.\n• **CMK m. 254:** Uzlaştırma teşebbüsünün başarısız olması durumunda izlenecek yolu ve uzlaştırma sürecinin sonuçlarını açıklar.\n• **Uzlaştırma Yönetmeliği:** Ceza Muhakemesinde Uzlaştırma Yönetmeliği, CMK'daki genel hükümleri somutlaştıran, sürelerin başlangıcı, uzatılması, uzlaştırmacının nitelikleri, seçimi, görev ve yetkileri gibi detaylı kuralları içeren alt düzenleyici metindir.\n• **Süreye İlişkin Hükümler:** Yönetmelik ve CMK, uzlaştırma süresini ve hangi hallerde bu sürenin uzatılabileceğini net bir şekilde belirtir. Örneğin, uzlaştırmacıya dosyanın gönderilmesinden itibaren başlayan temel süre ve ek süreler.\n• **Yetki ve Görevlendirmeye İlişkin Hükümler:** Cumhuriyet savcısının uzlaştırmaya sevk yetkisi, uzlaştırmacının görevlendirilme usulü, uzlaştırmacının tarafsızlığı ve değiştirilme nedenleri yasal çerçevede düzenlenmiştir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "• **Süre Uzatımı:** Uzlaştırmacı, taraflar arasındaki anlaşma sürecinin karmaşıklığı, delillerin toplanmasındaki zorluklar veya tarafların yoğun programları nedeniyle belirlenen ilk süre içinde uzlaştırmayı tamamlayamaması durumunda, CMK ve Yönetmelik hükümleri uyarınca ek süre talebinde bulunabilir.\n• **Uzlaştırmacı Değişikliği:** Atanan uzlaştırmacının, taraflardan biriyle akrabalık ilişkisi olduğunun sonradan ortaya çıkması (tarafsızlık ilkesinin ihlali) veya ciddi bir hastalık nedeniyle görevini yapamaz hale gelmesi durumunda, Cumhuriyet savcılığı yeni bir uzlaştırmacı görevlendirebilir.\n• **Yetki Değişikliği:** Şüpheli hakkında daha önce uzlaştırma kapsamına girmeyen bir suçtan dava açılmışken, soruşturmanın genişlemesi veya nitelik değiştirmesiyle birlikte eklenen yeni bir suçun uzlaştırma kapsamında olduğunun anlaşılması halinde, dosya mahkemeden Cumhuriyet savcılığına uzlaştırma işlemleri için geri gönderilebilir.\n• **Dosyanın Yeniden Uzlaştırmaya Gönderilmesi:** Daha önce uzlaştırma görüşmeleri yapılmış ancak anlaşma sağlanamamış bir dosyada, taraflardan birinin yeni ve önemli bir teklifle tekrar uzlaşma talebinde bulunması veya yeni bir delilin ortaya çıkması üzerine Cumhuriyet savcısı dosyayı tekrar uzlaştırmaya gönderebilir.\n• **Uzlaştırma Bürosunun Müdahalesi:** Uzlaştırma bürosu, uzlaştırma sürecinde mevzuata aykırı bir işlem yapıldığını tespit ettiğinde, uzlaştırmacıyı uyarabilir veya gerekli hallerde uzlaştırmacıyı görevden alarak yeni bir görevlendirme yapabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "• **Sürelerin Aşılması:** Uzlaştırma süresinin veya uzatılan ek sürenin haklı bir neden olmaksızın aşılması, uzlaştırma teklifinin reddedilmiş sayılmasına veya uzlaştırma sonucunun geçersiz sayılmasına yol açabilir.\n• **Uzlaştırmacının Tarafsızlığı:** Uzlaştırmacının tarafsızlığı ve bağımsızlığı esastır. Bu ilkelerin ihlali, uzlaştırma sürecinin geçersizliğine ve uzlaştırmacının görevden alınmasına neden olabilir. İlişki veya menfaat çatışması durumları derhal bildirilmelidir.\n• **Yetki Karmaşası:** Uzlaştırma kapsamındaki bir suçta, dosyanın soruşturma aşamasında mı yoksa kovuşturma aşamasında mı uzlaştırmaya tabi tutulacağına dair yetki sınırı iyi anlaşılmalıdır. Yanlış mercinin uzlaştırma kararı usul hatasına yol açar.\n• **Değişikliklerin Hukuki Dayanağı:** Süre uzatımı veya uzlaştırmacı değişikliği gibi her türlü değişikliğin, CMK ve Uzlaştırma Yönetmeliği'nde belirtilen şartlara ve usullere uygun olarak yapılması gerekir. Keyfi değişiklikler hukuka aykırıdır.\n• **Kararların Şekli:** Uzlaştırma sürecindeki tüm önemli kararlar (süre uzatımı, uzlaştırmacı değişikliği, dosyanın yeniden uzlaştırmaya gönderilmesi vb.) yazılı olarak belgelenmeli ve gerekçelendirilmelidir.\n• **Tarafların Bilgilendirilmesi:** Süre uzatımı veya uzlaştırmacı değişikliği gibi hususlarda tarafların tam ve doğru bir şekilde bilgilendirilmesi, uzlaştırma sürecine güvenin devamlılığı için önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "• **Kanun Maddelerine Hakimiyet:** CMK m. 253, 253/A, 254 ve ilgili Uzlaştırma Yönetmeliği maddelerini detaylıca öğrenin. Özellikle süreler, yetkili merciler ve görevlendirme usulleri üzerinde durun.\n• **Süre Hesaplamaları:** Uzlaştırma sürecindeki temel ve ek sürelerin başlangıç ve bitiş tarihlerini, uzatma koşullarını ve maksimum süreleri pratik örneklerle pekiştirin.\n• **Uzlaştırmacı Görevlendirme ve Değişikliği:** Uzlaştırmacının kimler tarafından, hangi kriterlere göre görevlendirildiğini ve hangi durumlarda görevinden alınabileceğini veya değiştirilebileceğini iyi kavrayın.\n• **Cumhuriyet Savcısının Rolü:** Uzlaştırma sürecindeki Cumhuriyet savcısının başlatma, denetleme, onaylama ve sonuçlandırma yetkilerini ve bu yetkilerin kapsamını anlayın.\n• **Vaka Analizi Yeteneği:** Verilen olay senaryolarında, süre ihlali, yetki hatası veya uzlaştırmacı değişikliği gerektiren durumları hızlıca tespit edebilme becerisi geliştirin. Mevzuat hükümlerini olaya uygulayın.\n• **Güncel Değişiklikler:** Uzlaştırma mevzuatında yapılan son değişiklikleri ve bu değişikliklerin süre, yetki ve görevlendirme üzerindeki etkilerini takip edin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Ceza Muhakemesi Kanunu'na göre, uzlaştırma sürecinde görevlendirilen uzlaştırmacıya dosyanın tevdi edilmesinden itibaren uzlaştırma sürecini sonuçlandırması için tanınan temel süre ve Cumhuriyet savcısı tarafından verilebilecek ek süreler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Uzlaştırmacıya dosya tevdiinden itibaren 30 gün içinde sonuçlandırılır. Gerekli hallerde bu süre en fazla 20 gün daha uzatılabilir.",
+        "B": "Uzlaştırmacıya dosya tevdiinden itibaren 45 gün içinde sonuçlandırılır. Gerekli hallerde bu süre en fazla 15 gün daha uzatılabilir.",
+        "C": "Uzlaştırmacıya dosya tevdiinden itibaren 60 gün içinde sonuçlandırılır. Gerekli hallerde bu süre en fazla 30 gün daha uzatılabilir.",
+        "D": "Uzlaştırmacıya dosya tevdiinden itibaren 20 gün içinde sonuçlandırılır. Gerekli hallerde bu süre en fazla 10 gün daha uzatılabilir."
+      },
+      "correctAnswer": "A",
+      "explanation": "Ceza Muhakemesinde Uzlaştırma Yönetmeliği m. 20/1'e göre uzlaştırmacı, dosyanın kendisine tevdiinden itibaren 30 gün içinde uzlaştırma işlemlerini sonuçlandırmak zorundadır. Uzlaştırmacı, bu süre içinde uzlaştırma işlemlerini sonuçlandıramazsa durumu gerekçesiyle birlikte uzlaştırma bürosuna bildirmesi halinde büro bu süreyi her defasında 20 günü geçmemek üzere en fazla iki kez uzatabilir. Ancak sınav sorusu 'en fazla 20 gün daha uzatılabilir' ifadesiyle tek bir uzatma ihtimalini sadeleştirmiştir. Temel süre 30 gün ve uzatma süresi azami 20 gün (tek seferde) ifadesi en doğru şıkkı A yapar. (Toplamda iki kez 20 gün uzatılabilir, yani 40 gün daha.) Fakat şıklardaki ifadeye göre en uygun şık A'dır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi, uzlaştırma sürecinde görevlendirilen bir uzlaştırmacının değiştirilmesi için geçerli bir sebep *değildir*?",
+      "options": {
+        "A": "Uzlaştırmacının taraflardan biriyle kan veya kayın hısımlığının bulunması.",
+        "B": "Uzlaştırmacının, uzlaştırma süresi içerisinde makul bir gerekçe olmaksızın uzlaştırma işlemlerini tamamlayamaması.",
+        "C": "Taraflardan birinin, uzlaştırmacının ücretini yüksek bularak başka bir uzlaştırmacı talep etmesi.",
+        "D": "Uzlaştırmacının ağır bir hastalık nedeniyle görevini yerine getiremeyecek durumda olması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Uzlaştırmacının tarafsızlığını zedeleyen durumlar (A şıkkı), görevi ihmal etmesi (B şıkkı) veya mücbir sebeplerle görevi yapamaması (D şıkkı) uzlaştırmacının değiştirilmesi için geçerli nedenlerdir. Ancak tarafların uzlaştırmacının ücretini yüksek bularak değişiklik talep etmesi, uzlaştırmacının değiştirilmesi için yasal bir dayanak değildir; uzlaştırmacı ücretleri tarife ile belirlenmiştir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Uzlaştırma sürecinin başlatılması ve yürütülmesi konusunda asıl yetkili makam aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Asliye Ceza Mahkemesi",
+        "B": "Sulh Ceza Hâkimliği",
+        "C": "Cumhuriyet Savcısı",
+        "D": "Kolluk Birimleri"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ceza Muhakemesi Kanunu m. 253'e göre uzlaştırma kurumu soruşturma evresinde Cumhuriyet savcısı tarafından başlatılır ve uzlaştırma bürosu aracılığıyla yürütülür. Kovuşturma aşamasında ise mahkeme, dosyanın uzlaştırmaya tabi olduğunu fark ettiğinde, dosyayı uzlaştırma işlemleri için Cumhuriyet başsavcılığına gönderir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisinde, daha önce uzlaştırma denenmiş ve başarısızlıkla sonuçlanmış bir dosyanın tekrar uzlaştırmaya gönderilmesi söz konusu *olamaz*?",
+      "options": {
+        "A": "Uzlaştırma girişiminin yasalara uygun olarak yapılmadığının tespiti halinde.",
+        "B": "Tarafların veya birinin, uzlaşma teklifini reddettikten sonra uzlaşma iradesi gösteren yeni ve somut bir teklifle gelmesi halinde.",
+        "C": "Uzlaşma konusu suçun niteliği değiştiğinde ve yeni niteliği itibarıyla uzlaştırma kapsamında kalmaya devam ettiğinde.",
+        "D": "Mağdurun, uzlaşma teklifini ilk başta kabul etmesine rağmen, uzlaştırma görüşmeleri esnasında anlaşmaktan vazgeçmesi halinde."
+      },
+      "correctAnswer": "D",
+      "explanation": "Uzlaştırma Yönetmeliği'ne göre, daha önce uzlaştırma girişiminde bulunulup anlaşma sağlanamayan veya reddedilen bir dosyanın tekrar uzlaştırmaya gönderilmesi için ya usulde bir hata olması (A), ya taraflardan yeni ve somut bir irade beyanı (B) ya da suçun niteliğinin değişerek yeniden uzlaştırma kapsamına girmesi (C) gerekmektedir. Mağdurun görüşmeler esnasında vazgeçmesi, uzlaştırmanın başarısızlıkla sonuçlandığı anlamına gelir ve yeni bir somut uzlaşma iradesi olmadan dosya tekrar gönderilmez. Bu durum, uzlaştırmanın başarısızlıkla sonuçlandığı anlama gelir, tekrar gönderme nedeni değildir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir uzlaştırmacının görevlendirilmesi sonrasında, uzlaştırma bürosunun hangi gerekçeyle uzlaştırmacıyı görevden alma yetkisi bulunmaktadır?",
+      "options": {
+        "A": "Uzlaştırmacının taraflardan biriyle geçmişte ticari ilişki içerisinde olduğunun sonradan öğrenilmesi.",
+        "B": "Uzlaştırmacının, uzlaştırma görüşmeleri sırasında taraflara hukuki danışmanlık hizmeti sunması.",
+        "C": "Uzlaştırmacının, uzlaştırma raporunda, tarafların uzlaştığı hususları detaylı olarak belirtmemesi.",
+        "D": "Uzlaştırmacının, uzlaştırma teklifi formu örneğini kullanmak yerine kendi hazırladığı formu kullanması."
+      },
+      "correctAnswer": "A",
+      "explanation": "Uzlaştırmacının tarafsızlığı ve bağımsızlığı esastır. Taraflardan biriyle geçmişte ticari ilişki içerisinde olmak, uzlaştırmacının tarafsızlığını şüpheye düşürecek bir durumdur ve Uzlaştırma Yönetmeliği'nde yer alan ret nedenleri arasında sayılabilir (m. 16/1-b). Bu durumda uzlaştırma bürosu, uzlaştırmacıyı görevden alarak yeni bir görevlendirme yapabilir. B şıkkı, uzlaştırmacının görevi dışına çıkması anlamına gelir ve görevden alma nedenidir. C şıkkı bir eksikliktir ancak doğrudan görevden alma değil, raporun düzeltilmesini gerektirir. D şıkkı ise şekli bir eksiklik olup, görevden alma nedeni değildir."
+    }
+  ]
+}

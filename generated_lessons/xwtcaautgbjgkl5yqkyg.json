@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nda 'Temyiz' kavramını etraflıca inceleyeceğimiz bu derse hoş geldiniz. Temyiz, yargı sistemimizin üst denetim mekanizmalarından biri olup, hukukun doğru uygulanmasını ve yargı kararlarında birliği sağlamayı amaçlayan hayati bir kanun yoludur. Temyiz, esasen Bölge Adliye Mahkemeleri veya Bölge İdare Mahkemeleri tarafından verilen kararların, hukuka uygunluk yönünden denetlenmesi işlemidir. Bu denetim, davanın maddi vakıaları yerine, uygulanan hukuk kurallarının doğruluğu üzerine odaklanır. Yani temyiz, bir ‘olay yargılaması’ değil, bir ‘hukuk yargılaması’dır. Türk yargı sisteminde iki dereceli yargılamadan (ilk derece mahkemeleri) sonra Bölge Adliye ve İdare Mahkemeleri ile 'istinaf' kanun yolu getirilmiştir. İstinaf, ilk derece mahkemesi kararının hem maddi vakıalar hem de hukuki yönden denetlendiği bir üst yargı yolu iken, temyiz istinaf mahkemelerinin kararlarının sadece hukuki denetimidir. Anayasamızın 36. maddesinde güvence altına alınan hak arama özgürlüğü ve adil yargılanma hakkı, temyiz müessesesinin de temel dayanağını oluşturur. Temyiz, nihai olarak Yargıtay veya Danıştay nezdinde gerçekleştirilir ve böylece yargı kararlarının istikrarı, hukuka uygunluğu ve içtihat birliğinin sağlanması hedeflenir. Temyiz, tarafların yargı sürecinde karşılaştıkları hataların düzeltilmesi için son şanslardan birini sunarak adaletin tecellisine önemli katkı sağlar. Bu adımda, temyizin tanımı, amacı, istinaftan farkı ve anayasal temelleri gibi temel kavramları anlamak, ilerleyen adımlar için sağlam bir zemin oluşturacaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Temyiz Sebepleri",
+      "content": "Temyiz müessesesi, Türk hukukunda birden fazla kanunda kendine yer bulmuştur. Başta 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) için Yargıtay, 5271 sayılı Ceza Muhakemesi Kanunu (CMK) için Yargıtay ve 2577 sayılı İdari Yargılama Usulü Kanunu (İYUK) için Danıştay olmak üzere, bu kanunlar temyiz kanun yolunun işleyişini detaylı bir şekilde düzenler. Temyiz yolu, genel kural olarak Bölge Adliye Mahkemeleri veya Bölge İdare Mahkemeleri tarafından verilen kararlara karşı açıktır; ancak her kararın temyiz edilebilmesi söz konusu değildir. Kanunlar, belirli parasal sınırlar veya dava türleri açısından temyiz yolunu kapatabilir ya da istisnai olarak ilk derece mahkemelerinin kararlarına karşı doğrudan temyiz imkanı tanıyabilir. Örneğin, HMK m.362 ve İYUK m.45'te temyiz edilemeyen kararlar açıkça belirtilmiştir. Temyize başvurunun en kritik unsurlarından biri 'temyiz sebepleri'dir. Yargıtay veya Danıştay, temyiz başvurusunu bu sebepler çerçevesinde inceler. HMK'da (m.371) ve CMK'da (m.289) temyiz sebepleri hukuka aykırılık halleri olarak genel bir ifadeyle düzenlenmiştir. Buna göre, mahkemenin hukuku yanlış uygulaması, usul hükümlerine aykırı davranması (örneğin, yargılamada savunma hakkının kısıtlanması, yetki veya görev kurallarına uyulmaması) veya kanun hükümlerini göz ardı etmesi gibi durumlar temyiz sebebi teşkil edebilir. İYUK (m.49) ise bu sebepleri daha belirgin hale getirmiştir: görev ve yetki aşımı, hukuka aykırı karar verilmesi, usul hükümlerinin ihlali gibi. Temyiz incelemesinin sınırlı denetim ilkesi gereği, temyiz mercii sadece dilekçede belirtilen temyiz sebepleriyle bağlıdır; ancak kamu düzenine ilişkin bariz hukuka aykırılıklar resen (kendiliğinden) incelenebilir. Temyiz süresi ve şekil şartları da kanunlarda açıkça belirtilmiştir ve bu kurallara uyulmaması temyiz başvurusunun reddine yol açabilir. Örneğin, HMK'da temyiz süresi genellikle kararın tebliğinden itibaren iki hafta olarak belirlenmiştir. Bu yasal çerçevenin doğru anlaşılması, temyiz sürecinin etkin ve verimli bir şekilde yürütülmesi için zorunludur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Temyiz Usulü ve Karar Türleri",
+      "content": "Temyiz süreci, istinaf mahkemesi kararının taraflardan birine tebliği ile başlar ve genellikle ilgili kanunda belirtilen süre içinde temyiz dilekçesinin kararı veren Bölge Adliye veya İdare Mahkemesi'ne sunulmasıyla resmiyet kazanır. Temyiz dilekçesi, temyiz başvurusunda bulunan tarafın kimlik bilgilerini, aleyhine temyiz yoluna başvurulan kararı, temyiz sebeplerini ve talepleri içermelidir. Dilekçenin içeriği ve ekleri, kanunlarda (örneğin HMK m.364, CMK m.294, İYUK m.48) detaylı olarak düzenlenmiştir. Dilekçenin ilgili mahkemeye sunulmasının ardından, diğer tarafa cevap dilekçesi sunma imkanı tanınır. Bu aşamadan sonra dosya, bir ön inceleme yapılmak üzere istinaf mahkemesince Yargıtay veya Danıştay'a gönderilir. Yargıtay veya Danıştay, temyiz incelemesini ilgili daireler aracılığıyla yapar. İnceleme sonucunda verilebilecek temel karar türleri şunlardır: İlki 'Onama' kararıdır; Bölge Adliye/İdare Mahkemesi kararının hukuka uygun bulunması halinde verilir. İkincisi 'Bozma' kararıdır; temyiz edilen kararın hukuka aykırı bulunması durumunda verilir ve bozma ya usulden ya da esastan olabilir. Usulden bozma, yargılama sürecindeki bir hatadan kaynaklanırken (örneğin, adil yargılanma hakkının ihlali), esastan bozma, maddi hukukun yanlış uygulanmasından kaynaklanır. Bozma kararı, kararı veren ilk derece veya istinaf mahkemesine gönderilir. HMK'da Yargıtay'ın bozma kararına karşı, Bölge Adliye Mahkemesi'nin 'direnme' hakkı bulunmamaktadır; doğrudan karara uymak zorundadır. Ancak eski sistemde olduğu gibi ilk derece mahkemeleri, Yargıtay'ın ilk bozma kararına direnebilirdi. Bu durum HMK ile kaldırılmış, ancak eski Kanun Yargıtay'ın bozma kararına yerel mahkemenin direnme hakkı varken, Bölge Adliye Mahkemeleri için bu hak tanınmamıştır. CMK ve İYUK'ta ise direnme kurumu yoktur. 'Düzeltilerek Onama' kararı ise, kararda yer alan bazı yanlışlıkların giderilerek kararın onanmasıdır. Bu kararlar, yargısal birliğin ve hukukun üstünlüğünün sağlanmasında merkezi bir role sahiptir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Pratik Uygulamalar ve Önemli İstisnalar",
+      "content": "Temyiz yolunun pratik uygulamaları, ilgili kanunlardaki detaylar ve içtihatlarla şekillenir. Örneğin, bir ceza davasında, Bölge Adliye Mahkemesi'nin verdiği beraat kararının maddi gerçeğe aykırı olduğu iddiasıyla Cumhuriyet Savcısı veya katılan vekili tarafından temyiz yoluna başvurulabilir. Yargıtay ilgili Ceza Dairesi, dosyadaki delil değerlendirmesinden ziyade, mahkemenin hukuki gerekçelendirmesini, delillerin hukuka uygun toplanıp toplanmadığını veya hükmün açıklanmasında CMK'nın öngördüğü şekil şartlarına uyulup uyulmadığını inceler. Eğer hukuka aykırılık tespit edilirse, karar bozulur ve dosya tekrar Bölge Adliye Mahkemesi'ne gönderilir. Hukuk davalarında ise, örneğin bir alacak davasında, Bölge Adliye Mahkemesi'nin sözleşme hukukuna ilişkin bir maddeyi yanlış yorumlayarak hatalı bir karar verdiğini düşünen taraf, temyize başvurabilir. Yargıtay Hukuk Dairesi, sözleşmenin yorumu, uygulanması veya ispat yükü gibi hukuki konularda yapılan hatayı denetler. İdari yargıda ise, Danıştay, idari işlemin yetki, şekil, sebep, konu ve amaç unsurlarından herhangi birinde hukuka aykırılık bulunup bulunmadığını inceler. Temyiz yoluna başvurulamayan kararlar da uygulamada büyük önem taşır. HMK m.362, belli bir parasal sınırın altındaki alacak davaları gibi bazı davalarda verilen Bölge Adliye Mahkemesi kararlarının kesin olduğunu, yani temyiz edilemeyeceğini belirtir. Benzer şekilde, İYUK m.45'te de değeri belirli bir miktarın altında olan davalarda verilen Bölge İdare Mahkemesi kararları kesinleşir. Bu parasal sınırlar her yıl güncellenir ve avukatların güncel mevzuatı takip etmesi hayati öneme sahiptir. Temyize başvurunun icranın durdurulması üzerindeki etkisi de farklılık gösterir. Genel kural, temyiz başvurusunun hükmün icrasını kendiliğinden durdurmamasıdır; ancak ihtiyati tedbir kararları, nafaka alacakları veya kamu hukuku davalarında kararın niteliğine göre farklı uygulamalar söz konusu olabilir. Özellikle Yargıtay veya Danıştay'dan 'yürütmenin durdurulması' kararı alınması, icrayı etkileyebilir. Bu istisnaları ve pratik detayları bilmek, hukuk uygulayıcıları için vazgeçilmezdir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu ders boyunca, Türk Hukuku'nda temyiz kanun yolunu enine boyuna inceledik. Temyizin, Bölge Adliye ve Bölge İdare Mahkemeleri tarafından verilen kararların hukuka uygunluk denetimini sağlayan, Yargıtay ve Danıştay nezdinde yürütülen üst bir kanun yolu olduğunu öğrendik. Temyiz, istinaftan farklı olarak, olayın maddi yönünü değil, sadece hukukun doğru uygulanıp uygulanmadığını denetler. Anayasamızın 36. maddesindeki adil yargılanma hakkı ve hak arama özgürlüğü, temyizin temelini oluşturur. Hukuk Muhakemeleri Kanunu, Ceza Muhakemesi Kanunu ve İdari Yargılama Usulü Kanunu, temyiz sürecinin yasal çerçevesini çizer. Temyiz sebepleri, genellikle mahkeme kararındaki hukuka aykırılıklar, usul hataları veya kanun hükümlerinin yanlış yorumlanması ya da uygulanmaması üzerine odaklanır. Temyiz usulü, dilekçe sunulması, cevap dilekçesi, dosyanın ilgili yüksek mahkemeye gönderilmesi ve ardından dairelerin incelemesiyle devam eder. İnceleme sonucunda 'onama', 'bozma' veya 'düzeltilerek onama' gibi kararlar verilebilir. Özellikle bozma kararlarının, usulden veya esastan olabileceğini ve dosyanın kararı veren mahkemeye geri döneceğini vurguladık. Ayrıca, belli parasal sınırların altındaki veya özel kanunlarla temyiz yolu kapatılmış olan kararların temyiz edilemediğini ve temyizin kural olarak icrayı durdurmadığını da önemli istisnalar olarak ele aldık. Temyiz, yargı birliğini sağlamak, içtihatları oluşturmak ve bireylerin adil yargılanma hakkını güvence altına almak adına vazgeçilmez bir mekanizmadır. Hukukun üstünlüğünü ve adaletin tecellisini sağlamadaki rolü tartışmasızdır. Bu bilgileri pekiştirmek amacıyla şimdi pratik sorularla bilgimizi sınayalım ve bu önemli konuyu tam anlamıyla kavramış olalım."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk hukukunda temyiz kanun yolunun temel özelliklerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Temyiz, Bölge Adliye/İdare Mahkemeleri kararlarının hukuka uygunluk denetimini sağlar.",
+        "B": "Temyiz incelemesi, olayın maddi vakıalarına ilişkin delil değerlendirmesi de yapar.",
+        "C": "Temyiz, Yargıtay veya Danıştay nezdinde gerçekleştirilen bir kanun yoludur.",
+        "D": "Temyiz, yargı kararlarında içtihat birliğini sağlamayı amaçlar."
+      },
+      "correctAnswer": "B",
+      "explanation": "Temyiz, bir 'olay yargılaması' değil, bir 'hukuk yargılaması'dır. Yani olayın maddi vakıalarına ilişkin delil değerlendirmesi istinaf kanun yolunun bir özelliğidir. Temyiz mercileri, kural olarak, delillerin yeniden incelenmesi ve değerlendirilmesi yerine, Bölge Adliye/İdare Mahkemeleri'nin kararlarının hukuki yönden doğru olup olmadığını denetler. Diğer şıklar temyizin temel özellikleridir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "6100 sayılı Hukuk Muhakemeleri Kanunu'na (HMK) göre, aşağıdaki durumlardan hangisi Yargıtay'ın bozma kararına karşı Bölge Adliye Mahkemesi'nin 'direnme hakkı'na sahiptir?",
+      "options": {
+        "A": "Bölge Adliye Mahkemesi, Yargıtay'ın bozma kararının hukuka aykırı olduğuna kanaat getirirse.",
+        "B": "Bölge Adliye Mahkemesi, Yargıtay'ın bozma kararının usulden bozulması gerektiğini düşünürse.",
+        "C": "HMK'ya göre Bölge Adliye Mahkemeleri'nin Yargıtay bozma kararına karşı direnme hakkı bulunmamaktadır.",
+        "D": "Daha önce Yargıtay'ca hiç incelenmemiş yeni bir hukuki sorun ortaya çıkmışsa."
+      },
+      "correctAnswer": "C",
+      "explanation": "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ile birlikte, ilk derece mahkemelerinin Yargıtay'ın bozma kararlarına karşı direnme hakkı kaldırılmıştır. Bölge Adliye Mahkemeleri'nin de Yargıtay'ın bozma kararlarına karşı direnme hakkı bulunmamaktadır. Yargıtay'ın bozma kararı, Bölge Adliye Mahkemeleri için bağlayıcıdır ve uyulması zorunludur. Dolayısıyla şıklarda bahsedilen durumlar eski hukuktaki uygulamaları veya yanlış bilgiyi yansıtmaktadır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "2577 sayılı İdari Yargılama Usulü Kanunu'na (İYUK) göre temyiz sebeplerinden biri olmayan durum aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Görev ve yetki dışında karar verilmiş olması.",
+        "B": "Hukuka aykırı karar verilmiş olması.",
+        "C": "Usul hükümlerine aykırı davranılmış olması.",
+        "D": "Delillerin eksik toplanmış veya yanlış değerlendirilmiş olması."
+      },
+      "correctAnswer": "D",
+      "explanation": "İYUK m.49'da temyiz sebepleri açıkça belirtilmiştir: görev ve yetki aşımı, hukuka aykırı karar verilmesi ve usul hükümlerinin ihlali. Temyiz, kural olarak bir hukuk denetimi olduğundan, delillerin eksik toplanmış veya yanlış değerlendirilmiş olması iddiası (maddi vakıa denetimi), istinaf kanun yolunun konusudur. Danıştay, temyizde bu tür bir değerlendirme yapmaz, sadece hukuka uygunluk yönünden inceleme yapar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki yargı yollarından hangisi temyiz incelemesi sonucunda 'yürütmenin durdurulması' kararı verebilir?",
+      "options": {
+        "A": "Yargıtay Cumhuriyet Başsavcılığı",
+        "B": "Yargıtay Ceza Daireleri",
+        "C": "Danıştay İdari Dava Daireleri",
+        "D": "Bölge Adliye Mahkemeleri"
+      },
+      "correctAnswer": "C",
+      "explanation": "Yürütmenin durdurulması kararı, özellikle idari yargılama usulünde İYUK m.27'de düzenlenmiş bir hukuki koruma tedbiridir. Danıştay, temyiz incelemesi sırasında şartları oluştuğunda bu kararı verebilir. Yargıtay, hukuk veya ceza davalarında 'yürütmenin durdurulması' şeklinde değil, 'icranın geri bırakılması' (tecil) veya 'icranın durdurulması' gibi farklı müesseseler aracılığıyla hükmün icrasına ilişkin kararlar verebilir, ancak bu 'yürütmenin durdurulması' kavramı idari yargıya özgüdür. Bölge Adliye Mahkemeleri ise ilk derece mahkemesi kararlarına karşı istinaf incelemesinde bu tür kararlar verebilir ancak temyiz mercii değildir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Temyiz kanun yoluna başvurulduğunda, kural olarak hükmün icrasına etkisi ile ilgili doğru ifade aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Temyiz başvurusu, hükmün icrasını kendiliğinden durdurur.",
+        "B": "Temyiz başvurusu, sadece ceza davalarında hükmün icrasını durdurur.",
+        "C": "Temyiz başvurusu, kural olarak hükmün icrasını durdurmaz; ancak kanunda belirtilen istisnai haller veya mahkeme kararıyla durdurulabilir.",
+        "D": "Temyiz başvurusu, kesinleşmiş hükümlerin icrasını durdurur."
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk hukukunda genel ilke, temyiz kanun yoluna başvurunun hükmün icrasını kendiliğinden durdurmamasıdır. Ancak kanunlarda belirtilen bazı özel durumlar (örneğin, belirli türden ceza mahkumiyetleri, ihtiyati tedbirler, nafaka alacakları) veya Yargıtay/Danıştay'dan alınan 'icranın geri bırakılması' veya 'yürütmenin durdurulması' gibi özel kararlar ile icra durdurulabilir. Seçenek A, genel kuralı yanlış ifade etmektedir. B ve D şıkları ise konuyu daraltmakta veya yanlış bilgi içermektedir."
+    }
+  ]
+}

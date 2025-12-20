@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Arabuluculuk:** Taraflar arasındaki uyuşmazlığın, bağımsız ve tarafsız bir üçüncü kişi olan arabulucu gözetiminde, müzakere yoluyla çözümlenmesini amaçlayan, gizli ve gönüllü bir uyuşmazlık çözüm yöntemidir.\n•   **Arabuluculuk Anlaşması (Son Tutanağı):** Arabuluculuk süreci sonunda tarafların uyuşmazlık konusu üzerinde anlaştıklarını gösteren, arabulucu ve taraflarca imzalanan yazılı belgedir. Anlaşmaya varılamaması halinde de bir son tutanak düzenlenir.\n•   **Bağlayıcılık İlkesi:** Hukukumuzda sözleşmelerin taraflar için bağlayıcı olması esastır. Arabuluculuk anlaşması da bir sözleşme niteliği taşıdığından, imzalandığı andan itibaren tarafları hukuken bağlar.\n•   **İcra Edilebilirlik Şerhi:** Arabuluculuk anlaşmasının mahkemece onaylanarak bir ilam (mahkeme kararı) niteliği kazanması ve böylece cebri icra yoluyla yerine getirilmesinin mümkün hale gelmesidir.\n•   **Dava Şartı Arabuluculuk:** Bazı uyuşmazlık türlerinde (örn: İş Mahkemeleri Kanunu kapsamındaki alacak ve tazminat talepleri), dava açılmadan önce arabuluculuğa başvurmanın yasal bir zorunluluk (dava şartı) olmasıdır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (HUAK):** Arabuluculuğun temel esaslarını, arabulucunun niteliklerini, arabuluculuk sürecinin işleyişini ve arabuluculuk anlaşmasının hukuki niteliğini düzenleyen ana kanundur. Özellikle 18. maddesi, anlaşma belgesinin niteliği ve icra edilebilirlik şerhini ele alır.\n•   **7036 sayılı İş Mahkemeleri Kanunu:** İşçi-işveren uyuşmazlıklarında dava şartı arabuluculuğu getirmiştir (md. 3). Bu kanun, iş davalarında arabuluculuk anlaşmasının önemini ve hukuki sonuçlarını belirleyen özel hükümleri içerir.\n•   **6098 sayılı Türk Borçlar Kanunu (TBK):** Arabuluculuk anlaşması bir sözleşme niteliğinde olduğundan, TBK'nın sözleşmelerin kurulması, geçerliliği, hükümleri ve sona ermesiyle ilgili genel hükümleri (örn: sözleşme serbestisi, irade sakatlıkları) arabuluculuk anlaşmaları için de uygulanır.\n•   **2004 sayılı İcra ve İflas Kanunu (İİK):** Arabuluculuk anlaşmasına icra edilebilirlik şerhi verilmesi durumunda, bu anlaşmanın ilam niteliği kazanması ve icra takibine konu edilebilmesi İİK hükümleri çerçevesinde gerçekleştirilir.\n•   **İlgili Yönetmelik ve Tebliğler:** Hukuk Uyuşmazlıklarında Arabuluculuk Yönetmeliği ve dava şartı arabuluculuğa ilişkin tebliğler, kanunların uygulanmasına yönelik detaylı usul ve esasları belirler."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **İşçi Alacakları Üzerine Anlaşma:** İşten çıkarılan bir işçinin kıdem tazminatı, ihbar tazminatı, fazla mesai ücreti gibi alacakları konusunda işverenle arabuluculuk süreci sonunda anlaşıp, anlaşılan miktarın belirli bir tarihte ödeneceğine dair bir anlaşma metni imzalaması. Bu anlaşma, taraflar için bağlayıcıdır ve işveren ödeme yapmadığında icra takibine konu edilebilir.\n•   **İşe İade Talepli Arabuluculuk:** İş sözleşmesi feshedilen bir işçinin işe iade talebiyle arabulucuya başvurması ve işverenle anlaşarak işçinin belirli şartlarda işe geri alınması veya işe başlatılmaması karşılığı bir tazminat ödenmesine dair anlaşma yapılması. Bu anlaşmaya uyulmaması durumunda ilgili taraf hukuki yollara başvurabilir.\n•   **İcra Edilebilirlik Şerhinin Etkisi:** Yukarıdaki işçi alacakları örneğinde, eğer anlaşma metnine mahkemeden icra edilebilirlik şerhi alınmışsa, işveren taahhüt ettiği ödemeyi yapmadığında, işçi doğrudan ilamlı icra takibi başlatabilir; ayrı bir dava açmasına gerek kalmaz.\n•   **Anlaşmanın Kısmi Uygulanması:** Tarafların arabuluculukta anlaştığı ancak anlaşmanın bir kısmına uyulmadığı durumlarda (örn: işveren tazminatın bir kısmını ödemiş, kalanını ödememiş). Bu durumda anlaşmanın icra edilebilirlik şerhi olan kısmı veya tamamı için icra takibi başlatılabilir.\n•   **Dava Şartı Arabuluculukta Anlaşmama:** İşçi ve işveren, işe iade veya alacak talebi konusunda arabuluculuk sürecinde anlaşamazlarsa, bu durum son tutanakla kayıt altına alınır ve işçi, ancak bu tutanaktan sonra iş mahkemesinde dava açma hakkını kullanabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İrade Sakatlıkları:** Arabuluculuk anlaşması, tarafların serbest iradeleriyle imzalanmalıdır. Hata, hile, ikrah (korkutma) gibi irade sakatlıkları nedeniyle yapılan bir anlaşma, sonradan iptal edilebilir veya geçersiz kılınabilir.\n•   **Kamu Düzeni ve Emredici Hükümler:** Arabuluculuk anlaşması, kanunun emredici hükümlerine, kamu düzenine ve genel ahlaka aykırı olmamalıdır. Örneğin, işçinin vazgeçemeyeceği yasal haklarından (örn: kıdem tazminatından tamamen feragat) vazgeçmesini içeren bir anlaşma geçersiz olabilir.\n•   **İcra Edilebilirlik Şerhi Alma Zorunluluğu Yok:** Arabuluculuk anlaşmasının bağlayıcı olması için mutlaka icra edilebilirlik şerhi alınması şart değildir. Şerh, sadece anlaşmanın bir ilam gibi icra edilmesini sağlar. Şerh alınmasa bile, taraflar anlaştıkları hususlara uymak zorundadır ve uymayan taraf aleyhine genel hükümlere göre dava açılabilir.\n•   **Kapsam ve Sınırları:** Anlaşma metninde, uyuşmazlığın hangi konuları kapsadığı ve hangi haklardan feragat edildiği açıkça belirtilmelidir. Belirsizlikler, gelecekte yeni hukuki uyuşmazlıklara yol açabilir.\n•   **Vazgeçme ve Feragat Beyanları:** Özellikle iş hukuku uyuşmazlıklarında, işçinin hangi alacaklarından feragat ettiği veya hangi konularda vazgeçtiği, anlaşmada somut ve açık bir şekilde yer almalıdır. Genel ve soyut feragat beyanları geçerli olmayabilir.\n•   **Süreler:** Dava şartı arabuluculukta anlaşmama halinde, dava açma süreleri, arabuluculuk son tutanağının düzenlendiği tarihten itibaren işlemeye başlar. Bu sürelerin takibi büyük önem taşır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **HUAK Md. 18'in Önemi:** Arabuluculuk anlaşmasının hukuki niteliği ve icra edilebilirlik şerhine ilişkin hükmü detaylıca inceleyin. Mahkemeden icra edilebilirlik şerhi alma usulünü ve sonuçlarını iyi kavrayın.\n•   **İş Mahkemeleri Kanunu Md. 3:** Dava şartı arabuluculuğun hangi iş uyuşmazlıkları için geçerli olduğunu, arabuluculuğa başvuru usulünü, süresini ve anlaşma/anlaşmama hallerindeki hukuki sonuçları ezberleyin.\n•   **Sözleşme Hukuku Temelleri:** TBK'daki irade sakatlıkları (hata, hile, ikrah) ve sözleşmelerin geçersizlik hallerini arabuluculuk anlaşmaları bağlamında düşünerek çalışın.\n•   **Bağlayıcılık vs. İcra Edilebilirlik:** Arabuluculuk anlaşmasının imzalanmasıyla ortaya çıkan 'bağlayıcılık' ile icra edilebilirlik şerhi ile elde edilen 'icra edilebilirlik' arasındaki farkı ve hukuki sonuçlarını karşılaştırarak öğrenin.\n•   **Uygulama Örnekleri:** Özellikle iş hukuku alanındaki güncel Yargıtay kararlarının arabuluculuk anlaşmalarına bakış açısını, irade sakatlığı ve kamu düzeni ihlali durumlarını somutlaştırarak anlamaya çalışın.\n•   **Sınav Sorusu Yaklaşımı:** Bir vaka sorusu geldiğinde, önce uyuşmazlığın türünü (dava şartı mı, ihtiyari mi), ardından anlaşmanın geçerlilik şartlarını, bağlayıcılık durumunu ve icra edilebilirlik şerhinin alınıp alınmadığını değerlendirerek doğru sonuca ulaşmaya çalışın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Arabuluculuk anlaşmasının tarafları hukuken bağlaması için aşağıdakilerden hangisi zorunlu DEĞİLDİR?",
+      "options": {
+        "A": "Anlaşmanın yazılı şekilde yapılması",
+        "B": "Tarafların serbest iradeleriyle anlaşmayı imzalaması",
+        "C": "Arabulucunun anlaşmayı imzalaması",
+        "D": "Mahkemeden icra edilebilirlik şerhi alınması"
+      },
+      "correctAnswer": "D",
+      "explanation": "Arabuluculuk anlaşması, taraflar ve arabulucu tarafından imzalandığı anda tarafları hukuken bağlar. İcra edilebilirlik şerhi, anlaşmanın ilam niteliği kazanarak doğrudan icra takibine konu edilebilmesini sağlar, ancak bağlayıcılık için bir zorunluluk değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İş Mahkemeleri Kanunu'na göre, işçi alacaklarına ilişkin bir davada, arabuluculuğa başvurulmadan doğrudan dava açılması durumunda mahkeme ne karar verir?",
+      "options": {
+        "A": "Davanın esastan reddine",
+        "B": "Davaya devam edilmesine",
+        "C": "Dava şartı yokluğundan davanın usulden reddine",
+        "D": "Taraflara arabuluculuğa başvurmaları için süre verir"
+      },
+      "correctAnswer": "C",
+      "explanation": "7036 sayılı İş Mahkemeleri Kanunu uyarınca, işçi alacakları ve tazminatları ile işe iade taleplerinde arabuluculuğa başvurmak bir dava şartıdır. Dava şartı yokluğundan davanın usulden reddi gerekir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Arabuluculuk anlaşmasına icra edilebilirlik şerhi alınmasının temel amacı nedir?",
+      "options": {
+        "A": "Anlaşmayı kamuoyuna duyurmak",
+        "B": "Anlaşmanın hukuki bağlayıcılığını sağlamak",
+        "C": "Anlaşmanın bir mahkeme ilamı gibi cebri icraya konulabilmesini sağlamak",
+        "D": "Tarafların anlaşmadan caymasını engellemek"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra edilebilirlik şerhi, arabuluculuk anlaşmasının bir ilam (mahkeme kararı) niteliği kazanarak doğrudan icra dairesi aracılığıyla cebri icra takibine konu edilebilmesini sağlar. Anlaşmanın bağlayıcılığı zaten imzalanmasıyla oluşur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumların hangisinde arabuluculuk anlaşması geçersiz kabul edilebilir?",
+      "options": {
+        "A": "Taraflardan birinin anlaşmayı noterde onaylatmaması",
+        "B": "Anlaşmanın kamu düzenine aykırı hükümler içermesi",
+        "C": "Arabulucunun avukat olmaması",
+        "D": "Anlaşmada ödenecek paranın miktarının belirtilmemesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arabuluculuk anlaşması da tıpkı diğer sözleşmeler gibi, kamu düzenine, emredici hukuk kurallarına ve genel ahlaka aykırı hükümler içeremez. Böyle bir durumda anlaşma geçersiz kabul edilebilir. Diğer seçenekler geçersizlik sebebi değildir (D şıkkı belirsizlik yaratabilir ama doğrudan geçersiz kılmaz)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Arabuluculuk anlaşması sonucunda tarafların anlaşamaması halinde düzenlenecek son tutanağın hukuki sonucu nedir?",
+      "options": {
+        "A": "Tarafların bir daha dava açma hakkının sona ermesi",
+        "B": "Tarafların mahkemeye başvurma haklarının doğması",
+        "C": "Arabulucunun, anlaşmazlığı mahkemeye bildirmesi",
+        "D": "Tarafların uzlaşma yoluna gitmelerinin zorunlu hale gelmesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arabuluculuk sürecinde anlaşma sağlanamaması durumunda düzenlenen son tutanak, özellikle dava şartı arabuluculuklarda, ilgili tarafın (genellikle davacı) dava açma hakkının önündeki arabuluculuk şartının yerine getirildiğini gösterir ve bu tarihten itibaren dava açma süresi işlemeye başlar."
+    }
+  ]
+}

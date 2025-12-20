@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "Taşınır Rehni, bir borcun güvence altına alınması amacıyla, borçlunun veya üçüncü bir kişinin sahip olduğu taşınır bir mal üzerinde alacaklı lehine kurulan sınırlı bir ayni haktır. Taşınır rehni, alacaklının borç ödenmediği takdirde rehinli malı paraya çevirerek alacağını bu malın satış bedelinden öncelikli olarak tahsil etme yetkisini sağlar.\n\n•   **Tanım ve Amaç:** Taşınır Rehni, alacaklının alacağını güvence altına almak için borçluya veya üçüncü bir kişiye ait taşınır bir mal üzerinde kurulan sınırlı ayni haktır. Amacı, borcun ifa edilmemesi halinde alacaklının rehinli malın bedelinden öncelikle tatmin edilmesini sağlamaktır.\n•   **Taraflar:** Taşınır rehninde 'rehin veren' (borçlu veya üçüncü kişi) ve 'rehin alan' (alacaklı) olmak üzere iki taraf bulunur.\n•   **Rehne Konu Olabilen Mallar:** Taşınır rehni, menkul mallar (eşya, hayvan, haklar ve taşınmaz eklentileri gibi) üzerinde kurulabilir. Taşınmaz hükmünde olan gemiler ve uçaklar özel hükümlere tabidir.\n•   **Rehnin Türleri:** Türk Hukuku'nda taşınır rehni temel olarak ikiye ayrılır: **Teslime Bağlı Taşınır Rehni (Zilyetliğin Devri ile Kurulan Rehin)** ve **Tescile Bağlı Taşınır Rehni (Zilyetlik Devri Olmadan Kurulan Rehin)**. Tescile bağlı rehin, özellikle ticari işletmelerin faaliyetlerini aksatmadan finansmana erişebilmesi için büyük önem taşır (Ticari İşletmelerde Taşınır Rehni Kanunu – TİTARİK).\n•   **Rehnin Özellikleri:** Taşınır rehni, 'fer'i hak' niteliğindedir (yani asıl alacağa bağlıdır), 'kamuya açıklık (aleniyet) ilkesi'ne tabidir (ya zilyetliğin devri ya da tescil yoluyla), 'belirlilik ilkesi'ne tabidir (rehne konu mal ve teminat altına alınan alacak belirli olmalıdır) ve 'sınırlı ayni hak'tır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Taşınır rehnine ilişkin temel düzenlemeler Türk Medeni Kanunu (TMK), Ticari İşletmelerde Taşınır Rehni Kanunu (TİTARİK) ve rehnin paraya çevrilmesi sürecine ilişkin olarak İcra ve İflas Kanunu (İİK)’nda yer almaktadır.\n\n•   **Türk Medeni Kanunu (TMK):** TMK m. 939 ve devamı maddelerinde teslime bağlı rehin (adi rehin) düzenlenmiştir. Bu rehin türünde, rehinli malın zilyetliği borçludan alacaklıya geçer. Ayrıca, TMK m. 949 ve devamında alacak ve diğer haklar üzerindeki rehinler ile kıymetli evrak rehni düzenlenmiştir.\n•   **Ticari İşletmelerde Taşınır Rehni Kanunu (TİTARİK) – 6750 Sayılı Kanun:** Özellikle ticari hayatın gereksinimlerini karşılamak üzere çıkarılmış bu Kanun, 2016 yılında yürürlüğe girmiştir. TİTARİK, tacirlerin zilyetliği devretmeksizin işletme faaliyetlerinde kullandıkları taşınırlar üzerinde rehin kurmalarına imkân tanır (örneğin, makine, araç, hammadde, ticari işletme adı ve unvanı, ticari plaka gibi). TİTARİK kapsamında kurulan rehinler, “Rehinli Taşınır Sicili”ne tescil ile hüküm ifade eder.\n•   **İcra ve İflas Kanunu (İİK):** Taşınır rehninin paraya çevrilmesi süreci İİK m. 23 ve devamında düzenlenmiştir. Alacaklı, borcun vadesinde ödenmemesi durumunda rehnin paraya çevrilmesi yoluyla takibe başvurmak zorundadır. Bu takip, ilamlı veya ilamsız olabilir ve rehinli malın satışı ile alacağın tahsilini amaçlar.\n•   **Türk Ticaret Kanunu (TTK):** Bazı durumlarda özellikle deniz ticareti ve sigorta hukuku kapsamında gemi ve uçak rehinleri gibi özel taşınır rehinleri TTK ve ilgili özel kanunlarda düzenlenmektedir. TİTARİK ise TTK'ya tabi ticari işletmelerin taşınır rehni ihtiyaçlarına cevap veren bir kanun niteliğindedir.\n•   **Diğer Kanunlar:** Bankacılık Kanunu, Sermaye Piyasası Kanunu gibi özel kanunlarda da belirli taşınırların rehnedilmesi veya rehinli alacakların teminat olarak kullanılmasına ilişkin özel hükümler bulunabilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "Taşınır rehni, günlük hayatta ve ticari ilişkilerde çeşitli şekillerde karşımıza çıkar. İşte bazı pratik örnekler:\n\n•   **Teslime Bağlı Taşınır Rehni (Adi Rehin):** Bir kişi, bankadan kredi çekmek için altın bileziğini bankaya teminat olarak bırakır. Bileziğin zilyetliği (fiili hakimiyeti) bankaya geçer. Borç ödenmezse, banka bileziği satarak alacağını tahsil edebilir. Bu, TMK kapsamında kurulan klasik bir teslime bağlı rehindir.\n•   **TİTARİK Kapsamında Ticari İşletme Rehni:** Bir KOBİ, yeni bir makine almak için bankadan kredi kullanır. Banka, krediye karşılık şirketin mevcut makine parkuru, üretim hattındaki cihazlar ve ticari plakalı araçları üzerinde rehin kurar. Bu rehin, şirketin faaliyetlerini aksatmaması için zilyetlik devri olmadan, Rehinli Taşınır Sicili'ne tescil edilerek kurulur ve TİTARİK hükümlerine tabidir.\n•   **Alacak Üzerinde Rehin:** Bir inşaat firmasının, müteahhitlik hizmetleri karşılığında bir kamu kurumundan alacağı vardır. Firma, bu alacağını bir bankadan çektiği kredi için teminat olarak gösterebilir. Alacak üzerindeki rehin, TMK hükümlerine göre ve alacağın borçlusuna (kamu kurumu) bildirim yoluyla kurulur.\n•   **Rehnin Paraya Çevrilmesi Yoluyla Takip:** Bankadan altın bileziğini rehin vererek kredi alan borçlu, borcunu ödemez. Banka, İcra ve İflas Kanunu'nun ilgili hükümlerine göre 'rehnin paraya çevrilmesi yoluyla takip' başlatır. İcra dairesi, rehinli altın bileziği haczederek açık artırma ile satışa çıkarır ve satış bedelinden bankanın alacağını öder.\n•   **Birden Fazla Rehin Hali ve Sıra:** Bir ticari işletmenin makinesi üzerinde aynı anda iki farklı banka lehine rehin kurulabilir. Bu durumda, rehinlerin Rehinli Taşınır Sicili'ne tescil sırası, alacaklıların öncelik hakkını belirler. Örneğin, ilk tescil edilen rehin, ikinci tescil edilene göre öncelikli alacak hakkı sağlar."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "Taşınır rehni konusunda yapılan sık hatalar ve dikkat edilmesi gereken önemli noktalar, hem rehnin geçerliliği hem de icra sürecindeki başarı açısından kritiktir.\n\n•   **Aleniyet (Kamuya Açıklık) İlkesi:** Taşınır rehninin geçerliliği için rehnin üçüncü kişiler tarafından bilinebilir olması şarttır. Teslime bağlı rehinlerde zilyetliğin devri, tescile bağlı rehinlerde (TİTARİK kapsamında) ise Rehinli Taşınır Sicili'ne tescil bu aleniyeti sağlar. Bu ilkenin ihlali, rehnin geçersizliğine veya üçüncü kişilere karşı ileri sürülememesine yol açabilir.\n•   **Belirlilik (Spesialite) İlkesi:** Rehne konu olan taşınır mal ve teminat altına alınan alacak, rehin sözleşmesinde açık ve net bir şekilde belirlenmiş olmalıdır. 'Tüm taşınırlar' veya 'tüm alacaklar' gibi genel ifadeler geçersizliğe neden olabilir. Özellikle TİTARİK'te rehin kapsamındaki varlıkların türü, miktarı ve özellikleri açıkça belirtilmelidir.\n•   **Lex Commissoria Yasağı (Fedakarlık Anlaşması Yasağı):** Türk Hukuku'nda, borcun ödenmemesi halinde rehinli malın doğrudan alacaklıya geçeceğine veya alacaklının dilediği bedelle satabileceğine dair yapılan sözleşmeler geçersizdir (TMK m. 949). Alacaklı, alacağını ancak rehinli malın paraya çevrilmesi yoluyla tahsil edebilir. Bu kural, borçlunun mağduriyetini önlemeyi amaçlar.\n•   **Rehnin Fer'iliği:** Taşınır rehni, teminat altına aldığı asıl alacağa bağlı bir fer'i haktır. Asıl alacak sona erdiğinde (örneğin ödeme ile) rehin hakkı da kendiliğinden sona erer. Asıl alacak devredildiğinde, rehin hakkı da asıl alacakla birlikte devredilmiş sayılır.\n•   **İcra Sürecindeki Farklılıklar:** Rehinli alacakların tahsili, genel haciz yolundan farklıdır. Alacaklı, doğrudan rehnin paraya çevrilmesi yoluyla takibe başvurmak zorundadır (İİK m. 23). Bu takip türü, alacaklıya diğer alacaklılara göre öncelik tanır. Rehinli malın değeri alacağı karşılamazsa, alacaklı fark için genel haciz yoluyla takibe devam edebilir.\n•   **Zilyetliğin Korunması ve Taşınır Rehninde İyiniyet:** Teslime bağlı rehinlerde zilyetliğin devri zorunludur. Ancak TİTARİK kapsamında zilyetlik borçluda kalır. TMK m. 988/2 uyarınca, taşınır rehni devrinde iyiniyetli üçüncü kişinin kazanımı korunur. Ancak bu durum tescile bağlı rehinlerde (TİTARİK) sicil kayıtları esas alındığı için farklılık gösterir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "HMGS sınavlarında başarılı olmak için taşınır rehni konusundaki temel kavramları ve yasal düzenlemeleri iyi kavramak esastır.\n\n•   **Kavramsal Netlik:** Taşınır rehninin tanımı, amacı, tarafları (rehin veren, rehin alan) ve genel ilkeleri (aleniyet, belirlilik, fer'ilik, lex commissoria yasağı) hakkında sağlam bir bilgi birikimine sahip olun.\n•   **Kanun Maddeleri ve İlişkisi:** TMK, TİTARİK ve İİK'daki ilgili maddeleri iyi öğrenin ve bu kanunlar arasındaki ilişkiyi kavrayın. Özellikle TİTARİK'in getirdiği yenilikleri (zilyetlik devri olmadan rehin, Rehinli Taşınır Sicili) detaylıca inceleyin.\n•   **Rehnin Türleri Arasındaki Farklar:** Teslime bağlı taşınır rehni ile tescile bağlı taşınır rehni (TİTARİK) arasındaki temel farkları, kuruluş şekillerini, geçerlilik şartlarını ve tabi oldukları hükümleri karşılaştırmalı olarak öğrenin.\n•   **Rehnin Paraya Çevrilmesi Süreci:** İİK kapsamında rehnin paraya çevrilmesi yoluyla takibin aşamalarını (takip talebi, ödeme emri, itiraz, satış) ve bu süreçteki özel hükümleri (örneğin, paranın paylaştırılması) detaylı olarak çalışın.\n•   **Pratik Uygulama ve Vaka Analizi:** Verilen pratik örnekleri ve vaka sorularını çözmeye çalışarak teorik bilgiyi uygulama becerinizi geliştirin. Hangi durumda hangi kanun hükümlerinin uygulanacağını ayırt edebilmek önemlidir.\n•   **Sıkça Sorulan Konular:** Rehnin sona erme nedenleri, rehinli malın satışı sonrası alacağın eksik kalması veya fazla çıkması durumları, rehinli malın üçüncü kişiye devri gibi konulara özel önem verin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi taşınır rehninin temel özelliklerinden biri değildir?",
+      "options": {
+        "A": "Fer'i hak olması",
+        "B": "Kamuya açıklık (aleniyet) ilkesine tabi olması",
+        "C": "Belirlilik (spesialite) ilkesine tabi olması",
+        "D": "Borç ödenmediği takdirde rehinli malın doğrudan alacaklıya geçmesini sağlaması"
+      },
+      "correctAnswer": "D",
+      "explanation": "Türk hukukunda 'Lex Commissoria Yasağı' (Fedakarlık Anlaşması Yasağı) gereği, borç ödenmediği takdirde rehinli malın doğrudan alacaklının mülkiyetine geçmesini öngören anlaşmalar geçersizdir. Rehinli mal, ancak yasal yollarla (paraya çevirme) satılarak alacağın tahsilini sağlar. Diğer seçenekler taşınır rehninin temel özellikleridir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Ticari İşletmelerde Taşınır Rehni Kanunu (TİTARİK) kapsamında kurulan bir rehinle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Rehnin geçerli olabilmesi için rehinli malın zilyetliğinin mutlaka alacaklıya devredilmesi gerekir.",
+        "B": "Bu tür rehinler Rehinli Taşınır Sicili'ne tescil edilmeksizin hüküm ifade eder.",
+        "C": "Tacirlerin işletme faaliyetlerini aksatmadan taşınırlar üzerinde rehin kurmalarına olanak tanır.",
+        "D": "Sadece taşınmaz mallar üzerinde kurulabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "TİTARİK, özellikle tacirlerin ticari faaliyetlerini sürdürürken (zilyetliği devretmeden) taşınırları üzerinde rehin kurmalarına imkan tanıyan yenilikçi bir düzenlemedir. Rehnin geçerli olması için Rehinli Taşınır Sicili'ne tescil zorunludur. Taşınmaz mallar üzerinde rehin kurulamaz, bu ipotek konusudur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Taşınır rehninin paraya çevrilmesi yoluyla takipte yetkili icra dairesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Rehinli taşınır malın bulunduğu yer icra dairesi yetkilidir.",
+        "B": "Borçlunun yerleşim yeri icra dairesi yetkilidir.",
+        "C": "Rehin sözleşmesinde kararlaştırılan yer icra dairesi yetkilidir.",
+        "D": "Alacaklının yerleşim yeri icra dairesi yetkilidir."
+      },
+      "correctAnswer": "D",
+      "explanation": "İcra ve İflas Kanunu'na göre, rehnin paraya çevrilmesi yoluyla takipte yetkili icra dairesi rehinli taşınır malın bulunduğu yer, borçlunun yerleşim yeri veya rehin sözleşmesinde kararlaştırılan yer icra dairesidir. Alacaklının yerleşim yeri icra dairesi yetkili değildir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir alacaklı, borçlunun kendisine ait otomobilini teminat olarak rehin almak istemektedir. Bu rehin sözleşmesinin geçerli olması için Türk Medeni Kanunu'na göre öncelikli olarak ne gereklidir?",
+      "options": {
+        "A": "Rehnin Tapu Sicili'ne tescil edilmesi",
+        "B": "Otomobilin zilyetliğinin alacaklıya devredilmesi",
+        "C": "Borçlunun yazılı onayı",
+        "D": "Noter huzurunda yapılmış olması"
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk Medeni Kanunu kapsamında kurulan 'teslime bağlı taşınır rehni'nde rehnin geçerlilik şartı, rehinli malın zilyetliğinin (fiili hakimiyetinin) rehin verenden alacaklıya geçmesidir. Tapu Sicili taşınmazlar içindir. Yazılı onay ve noter şartı her zaman geçerlilik şartı değildir, bazı özel rehin türlerinde şekil şartı bulunabilir ancak genel adi rehin için zilyetliğin devri esastır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki durumlardan hangisi taşınır rehninin sona erme nedenlerinden biri değildir?",
+      "options": {
+        "A": "Teminat altına alınan borcun ödenmesi",
+        "B": "Rehinli malın yok olması",
+        "C": "Alacaklının rehin hakkından feragat etmesi",
+        "D": "Borçlunun iflas etmesi halinde rehinli malın iflas masasına dahil olması"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rehin hakkı, asıl alacağa bağlı fer'i bir hak olduğundan, teminat altına alınan borcun ödenmesiyle sona erer. Rehinli malın yok olması veya alacaklının feragat etmesi de rehin hakkını sona erdirir. Ancak borçlunun iflas etmesi halinde rehinli mal, iflas masasına dahil olmakla birlikte, rehin hakkı iflas masasına karşı da ileri sürülebilen (ayrıca paraya çevrilme hakkı veren) bir hak olup kendiliğinden sona ermez, tam aksine alacaklıya iflas masası içerisinde öncelikli bir konum sağlar."
+    }
+  ]
+}

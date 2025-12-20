@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tanım:** Sınırlı ayni haklar, malike tam yetki veren mülkiyet hakkının aksine, eşya üzerindeki yetkileri sadece belirli bir yönde (kullanma, yararlanma veya teminat sağlama gibi) kısıtlı olarak sağlayan haklardır.\n•   **Mülkiyet Hakkından Farkı:** Mülkiyet hakkı eşya üzerinde en geniş yetkileri tanırken (kullanma, yararlanma, tasarruf etme), sınırlı ayni haklar bu yetkilerden bir veya birkaçını, kısıtlı bir şekilde sağlar. Sınırlı ayni hak sahibi, eşyanın maliki değildir.\n•   **Belirlilik (Numerus Clausus) İlkesi:** Türk Medeni Kanunu'nda (TMK) sınırlı ayni haklar numaralandırılmış, yani kanunda açıkça sayılmış ve tanımlanmış haklardır. Taraflar, kanunda belirtilmeyen yeni sınırlı ayni haklar yaratamazlar.\n•   **Aleniyet (Tescil) İlkesi:** Taşınmazlar üzerindeki sınırlı ayni haklar, genellikle tapu siciline tescil ile kurulur, değiştirilir ve sona erer. Bu, hakların üçüncü kişilerce bilinmesini ve hukuki güvenliği sağlar.\n•   **Türleri:** Sınırlı ayni haklar genel olarak üç ana gruba ayrılır: İrtifak Hakları (kullanma ve yararlanma yetkisi verir), Rehin Hakları (bir alacağı güvence altına alır) ve Taşınmaz Yükleri (malike, taşınmazından ötürü başkasına bir şey yapma veya verme borcu yükler)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Genel Hükümler:** Türk Medeni Kanunu'nun (TMK) eşya hukuku başlıklı ikinci kitabında yer alan ayni haklara ilişkin genel ilkeler (TMK m. 704 vd.) sınırlı ayni haklar için de geçerlidir. Özellikle tescil, iyi niyet, belirlilik gibi ilkeler önem taşır.\n•   **İrtifak Hakları (TMK m. 779-838):** Bir taşınmaz üzerinde doğrudan doğruya kullanma ve yararlanma yetkisi veren haklardır.\n    •   **Taşınmaz Lehine İrtifak Hakkı (TMK m. 779-793):** Bir taşınmazın başka bir taşınmaz lehine yükümlü kılınmasıdır (örn: geçit hakkı, su alma hakkı).\n    •   **İntifa Hakkı (TMK m. 794-825):** Başkasına ait bir eşya, hak veya malvarlığı üzerinde tam kullanma ve semerelerinden yararlanma hakkıdır. Genellikle kişiye bağlıdır.\n    •   **Oturma (Sükna) Hakkı (TMK m. 823-825):** İntifa hakkının özel bir türü olup, bir yapının tamamı veya bir kısmı üzerinde oturma ve kullanma yetkisi verir.\n    •   **Üst Hakkı (TMK m. 826-836):** Bir başkasına ait arsa üzerinde veya altında yapı yapmak veya mevcut bir yapıyı muhafaza etmek yetkisi veren bir haktır. Bağımsız ve sürekli nitelikte ise tapu kütüğüne ayrı bir sayfaya taşınmaz olarak tescil edilebilir.\n•   **Taşınmaz Yükü (TMK m. 839-849):** Taşınmaz malikini, taşınmazından dolayı bir başkasına karşı bir edimi yerine getirmekle yükümlü kılan bir haktır. Edim genellikle bir şeyi verme veya yapma şeklinde olabilir (örn: belli bir miktar para veya ürün verme borcu).\n•   **Rehin Hakları (TMK m. 850-975):** Bir alacağın teminatı olarak eşya üzerinde kurulan ayni haklardır. Alacak ödenmezse, rehinli eşyanın paraya çevrilmesiyle alacak tatmin edilir.\n    •   **İpotek (TMK m. 881-890):** Bir taşınmazın, mevcut veya ileride doğacak belirli bir alacak için teminat olarak gösterilmesiyle kurulan rehin hakkıdır.\n    •   **İpotekli Borç Senedi ve İrat Senedi (TMK m. 891-902, 903-912):** Taşınmaz üzerinde kurulan alacaklıya doğrudan doğruya taşınmazın değeriyle orantılı bir alacak hakkı sağlayan kıymetli evrak niteliğindeki senetlerdir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **İntifa Hakkı:** A şahsı, maliki olduğu yazlık evi B şahsına ömrü boyunca kullanması ve kira geliri elde etmesi için intifa hakkı tanımıştır. B bu evi kendi oturumu için kullanabilir veya başkasına kiraya vererek gelirinden yararlanabilir, ancak evi satamaz veya esaslı surette değiştiremez.\n•   **Geçit Hakkı (Taşınmaz Lehine İrtifak Hakkı):** C'nin tarlasına ulaşım için D'nin tarlasının bir kısmından yol geçirmesi gerekmektedir. C ve D arasında yapılan anlaşma ile D'nin tarlası üzerinde C lehine bir geçit hakkı kurulur ve bu hak tapu siciline tescil edilir.\n•   **Üst Hakkı:** Bir müteahhit olan E şirketi, F şahsına ait arsa üzerine büyük bir alışveriş merkezi inşa etmek istemektedir. E şirketi ile F şahsı arasında yapılan sözleşme ile F'nin arsası üzerinde E şirketi lehine üst hakkı kurulur. E şirketi arsa üzerinde kendi adında bağımsız bir taşınmaz niteliğinde alışveriş merkezini inşa eder ve bu hakkı tapuya tescil ettirir.\n•   **İpotek:** G bankası, H'ye konut kredisi verirken, kredinin teminatı olarak H'nin satın aldığı ev üzerinde kendi lehine ipotek tesis ettirir. H krediyi ödemediği takdirde G bankası, ipotekli evi icra yoluyla sattırarak alacağını tahsil edebilir.\n•   **Oturma (Sükna) Hakkı:** J, yaşlı anneannesi K'nin hayatının sonuna kadar kendi evinde rahatça oturabilmesi için, evin bir dairesi üzerinde K lehine oturma hakkı tanır. K, bu dairede ömür boyu ikamet edebilir ancak başkasına kiraya veremez veya devredemez.\n•   **Taşınmaz Yükü:** L, sahip olduğu arazinin bir kısmının her yıl M vakfına belirli miktarda ürün (örneğin buğday) verme yükümlülüğü altına sokulduğu bir taşınmaz yükü kurmuştur. L ve sonraki malikler, bu yükümlülüğü yerine getirmek zorundadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kanunilik İlkesine Uygunluk:** Sınırlı ayni haklar yalnızca kanunda açıkça öngörülen türlerde ve kanunun belirlediği şartlarda kurulabilir. Sözleşme serbestisi bu alanda sınırlıdır; taraflar kendi istedikleri gibi yeni bir ayni hak tipi yaratamazlar.\n•   **Tapu Sicilinin Önemi:** Taşınmazlar üzerindeki sınırlı ayni hakların kurulması, değiştirilmesi ve kaldırılması, tapu siciline tescil ile gerçekleşir. Tescil, hem hakkın doğumu hem de üçüncü kişilere karşı ileri sürülebilmesi (aleniyet) açısından kritik öneme sahiptir. İstisnalar (örneğin tescilsiz kazanımlar) dışarıda tutulmalıdır.\n•   **Mülkiyet Hakkı ile Karışmaması:** Sınırlı ayni haklar, malike sadece belirli yetkiler sağlarken, mülkiyet hakkı eşyanın sahibi olma durumunu ifade eder. Sınırlı ayni hak sahibi, eşyanın maliki değildir ve maliklikten kaynaklanan tasarruf yetkilerine sahip değildir (istisnai durumlar hariç, örneğin üst hakkının bağımsız taşınmaz olarak tescili).\n•   **Zamanaşımı:** Kural olarak, ayni haklar zamanaşımına uğramaz. Ancak, bazı irtifak hakları uzun süre kullanılmaması nedeniyle zamanaşımı yoluyla düşebilir veya olağanüstü zamanaşımı ile kazanım gibi istisnaları mevcuttur. Bu detaylara dikkat edilmelidir.\n•   **Hakların İçeriği ve Sınırları:** Her bir sınırlı ayni hakkın kendine özgü bir içeriği ve kanunla veya sözleşmeyle belirlenmiş sınırları vardır. Hak sahibi, hakkını bu sınırlar dahilinde kullanabilir ve hakkın kapsamını aşamaz. Örneğin, intifa hakkı sahibinin eşyanın öz değerini koruma yükümlülüğü bulunur."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımları ve Ayırt Edici Özellikleri Öğrenin:** Sınırlı ayni hakların genel tanımını, mülkiyet hakkından farkını, kanunilik (numerus clausus) ve aleniyet (tescil) ilkelerini iyi kavrayın. Bu kavramlar sıkça sorulur.\n•   **Ana Türleri ve Alt Kategorilerini Bilin:** İrtifak hakları (taşınmaz lehine, intifa, oturma, üst hakkı), rehin hakları (ipotek, ipotekli borç senedi) ve taşınmaz yüklerini alt kategorileriyle birlikte öğrenin. Her birinin TMK'daki yerini ve temel işlevini bilin.\n•   **TMK Maddelerine Hakim Olun:** Her bir sınırlı ayni hakkın ilgili olduğu Türk Medeni Kanunu maddelerini ezberlemeniz gerekmez, ancak hangi bölümün hangi hakkı düzenlediğini ve ana maddelerin içeriğini bilmek, yasal çerçeveyi anlamanıza yardımcı olacaktır.\n•   **Kazanılma ve Sona Erme Yollarını Gözden Geçirin:** Sınırlı ayni hakların nasıl kurulduğunu (tescil, tescilsiz kazanım, miras vb.) ve nasıl sona erdiğini (terkin, zamanaşımı, hakkın konusu olan eşyanın yok olması, birleşme vb.) öğrenin.\n•   **Örnek Uygulamaları Anlayın:** Teorik bilgileri somut vaka örnekleriyle pekiştirin. Sınavlarda genellikle teorik bilgiyi pratiğe uygulama yeteneğinizi ölçen vaka soruları sorulabilir. Her bir hak türü için verilen pratik örnekleri dikkatlice inceleyin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi sınırlı ayni hakların temel özelliklerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Eşya üzerinde mutlak bir yetki sağlar.",
+        "B": "Sadece kanunda sayılan türlerde kurulabilir (Numerus Clausus ilkesi).",
+        "C": "Taşınmazlar üzerinde kurulduğunda genellikle tapu siciline tescil ile doğar (Aleniyet ilkesi).",
+        "D": "Malike eşya üzerinde tam bir tasarruf yetkisi vermez."
+      },
+      "correctAnswer": "A",
+      "explanation": "Sınırlı ayni haklar, eşya üzerinde mutlak ve tam yetki değil, sadece belirli yönlerde kısıtlı yetkiler sağlar. Tam ve mutlak yetki mülkiyet hakkının özelliğidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir başkasına ait arsa üzerinde yapı yapma veya mevcut bir yapıyı muhafaza etme yetkisi veren ve bağımsız ve sürekli nitelikte ise tapu kütüğüne ayrı bir sayfaya taşınmaz olarak tescil edilebilen sınırlı ayni hak aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İntifa Hakkı",
+        "B": "Geçit Hakkı",
+        "C": "Üst Hakkı",
+        "D": "İpotek"
+      },
+      "correctAnswer": "C",
+      "explanation": "Üst hakkı (TMK m. 826 vd.), başkasına ait arsa üzerinde yapı inşa etme veya mevcut yapıyı koruma yetkisi veren sınırlı ayni haktır ve şartları oluştuğunda bağımsız bir taşınmaz gibi tescil edilebilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir alacağın teminatı olarak bir taşınmaz üzerinde kurulan ve alacak ödenmediği takdirde taşınmazın paraya çevrilmesiyle alacağın tahsilini sağlayan sınırlı ayni hak aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İntifa Hakkı",
+        "B": "Oturma Hakkı",
+        "C": "Taşınmaz Yükü",
+        "D": "İpotek"
+      },
+      "correctAnswer": "D",
+      "explanation": "İpotek, bir alacağın güvencesi olarak taşınmaz üzerinde kurulan bir rehin hakkıdır (TMK m. 881 vd.)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Türk Medeni Kanunu'na göre, bir taşınmazın malikini, taşınmazından dolayı bir başkasına karşı bir edimi yerine getirmekle yükümlü kılan hak türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İrtifak Hakkı",
+        "B": "Taşınmaz Yükü",
+        "C": "Rehin Hakkı",
+        "D": "Mülkiyet Hakkı"
+      },
+      "correctAnswer": "B",
+      "explanation": "Taşınmaz yükü (TMK m. 839 vd.), taşınmaz malikini, taşınmazından dolayı bir başkasına karşı belirli bir edimi yerine getirme borcu altına sokan sınırlı ayni haktır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ayşe, dedesinin kendisine miras bıraktığı evin ömür boyu kira gelirlerini toplama ve evi kullanma hakkına sahiptir, ancak evi satamaz. Ayşe'nin bu hakka sahip olması aşağıdakilerden hangi sınırlı ayni hak türüne örnektir?",
+      "options": {
+        "A": "Üst Hakkı",
+        "B": "Geçit Hakkı",
+        "C": "İntifa Hakkı",
+        "D": "İpotek Hakkı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ayşe'nin durumu, bir eşya üzerinde kullanma ve semerelerinden yararlanma yetkisi veren intifa hakkına (TMK m. 794 vd.) tipik bir örnektir. Evi satamıyor olması da mülkiyet hakkından farklı olduğunu göstermektedir."
+    }
+  ]
+}

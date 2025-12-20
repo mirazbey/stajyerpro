@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Elektronik İşlem ve İdari Yargı İlişkisi:** İdari yargılama süreçlerinde dilekçe sunma, tebligat yapma, duruşma bilgisi paylaşımı ve karar bildirimi gibi usul işlemlerinin elektronik ortamda gerçekleştirilmesi, fiziksel evrak akışını minimize ederek yargılamaya dijital avantajların entegrasyonudur.\n•   **UYAP (Ulusal Yargı Ağı Bilişim Sistemi):** Türkiye yargı sisteminin temelini oluşturan, tüm yargı birimlerini entegre eden merkezi bilişim sistemidir. İdari yargıda elektronik işlemlerin omurgası olup, avukatlar, vatandaşlar ve idari birimler dava açma, evrak sunma gibi işlemleri buradan yapar.\n•   **Elektronik Tebligat (E-Tebligat):** 7201 sayılı Tebligat Kanunu uyarınca, tebligat çıkarmaya yetkili mercilerce elektronik ortamda hazırlanan tebligatın, KEP (Kayıtlı Elektronik Posta) adresi bulunan kişilere elektronik yolla yapılmasıdır. Yargılamayı hızlandırır ve maliyeti düşürür; hukuki sonuçları fiziki tebligatla aynıdır.\n•   **E-Dava ve E-Belge:** İdari yargıda dava dilekçeleri, savunmalar ve diğer yargısal belgelerin elektronik imza ile imzalanarak UYAP üzerinden mahkemeye sunulmasıdır. Elektronik belgeler, hukuki geçerlilik açısından ıslak imzalı belgelerle eşdeğer kabul edilir, zaman ve mekan bağımsızlığı sağlar.\n•   **Dijital Dönüşümün Amaçları:** İdari yargıda elektronik işlemlerde iyileştirmenin temel hedefi, yargılama süreçlerini hızlandırmak, maliyetleri düşürmek, erişilebilirliği ve şeffaflığı artırmak, yargısal hizmet kalitesini yükseltmek ve yargı yükünü azaltarak daha verimli bir sistem oluşturmaktır.\n•   **İdari Yargılama Usulünde Elektronik İşlemlerin Temel İlkeleri:** Yazılılık, aleni yargılama, tebligat esasları gibi geleneksel ilkelerin elektronik ortama uyarlanması esastır. Hukuk güvenliği, adil yargılanma hakkı ve ispat kolaylığı dijitalleşme sürecinde korunması gereken temel değerlerdir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **2577 sayılı İdari Yargılama Usulü Kanunu (İYUK):** İdari yargılamanın temel kanunudur. Dilekçelerin verilmesi, tebligat, duruşma ve kararların tebliği gibi usul işlemlerinin elektronik ortamda yapılabileceğine dair genel hükümleri, özellikle md. 16/A ve 20/A gibi maddelerle düzenler.\n•   **7201 sayılı Tebligat Kanunu ve Elektronik Tebligat Yönetmeliği:** Elektronik tebligatın hukuki dayanağıdır. Tebligatın elektronik ortamda yapılacağını öngörür; yönetmelik ise gönderilme, alınma, tebliğ edilmiş sayılma anlarını, KEP adresi kullanımını detaylıca düzenler.\n•   **5070 sayılı Elektronik İmza Kanunu:** Elektronik imzanın hukuki niteliğini, geçerliliğini ve kullanım esaslarını belirler. Güvenli elektronik imzanın ıslak imza ile aynı hukuki sonuçları doğurmasını güvence altına alarak, elektronik belgelerin yargısal süreçlerde geçerliliğini sağlar.\n•   **UYAP Mevzuatı (Yönetmelikler ve Kılavuzlar):** UYAP'ın işleyişi, sisteme erişim, elektronik dosyalama, dosya inceleme ve tüm elektronik yargısal işlemlerin teknik ve hukuki detaylarını düzenler. Yargılamaya taraf olanların UYAP üzerinden yapabileceği işlemleri, zamanlamasını ve geçerlilik şartlarını belirler.\n•   **6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK):** İdari yargılama süreçlerinde elektronik ortamda işlenen tüm kişisel verilerin korunması, işlenmesi ve aktarılmasına ilişkin esasları düzenler. Yargılamanın şeffaflığı ile kişisel verilerin gizliliği ve güvenliği arasında denge kurulmasını zorunlu kılar.\n•   **İlgili Genelgeler ve Yüksek Yargı İçtihatları:** Elektronik işlemlere ilişkin yargı uygulamalarının yeknesaklığını sağlamak amacıyla çıkarılan genelgeler ile Yargıtay/Danıştay içtihatları, yasal boşlukları doldurma ve uygulama birliğini sağlama açısından önemli bir yasal çerçeve oluşturur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Dava Dilekçesinin Elektronik Ortamda Sunulması:** Avukatların e-imza ile imzaladıkları dava dilekçelerini (ekleri ile birlikte) UYAP Avukat Portal üzerinden sisteme yükleyerek ilgili mahkemeye sunması; dava dosyasına otomatik numara atanması ve harçların elektronik ödenmesi.\n•   **Elektronik Tebligatın Gerçekleşmesi:** Taraflara veya vekillerine yapılması gereken duruşma günü, karar tebliği, cevap dilekçesi süresi gibi bildirimlerin, KEP adreslerine UYAP üzerinden e-tebligat olarak gönderilmesi; tebligatın muhatabın elektronik adresine ulaştığı tarihten itibaren beşinci günün sonunda tebliğ edilmiş sayılması.\n•   **Dosya İçeriğinin Elektronik Ortamda İncelenmesi:** Avukatların, UYAP Avukat Portal üzerinden vekil oldukları dosyaların içeriğini (dilekçeler, ekler, ara kararlar, bilirkişi raporları vb.) anında ve her yerden elektronik olarak görüntülemesi, indirmesi veya yazdırması, fiziksel dosya inceleme ihtiyacının ortadan kalkması.\n•   **Ara Kararların ve Taleplerin Elektronik Ortamda Sunulması/Takibi:** Davacı veya davalı vekilinin, mahkemeye hitaben tanık listesi, bilirkişi incelemesi, ihtiyati tedbir gibi ara talepleri e-imza ile imzalayarak UYAP üzerinden sunması ve mahkemenin bu talepler hakkındaki ara kararını yine UYAP üzerinden öğrenmesi.\n•   **Yargı Harç ve Giderlerinin Elektronik Ödenmesi:** Dava açılırken veya yargılama sırasında ortaya çıkan harçların (başvuru harcı, karar harcı vb.) ve yargılama giderlerinin (tebligat gideri, keşif ücreti vb.) UYAP üzerinden veya anlaşmalı bankalar aracılığıyla elektronik olarak ödenmesi.\n•   **İdari Makamların Savunma ve Belge Sunumu:** Davalı idari makamların, kendilerine ulaşan dava dilekçesine cevaplarını ve eklerini (yönetmelik, karar, işlem dosyası vb.) e-imza ile imzalayarak UYAP Kurum Portal üzerinden sisteme yüklemesi, idarenin yargılamaya katılımını kolaylaştırması."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Teknik Aksaklıklar ve Sürelerin Hesaplanması:** UYAP sisteminde yaşanabilecek teknik arızalar (internet kesintisi, sunucu hatası vb.) nedeniyle elektronik işlem yapılamaması durumunda, sürelerin kesilmesi veya uzaması gibi özel durumlar ve bunların hukuki sonuçları, alternatif işlem yolları.\n•   **Elektronik İmzanın Geçerliliği ve Güvenliği:** Sunulan belgelerin güvenli elektronik imza ile imzalanmış olması zorunluluğu, e-imzanın geçerlilik süresi, yetkili elektronik sertifika hizmet sağlayıcısından alınmış olması ve doğru kullanımı, hukuki güvenlik açısından tüm gerekliliklerin yerine getirilmesi.\n•   **Elektronik Tebligatın Usulüne Uygunluğu:** E-tebligatın doğru KEP adresine yapılması, tebliğ edildiği kabul edilen anın doğru tespiti (beşinci günün sonu) ve bu tarihten itibaren sürelerin doğru hesaplanması, muhatabın KEP adresinin olmaması durumunda fiziki tebligata dönülmesi.\n•   **Kişisel Verilerin Korunması ve Gizlilik:** Elektronik ortamda tutulan dosyalardaki kişisel verilerin (kimlik, adres, sağlık vb.) 6698 sayılı KVKK hükümlerine uygun olarak korunması, yetkisiz erişim, kopyalama veya paylaşımın önlenmesi, yargılama gizliliğinin sağlanması.\n•   **Dijital Okuryazarlık ve Eğitim İhtiyacı:** Avukatlar, vatandaşlar ve idari yargı çalışanları başta olmak üzere tüm kullanıcıların UYAP sistemini etkin kullanabilmeleri için yeterli dijital okuryazarlık becerisine sahip olması, sistem güncellemeleri ve yeni özellikler hakkında düzenli eğitimlerin ve bilgilendirmelerin yapılması.\n•   **Hukuki Süreçlerde Hataların Önlenmesi:** Elektronik ortamda dosya oluştururken, belge yüklerken veya dilekçe sunarken yapılan teknik hataların (yanlış dosyaya belge yükleme, süreyi yanlış hesaplama vb.) yargılama sürecine olumsuz etkileri, bu tür hataların önlenmesi için dikkatli kullanım ve telafi mekanizmalarının işletilmesi."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **İYUK'ta Elektronik İşlemlerle İlgili Maddeler:** Özellikle İYUK md. 16/A (dava dilekçesinin elektronik ortamda gönderilmesi), md. 20/A (elektronik ortamda tebligat) ve ilgili diğer maddelerin lafzı ve getirilen istisnalar üzerinde yoğunlaşılmalıdır.\n•   **UYAP'ın Fonksiyonları ve Rolü:** UYAP'ın idari yargılama sürecindeki merkezi konumu, avukat ve vatandaş portalı üzerinden hangi işlemlerin yapılabileceği, UYAP'ın yargılama süreçlerine sağladığı katkılar ve getirdiği yenilikler iyi anlaşılmalıdır.\n•   **Elektronik Tebligat ve Elektronik İmza:** E-tebligatın ne zaman tebliğ edilmiş sayılacağı, KEP adresinin önemi, fiziki tebligata dönülen durumlar ve e-imzanın hukuki geçerliliği, ıslak imza ile eşdeğerliği konuları detaylıca öğrenilmelidir (5070 ve 7201 sayılı Kanunlar).\n•   **Kişisel Verilerin Korunması ve Güvenlik:** Elektronik ortamdaki yargılama süreçlerinde kişisel verilerin korunması ilkesinin nasıl uygulandığı, KVKK hükümlerinin UYAP sistemine yansımaları ve veri güvenliği önlemleri hakkında bilgi sahibi olunmalıdır. Yargılama gizliliği ve bilgi edinme hakkı dengesi kritik bir konudur.\n•   **Pratik Senaryo Çözümleri:** Elektronik işlemlerle ilgili olası sorunları (teknik aksaklık, hatalı tebligat, sürenin kaçırılması vb.) içeren senaryo sorularına hazırlıklı olunmalı; bu tür durumlarda hukuken nasıl bir yol izlenmesi gerektiği ve yasal dayanaklar üzerinde düşünülmelidir.\n•   **Güncel Mevzuat Takibi ve Yüksek Yargı İçtihatları:** Elektronik işlemlere ilişkin mevzuatta meydana gelen değişiklikler, Danıştay ve Yargıtay'ın bu konudaki güncel içtihatları takip edilmelidir. Özellikle uygulamanın şekillenmesinde yüksek yargının kararları yol gösterici olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "İdari yargılama süreçlerinde elektronik işlemlerin temel altyapısını sağlayan ve tüm yargı birimlerini entegre eden merkezi bilişim sistemi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "E-Devlet Portal",
+        "B": "Merkezi Nüfus İdaresi Sistemi (MERNİS)",
+        "C": "Ulusal Yargı Ağı Bilişim Sistemi (UYAP)",
+        "D": "Türkiye Noterler Birliği Bilgi Sistemi (TNBBS)"
+      },
+      "correctAnswer": "C",
+      "explanation": "UYAP, Türkiye yargı sisteminin tüm bileşenlerini bir araya getiren ve elektronik işlemlerin yürütüldüğü ana platformdur."
+    },
+    {
+      "questionNumber": 2,
+      "question": "7201 sayılı Tebligat Kanunu ve ilgili Yönetmelik uyarınca, elektronik ortamda yapılan tebligatın muhatabın elektronik adresine ulaştığı tarihten itibaren ne zaman tebliğ edilmiş sayılır?",
+      "options": {
+        "A": "Ulaştığı gün",
+        "B": "Ertesi gün",
+        "C": "Üçüncü günün sonunda",
+        "D": "Beşinci günün sonunda"
+      },
+      "correctAnswer": "D",
+      "explanation": "Elektronik tebligat, muhatabın elektronik adresine ulaştığı tarihten itibaren beşinci günün sonunda tebliğ edilmiş sayılır ve hukuki süreler bu tarihten itibaren işlemeye başlar."
+    },
+    {
+      "questionNumber": 3,
+      "question": "5070 sayılı Elektronik İmza Kanunu'na göre, hangi tür elektronik imza ıslak imza ile aynı hukuki sonuçları doğurur?",
+      "options": {
+        "A": "Basit Elektronik İmza",
+        "B": "Gelişmiş Elektronik İmza",
+        "C": "Güvenli Elektronik İmza",
+        "D": "Mobil İmza"
+      },
+      "correctAnswer": "C",
+      "explanation": "5070 sayılı Kanun, 'güvenli elektronik imza'nın elle atılan imza ile aynı hukuki sonuçları doğuracağını belirtir. Diğer imza türlerinin farklı hukuki sonuçları olabilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İdari yargılama süreçlerinde elektronik ortamda işlenen kişisel verilerin korunmasına ilişkin temel yasal düzenleme aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "5237 sayılı Türk Ceza Kanunu",
+        "B": "6100 sayılı Hukuk Muhakemeleri Kanunu",
+        "C": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK)",
+        "D": "2577 sayılı İdari Yargılama Usulü Kanunu (İYUK)"
+      },
+      "correctAnswer": "C",
+      "explanation": "KVKK, kişisel verilerin işlenmesi ve korunmasına ilişkin genel çerçeveyi belirleyen kanundur ve yargısal süreçlerde de uygulanır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Avukatların UYAP Avukat Portal üzerinden dava dilekçesini sisteme yüklemesi sırasında yaşanabilecek teknik bir arıza nedeniyle süresinde dilekçeyi gönderememesi durumunda, İYUK hükümleri kapsamında aşağıdakilerden hangisi genellikle uygulanır?",
+      "options": {
+        "A": "Süreler kendiliğinden iki katına çıkar.",
+        "B": "Dilekçe hiç sunulmamış sayılır ve davanın reddine karar verilir.",
+        "C": "Avukatın durumu derhal mahkemeye bildirmesi halinde, mahkemece makul bir ek süre verilebilir veya işlemin başka bir yolla tamamlanması istenebilir.",
+        "D": "Avukat hakkında disiplin soruşturması başlatılır."
+      },
+      "correctAnswer": "C",
+      "explanation": "İdari Yargılama Usulü Kanunu ve ilgili mevzuat, teknik aksaklıklar gibi mücbir sebep hallerinde, durumu derhal bildirmek koşuluyla, hak kaybının önlenmesi amacıyla ek süre verilmesi veya alternatif çözüm yollarının uygulanmasına imkan tanır."
+    }
+  ]
+}

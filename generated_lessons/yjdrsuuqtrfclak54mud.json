@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nun temel taşlarından biri olan 'Sorumluluk Hukuku' alanında, özellikle 'Kusur Sorumluluğu' kavramını derinlemesine inceleyeceğimiz dersimize hoş geldiniz. Hukuk sistemimizde bireylerin ve tüzel kişilerin fiillerinden kaynaklanan zararların tazmin edilmesi, adalet ilkesinin bir gereğidir. Bu dersin sonunda, kusur sorumluluğunun ne anlama geldiğini, hangi şartlarda ortaya çıktığını ve Türk Borçlar Kanunu başta olmak üzere çeşitli hukuk dallarındaki yerini kavramış olacaksınız. Öncelikle, sorumluluk hukukunun genel çerçevesine değinmek faydalı olacaktır. Sorumluluk hukuku, bir kişinin hukuka aykırı bir fiille başkasına zarar vermesi halinde bu zararı giderme yükümlülüğünü düzenleyen hukuk dalıdır. Bu alanda iki temel sorumluluk türü karşımıza çıkar: Kusur sorumluluğu ve kusursuz sorumluluk. Kusur sorumluluğu, zarar veren kişinin kusurlu bir fiili sonucunda oluşan zarardan sorumlu tutulması prensibine dayanırken, kusursuz sorumluluk ise zarar verenin kusuru olmasa dahi belirli şartların gerçekleşmesi halinde sorumlu tutulmasını ifade eder. Dersimizin ana odağı olan kusur sorumluluğu, Türk Hukuku'nda 'haksız fiil' ve 'sözleşmeye aykırılık' hallerinde sıkça karşılaşılan bir ilkedir. Kusur sorumluluğunun temelinde, kişilerin hukuka aykırı fiilleri nedeniyle başkalarına verdikleri zararları giderme yükümlülüğü yatar. Bu yükümlülüğün doğabilmesi için, zarar verenin fiilinin hukuka aykırı olması, bir zararın meydana gelmesi, zarar ile fiil arasında illiyet bağı bulunması ve en önemlisi zarar verenin kusurlu olması gerekir. 'Kusur', hukukta 'kasıt' veya 'ihmal' şeklinde tezahür eden bir davranış biçimidir. Anayasa Hukuku'nun temel esasları ışığında, hukuk devleti ilkesi ve temel hak ve özgürlüklerin korunması prensibi, sorumluluk hukukunun tüm alanlarını etkileyen üst normlardır. Bireylerin yaşam, beden bütünlüğü ve mülkiyet gibi anayasal güvence altındaki haklarına yönelik haksız müdahaleler, sorumluluk hukukunun devreye girmesini gerektirir. Bu ders boyunca, kusur sorumluluğunun bu anayasal çerçeve içerisindeki yerini ve önemini de vurgulayacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Kusurun Unsurları",
+      "content": "Kusur sorumluluğunun yasal dayanağı, Türk Borçlar Kanunu (TBK) başta olmak üzere çeşitli mevzuat hükümlerinde yer almaktadır. TBK'nın 49. maddesi, haksız fiil sorumluluğunu düzenleyen temel hükümdür ve 'Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür' şeklindedir. Bu hüküm, kusur sorumluluğunun dört temel unsurunu açıkça ortaya koymaktadır: Hukuka aykırı fiil, kusur, zarar ve illiyet bağı. Bu unsurların her birinin ayrı ayrı incelenmesi, kusur sorumluluğunun tam olarak anlaşılması için elzemdir.\n\n**Hukuka Aykırı Fiil:** Bir davranışın hukuka aykırı sayılabilmesi için, ya kanunla yasaklanmış bir fiil olması ya da başkasının mutlak hakkına (can, mal, şeref gibi) tecavüz etmesi gerekir. Hukuka aykırı fiil, icrai (yapma) veya ihmali (yapmama) bir davranışla gerçekleşebilir. Hukuka uygunluk nedenleri (örneğin, meşru savunma, zorunluluk hali, kanunun verdiği yetki, ilgilinin rızası), fiilin hukuka aykırılığını ortadan kaldırabilir.\n\n**Kusur:** Kusur, hukuk süjelerinin hukuk düzenince yadırganan, kınanan davranışıdır. Kusur, 'kasıt' ve 'ihmal' olmak üzere iki şekilde tezahür eder.\n*   **Kasıt (Dolus):** Zarar verenin, hukuka aykırı bir fiille bir başkasına zarar verme iradesiyle hareket etmesidir. Doğrudan kastta kişi zararlı sonucu bilerek ve isteyerek gerçekleştirir. Olası kastta ise kişi, fiilinin zararlı bir sonuç doğurabileceğini öngörmesine rağmen bu sonucu kabullenerek hareket eder.\n*   **İhmal (Culpa):** Zarar verenin, hukuk düzeninin veya yaşamın gerektirdiği dikkat ve özeni göstermeyerek bir zarara sebebiyet vermesidir. İhmal, bir şeyi yapmamanın veya yapılması gerekeni gereği gibi yapmamanın bir sonucudur. İhmal, kendi içinde 'ağır ihmal' ve 'hafif ihmal' olarak ayrılabilir. Objektif özen yükümlülüğünün ihlali, ihmalin temelini oluşturur. Bir kişinin kusurlu sayılabilmesi için, ayırt etme gücüne sahip olması gerekir (Türk Medeni Kanunu m. 13). Ayırt etme gücü olmayan kişilerin (küçük çocuklar, akıl hastaları) kusuru söz konusu olmaz, ancak bu durum sorumluluktan tamamen kurtuldukları anlamına gelmez; bazı hallerde kusursuz sorumluluk hükümleri devreye girebilir (TBK m. 66).\n\n**Zarar:** Hukuken korunması gereken bir menfaatte irade dışı meydana gelen azalmadır. Maddi zarar ve manevi zarar olarak ikiye ayrılır. Maddi zarar, kişinin malvarlığındaki azalma iken, manevi zarar kişinin kişilik değerlerinde meydana gelen eksilmedir.\n\n**İlliyet Bağı:** Hukuka aykırı fiil ile zarar arasında nedensellik ilişkisidir. Zarar, ancak hukuka aykırı fiil sonucunda meydana gelmişse, fail sorumlu tutulabilir. İlliyet bağını kesen sebepler (mücbir sebep, üçüncü kişinin ağır kusuru, zarar görenin ağır kusuru) sorumluluğu ortadan kaldırabilir veya azaltabilir.\n\nBu unsurların tamamının bir arada bulunması halinde, kusur sorumluluğu ilkesi gereğince zarar veren zararı tazmin etmekle yükümlü olur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve İstisnalar",
+      "content": "Kusur sorumluluğu, günlük yaşamda ve hukuki uyuşmazlıklarda geniş bir uygulama alanına sahiptir. En yaygın uygulama alanlarından biri, hiç şüphesiz 'haksız fiil sorumluluğu'dur (TBK m. 49 vd.). Örneğin, trafik kazalarında bir sürücünün kırmızı ışık ihlali yaparak başka bir araca çarpması ve zarara neden olması, klasik bir haksız fiil ve kusur sorumluluğu örneğidir. Sürücünün trafik kurallarına uymama eylemi hukuka aykırıdır, bu eylem kazaya ve zarara neden olmuş, sürücünün dikkatsizliği (ihmali) ise kusurunu oluşturmuştur. Benzer şekilde, doktorun teşhis veya tedavi sırasında gerekli özeni göstermeyerek hastasına zarar vermesi (tıbbi malpraktis) de kusur sorumluluğu kapsamında değerlendirilir. Hekimin 'tedbirsizlik' veya 'ihmal' ile hareket etmesi, kusurun varlığını gösterir. \n\nBir diğer önemli uygulama alanı 'sözleşmeye aykırılıktan doğan sorumluluk'tur (TBK m. 112). Bir sözleşmenin taraflarından birinin, sözleşmeden doğan edimini hiç veya gereği gibi ifa etmemesi sonucunda diğer tarafın uğradığı zarar, borçlunun kusurlu davranışı nedeniyle tazmin edilir. Örneğin, bir inşaat müteahhidinin sözleşmede belirtilen kalitede malzeme kullanmayarak binanın dayanıklılığını zayıflatması ve bu durumun mal sahibine zarar vermesi, müteahhidin kusurlu sorumluluğunu doğurur. Burada müteahhidin kusuru, 'ihmal' şeklinde ortaya çıkar.\n\nTürk Ceza Kanunu (TCK) kapsamında da kusur sorumluluğunun izdüşümleri bulunur. Özellikle 'taksirli suçlar' (taksirle yaralama, taksirle öldürme gibi), ceza hukukunda kusur sorumluluğunun en belirgin örnekleridir. Kişinin dikkat ve özen yükümlülüğüne aykırı davranışı sonucunda istemediği bir neticenin meydana gelmesi, taksirli sorumluluğu gündeme getirir.\n\nİdare Hukuku'nda ise 'idarenin kusurlu sorumluluğu' kavramı, idari eylem ve işlemlerden kaynaklanan zararlarda kendini gösterir. İdarenin 'hizmet kusuru' (hizmetin kötü işlemesi, geç işlemesi veya hiç işlememesi) hallerinde kişilerin uğradığı zararlar, idarenin kusurlu sorumluluğu çerçevesinde tazmin edilebilir. Örneğin, bir yolun gerekli bakımlarının yapılmaması nedeniyle meydana gelen trafik kazasında idarenin hizmet kusuru söz konusu olabilir.\n\nKusur sorumluluğunda bazı durumlarda sorumluluğu ortadan kaldıran veya azaltan 'istisnalar' veya 'sınırlayıcı haller' mevcuttur. Bunların başında 'mücbir sebep' ve 'beklenmeyen hal' gelir. Deprem, sel gibi doğal afetler mücbir sebep teşkil ederek, failin kusurlu sayılmasına engel olabilir. 'Zarar görenin kusuru' ise tazminat miktarının indirilmesine hatta bazı durumlarda tamamen ortadan kalkmasına neden olabilir (TBK m. 52). Ayrıca, üçüncü bir kişinin ağır kusuru da illiyet bağını keserek sorumluluğu etkileyebilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Güncel Tartışmalar",
+      "content": "Kusur sorumluluğu prensibinin yargı kararları ve doktrin tarafından sürekli geliştirildiği, yeni durumlara uyarlandığı bir alandır. Bu bağlamda, dikkat edilmesi gereken bazı önemli hususlar bulunmaktadır.\n\n**İspat Yükü:** Genel kural olarak, zarara uğrayan taraf (davacı), zarar veren kişinin hukuka aykırı fiilini, kusurunu, zararı ve illiyet bağını ispat etmekle yükümlüdür (Türk Medeni Kanunu m. 6, Türk Borçlar Kanunu m. 50). Ancak bazı durumlarda, kanun koyucu veya yargı içtihatları aracılığıyla 'kusur karinesi' kabul edilebilir. Örneğin, hayvan bulunduranın sorumluluğu veya yapı malikinin sorumluluğunda kusur karinesi bulunabilir; bu durumlarda zararı gören kişinin kusuru ispat etmesi gerekmez, zarar verenin kusursuzluğunu ispat etmesi gerekir.\n\n**Zararın Belirlenmesi ve Tazminat:** Maddi ve manevi zararın hesaplanması, karmaşık hukuki ve teknik bir süreçtir. Maddi zararların (tedavi giderleri, kazanç kaybı, çalışma gücü kaybı gibi) hesaplanmasında bilirkişi incelemeleri büyük önem taşır. Manevi tazminat ise, zarar görenin duyduğu acı, elem ve ıstırabın giderilmesi amacını taşır ve hakim tarafından somut olayın özellikleri, tarafların sosyal ve ekonomik durumu dikkate alınarak takdir edilir (TBK m. 56).\n\n**Zamanaşımı:** Haksız fiilden doğan tazminat talepleri, zarar ve tazminat yükümlüsünün öğrenildiği tarihten itibaren iki yıl ve her halde fiilin işlendiği tarihten itibaren on yıl geçmekle zamanaşımına uğrar (TBK m. 72). Bu süreler hak düşürücü nitelikte olup, dava açma hakkının kaybına yol açabilir.\n\n**Müteselsil Sorumluluk:** Birden çok kişinin aynı zarara kusurlu fiilleriyle sebep olması durumunda, bu kişiler zarardan müteselsilen sorumlu olurlar (TBK m. 61). Yani zarar gören, zararın tamamını bu kişilerden herhangi birinden talep edebilir. Sorumlular kendi aralarında rücu ilişkisi kurarlar.\n\n**Güncel Tartışmalar:** Teknolojik gelişmeler, kusur sorumluluğu kavramını yeni tartışmalarla karşı karşıya bırakmaktadır. Özellikle yapay zeka sistemleri, otonom araçlar ve robotların neden olduğu zararlarda kusurun kime yükleneceği, üretici, yazılımcı veya kullanıcının sorumluluklarının sınırları gibi konular, günümüz hukuk dünyasının önemli gündem maddelerindendir. Bu yeni durumlar, mevcut kusur sorumluluğu ilkelerinin yeniden yorumlanmasını veya yeni sorumluluk modellerinin geliştirilmesini gerektirebilir.\n\n**Anayasal Boyut:** Kusur sorumluluğu, her ne kadar özel hukuk alanının bir meselesi gibi görünse de, anayasal güvence altındaki temel hak ve özgürlüklerin ihlali durumlarında devletin pozitif yükümlülükleri ile de doğrudan ilişkilidir. Anayasa Hukuku'nun temel esaslarından olan 'sosyal devlet' ve 'hukuk devleti' ilkeleri, bireylerin zararlarının telafisi noktasında devlete önemli görevler yükler. İnsan hakları ihlallerinde devletin 'kusurlu hizmet' veya 'kusursuz sorumluluk' ilkeleri çerçevesinde tazminat ödeme yükümlülüğü, bu anayasal bağlamda değerlendirilmelidir. Bu da bizlere, hukukun farklı alanlarının birbiriyle ne denli iç içe olduğunu göstermektedir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu dersimiz boyunca Türk Hukuku'nda kusur sorumluluğu prensibini tüm yönleriyle incelemeye çalıştık. Kusur sorumluluğu, bir kişinin hukuka aykırı ve kusurlu bir fiille bir başkasına zarar vermesi halinde bu zararı tazmin etme yükümlülüğünü ifade eden temel bir sorumluluk ilkesidir. Bu sorumluluğun doğabilmesi için hukuka aykırı fiil, kusur (kasıt veya ihmal), zarar ve illiyet bağı olmak üzere dört temel unsurun bir arada bulunması gerektiğini öğrendik. Türk Borçlar Kanunu'nun 49. maddesi, haksız fiil sorumluluğunun ana omurgasını oluştururken, 112. maddesi ise sözleşmeye aykırılıktan doğan kusurlu sorumluluğu düzenlemektedir. Bu kavramların, Türk Ceza Kanunu'nda taksirli suçlar ve İdare Hukuku'nda idarenin hizmet kusuru bağlamında da uygulama alanı bulduğunu gördük. Pratik uygulamalarda trafik kazalarından tıbbi malpraktislere, sözleşme ihlallerinden idari eylemlere kadar geniş bir yelpazede karşımıza çıkan kusur sorumluluğu, adalet ve hakkaniyetin tesisi açısından hayati bir öneme sahiptir.\n\nAyrıca, sorumluluğu ortadan kaldıran veya azaltan mücbir sebep, zarar görenin kusuru gibi istisnai durumları da ele aldık. Kusur sorumluluğunda ispat yükünün genellikle zarar gören üzerinde olduğunu, ancak kusur karinelerinin bu durumu değiştirebileceğini de belirtmek gerekir. Maddi ve manevi tazminatın belirlenmesi, zamanaşımı süreleri ve müteselsil sorumluluk gibi hususlar da, pratik hukuki uyuşmazlıklarda büyük önem taşımaktadır. Güncel tartışmalar bağlamında, yapay zeka ve otonom sistemlerin yol açtığı zararlarda kusur sorumluluğunun nasıl yorumlanacağı gibi geleceğe yönelik meydan okumaları da gözden geçirdik.\n\nBu dersin temel amacı, hukuk sistemimizin temel direklerinden olan kusur sorumluluğu kavramına sağlam bir temel oturtmaktır. Her bir hukuki vakanın kendine özgü koşulları olduğunu ve yargı pratiğinin sürekli geliştiğini unutmamak gerekir. Bu nedenle, öğrendiğiniz temel bilgileri güncel mevzuat ve içtihatlarla sürekli pekiştirmeniz, başarılı bir hukukçu olmanız yolunda size büyük katkı sağlayacaktır. Kusur sorumluluğu, sadece teknik bir kavram olmanın ötesinde, bireyler arasındaki ilişkilerin düzenlenmesinde, hukuki güvenliğin sağlanmasında ve toplumsal barışın korunmasında merkezi bir role sahiptir. Bu dersin, sorumluluk hukuku alanındaki merakınızı artırmasını ve ilerideki çalışmalarınız için sağlam bir zemin oluşturmasını umuyorum. Herhangi bir hukuk eğitimi sürecinde olduğu gibi, okumaya, araştırmaya ve sorgulamaya devam etmek en önemli prensiptir. Dersimiz burada sona ermiştir, teşekkür ederim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Borçlar Kanunu'na göre, haksız fiil sorumluluğunun doğabilmesi için aşağıdaki unsurlardan hangisinin varlığı zorunlu değildir?",
+      "options": {
+        "A": "Kusur",
+        "B": "Hukuka Aykırı Fiil",
+        "C": "Zarar",
+        "D": "Mücbir Sebep"
+      },
+      "correctAnswer": "D",
+      "explanation": "Haksız fiil sorumluluğunun temel unsurları hukuka aykırı fiil, kusur, zarar ve illiyet bağıdır. Mücbir sebep, illiyet bağını kesen ve dolayısıyla sorumluluğu kaldıran veya azaltan bir durum olup, sorumluluğun doğması için aranan bir unsur değildir; aksine, sorumluluğu engelleyici bir faktördür."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi, kusur kavramının hukuktaki tezahür biçimlerinden biri değildir?",
+      "options": {
+        "A": "Kasıt",
+        "B": "İhmal",
+        "C": "Doğrudan Kast",
+        "D": "Ayırt Etme Gücü"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kusur, hukukta kasıt (doğrudan kast, olası kast) ve ihmal (ağır ihmal, hafif ihmal) olmak üzere iki temel şekilde ortaya çıkar. Ayırt etme gücü ise, bir kişinin fiillerinin hukuki sonuçlarını anlayabilme ve buna göre davranabilme yeteneğidir; kusurun varlığı için ön şart olmakla birlikte, kusurun kendisi değildir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Türk Borçlar Kanunu'na göre, haksız fiilden doğan tazminat talepleri için genel zamanaşımı süresi aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": {
+        "A": "Zarar ve tazminat yükümlüsünün öğrenildiği tarihten itibaren 1 yıl ve her halde fiilin işlendiği tarihten itibaren 5 yıl.",
+        "B": "Zarar ve tazminat yükümlüsünün öğrenildiği tarihten itibaren 2 yıl ve her halde fiilin işlendiği tarihten itibaren 10 yıl.",
+        "C": "Fiilin işlendiği tarihten itibaren 5 yıl ve her halde zararın öğrenildiği tarihten itibaren 10 yıl.",
+        "D": "Zararın öğrenildiği tarihten itibaren 2 yıl ve her halde fiilin işlendiği tarihten itibaren 20 yıl."
+      },
+      "correctAnswer": "B",
+      "explanation": "TBK m. 72'ye göre, tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İdarenin 'hizmet kusuru' nedeniyle ortaya çıkan sorumluluk, Türk Hukuku'nda hangi sorumluluk türüne örnek teşkil eder?",
+      "options": {
+        "A": "Kusursuz Sorumluluk",
+        "B": "Kusur Sorumluluğu",
+        "C": "Sebep Sorumluluğu",
+        "D": "Tehlike Sorumluluğu"
+      },
+      "correctAnswer": "B",
+      "explanation": "İdarenin hizmet kusuru (hizmetin kötü işlemesi, geç işlemesi veya hiç işlememesi), idare hukukunda idarenin kusurlu sorumluluğunun en belirgin örneğidir. Bu durumda idarenin, görevini layıkıyla yerine getirmemesi nedeniyle oluşan zararından dolayı kusurlu olduğu kabul edilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Birden çok kişinin aynı zarara kusurlu fiilleriyle sebep olması durumunda, Türk Borçlar Kanunu'na göre bu kişiler arasındaki sorumluluk ilişkisi nasıl adlandırılır?",
+      "options": {
+        "A": "Müteselsil Sorumluluk",
+        "B": "Müşterek Sorumluluk",
+        "C": "Tek Sorumluluk",
+        "D": "Zincirleme Sorumluluk"
+      },
+      "correctAnswer": "A",
+      "explanation": "TBK m. 61'e göre, birden çok kişinin aynı zarara birlikte neden olması durumunda, bu kişiler 'müteselsilen' sorumlu olurlar. Bu durum, zarar görenin zararın tamamını bu kişilerden herhangi birinden talep etme hakkına sahip olduğu anlamına gelir."
+    }
+  ]
+}

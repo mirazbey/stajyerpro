@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, bugünkü dersimizin konusu, borç ilişkilerinin önemli ancak borçlu temerrüdüne kıyasla daha az bilinen yönlerinden biri olan 'Alacaklı Temerrüdü'dür. Borçlar Kanunu'muzda düzenlenmiş olan bu kurum, borçlunun borcunu ifa etmek istemesine rağmen, alacaklının haklı bir sebep olmaksızın ifayı kabulden kaçınması veya ifanın gerçekleşmesi için gerekli hazırlık fiillerini yapmaması durumunda ortaya çıkar. Dersimiz boyunca, alacaklı temerrüdünün ne anlama geldiğini, hangi durumlarda söz konusu olacağını, borçluya ve borç ilişkisine ne gibi etkileri olduğunu detaylı bir şekilde inceleyeceğiz. Öncelikle, alacaklı temerrüdünü 'borçlu temerrüdü'nden ayırmak büyük önem taşımaktadır. Borçlu temerrüdü, borçlunun borcunu zamanında ve gereği gibi ifa etmemesi iken, alacaklı temerrüdü tam tersine, borçlunun ifaya hazır olmasına rağmen alacaklının ifayı kabul etmemesi veya engellemesidir. Bu durum, sözleşmelerin temelini oluşturan dürüstlük kuralı ve güven ilkesi açısından da ele alınmalıdır; zira bir tarafın kendi kusuru veya kusursuz olarak borcun ifasını engellemesi, diğer tarafın hukuki yükümlülüklerini yerine getirme çabasını boşa çıkarabilir. Konunun temelini oluşturan diğer kavramlar ise şunlardır: 'Edim', yani borcun konusu olan davranış veya şey; 'ifa', borcun gereği gibi yerine getirilmesi; 'ifa teklifi', borçlunun borcunu ifa etmek üzere alacaklıya yönelttiği irade beyanı ve eylemi; 'muacceliyet', borcun ifa edilebilir ve talep edilebilir hale gelmesi durumudur. Bu temel kavramları iyi anlamak, alacaklı temerrüdünün mekanizmasını kavramak için kritik öneme sahiptir. Türk Borçlar Kanunu (TBK) m. 106 ve devamı maddeleri, alacaklı temerrüdünün yasal çerçevesini oluşturmaktadır. Bu ders, sizleri bu karmaşık ancak adil dengeyi sağlayan hukuki kuruma dair derinlemesine bir anlayışla donatmayı hedeflemektedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Alacaklı temerrüdünün yasal çerçevesini Türk Borçlar Kanunu'nun (TBK) 106 ila 111. maddeleri oluşturmaktadır. Bu maddeler, alacaklı temerrüdünün koşullarını ve hukuki sonuçlarını ayrıntılı olarak düzenler. TBK m. 106'ya göre, 'Borcun ifası için alacaklının işbirliği gerekiyorsa, borçlu usulüne uygun bir ifa teklifinde bulunduğunda alacaklı haklı bir sebep olmaksızın ifayı kabul etmez veya kendisinden istenen hazırlık fiillerini yapmazsa, alacaklı temerrüdüne düşmüş olur.' Bu tanımdan yola çıkarak, alacaklı temerrüdünün ortaya çıkması için üç temel koşulun bir arada bulunması gerektiğini görmekteyiz: Birincisi, borcun muaccel olmasıdır. Yani, alacaklının borçluya karşı ifayı talep etme hakkının doğmuş olması ve borçlunun da ifa yükümlülüğünün başlamış olması gerekir. Vadesi gelmeyen bir borç için alacaklı temerrüdünden söz edilemez. İkincisi, borçlunun usulüne uygun bir ifa teklifinde bulunmasıdır. Bu teklif, gerçek bir ifa teklifi olmalıdır; yani borçlu ifayı aynen ve tam olarak, ifa yerinde ve ifa zamanında yapmaya hazır olmalıdır. Eğer borç edimini teslim etmek ise, borçlu o edimi alacaklıya sunmaya hazır olmalı, alacaklıya 'hazır ifa' teklif etmelidir. Ancak bazı durumlarda, alacaklının ifayı kabul etmesi için önceden belirli hazırlık fiillerini yapması gerekebilir (örneğin, bir şeyin teslimi için depoyu boşaltmak). Bu gibi hallerde borçlunun sadece 'ifa teklifinde bulunması' yeterli olmaz, aynı zamanda alacaklının gerekli hazırlık fiillerini yapmaması da temerrüt için bir koşul teşkil eder. Üçüncüsü ve en önemlisi, alacaklının bu ifayı haklı bir sebep olmaksızın kabulden kaçınması veya gerekli hazırlık fiillerini yapmamasıdır. Eğer alacaklının ifayı kabul etmemesi için haklı bir sebebi varsa (örneğin, ifanın eksik, ayıplı veya yanlış zamanda yapılması gibi), alacaklı temerrüdüne düşmüş sayılmaz. Bu üç koşulun eksiksiz bir şekilde gerçekleşmesi halinde, alacaklı temerrüdü hükümleri uygulama alanı bulacaktır. Bu bağlamda, 'ifa teklifi'nin niteliği ve 'haklı sebep' kavramı yargı kararlarıyla ve doktrinde detaylıca yorumlanmaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Hukuki Sonuçlar ve Pratik Uygulamalar",
+      "content": "Alacaklı temerrüdünün ortaya çıkması, borç ilişkisinde önemli hukuki sonuçlar doğurur ve bu sonuçlar genellikle borçlunun lehine, alacaklının aleyhinedir. Bu sonuçları TBK'nın ilgili maddeleri çerçevesinde ve pratik uygulamalarla ele alalım: İlk olarak, 'borçlunun sorumluluğunun hafiflemesi' söz konusudur (TBK m. 107/1). Alacaklı temerrüdüne düşerse, borçlu borcunu ifa etmeye devam etmekle yükümlüdür, ancak artık sadece kast ve ağır kusurdan sorumlu olur. Hafif kusurundan kaynaklanan sorumluluğu ortadan kalkar. Bu durum, borçluyu ifanın gecikmesi nedeniyle doğabilecek zararlardan büyük ölçüde korur. İkinci olarak, 'hasarın alacaklıya geçmesi' (TBK m. 107/2) önemli bir sonuçtur. Özellikle misli eşya satışlarında veya belirli bir malın teslim borcunda, alacaklı temerrüde düştüğünde, malın beklenmedik bir olay veya kaza sonucu zarar görmesi ya da yok olması riski borçludan alacaklıya geçer. Ancak bu hüküm, 'bedelli satışlarda' malın ayıplı ifasından doğan sorumluluğu kaldırmaz. Üçüncü önemli sonuç, 'tevdi hakkı'dır (TBK m. 107/3-4). Eğer ifa edilecek şey taşınır bir mal ise ve alacaklının temerrüdü nedeniyle borçlu bunu alacaklıya teslim edemiyorsa, borçlu mahkeme kararıyla veya mahkemece görevlendirilen bir tevdi yerine bu malı tevdi edebilir (örneğin, bir depoya veya bankaya yatırabilir). Para borçlarında ise, borçlu parayı alacaklının adına bir bankaya yatırabilir. Tevdi ile borçlu borcundan kurtulmuş olur ve tevdi giderlerini alacaklıdan talep edebilir. Dördüncü olarak, 'sözleşmeden dönme hakkı' (TBK m. 108) borçluya tanınan güçlü bir haktır. Taşınır bir malın ifasını konu alan borç ilişkisinde alacaklı temerrüde düşerse, borçlu, malı tevdi ettikten sonra alacaklıya bir ihtarname çekerek malı belirli bir süre içinde almasını talep edebilir. Bu süreye rağmen alacaklı malı almazsa, borçlu sözleşmeden dönebilir ve uğradığı zararların tazminini talep edebilir. Bu hak, borçluyu süresiz bir ifa yükümlülüğünden kurtarır. Son olarak, 'giderlerin alacaklıya yükletilmesi' (TBK m. 110) ile borçlunun temerrüt nedeniyle yaptığı tüm giderleri alacaklıdan talep etme hakkı doğar. Bu giderler, malın saklanması, tevdi edilmesi veya sözleşmeden dönme nedeniyle yapılan masraflar olabilir. Tüm bu sonuçlar, borçluyu alacaklının haksız ifa reddine karşı koruyan mekanizmalardır ve borç ilişkisinde adil bir denge sağlamayı amaçlar."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Alacaklı temerrüdü, hukuki sonuçları itibarıyla borçlu için önemli bir koruma kalkanı olsa da, uygulamada birtakım detaylara dikkat edilmesi gerekmektedir. Özellikle alacaklının temerrüde düşmesi için gerekli koşulların titizlikle incelenmesi ve ispat edilmesi kritik önem taşır. Öncelikle, 'borcun muacceliyeti' tekrar vurgulanmalıdır. Henüz vadesi gelmemiş veya borçlunun ifadan kaçınma hakkının bulunduğu (örneğin, ödemezlik def'i) durumlarda alacaklı temerrüdü söz konusu olmaz. Borçlunun 'usulüne uygun ifa teklifi' kavramı ise en çok dikkat edilmesi gereken noktalardan biridir. İfa teklifi, borcun aynen, tam olarak, ifa yerinde ve ifa zamanında yapılmış gerçek bir teklif olmalıdır. Örneğin, bir malın teslimi borcunda, borçlunun malı alacaklının adresine götürmesi ve teslim etmeye hazır olması gerekir. Sadece telefonla 'malın hazır olduğunu' bildirmek genellikle yeterli kabul edilmez. Ancak, alacaklının açıkça ifayı kabul etmeyeceğini beyan etmesi veya ifa için gerekli hazırlık fiillerini yapmaktan sürekli kaçınması gibi durumlarda, borçlunun 'gerçek ifa teklifi' yerine 'mazeret hali'nden bahsedilebilir ve bu da alacaklıyı temerrüde düşürebilir. 'Haklı bir sebep olmaksızın kabulden kaçınma' hususunda ise, alacaklının ifayı reddetme hakkının bulunduğu durumlar iyi ayırt edilmelidir. Örneğin, ifanın eksik yapılması, ayıplı olması, kararlaştırılan niteliklere uygun olmaması veya ifa zamanı ya da yerinin borçlu tarafından ihlal edilmesi gibi durumlarda alacaklının reddi haklıdır ve temerrüde düşmez. Bu durum, borçlunun kendisinin borçlu temerrüdüne düşmesine yol açabilir. İspat yükü açısından, alacaklının temerrüde düştüğünü iddia eden borçlu, usulüne uygun ifa teklifinde bulunduğunu ve alacaklının bunu haklı bir sebep olmaksızın reddettiğini ispatlamakla yükümlüdür. Bu nedenle, ifa teklifinin ispat edilebilir şekilde yapılması (örneğin, noter aracılığıyla ihtar çekilmesi, tanıklarla ispat edilebilecek durumlarda delillerin toplanması) büyük önem taşır. Özellikle taşınır malların tevdi edilmesi veya paranın bankaya yatırılması gibi durumlarda, kanunda belirtilen prosedürlere tam uyulması, borçlunun borçtan kurtulması ve haklarını etkin bir şekilde kullanabilmesi açısından elzemdir. Bu detaylara dikkat etmek, hukuki uyuşmazlıkların önüne geçmek veya mevcut uyuşmazlıklarda haklı çıkmak için temel gerekliliklerdir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli arkadaşlar, bugünkü dersimizde alacaklı temerrüdü kurumunu tüm yönleriyle ele aldık. Gördüğümüz gibi, alacaklı temerrüdü, borçlunun borcunu ifa etme arzusuna rağmen alacaklının ifayı haklı bir sebep olmaksızın kabul etmemesi veya gerekli hazırlık fiillerini yapmaması sonucu ortaya çıkan özel bir durumdur. Bu kurum, borçlar hukukumuzda borçluyu alacaklının haksız tutumlarına karşı koruma amacı güden önemli bir denge unsurudur. Alacaklı temerrüdünün ortaya çıkması için borcun muaccel olması, borçlunun usulüne uygun bir ifa teklifinde bulunması ve alacaklının bu ifayı haklı bir neden olmaksızın kabul etmemesi veya hazırlık fiillerini yapmaması gerekmektedir. Bu koşulların varlığı halinde, borçlunun sorumluluğunun hafiflemesi, hasarın alacaklıya geçmesi, tevdi hakkı, taşınır mal borçlarında sözleşmeden dönme hakkı ve yapılan giderlerin alacaklıdan talep edilmesi gibi önemli hukuki sonuçlar doğmaktadır. Özellikle TBK m. 106'dan 111'e kadar olan hükümler, alacaklı temerrüdünün temelini oluşturmakta ve borç ilişkilerinde borçlunun 'mağduriyetini' önlemektedir. Unutmamalıyız ki, ifa teklifinin şekli, içeriği ve ispatı konularında titiz davranmak, borçlunun haklarını koruması açısından hayati öneme sahiptir. Alacaklı temerrüdü, borçlunun sonsuza kadar borcunun altında ezilmesini engelleyen, ona bir çıkış yolu sunan ve hukukun adalet ilkesini yansıtan bir mekanizmadır. Bu konuyu pekiştirmek için, gerçek hayattan vaka örneklerini incelemeniz, özellikle tevdi ve sözleşmeden dönme haklarının nasıl kullanıldığına dair yargıtay kararlarını okumanız faydalı olacaktır. Örneğin, bir inşaat projesinde müteahhidin (borçlu) işi teslim etmeye hazır olmasına rağmen arsa sahibinin (alacaklı) gerekli evrakları imzalamaması veya teslim almaktan kaçınması gibi durumlarda bu hükümlerin nasıl uygulanacağını düşünmek konuyu daha iyi anlamanızı sağlayacaktır. Konuyla ilgili daha fazla bilgi edinmek için Türk Borçlar Kanunu şerhlerini ve borçlar hukuku ders kitaplarını inceleyebilirsiniz. Bir sonraki dersimizde farklı bir konuyu ele alana dek, hukukla kalın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk Borçlar Kanunu'na (TBK) göre alacaklı temerrüdünün ortaya çıkması için gerekli koşullardan biri DEĞİLDİR?",
+      "options": {
+        "A": "Borcun muaccel olması",
+        "B": "Borçlunun usulüne uygun ifa teklifinde bulunması",
+        "C": "Alacaklının ifayı haklı bir sebep olmaksızın reddetmesi",
+        "D": "Alacaklının borçluya karşı maddi tazminat davası açması"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alacaklı temerrüdünün koşulları TBK m. 106'da düzenlenmiştir: borcun muaccel olması, borçlunun usulüne uygun ifa teklifi ve alacaklının haklı bir sebep olmaksızın ifayı reddetmesi veya gerekli hazırlık fiillerini yapmamasıdır. Alacaklının maddi tazminat davası açması, alacaklı temerrüdünün bir koşulu değil, borçlu temerrüdü veya başka bir hukuki uyuşmazlığın sonucu olabilir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Borçlar Kanunu'na göre, alacaklı temerrüdüne düşen bir borç ilişkisinde borçlunun sorumluluğu hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Borçlu, her türlü kusurundan sorumlu olmaya devam eder.",
+        "B": "Borçlunun sorumluluğu tamamen ortadan kalkar ve borç sona erer.",
+        "C": "Borçlu, sadece kast ve ağır kusurundan sorumlu olur.",
+        "D": "Borçlu, sadece hafif kusurundan sorumlu olur, kast ve ağır kusurundan sorumlu olmaz."
+      },
+      "correctAnswer": "C",
+      "explanation": "TBK m. 107/1'e göre, alacaklı temerrüdüne düştüğü takdirde, borçlu borcunu ifa etmeye devam etmekle yükümlüdür ancak artık sadece kast ve ağır kusurundan sorumlu olur. Hafif kusurundan kaynaklanan sorumluluğu ortadan kalkar. Bu durum, borçluyu ifanın gecikmesi nedeniyle doğabilecek zararlardan korur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir mobilya üreticisi (borçlu), sipariş edilen özel tasarım mobilyayı (taşınır mal) zamanında tamamlamış ve alıcıya (alacaklı) teslimat için hazır olduğunu bildirmiştir. Ancak alıcı, geçerli bir sebep belirtmeksizin mobilyayı teslim almaktan kaçınmaktadır. Bu durumda mobilya üreticisinin Türk Borçlar Kanunu'na göre aşağıdaki hangi hakkı bulunmaktadır?",
+      "options": {
+        "A": "Mobilyayı derhal yok etme hakkı",
+        "B": "Mobilyayı kendi depo maliyetini karşılayacak şekilde istediği fiyattan üçüncü bir kişiye satma hakkı",
+        "C": "Mobilyayı alacaklı adına mahkeme kararı ile belirlenecek bir tevdi yerine tevdi etme hakkı",
+        "D": "Alıcıya karşı faiz talep etme hakkı"
+      },
+      "correctAnswer": "C",
+      "explanation": "TBK m. 107/3'e göre, 'ifa edilecek şey niteliği gereği tevdiye elverişli ise, alacaklının temerrüdü durumunda borçlu, hâkimin belirleyeceği yere tevdi ederek borcundan kurtulabilir.' Bu durumda mobilya üreticisi, mobilyayı alıcı adına bir depoya tevdi ederek borcundan kurtulabilir ve tevdi giderlerini alıcıdan talep edebilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Alacaklı temerrüdüne düşen bir durumda, borçluya tanınan sözleşmeden dönme hakkı (TBK m. 108) hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Bu hak, yalnızca taşınır malların ifasını konu alan borç ilişkilerinde söz konusudur.",
+        "B": "Borçlunun sözleşmeden dönebilmesi için öncelikle malı tevdi etmiş olması gerekir.",
+        "C": "Borçlunun alacaklıya belirli bir süre vererek ihtar çekmesi gereklidir.",
+        "D": "Borçlu, sözleşmeden dönme hakkını kullanarak malı alacaklıya karşı rızaen teslim etme yükümlülüğünden kurtulur, ancak tazminat talep edemez."
+      },
+      "correctAnswer": "D",
+      "explanation": "TBK m. 108'e göre, alacaklı temerrüdü halinde borçlu, malı tevdi ettikten sonra alacaklıya uygun bir süre vererek ihtar çekebilir ve bu süre içinde alacaklı malı teslim almazsa sözleşmeden dönebilir. Sözleşmeden dönme hakkı, borçlunun ifadan vazgeçmesini sağlar ve borçlu, sözleşmenin sona ermesiyle uğradığı zararların tazminini de talep edebilir. Bu nedenle D seçeneğindeki 'tazminat talep edemez' ifadesi yanlıştır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir alacaklı, borçlunun kendisine ifa etmeyi teklif ettiği borcu, ifanın eksik veya ayıplı olduğu gerekçesiyle reddetmiştir. Bu durumda, Türk Borçlar Kanunu'na göre alacaklı temerrüdü hükümleri uygulanabilir mi?",
+      "options": {
+        "A": "Evet, çünkü alacaklı ifayı reddetmiştir, bu doğrudan alacaklı temerrüdüdür.",
+        "B": "Hayır, çünkü alacaklının ifayı reddetmesi haklı bir sebebe dayanmaktadır.",
+        "C": "Alacaklı temerrüdü değil, borçlu temerrüdü hükümleri uygulanır.",
+        "D": "Bu durum, sözleşmenin feshi için yeterli bir sebep teşkil eder."
+      },
+      "correctAnswer": "B",
+      "explanation": "Alacaklı temerrüdünün temel koşullarından biri, alacaklının ifayı 'haklı bir sebep olmaksızın' kabulden kaçınması veya gerekli hazırlık fiillerini yapmamasıdır (TBK m. 106). Eğer ifa eksik veya ayıplıysa, alacaklının ifayı reddetmesi haklı bir sebebe dayanır. Bu durumda alacaklı temerrüdüne düşmüş sayılmaz. Aksine, ifanın eksik veya ayıplı olması, borçlunun borcunu gereği gibi ifa etmemesi nedeniyle 'borçlu temerrüdüne' yol açabilir."
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+import 'dart:async';
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../shared/models/question_model.dart';
+import '../data/quiz_repository.dart';
+
+    state = state.copyWith(selectedAnswers: newAnswers);
+  }
+
+  void nextQuestion() {
+    if (!state.isLastQuestion) {
+      state = state.copyWith(
+        currentQuestionIndex: state.currentQuestionIndex + 1,
+      );
+    }
+  }
+
+  void previousQuestion() {
+    if (state.currentQuestionIndex > 0) {
+      state = state.copyWith(
+        currentQuestionIndex: state.currentQuestionIndex - 1,
+      );
+    }
+  }
+
+  void goToQuestion(int index) {
+    if (index >= 0 && index < state.totalQuestions) {
+      state = state.copyWith(currentQuestionIndex: index);
+    }
+  }
+}
+
+/// Quiz ekranı - Soru çözme
+class QuizScreen extends ConsumerStatefulWidget {
+  final List<String> topicIds;
+  final int questionCount;
+  final String difficulty;
+
+  const QuizScreen({
+    super.key,
+    required this.topicIds,
+    required this.questionCount,
+    required this.difficulty,
+  });
+
+  @override
+  ConsumerState<QuizScreen> createState() => _QuizScreenState();
+}
+
+class _QuizScreenState extends ConsumerState<QuizScreen> {
+  Timer? _timer;
+  Duration _elapsed = Duration.zero;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadQuestions();
+    _startTimer();
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  void _startTimer() {
+    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
+      setState(() {
+        _elapsed = Duration(seconds: timer.tick);
+      });
+    });
+  }
+
+  Future<void> _loadQuestions() async {
+    final repository = ref.read(quizRepositoryProvider);
+    try {
+      List<QuestionModel> questions;
+
+      if (widget.topicIds.isEmpty) {
+        // Random quiz (all topics)
+        questions = await repository.getRandomQuestions(
+          limit: widget.questionCount,
+          difficulty: widget.difficulty,
+        );
+      } else {
+        // Specific topics
+        questions = await repository.getQuestionsByTopics(
+          topicIds: widget.topicIds,
+          limit: widget.questionCount,
+          difficulty: widget.difficulty,
+        );
+      }
+
+      if (questions.isEmpty) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Seçili konularda soru bulunamadı')),
+          );
+          context.pop();
+        }
+        return;
+      }
+
+      ref.read(quizStateProvider.notifier).setQuestions(questions, difficulty: widget.difficulty);
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Soru yüklenirken hata oluştu: $e'),
+          ),
+        );
+        // Soruları yükleyemezsek kullanıcıyı güvenli şekilde geri döndür
+        Future.microtask(() => context.pop());
+      }
+    }
+  }
+
+  void _finishQuiz() {
+    final state = ref.read(quizStateProvider);
+    final answers = <UserAnswer>[];
+
+    for (var i = 0; i < state.questions.length; i++) {
+      final question = state.questions[i];
+      final selectedIndex = state.selectedAnswers[i];
+      if (selectedIndex != null) {
+        answers.add(UserAnswer(
+          questionId: question.id,
+          selectedIndex: selectedIndex,
+          isCorrect: selectedIndex == question.correctIndex,
+          answeredAt: DateTime.now(),
+        ));
+      }
+    }
+
+    // Result ekranına git
+    context.push('/quiz/result', extra: {
+      'questions': state.questions,
+      'answers': answers,
+      'duration': _elapsed,
+      'topicIds': widget.topicIds,
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final state = ref.watch(quizStateProvider);
+
+    if (state.questions.isEmpty) {
+      return const Scaffold(
+        body: Center(child: CircularProgressIndicator()),
+      );
+    }
+
+    final currentQuestion = state.questions[state.currentQuestionIndex];
+    final selectedAnswer = state.selectedAnswers[state.currentQuestionIndex];
+
+    return WillPopScope(
+      onWillPop: () async {
+        final shouldPop = await showDialog<bool>(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: const Text('Quiz\'den Çık'),
+            content:
+                const Text('Quiz\'i bitirmeden çıkmak istediğinize emin misiniz?'),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child: const Text('Devam Et'),
+              ),
+              TextButton(
+                onPressed: () => Navigator.pop(context, true),
+                child: const Text('Çık'),
+              ),
+            ),
+
+            Expanded(
+              child: SingleChildScrollView(
+                padding: const EdgeInsets.all(16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    // Soru metni
+                    Card(
+                      child: Padding(
+                        padding: const EdgeInsets.all(16),
+                        child: Text(
+                          currentQuestion.stem,
+                          style: Theme.of(context)
+                              .textTheme
+                              .titleMedium
+                              ?.copyWith(
+                                fontWeight: FontWeight.w500,
+                                height: 1.4,
+                              ),
+                        ),
+                      ),
+                    ),
+
+                    const SizedBox(height: 16),
+
+                    // Şıklar
+                    ...List.generate(currentQuestion.options.length, (index) {
+                      final isSelected = selectedAnswer == index;
+                      final optionLetter =
+                          String.fromCharCode(65 + index); // A, B, C, D, E
+
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 12),
+                        child: InkWell(
+                          onTap: () {
+                            ref
+                                .read(quizStateProvider.notifier)
+                                .selectAnswer(index);
+                          },
+                          borderRadius: BorderRadius.circular(12),
+                          child: Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: BoxDecoration(
+                              color: isSelected
+                                  ? Theme.of(context)
+                                      .colorScheme
+                                      .primaryContainer
+                                  : Theme.of(context)
+                                      .colorScheme
+                                      .surfaceVariant,
+                              borderRadius: BorderRadius.circular(12),
+                              border: Border.all(
+                                color: isSelected
+                                    ? Theme.of(context).colorScheme.primary
+                                    : Colors.transparent,
+                                width: 2,
+                              ),
+                            ),
+                            child: Row(
+                              children: [
+                                // Şık harfi
+                                Container(
+                                  width: 32,
+                                  height: 32,
+                                  decoration: BoxDecoration(
+                                    color: isSelected
+                                        ? Theme.of(context).colorScheme.primary
+                                        : Theme.of(context)
+                                            .colorScheme
+                                            .onSurfaceVariant
+                                            .withOpacity(0.2),
+                                    shape: BoxShape.circle,
+                                  ),
+                                  child: Center(
+                                    child: Text(
+                                      optionLetter,
+                                      style: TextStyle(
+                                        color: isSelected
+                                            ? Theme.of(context)
+                                                .colorScheme
+                                                .onPrimary
+                                            : Theme.of(context)
+                                                .colorScheme
+                                                .onSurfaceVariant,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                                const SizedBox(width: 12),
+                                // Şık metni
+                                Expanded(
+                                  child: Text(
+                                    currentQuestion.options[index],
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyMedium
+                                        ?.copyWith(
+                                          color: isSelected
+                                              ? Theme.of(context)
+                                                  .colorScheme
+                                                  .onPrimaryContainer
+                                              : null,
+                                        ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                      );
+                    }),
+
+                    const SizedBox(height: 80), // Navigation butonları için boşluk
+                  ],
+                ),
+              ),
+            ),
+
+            // Alt navigasyon
+            Container(
+              padding: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                color: Theme.of(context).colorScheme.surface,
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.05),
+                    blurRadius: 10,
+                    offset: const Offset(0, -2),
+                  ),
+                ],
+              ),
+              child: Row(
+                children: [
+                  // Önceki soru
+                  if (state.currentQuestionIndex > 0)
+                    Expanded(
+                      child: OutlinedButton.icon(
+                        onPressed: () {
+                          ref.read(quizStateProvider.notifier).previousQuestion();
+                        },
+                        icon: const Icon(Icons.arrow_back),
+                        label: const Text('Önceki'),
+                      ),
+                    ),
+                  if (state.currentQuestionIndex > 0) const SizedBox(width: 12),
+
+                  // Sonraki/Bitir
+                  Expanded(
+                    flex: state.currentQuestionIndex == 0 ? 1 : 1,
+                    child: ElevatedButton.icon(
+                      onPressed: selectedAnswer != null
+                          ? () {
+                              if (state.isLastQuestion) {
+                                _finishQuiz();
+                              } else {
+                                ref
+                                    .read(quizStateProvider.notifier)
+                                    .nextQuestion();
+                              }
+                            }
+                          : null,
+                      icon: Icon(state.isLastQuestion
+                          ? Icons.check
+                          : Icons.arrow_forward),
+                      label: Text(
+                          state.isLastQuestion ? 'Bitir' : 'Sonraki'),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+    final currentQuestion = state.questions[state.currentQuestionIndex];
+    final selectedAnswer = state.selectedAnswers[state.currentQuestionIndex];
+
+    return WillPopScope(
+      onWillPop: () async {
+        final shouldPop = await showDialog<bool>(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: const Text('Quiz\'den Çık'),
+            content:
+                const Text('Quiz\'i bitirmeden çıkmak istediğinize emin misiniz?'),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child: const Text('Devam Et'),
+              ),
+              TextButton(
+                onPressed: () => Navigator.pop(context, true),
+                child: const Text('Çık'),
+              ),
+            ),
+
+            Expanded(
+              child: SingleChildScrollView(
+                padding: const EdgeInsets.all(16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    // Soru metni
+                    Card(
+                      child: Padding(
+                        padding: const EdgeInsets.all(16),
+                        child: Text(
+                          currentQuestion.stem,
+                          style: Theme.of(context)
+                              .textTheme
+                              .titleMedium
+                              ?.copyWith(
+                                fontWeight: FontWeight.w500,
+                                height: 1.4,
+                              ),
+                        ),
+                      ),
+                    ),
+
+                    const SizedBox(height: 16),
+
+                    // Şıklar
+                    ...List.generate(currentQuestion.options.length, (index) {
+                      final isSelected = selectedAnswer == index;
+                      final optionLetter =
+                          String.fromCharCode(65 + index); // A, B, C, D, E
+
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 12),
+                        child: InkWell(
+                          onTap: () {
+                            ref
+                                .read(quizStateProvider.notifier)
+                                .selectAnswer(index);
+                          },
+                          borderRadius: BorderRadius.circular(12),
+                          child: Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: BoxDecoration(
+                              color: isSelected
+                                  ? Theme.of(context)
+                                      .colorScheme
+                                      .primaryContainer
+                                  : Theme.of(context)
+                                      .colorScheme
+                                      .surfaceVariant,
+                              borderRadius: BorderRadius.circular(12),
+                              border: Border.all(
+                                color: isSelected
+                                    ? Theme.of(context).colorScheme.primary
+                                    : Colors.transparent,
+                                width: 2,
+                              ),
+                            ),
+                            child: Row(
+                              children: [
+                                // Şık harfi
+                                Container(
+                                  width: 32,
+                                  height: 32,
+                                  decoration: BoxDecoration(
+                                    color: isSelected
+                                        ? Theme.of(context).colorScheme.primary
+                                        : Theme.of(context)
+                                            .colorScheme
+                                            .onSurfaceVariant
+                                            .withOpacity(0.2),
+                                    shape: BoxShape.circle,
+                                  ),
+                                  child: Center(
+                                    child: Text(
+                                      optionLetter,
+                                      style: TextStyle(
+                                        color: isSelected
+                                            ? Theme.of(context)
+                                                .colorScheme
+                                                .onPrimary
+                                            : Theme.of(context)
+                                                .colorScheme
+                                                .onSurfaceVariant,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                                const SizedBox(width: 12),
+                                // Şık metni
+                                Expanded(
+                                  child: Text(
+                                    currentQuestion.options[index],
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyMedium
+                                        ?.copyWith(
+                                          color: isSelected
+                                              ? Theme.of(context)
+                                                  .colorScheme
+                                                  .onPrimaryContainer
+                                              : null,
+                                        ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                      );
+                    }),
+
+                    const SizedBox(height: 80), // Navigation butonları için boşluk
+                  ],
+                ),
+              ),
+            ),
+
+            // Alt navigasyon
+            Container(
+              padding: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                color: Theme.of(context).colorScheme.surface,
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.05),
+                    blurRadius: 10,
+                    offset: const Offset(0, -2),
+                  ),
+                ],
+              ),
+              child: Row(
+                children: [
+                  // Önceki soru
+                  if (state.currentQuestionIndex > 0)
+                    Expanded(
+                      child: OutlinedButton.icon(
+                        onPressed: () {
+                          ref.read(quizStateProvider.notifier).previousQuestion();
+                        },
+                        icon: const Icon(Icons.arrow_back),
+                        label: const Text('Önceki'),
+                      ),
+                    ),
+                  if (state.currentQuestionIndex > 0) const SizedBox(width: 12),
+
+                  // Sonraki/Bitir
+                  Expanded(
+                    flex: state.currentQuestionIndex == 0 ? 1 : 1,
+                    child: ElevatedButton.icon(
+                      onPressed: selectedAnswer != null
+                          ? () {
+                              if (state.isLastQuestion) {
+                                _finishQuiz();
+                              } else {
+                                ref
+                                    .read(quizStateProvider.notifier)
+                                    .nextQuestion();
+                              }
+                            }
+                          : null,
+                      icon: Icon(state.isLastQuestion
+                          ? Icons.check
+                          : Icons.arrow_forward),
+                      label: Text(
+                          state.isLastQuestion ? 'Bitir' : 'Sonraki'),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  String _formatDuration(Duration duration) {
+    final minutes = duration.inMinutes.toString().padLeft(2, '0');
+    final seconds = (duration.inSeconds % 60).toString().padLeft(2, '0');
+    return '$minutes:$seconds';
+  }
+
+  String _getDifficultyLabel(String difficulty) {
+    switch (difficulty) {
+      case 'easy':
+        return 'Kolay';
+      case 'medium':
+        return 'Orta';
+      case 'hard':
+        return 'Zor';
+      case 'all':
+      default:
+        return 'Karışık';
+    }
+  }
+
+  Future<void> _handleDifficultyChange(String newDifficulty) async {
+    // Kullanıcıya uyarı göster
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Text('Zorluk Seviyesi Değiştir'),
+        content: Text(
+          'Zorluk seviyesini \"${_getDifficultyLabel(newDifficulty)}\" olarak değiştirmek istediğinize emin misiniz?\n\nMevcut ilerlemeniz sıfırlanacak ve yeni sorular yüklenecek.',
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('İptal'),
+          ),
+          TextButton(
+            onPressed: () => Navigator.pop(context, true),
+            child: const Text('Değiştir'),
+          ),
+        ],
+      ),
+    );
+
+    if (confirmed == true && mounted) {
+      // State'i güncelle
+      ref.read(quizStateProvider.notifier).changeDifficulty(newDifficulty);
+      
+      // Yeni soruları yükle
+      final repository = ref.read(quizRepositoryProvider);
+      try {
+        List<QuestionModel> questions;
+
+        if (widget.topicIds.isEmpty) {
+          questions = await repository.getRandomQuestions(
+            limit: widget.questionCount,
+            difficulty: newDifficulty,
+          );
+        } else {
+          questions = await repository.getQuestionsByTopics(
+            topicIds: widget.topicIds,
+            limit: widget.questionCount,
+            difficulty: newDifficulty,
+          );
+        }
+
+        if (questions.isEmpty && mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Bu zorluk seviyesinde soru bulunamadı'),
+            ),
+          );
+          return;
+        }
+
+        ref.read(quizStateProvider.notifier).setQuestions(
+          questions,
+          difficulty: newDifficulty,
+        );
+
+        // Süreyi sıfırla
+        _timer?.cancel();
+        setState(() {
+          _elapsed = Duration.zero;
+        });
+        _startTimer();
+        
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(
+                'Zorluk seviyesi \"${_getDifficultyLabel(newDifficulty)}\" olarak değiştirildi',
+              ),
+              duration: const Duration(seconds: 2),
+            ),
+          );
+        }
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Sorular yüklenirken hata: $e'),
+            ),
+          );
+        }
+      }
+    }
+  }
+}

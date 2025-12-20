@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Uzlaştırma:** Türk hukuk sisteminde, özellikle ceza muhakemesinde belirli suç tiplerinde, mağdur veya suçtan zarar gören ile şüphelinin/sanığın tarafsız bir üçüncü kişi (uzlaştırmacı) arabuluculuğuyla bir araya gelerek, suçtan kaynaklanan uyuşmazlığın çözümü konusunda anlaşmalarıdır. Ceza Muhakemesi Kanunu (CMK) m. 253 vd. düzenlenmiştir.\n•   **Uzlaştırmacı Avukat:** Uzlaştırma süreci için Adalet Bakanlığı tarafından uzlaştırmacı siciline kayıtlı, tarafsız ve bağımsız hareket etmekle yükümlü avukatlardır. Hukuk eğitimi ve tecrübesi, uzlaştırma sürecinin sağlıklı işlemesi için kritik öneme sahiptir.\n•   **Tarafsızlık ve Bağımsızlık İlkesi:** Uzlaştırmacının, süreçteki taraflardan herhangi birinin lehine veya aleyhine hareket etmemesi, kendi kişisel veya mesleki çıkar çatışmasından uzak durması ve tamamen objektif bir yaklaşımla süreci yönetmesidir.\n•   **Gizlilik İlkesi:** Uzlaştırma sürecinde taraflarca paylaşılan veya uzlaştırmacının edindiği tüm bilgi ve belgelerin, kanunda belirtilen istisnalar dışında üçüncü kişilerle paylaşılmaması, sürece özgü ve esasa ilişkin hususların sır olarak saklanmasıdır.\n•   **Gönüllülük İlkesi:** Uzlaştırma sürecine katılımın ve varılacak anlaşmanın tamamen tarafların özgür iradelerine dayanmasıdır. Hiçbir taraf uzlaştırmaya katılmaya veya anlaşmaya zorlanamaz.\n•   **Uzlaştırmacı Avukatın Temel Yükümlülükleri:** Genel avukatlık mesleğinin gerektirdiği özen, sır saklama, hesap verme gibi yükümlülüklerin yanı sıra, uzlaştırma sürecinin kendine özgü tarafsızlık ve gizlilik ilkeleri doğrultusunda hareket etme sorumluluğudur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Avukatlık Kanunu m. 34 (Özen Yükümlülüğü):** Avukatlar, yüklendikleri görevleri bu görevin kutsallığına yakışır bir şekilde özen, doğruluk ve onur içinde yerine getirmek ve avukatlık unvanının gerektirdiği saygı ve güvene uygun biçimde davranmak ve Türkiye Barolar Birliğince belirlenen meslek kurallarına uymakla yükümlüdürler. Bu yükümlülük, uzlaştırmacı avukat için de geçerli olup, süreç yönetiminde titizliği, hukuki bilgiye hakimiyeti ve tarafları doğru yönlendirmeyi gerektirir.\n•   **Avukatlık Kanunu m. 36 (Sır Saklama Yükümlülüğü):** Avukatların, kendilerine tevdi edilen veya gerek avukatlık görevi, gerekse Türkiye Barolar Birliği ve barolar organlarındaki görevleri dolayısıyla öğrendikleri hususları açığa vurmaları yasaktır. Uzlaştırma sürecinde edinilen bilgiler de bu kapsamda sır niteliğindedir ve bu yükümlülük vekalet ilişkisi sona erse dahi süresiz olarak devam eder.\n•   **Avukatlık Kanunu m. 38 (İşi Ret Zorunluluğu):** Avukatın kendisine yapılan teklifi yolsuz veya haksız görmesi, aynı işte menfaati zıt bir tarafa avukatlık etmiş veya mütalaa vermiş olması gibi durumlarda teklifi reddetme zorunluluğu vardır. Uzlaştırmacı avukat için bu madde, tarafsızlığını zedeleyecek veya çıkar çatışması yaratacak durumlarda uzlaştırma görevini kabul etmeme zorunluluğu anlamına gelir.\n•   **Avukatlık Kanunu m. 37 (İşin Reddedildiğinin Bildirilmesi Yükümlülüğü):** Avukat, kendisine teklif olunan işi sebep göstermeden reddedebilir. Reddin, iş sahibine gecikmeden bildirilmesi zorunludur. Uzlaştırma görevlendirmesini reddeden avukatın da ilgili makama veya taraflara bu durumu makul sürede bildirmesi beklenir.\n•   **Ceza Muhakemesi Kanunu (CMK) m. 253-255:** Uzlaştırma kurumunun uygulanacağı suçlar, uzlaştırma usulü, uzlaştırma teklifi, uzlaştırmacının görevlendirilmesi, uzlaştırmanın sonuçları gibi temel hükümleri düzenler. Uzlaştırmacı avukatın görevlendirilmesi ve yetkileri bu maddeler çerçevesinde belirlenir.\n•   **Ceza Muhakemesi Kanununa Göre Uzlaştırmanın Uygulanmasına İlişkin Yönetmelik:** Uzlaştırma süreçlerinin daha detaylı usul ve esaslarını belirler. Uzlaştırmacı avukatların eğitimi, sicile kaydı, görevlendirilmesi, ücretlendirilmesi, rapor düzenleme yükümlülükleri gibi pratik tüm detaylar bu Yönetmelikte yer alır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Özen Yükümlülüğünün İhlali:** Bir uzlaştırmacı avukatın, uzlaştırma sürecini başlatan evrakı tebliğ aldıktan sonra yasal uzlaştırma süresi içinde tarafları bir araya getirememesi ve süreyi uzatma talebinde bulunmayarak uzlaştırma teklifini düşürmesi, özen yükümlülüğüne aykırı bir davranıştır.\n•   **Sır Saklama Yükümlülüğünün İhlali:** Uzlaştırma görüşmelerinde taraflardan birinin, suçun işleniş biçimi hakkında hassas bir bilgiyi uzlaştırmacıyla paylaşmasına rağmen, uzlaştırmacının bu bilgiyi süreci takip eden kolluk kuvvetlerine veya savcılığa izinsiz olarak aktarması, sır saklama yükümlülüğünün ihlalidir.\n•   **Çıkar Çatışması Nedeniyle İşi Ret:** Bir avukatın, daha önce bir tarafın vekilliğini yaptığı bir dosyada (farklı bir konu olsa dahi) şimdi o taraf ile karşı taraf arasında uzlaştırmacı olarak görevlendirilmesi teklif edildiğinde, tarafsızlığını koruyamayacağı endişesiyle bu görevi reddetmesi, işi ret zorunluluğunun bir örneğidir.\n•   **Hesap Verme Yükümlülüğü:** Uzlaştırma anlaşması sonucunda şüphelinin mağdura belirli bir miktar tazminat ödemeyi taahhüt etmesi ve bu paranın uzlaştırmacı avukat aracılığıyla ödenmesine karar verilmesi halinde, uzlaştırmacı avukatın tahsil ettiği parayı gecikmeksizin ve eksiksiz olarak mağdura teslim etmek ve bunun belgesini almak zorundadır.\n•   **Yolsuz veya Haksız İşi Red:** Uzlaştırma sürecinde taraflardan birinin, yasalara açıkça aykırı, ahlaka veya adil yargılanma ilkesine tamamen ters düşen bir talepte bulunması durumunda, uzlaştırmacı avukatın bu talebin kabul edilemez olduğunu belirtmesi ve bu koşullarda uzlaştırma sürecine devam edemeyeceğini bildirmesi, yolsuz/haksız işi reddetme ilkesiyle ilişkilidir.\n•   **Talimatlara Uygun Davranma ile Bağımsızlık Dengesi:** Bir uzlaştırmacı avukatın, sürecin herhangi bir aşamasında taraflardan birinin hukuki veya etik olmayan bir uzlaşma maddesi dayatması halinde, uzlaştırıcılık bağımsızlığını kullanarak bu tür bir anlaşmaya aracılık etmeyi reddetmesi, avukatın iş sahibinin her isteğini sınırsız biçimde yerine getirme zorunda olmadığını gösterir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Uzlaştırmacı Rolü ile Vekil Rolünün Ayrımı:** Uzlaştırmacı avukat, taraflardan herhangi birinin hukuki vekili değildir. Amacı taraflar arasında adil ve gönüllü bir anlaşma zemini yaratmaktır. Bu rol ayrımının net bir şekilde korunması, tarafsızlık ilkesi için hayati öneme sahiptir.\n•   **Gizliliğin Kapsamı ve İstisnaları:** Uzlaştırma sürecinde elde edilen bilgilerin mutlak gizliliği esastır. Ancak, kanunen bildirim yükümlülüğü olan durumlar (örn. çocuk istismarı şüphesi) veya tarafların açık rızası gibi istisnai hallerde gizlilik ilkesi delinebilir. Bu istisnaların doğru anlaşılması önemlidir.\n•   **Sürelerin Doğru Takibi:** CMK ve ilgili Yönetmelikte uzlaştırma süreci için belirli süreler öngörülmüştür. Uzlaştırmacı avukatın bu süreleri titizlikle takip etmesi, süre uzatım taleplerini zamanında yapması ve sürecin bu nedenle aksamamasını sağlaması esastır.\n•   **Anlaşma Raporunun Hukuki Geçerliliği:** Uzlaştırma sonucunda varılan anlaşmanın hukuki geçerlilik taşıması için, uzlaştırma raporunun usulüne uygun, açık, anlaşılır ve yasalara uygun bir şekilde düzenlenmesi gerekir. Raporun eksik veya hatalı olması, anlaşmanın iptaline yol açabilir.\n•   **Sorumluluk Halleri:** Uzlaştırmacı avukatın özen, sır saklama, tarafsızlık gibi yükümlülükleri ihlal etmesi durumunda hukuki (tazminat), cezai (sırrın ifşası vb.) ve disiplin (baro tarafından verilen cezalar) sorumlulukları doğabilir. Bu sorumlulukların bilincinde olmak önemlidir.\n•   **Eğitim ve Mesleki Gelişim:** Uzlaştırma alanındaki mevzuat ve güncel uygulamalar sürekli takip edilmeli, mesleki gelişim faaliyetlerine katılım sağlanarak bilgi ve deneyim taze tutulmalıdır. Uzlaştırmacı avukatın bilmesi gereken bilgilerle donanımlı olması, özen yükümlülüğünün bir gereğidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Uzlaştırma Kurumunun Temelleri:** CMK m. 253-255 ve Uzlaştırma Yönetmeliği'nin ana hatlarını ve uzlaştırmanın temel ilkelerini (tarafsızlık, gizlilik, gönüllülük) iyi kavrayın.\n•   **Avukatın Temel Yükümlülükleri:** Avukatlık Kanunu'nda yer alan özen (m.34), sır saklama (m.36), işi ret (m.38) ve hesap verme yükümlülüklerinin uzlaştırma sürecindeki yansımalarını ve özel görünümlerini öğrenin.\n•   **Sorumluluk Mekanizmaları:** Uzlaştırmacı avukatın görevini kötüye kullanması veya yükümlülüklerini ihlal etmesi durumunda ortaya çıkacak hukuki, cezai ve disiplin sorumluluk hallerini örnekleriyle birlikte inceleyin.\n•   **Etik İlkeler ve Meslek Kuralları:** Türkiye Barolar Birliği Meslek Kuralları'nın (özellikle sır saklama, çıkar çatışması gibi konulardaki maddeler) uzlaştırmacı avukat için önemini ve bağlayıcılığını anlayın.\n•   **Pratik Senaryo Çözümleri:** Verilen pratik örneklerdeki gibi, farklı uzlaştırma senaryolarında uzlaştırmacı avukatın nasıl hareket etmesi gerektiğine dair örnek olayları düşünerek, doğru tepkileri ve yasal dayanaklarını belirleme becerisi geliştirin.\n•   **Mevzuat Güncelleştirmeleri:** Uzlaştırma mevzuatında yapılabilecek olası değişiklikleri takip ederek güncel bilgilere sahip olun. Sınavda güncel mevzuata uygunluk aranacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, Uzlaştırmacı Avukatın Avukatlık Kanunu m.34 kapsamında yerine getirmesi gereken \"özen yükümlülüğü\"ne aykırı bir davranıştır?",
+      "options": {
+        "A": "Uzlaştırma teklifini alan şüpheliye yasal hakları ve sürecin işleyişi hakkında detaylı bilgi vermesi.",
+        "B": "Uzlaştırma sürecinin yasal süresini takip etmeyerek, taraflar arasında anlaşma sağlanamamışken süreyi uzatma talebinde bulunmaması.",
+        "C": "Tarafların görüşmek istemediklerini belirtmeleri üzerine uzlaştırma raporunu düzenlemesi.",
+        "D": "Uzlaştırma görüşmelerinde tarafların uzlaşması için yapıcı öneriler sunması."
+      },
+      "correctAnswer": "B",
+      "explanation": "Avukatlık Kanunu m.34 uyarınca avukatlar görevlerini özenle yerine getirmek zorundadır. Uzlaştırma süresinin takibi ve süresi içinde gerekli işlemlerin yapılmaması (süre uzatımı gibi), özen yükümlülüğüne aykırılık teşkil eder ve uzlaştırmacının sorumluluğunu gerektirebilir. Diğer şıklar özen yükümlülüğüne uygun veya bu yükümlülüğün gereğidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Uzlaştırmacı Avukatın sır saklama yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Uzlaştırma sürecinde öğrenilen bilgiler, tarafların rızası olmadan üçüncü kişilerle paylaşılamaz.",
+        "B": "Sır saklama yükümlülüğü, uzlaştırma görevinin sona ermesiyle ortadan kalkar.",
+        "C": "Avukatlık Kanunu m.36, sır saklama yükümlülüğünü düzenler ve uzlaştırmacılar için de geçerlidir.",
+        "D": "Uzlaştırmacı, sır saklama yükümlülüğüne rağmen kanunen bildirim zorunluluğu olan durumları ilgili mercilere bildirebilir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Avukatlık Kanunu m.36 ve Meslek Kuralları uyarınca sır saklama yükümlülüğü süresizdir; vekalet ilişkisinin veya uzlaştırma görevinin sona ermesi bu yükümlülüğü kaldırmaz. Diğer şıklar doğru ifadelerdir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir avukatın, aşağıdaki hangi durumda 'işi ret zorunluluğu' (Av.Kan.m.38) kapsamında uzlaştırmacı olarak görevlendirmeyi kabul etmemesi gerekir?",
+      "options": {
+        "A": "Uzlaştırma teklifini yeterince makul görmemesi.",
+        "B": "Uzlaştırma sürecine katılmak istemeyen taraflardan birinin talebi üzerine.",
+        "C": "Daha önce aynı olayın taraflarından birinin vekilliğini yapmış olması.",
+        "D": "Uzlaştırma sürecinin yoğun iş temposuna denk gelmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "Avukatlık Kanunu m.38/b maddesi gereğince, avukat aynı işte menfaati zıt bir tarafa avukatlık etmiş veya mütalaa vermiş olursa teklifi reddetmek zorundadır. Bu durum, uzlaştırmacı avukatın tarafsızlığını zedeleyeceğinden, işi ret zorunluluğu doğurur. Diğer şıklar, avukatın işi reddetme hakkı olabilecek durumlar olsa da, kanuni bir 'zorunluluk' yaratmazlar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Uzlaştırmacı Avukatın 'tarafsızlık' ilkesine aykırı davranışı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarafların uzlaşamaması durumunda, uzlaştırma raporunda bu durumu belirtmesi.",
+        "B": "Bir tarafın hukuka aykırı taleplerine karşı çıkarak, yasalara uygun bir anlaşmaya yönlendirmesi.",
+        "C": "Görüşmelerde taraflardan birine diğerine göre daha fazla konuşma hakkı tanıması ve onun lehine argümanlar sunması.",
+        "D": "Süreç sonunda varılan anlaşmanın adil olup olmadığını denetlemesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "Tarafsızlık ilkesi, uzlaştırmacının tüm taraflara eşit mesafede durmasını ve herhangi bir tarafın lehine veya aleyhine hareket etmemesini gerektirir. Bir tarafa diğerine göre daha fazla konuşma hakkı tanımak veya onun lehine argüman sunmak, tarafsızlık ilkesinin açıkça ihlalidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ceza Muhakemesi Kanununa Göre Uzlaştırmanın Uygulanmasına İlişkin Yönetmelik'e göre, uzlaştırmacı avukatın temel görevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": {
+        "A": "Uzlaştırma sürecini yasal süresi içinde tamamlamak.",
+        "B": "Tarafları uzlaştırma konusunda hukuki olarak temsil etmek.",
+        "C": "Uzlaştırma görüşmelerini tarafsız ve bağımsız bir şekilde yürütmek.",
+        "D": "Uzlaştırma sonucunda düzenlenen raporu usulüne uygun olarak hazırlamak ve sunmak."
+      },
+      "correctAnswer": "B",
+      "explanation": "Uzlaştırmacı avukatın görevi, taraflar arasında tarafsız bir arabuluculuk yapmaktır. Tarafları hukuki olarak temsil etmek, vekil avukatın görevidir. Uzlaştırmacı, temsil değil, uzlaşmaya rehberlik etme rolünü üstlenir. Diğer şıklar uzlaştırmacı avukatın temel görevlerindendir."
+    }
+  ]
+}

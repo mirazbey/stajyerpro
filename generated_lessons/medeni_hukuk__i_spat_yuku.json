@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İspat Yükü (Burden of Proof):** Bir davada, taraflardan hangisinin belirli bir olayın gerçekleştiğini veya gerçekleşmediğini mahkeme önünde kanıtlamak zorunda olduğunu belirleyen kuraldır. Uyuşmazlığın çözümü için gerekli olan vakıaların doğruluğunu kanıtlama görevidir.\n•   **Objektif İspat Yükü:** Bir vakıanın ispat edilememesi halinde, o vakıanın ispat yükü kendisine düşen taraf aleyhine hüküm kurulması sonucunu doğuran hukuk kuralıdır. Hâkimin uyguladığı bir normdur.\n•   **Sübjektif İspat Yükü:** Bir tarafın mahkemede iddia ettiği vakıaları ispatlamak amacıyla delil ileri sürme ve bunları mahkemeye sunma görevidir. Tarafların dava sürecindeki aktif davranış yükümlülüğünü ifade eder.\n•   **Genel Kural (TMK m. 6):** Medeni Hukuk'ta ispat yükünün temel kuralı, \"Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri iddia ettiği olguların varlığını ispatla yükümlüdür.\" şeklindedir.\n•   **Karine (Presumption):** Bilinen bir olgudan bilinmeyen bir olgunun varlığına veya yokluğuna ulaşılan hukuki veya fiili varsayımdır. İspat yükünü değiştirebilir veya hafifletebilir (örn. mülkiyet karinesi, iyiniyet karinesi).\n•   **Hayatın Olağan Akışı:** Toplumsal tecrübelerle sabit, genel geçer kabullerdir. İspat yükü dağılımında ve delillerin değerlendirilmesinde hâkime yol gösteren, mantıki çıkarımlara zemin hazırlayan bir ilkedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Medeni Kanunu (TMK) m. 6:** \"Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri iddia ettiği olguların varlığını ispatla yükümlüdür.\" Bu madde, ispat yükünün medeni hukuktaki temel ilkesini ortaya koyar.\n•   **Hukuk Muhakemeleri Kanunu (HMK) İlişkisi:** HMK, ispat yükünün hangi delillerle ve nasıl yerine getirileceğine ilişkin usul kurallarını düzenler. HMK'daki \"somutlaştırma yükü\" (HMK m. 194) ve \"delil gösterme yükü\" (HMK m. 195) ispat yüküyle doğrudan bağlantılıdır.\n•   **Kanuni Karineler:** TMK'da ve diğer kanunlarda yer alan kanuni karineler (örn. TMK m. 7 - iyiniyet karinesi, TMK m. 985 - zilyetlik karinesi), ispat yükünü tersine çeviren veya başlangıçtaki ispat yükünü değiştiren önemli hükümlerdir.\n•   **İspat Yükünün Dağılımı İlkesi:** İspat yükünün kural olarak davacıya mı yoksa davalıya mı düşeceği, ilgili hukuki ilişkinin niteliğine ve kanuni düzenlemelere göre belirlenir. Kural olarak, kendi lehine sonuç çıkarılan vakıayı iddia eden taraf ispatla yükümlüdür.\n•   **Hâkimin Rolü:** Hâkim, tarafların ileri sürdüğü delilleri değerlendirirken ve ispat edilemeyen vakıaların sonuçlarını belirlerken ispat yükü kurallarını resen uygular ve davanın sonucunu bu kurallara göre şekillendirir.\n•   **İstisnalar:** Kanunla getirilen özel düzenlemeler (örn. bazı durumlarda kusursuz sorumluluk, mücbir sebep ispatı) veya hayatın olağan akışına aykırı durumlar, genel ispat yükü kuralına istisna teşkil edebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Sözleşmenin İhlali Davası:** Satıcı, sattığı malın ayıpsız olduğunu iddia ediyorsa, alıcının malın ayıplı olduğunu ispat etmesi gerekir. Eğer alıcı ayıbı ispatlarsa, bu kez satıcının ayıbın sorumluluğunun kendisine ait olmadığını (örn. ayıp gizlenmediğini veya gerekli özenin gösterildiğini) ispatlaması beklenebilir.\n•   **Mülkiyet Hakkının Tespiti Davası:** Bir kişinin bir taşınmazın mülkiyetinin kendisine ait olduğunu iddia etmesi durumunda, bu iddiasını tapu kayıtları, satış sözleşmeleri veya diğer geçerli delillerle ispat etmesi gerekir. Zilyetliğin mülkiyet karinesi olduğu durumlarda, zilyet olmayan tarafın asıl malik olduğunu ispatlaması gerekir.\n•   **Tazminat Davası (Haksız Fiil):** Davacı, uğradığı zararı, zarara yol açan eylemi ve bu eylem ile zarar arasındaki illiyet bağını (nedensellik ilişkisini) ispatlamakla yükümlüdür. Davalı ise kusuru olmadığını, zararın oluşmasında kendi eyleminin etkili olmadığını veya eyleminin hukuka uygun olduğunu ispatlayabilir.\n•   **Alacak Davası:** Borçlu olduğunu iddia eden davacı, alacağın varlığını (örn. borç senedi, fatura, tanık beyanları) ispat etmekle yükümlüdür. Davalı ise borcu ödediğini, alacağın zamanaşımına uğradığını veya alacağın hiç doğmadığını ispatlamak durumundadır.\n•   **Evliliğin Butlanı Davası:** Evliliğin yokluğunu veya butlanını ileri süren taraf, kanunda öngörülen butlan sebeplerinin (örn. yaş küçüklüğü, ayırt etme gücünden yoksunluk) gerçekleştiğini ispat etmek zorundadır.\n•   **Vekaletsiz İş Görme:** Vekaletsiz iş gören, yaptığı işin iş sahibinin menfaatine uygun olduğunu ve iş sahibinin varsayılan iradesine göre yapıldığını ispatlamakla yükümlüdür."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İspat Yükünün Tersine Dönmesi:** Karineler (özellikle kanuni karineler) ve bazı özel kanun hükümleri, ispat yükünü kural olarak kendisine düşen taraftan diğer tarafa geçirebilir. Örneğin, zilyetliğin karine olarak mülkiyeti göstermesi durumunda, zilyet olmayan kişinin mülkiyeti ispatlaması gerekir.\n•   **Delil Değerlendirmesi ile İspat Yükü Farkı:** İspat yükü, bir vakıanın ispatlanamaması halinde kimin aleyhine sonuç doğuracağını belirlerken, delil değerlendirmesi (takdiri delil sistemi), sunulan delillerin hâkim tarafından ne kadar inandırıcı bulunduğunu ifade eder. Bu iki kavram karıştırılmamalıdır.\n•   **İspat Sözleşmeleri:** Taraflar, ispat yükünün kimde olacağına veya hangi delillerle ispat edileceğine dair önceden anlaşma yapabilirler. Ancak bu sözleşmeler, kamu düzenine veya temel hak ve özgürlüklere aykırı olamaz.\n•   **Hayatın Olağan Akışı ve İlk Görünüş Karineleri:** Bazı durumlarda, bir olayın hayatın olağan akışına uygunluğu, o olayın gerçekleştiği yönünde ilk görünüş karinesi oluşturabilir. Bu durumda, karşı tarafın aksini ispat yükü ağırlaşır.\n•   **İspatı Mümkün Olmayan Haller:** Taraflardan birinin ispat etmesi gereken bir vakıanın ispatı objektif olarak imkânsız ise, ispat yükü kuralı uygulanamaz; bu durum çoğu zaman davanın reddi veya özel düzenlemelerin uygulanması sonucunu doğurur.\n•   **Resmi Belgelerin İspat Gücü:** Resmi senetler ve belgeler, aksi sabit oluncaya kadar doğru kabul edilir (güçlü bir ispat karinesi). Bu durumda, aksini iddia eden tarafın ispat yükü oldukça ağırdır ve aksini ispatlamak için daha güçlü deliller sunması gerekir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **TMK m. 6'yı Derinlemesine Kavrayın:** İspat yükünün medeni hukuktaki temel ilkesi olan TMK m. 6'yı eksiksiz anlamak, bu konudaki tüm soruların anahtarıdır. \"Kanunda aksine bir hüküm bulunmadıkça\" ifadesinin önemini göz ardı etmeyin.\n•   **Objektif ve Sübjektif İspat Yükü Ayrımı:** Bu iki kavram arasındaki farkı ve hukuki sonuçlarını net bir şekilde ayırt edin. Özellikle objektif ispat yükünün hâkimin kararındaki rolünü iyi anlayın ve örneklerle pekiştirin.\n•   **Karinelerin Etkilerini Bilin:** Kanuni (güçlü) ve fiili karinelerin (zayıf) ispat yükünü nasıl etkilediğini, ispat yükünü tersine çevirip çevirmediğini veya hafifletip hafifletmediğini örneklerle öğrenin. Özellikle TMK'daki önemli karineleri (iyiniyet, zilyetlik) gözden geçirin.\n•   **Vaka Analizi Yeteneğinizi Geliştirin:** Verilen somut olaylarda, hangi tarafın neyi ispat etmesi gerektiğini belirleyebilmek için bolca pratik örnek çözün. İddia edilen vakıayı ve buna karşı ileri sürülen savunmayı analiz etme becerisi kazanmak önemlidir.\n•   **İstisnalara ve Özel Durumlara Dikkat Edin:** İspat yükü kuralının istisnaları, özellikle özel kanun hükümleriyle getirilen durumlar veya hayatın olağan akışına aykırı iddialar gibi durumlar sınavda çeldirici olabilir. Bu istisnaları iyi öğrenin.\n•   **İspat Yükü ile Delillerin Değerlendirilmesi Arasındaki İlişki:** İspat yükünün delil sunma yükünden ve hâkimin delilleri takdir yetkisinden farklı olduğunu net olarak ayırt edin. İspat yükü, bir vakıanın ispatlanamaması halinde ortaya çıkan hukuki sonucu belirler."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Medeni Kanunu'na göre, ispat yükü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri iddia ettiği olguların varlığını ispatla yükümlüdür.",
+        "B": "İspat yükü her zaman davacıya aittir.",
+        "C": "İspat yükü her zaman davalıya aittir.",
+        "D": "Hâkim, ispat yükünün hangi tarafta olduğuna resen karar veremez."
+      },
+      "correctAnswer": "A",
+      "explanation": "Türk Medeni Kanunu'nun 6. maddesi, ispat yükünün temel kuralını açıkça belirtmektedir: 'Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri iddia ettiği olguların varlığını ispatla yükümlüdür.' Bu kural, ispat yükünün belirli istisnalar dışında, iddia sahibi üzerinde olduğunu ifade eder."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi ispat yükünü doğrudan etkileyen bir hukuki kavram değildir?",
+      "options": {
+        "A": "Kanuni Karine",
+        "B": "Fiili Karine",
+        "C": "İspat Sözleşmesi",
+        "D": "Delillerin Serbestçe Değerlendirilmesi İlkesi"
+      },
+      "correctAnswer": "D",
+      "explanation": "Delillerin serbestçe değerlendirilmesi ilkesi, hâkimin sunulan delilleri takdir etme yetkisiyle ilgilidir. Bu ilke, ispat yükünün kimde olduğunu belirlemez, aksine ispat yükü yerine getirildikten sonra delillerin nasıl değerlendirileceğini gösterir. Kanuni karineler, fiili karineler ve ispat sözleşmeleri ise ispat yükünün dağılımını veya yerini doğrudan etkileyen kavramlardır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir alacak davasında davacı, borcun varlığını ispat edememiştir. Bu durumda hâkim, objektif ispat yükü kuralları çerçevesinde nasıl bir karar vermelidir?",
+      "options": {
+        "A": "Davalıdan borcun olmadığını ispatlamasını istemelidir.",
+        "B": "Davanın konusunu oluşturan alacağın varlığını kabul etmelidir.",
+        "C": "Davacının alacak iddiasını reddetmelidir.",
+        "D": "Tarafların sunduğu delilleri tekrar incelemesi için duruşmayı ertelemelidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Objektif ispat yükü kuralına göre, ispatı gereken bir vakıa ispat edilemezse, o vakıayı ispat yükü kendisine düşen taraf aleyhine sonuç doğar. Davacı, alacağın varlığını ispat edemediği için, hâkim alacak iddiasını reddetmelidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Türk Medeni Kanunu'nda yer alan 'iyiniyet karinesi' (TMK m. 3), ispat yükü açısından ne tür bir etkiye sahiptir?",
+      "options": {
+        "A": "İyiniyetin varlığını iddia edenin ispat yükünü ağırlaştırır.",
+        "B": "İyiniyetin varlığını iddia edenin ispat yükünü ortadan kaldırır.",
+        "C": "Bir kişinin iyiniyetli olduğu varsayıldığından, aksini iddia eden tarafın iyiniyetin olmadığını ispatlaması gerekir.",
+        "D": "İyiniyetin hukuki bir anlamı olmadığından ispat yükünü etkilemez."
+      },
+      "correctAnswer": "C",
+      "explanation": "TMK m. 3'teki iyiniyet karinesi, bir kişinin iyiniyetli olduğunun kural olarak kabul edildiği anlamına gelir. Dolayısıyla, bir tarafın iyiniyetli olmadığını iddia eden diğer taraf, bu iddiasını ispatlamakla yükümlüdür. Bu durum, ispat yükünü iyiniyetin yokluğunu iddia eden tarafa kaydırır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki durumlardan hangisi, Medeni Hukuk'ta genel ispat yükü kuralına bir istisna teşkil edebilir?",
+      "options": {
+        "A": "Sözleşmeden doğan bir alacak davasında davacının alacağı ispat etmesi.",
+        "B": "Haksız fiilden kaynaklanan tazminat davasında davacının zararı ve kusuru ispat etmesi.",
+        "C": "Kanunen özel olarak düzenlenmiş bir durumda ispat yükünün tersine çevrilmesi.",
+        "D": "Evliliğin iptali davasında iptal sebebini ileri süren tarafın bunu ispatlaması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Genel ispat yükü kuralı, iddia sahibinin iddiasını ispat etmesini gerektirir (A, B, D şıkları buna örneklerdir). Ancak, 'kanunen özel olarak düzenlenmiş bir durumda ispat yükünün tersine çevrilmesi' (örn. kanuni karineler, bazı kusursuz sorumluluk halleri), TMK m. 6'nın 'Kanunda aksine bir hüküm bulunmadıkça' ifadesinin bir karşılığı olarak genel kurala istisna teşkil eder."
+    }
+  ]
+}

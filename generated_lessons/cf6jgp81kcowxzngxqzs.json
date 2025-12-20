@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Türk Hukuku'nda temyiz, bir mahkeme kararının hukuka uygunluğunun üst mahkeme (genellikle Yargıtay veya Danıştay) tarafından denetlenmesini sağlayan olağan bir kanun yoludur. Bu dersin temelini oluşturan 'temyiz süresi', bir karara karşı temyiz yoluna başvurulabilecek zaman dilimini ifade eder. Temyiz süresi, hukuki güvenlik ilkesinin ve adil yargılanma hakkının temel bir unsuru olarak büyük önem taşır. Sürelerin doğru belirlenmesi, yargılamanın hızlı ve etkin bir şekilde tamamlanmasını sağlamanın yanı sıra, tarafların hak arama özgürlüğünü de güvence altına alır. Anayasa Hukukunun Temel Esasları gibi eserlerde vurgulandığı üzere, yasama organının yargılama usullerini düzenleme yetkisi, Anayasa'nın 36. maddesinde yer alan adil yargılanma hakkı ve 141. maddesinde belirtilen mahkemelerin kuruluş, görev ve yetkileriyle ilgili düzenleme yapma yetkisinden kaynaklanır. Bu çerçevede, temyiz sürelerinin belirlenmesi ve değiştirilmesi de bu anayasal yetkinin bir sonucudur. Temyiz süreleri, kanun koyucunun yargı sisteminin işleyişini hızlandırma, yükünü azaltma ve hukuki uyuşmazlıklara kesinlik kazandırma amacıyla zaman zaman değiştirdiği dinamik bir alandır. Bu değişiklikler, avukatlar, hakimler ve genel olarak hukuk camiası için güncel mevzuatı sürekli takip etmeyi zorunlu kılar. Bu ders kapsamında, Türk hukukunda temyiz sürelerinde meydana gelen son değişiklikler, bu değişikliklerin yasal dayanakları, pratik uygulamaları ve hukuk uygulayıcıları açısından dikkat edilmesi gereken kritik noktalar derinlemesine ele alınacaktır. Amaç, öğrencilerin güncel mevzuata hakim olmalarını ve bu değişikliklerin hukuki süreçlere etkilerini tam olarak kavramalarını sağlamaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Sürelerdeki Değişiklikler",
+      "content": "Temyiz süreleri, uyuşmazlığın niteliğine göre farklı usul kanunlarında düzenlenmiştir. Türk Hukuku'nda temel olarak üç ana usul kanunu bulunmaktadır: Hukuk Muhakemeleri Kanunu (HMK) medeni yargılama için, Ceza Muhakemesi Kanunu (CMK) ceza yargılaması için ve İdari Yargılama Usulü Kanunu (İYUK) idari yargılama için geçerlidir. Bu kanunlardaki temyiz süreleri zaman zaman farklı reform paketleri veya kanun değişiklikleri ile revize edilmiştir. \n\n**Hukuk Muhakemeleri Kanunu (HMK):** HMK'nın yürürlüğe girdiği 2011 yılından önce yürürlükte olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu (HUMK) döneminde temyiz süresi genellikle tefhim veya tebliğden itibaren 8 gün olarak belirlenmişti. HMK ile birlikte bu süre, 6100 sayılı Kanun'un 361. maddesi (istinaf için 345. madde) uyarınca 'iki hafta' (14 gün) olarak düzenlenmiştir. Bu değişiklik, özellikle hukuki süreçlerdeki belirsizlikleri azaltma ve süreleri yeknesaklaştırma amacı taşımaktaydı. HMK'daki bu 'iki hafta'lık süre, gerek istinaf gerekse temyiz başvuruları için kararın usulüne uygun olarak tebliğinden itibaren işlemeye başlar ve hukuk yargılamasındaki en belirgin süre değişikliğini temsil eder.\n\n**Ceza Muhakemesi Kanunu (CMK):** CMK'da temyiz (ve istinaf) süreleri HMK'daki kadar net bir 'iki hafta' standardizasyonuna tabi olmamıştır. CMK'nın 273. maddesi (istinaf başvurusu için) ve 291. maddesi (temyiz başvurusu için) kararın tefhiminden veya tebliğinden itibaren 'yedi gün' olarak belirlenmiştir. Ancak, uygulamada kararın gerekçesinin tebliği beklenmekte ve süre genellikle gerekçeli kararın tebliğinden itibaren başlatılmaktadır. Burada önemli olan, sürelerin 'tefhim' ile mi yoksa 'tebliğ' ile mi başlayacağı ve 'istinaf dilekçesi verme' ile 'temyiz dilekçesi verme' arasındaki ayrımdır. Özellikle sanığın hazır bulunmadığı hallerde tebliğ tarihi önem kazanır. CMK'daki 7 günlük süre, ceza yargılamasının 'kamu düzeni' niteliği ve hız faktörü nedeniyle daha kısa tutulmuştur, ancak bu durum avukatlar için daha dikkatli ve hızlı hareket etmeyi gerektirir.\n\n**İdari Yargılama Usulü Kanunu (İYUK):** İYUK'ta ise durum diğer kanunlardan farklılık gösterir. İdari yargıda temyiz (ve istinaf) süresi, 2577 sayılı Kanun'un 45. maddesi (istinaf için) ve 46. maddesi (temyiz için) uyarınca kararın tebliğinden itibaren 'otuz gün' olarak belirlenmiştir. Bu süre, idari uyuşmazlıkların karmaşık yapısı, kamu yararının gözetilmesi ve idari işlemlerin niteliği gibi sebeplerle diğer yargılama türlerine göre daha uzun tutulmuştur. İYUK'ta son dönemlerde süreye ilişkin temel bir değişiklik olmamış, ancak temyiz edilebilir kararların kapsamına ilişkin birtakım düzenlemeler yapılmıştır. Bu farklılık, idari yargının kendine özgü yapısını ve kamu hukuku niteliğini yansıtır. Tüm bu değişiklikler veya süre farklılıkları, kanun koyucunun her bir yargılama dalının kendine özgü ihtiyaçlarına göre düzenleme yapma esnekliğinin bir göstergesidir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve Süre Hesabı",
+      "content": "Temyiz sürelerinin doğru bir şekilde hesaplanması, hukuki süreçlerin en kritik noktalarından biridir ve yanlış hesaplamalar hak kayıplarına yol açabilir. Pratik uygulamada temyiz süresi, kural olarak, gerekçeli kararın usulüne uygun şekilde taraflara tebliğ edilmesiyle başlar. Tebligat Kanunu ve ilgili yönetmelikler, tebligatın geçerliliği açısından büyük önem taşır. Eğer tebligat usule aykırı yapılmışsa, temyiz süresi başlamaz veya usulsüz tebligatın öğrenildiği tarihten itibaren yeniden işlemeye başlar. \n\nSürelerin hesabında, ilgili kanunlardaki özel hükümler dikkate alınır. Genel kural olarak, süreler tebligatın yapıldığı günü takip eden günden itibaren başlar ve sürenin son günü mesai saati bitimine kadardır. Eğer sürenin son günü resmi tatil gününe (Cumartesi, Pazar veya bayram) denk gelirse, süre tatili takip eden ilk iş gününün mesai bitimine kadar uzar. Örneğin, HMK'da iki haftalık temyiz süresi, gerekçeli kararın tebliğ edildiği gün sayılmaz, ertesi günden itibaren 14 gün sayılır. Bu 14. gün eğer resmi tatil ise, süre ilk iş gününe sarkacaktır.\n\nUygulamada, sürelerin uzaması veya durması halleri de mevcuttur. Örneğin, HMK md. 17 ve benzeri hükümlerde düzenlenen 'mücbir sebep' halleri, temyiz süresini etkileyebilir. Mücbir sebep nedeniyle bir tarafın süresi içerisinde temyiz dilekçesi verememesi halinde, engelin kalktığı tarihten itibaren ilgili kanunda belirtilen ek süre içerisinde başvuru yapılması mümkündür. Ancak bu durumun ispatı, ilgili tarafça yapılmalıdır. \n\nPratikte karşılaşılan bir diğer önemli durum ise 'feragat' ve 'kabul'dür. Hukuk Muhakemeleri Kanunu'na göre, temyiz yolundan feragat edilmesi veya kararın temyiz edilmeksizin kabul edilmesi mümkündür. Bu gibi durumlarda, temyiz süresi işlemeye devam etse dahi, kanun yoluna başvuru hakkı ortadan kalkar. \n\nÖzellikle avukatların, müvekkillerinin hak kaybına uğramaması adına, tebligat tarihlerini titizlikle takip etmeleri, temyiz dilekçesini süresinde ve usulüne uygun olarak sunmaları gerekmektedir. Dilekçenin içeriği, temyiz nedenleri ve hukuki dayanakları da sürenin içinde sunulması gereken önemli unsurlardır. Farklı yargı kollarındaki süre farklılıkları (HMK: iki hafta, CMK: yedi gün, İYUK: otuz gün), uygulayıcıların her uyuşmazlık türü için ilgili kanun hükmüne özel bir dikkat göstermesini zorunlu kılar."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Özel Durumlar",
+      "content": "Temyiz süreleri ve bu sürelerdeki değişiklikler konusu, sadece sürelerin sayısal değerlerini bilmekle sınırlı değildir; aynı zamanda bu değişikliklerin uygulanmasına ilişkin özel durumları ve genel hukuk prensiplerini de içerir. Bu bağlamda, dikkat edilmesi gereken başlıca noktalar şunlardır:\n\n**1. Geçici Hükümler ve Uygulama Alanı:** Kanunlarda yapılan değişiklikler genellikle beraberinde geçici hükümler getirir. Bu hükümler, yeni kanunun veya değişikliğin yürürlüğe girdiği tarihten önce başlayan davalar veya henüz kesinleşmemiş kararlar üzerindeki etkisini düzenler. Prensip olarak, usul kanunları derhal yürürlüğe girer ve yürürlüğe girdiği tarihten sonraki tüm işlemlere uygulanır. Ancak, kazanılmış haklar ve başlamış olan süreler gibi konularda geçici hükümlerle özel düzenlemeler getirilebilir. Bu nedenle, bir temyiz süresi değişikliğiyle karşılaşıldığında, ilgili kanunun geçici maddelerinin dikkatle incelenmesi, hangi kararlar veya davalar için hangi sürenin uygulanacağının tespitinde hayati öneme sahiptir.\n\n**2. Tebligatın Önemi ve Usulsüz Tebligat:** Temyiz süresinin başlangıcı, kural olarak gerekçeli kararın usulüne uygun şekilde tebliğine bağlıdır. Tebligat Kanunu ve ilgili mevzuat hükümlerine uygun olmayan bir tebligat yapılması halinde, temyiz süresi işlemeye başlamaz veya usulsüz tebligatın muhatabı tarafından öğrenildiği tarihten itibaren yasal süreler yeniden işlemeye başlar. Bu durum, sürenin hesaplanmasında ciddi farklılıklara yol açabilir ve usulsüz tebligat itirazları, Yargıtay veya Danıştay nezdinde temyiz başvurularının reddine veya bozulmasına neden olabilir.\n\n**3. İstinaf ve Temyiz Süreleri Arasındaki İlişki:** Türk hukukunda 2016 yılında istinaf kanun yolunun faaliyete geçmesiyle birlikte, kanun yolu sistemi iki aşamalı hale gelmiştir (ilk derece mahkemesi, istinaf mahkemesi, temyiz mahkemesi). Bu durum, istinaf ve temyiz sürelerinin birbirinden bağımsız ancak birbirini tamamlayan süreçler olduğunu gösterir. İstinaf süresinde yapılan bir hata, kararın istinaf aşamasında kesinleşmesine ve temyiz yolunun kapanmasına yol açabilir. Bu nedenle, her iki aşamadaki sürelerin de dikkatle takip edilmesi gerekmektedir.\n\n**4. Özel Kanunlardaki Süreler:** Bazı özel kanunlar, genel usul kanunlarındaki sürelerden farklı temyiz süreleri öngörebilir. Örneğin, İcra ve İflas Kanunu, İş Mahkemeleri Kanunu veya Tüketicinin Korunması Hakkında Kanun gibi özel kanunlarda, genel hükümlerden sapma gösteren süreler bulunabilir. Bu tür durumlarda, özel kanun hükümlerinin genel kanun hükümlerine göre öncelikle uygulanacağı ilkesi (lex specialis derogat legi generali) geçerli olacaktır. Bu sebeple, dava türüne göre özel kanunların taranması elzemdir.\n\n**5. Yargı Kararlarının ve İçtihadın Takibi:** Kanunlarda yapılan değişikliklerin yorumlanması ve uygulanması, yargı organları tarafından verilen içtihatlarla şekillenir. Özellikle Yargıtay ve Danıştay'ın güncel içtihatları, temyiz sürelerinin başlangıcı, hesaplanması ve özel durumların değerlendirilmesi konusunda yol göstericidir. Hukuk uygulayıcılarının, bu içtihatları sürekli olarak takip etmesi, hak kayıplarının önüne geçmek için kritik öneme sahiptir. Bu dinamik alan, sürekli bir öğrenme ve güncelleme ihtiyacını beraberinde getirir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu ders kapsamında 'Temyiz Süresi Değişiklikleri' konusunu dört ana adımda ele aldık. Öncelikle, temyiz ve temyiz süresi kavramlarının hukuki güvenlik ve adil yargılanma hakkı açısından önemini vurguladık. Türk hukuk sistemindeki üç ana yargılama usulü olan Hukuk Muhakemeleri Kanunu (HMK), Ceza Muhakemesi Kanunu (CMK) ve İdari Yargılama Usulü Kanunu (İYUK) çerçevesinde temyiz sürelerinin nasıl düzenlendiğini ve geçmişten günümüze ne gibi değişikliklere uğradığını detaylı bir şekilde inceledik. HMK'da iki hafta (14 gün) olan sürenin, HUMK'tan bu yana yaşanan önemli bir değişiklik olduğunu, CMK'da genellikle yedi günlük sürelerin geçerli olduğunu ve İYUK'ta ise otuz günlük özel bir sürenin bulunduğunu belirttik. Bu farklılıkların, her bir yargılama dalının kendine özgü niteliklerinden kaynaklandığını ifade ettik.\n\nİkinci adımda, bu sürelerin pratik uygulamalarını, özellikle tebligatın önemi, sürelerin doğru hesaplanması, tatil günlerinin etkisi ve mücbir sebep gibi özel durumların süreler üzerindeki etkilerini ele aldık. Üçüncü adımda ise, hukuk uygulayıcıları için kritik öneme sahip olan geçici hükümlerin takibi, tebligat hukukunun hassasiyetleri, istinaf ve temyiz süreleri arasındaki ilişki, özel kanunlardaki farklı süreler ve yargı içtihatlarının sürekli takibinin gerekliliği gibi dikkat edilmesi gereken noktaları detaylandırdık. \n\nSonuç olarak, temyiz süreleri konusunun Türk Hukuku'nda dinamik bir alan olduğunu ve yasama faaliyetleriyle sürekli güncellendiğini görmekteyiz. Hukuk uygulayıcılarının, güncel mevzuatı ve Yargıtay ile Danıştay'ın son içtihatlarını titizlikle takip etmeleri, müvekkillerinin hak kayıplarını önlemek ve hukuki süreçleri etkin bir şekilde yönetmek adına vazgeçilmezdir. Bu dersin temel amacı, öğrencilerin bu kritik konudaki farkındalıklarını artırmak, doğru bilgilere sahip olmalarını sağlamak ve karmaşık hukuki süreçlerde karşılaşabilecekleri sorunlara karşı donanımlı olmalarını sağlamaktır. Unutulmamalıdır ki, hukukun değişen yüzüne adaptasyon, başarılı bir hukuk kariyerinin temelini oluşturur."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, Türk Hukuku'nda temyiz süresinin belirlenmesinde geçerli olan genel bir ilke *değildir*?",
+      "options": {
+        "A": "Süreler, kural olarak gerekçeli kararın usulüne uygun tebliğ edilmesiyle başlar.",
+        "B": "Sürenin son günü resmi tatile denk gelirse, süre takip eden ilk iş gününün mesai bitimine kadar uzar.",
+        "C": "Sürelerin başlangıç tarihi, kararın tefhim edildiği gün olarak kesin ve sabittir.",
+        "D": "Usulüne uygun tebligat yapılmaması durumunda temyiz süresi işlemeye başlamaz veya usulsüz tebligatın öğrenildiği tarihten itibaren başlar."
+      },
+      "correctAnswer": "C",
+      "explanation": "Temyiz süresinin başlangıcı, kararın niteliğine ve ilgili kanun hükümlerine göre tefhim (sözlü açıklama) veya tebliğ (yazılı bildirim) ile başlayabilir. Özellikle uygulamada çoğu zaman gerekçeli kararın tebliği beklenir ve süre bu tebliğden itibaren başlar. Bu nedenle, 'kesin ve sabit' bir şekilde sadece tefhim ile başladığını iddia etmek yanlıştır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Hukuku'nda, farklı yargılama usullerine göre temyiz süreleri değişiklik göstermektedir. Bu bağlamda, aşağıdaki eşleştirmelerden hangisi güncel mevzuata göre doğrudur?",
+      "options": {
+        "A": "Hukuk Muhakemeleri Kanunu (HMK) – 7 gün",
+        "B": "Ceza Muhakemesi Kanunu (CMK) – İki hafta",
+        "C": "İdari Yargılama Usulü Kanunu (İYUK) – Otuz gün",
+        "D": "Hukuk Muhakemeleri Kanunu (HMK) – Otuz gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "Güncel mevzuata göre, Hukuk Muhakemeleri Kanunu (HMK) ve istinaf/temyiz süreleri 'iki hafta' (14 gün) olarak belirlenmiştir. Ceza Muhakemeleri Kanunu (CMK) ve istinaf/temyiz başvurusu 'yedi gün' içinde yapılır. İdari Yargılama Usulü Kanunu (İYUK) ise istinaf/temyiz süresi 'otuz gün'dür. Dolayısıyla C seçeneği doğrudur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "HMK'da temyiz süresiyle ilgili yapılan değişiklikle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Eski HUMK döneminden beri HMK'da temyiz süresi hep 'iki hafta' olarak uygulanmıştır.",
+        "B": "HMK'nın yürürlüğe girmesiyle birlikte temyiz süresi '7 gün' olarak kısaltılmıştır.",
+        "C": "HMK öncesinde genellikle '8 gün' olan temyiz süresi, HMK ile birlikte 'iki hafta' (14 gün) olarak düzenlenmiştir.",
+        "D": "HMK'da temyiz süresi, kararın tefhiminden itibaren '30 gün' olarak belirlenmiştir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK öncesinde yürürlükte olan HUMK döneminde temyiz süresi genellikle 8 gün olarak uygulanmaktaydı. 6100 sayılı HMK'nın yürürlüğe girmesiyle birlikte, hem istinaf hem de temyiz süreleri 'iki hafta' (14 gün) olarak belirlenmiştir. Diğer seçenekler güncel ve geçmiş mevzuata aykırıdır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir avukat, müvekkilinin idare mahkemesinde aleyhine verilen kararı temyiz etmek istemektedir. Gerekçeli karar avukata usulüne uygun olarak 10 Haziran 2024 Pazartesi günü tebliğ edilmiştir. Avukatın temyiz dilekçesini en geç ne zamana kadar sunması gerekmektedir?",
+      "options": {
+        "A": "17 Haziran 2024 Pazartesi (7 gün)",
+        "B": "24 Haziran 2024 Pazartesi (iki hafta)",
+        "C": "10 Temmuz 2024 Çarşamba (otuz gün)",
+        "D": "25 Temmuz 2024 Perşembe (kırk beş gün)"
+      },
+      "correctAnswer": "C",
+      "explanation": "İdari Yargılama Usulü Kanunu (İYUK) madde 46 uyarınca, idari yargıda temyiz süresi, gerekçeli kararın tebliğinden itibaren otuz gündür. Karar 10 Haziran Pazartesi günü tebliğ edildiğine göre, süre 11 Haziran Salı gününden itibaren işlemeye başlayacaktır. Bu durumda otuzuncu gün olan 10 Temmuz 2024 Çarşamba günü mesai bitimine kadar temyiz dilekçesi sunulmalıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Temyiz süreleri konusunda kanunlarda yapılan değişikliklerin, yürürlüğe girdiği tarihten önceki başlamış davalar üzerindeki etkisi hakkında aşağıdaki ifadelerden hangisi en genel ve doğru hükümdür?",
+      "options": {
+        "A": "Tüm kanun değişiklikleri geriye yürür ve başlamış davalardaki eski süreler derhal yeni sürelere dönüşür.",
+        "B": "Usul kanunları genellikle derhal yürürlüğe girer ve yürürlük tarihinden sonraki tüm işlemlere uygulanır, ancak geçici hükümlerle aksine düzenleme yapılabilir.",
+        "C": "Kanun değişiklikleri hiçbir zaman geriye yürümez; her zaman davanın açıldığı tarihteki kanun hükümleri uygulanır.",
+        "D": "Sadece ceza muhakemesi kanunlarındaki değişiklikler geriye yürür, diğer kanunlardaki değişiklikler yürümez."
+      },
+      "correctAnswer": "B",
+      "explanation": "Usul kanunları (HMK, CMK, İYUK gibi) genellikle 'derhal uygulama' ilkesine tabidir. Yani, kanun yürürlüğe girdiği tarihten sonraki tüm yargılama işlemlerine uygulanır. Ancak, yasama organı bu genel kuralın aksine, kazanılmış hakları veya başlamış süreleri korumak amacıyla 'geçici hükümler' (intikal hükümleri) ile özel düzenlemeler getirebilir. Bu nedenle B seçeneği, konuyu en kapsayıcı ve doğru şekilde ifade etmektedir."
+    }
+  ]
+}

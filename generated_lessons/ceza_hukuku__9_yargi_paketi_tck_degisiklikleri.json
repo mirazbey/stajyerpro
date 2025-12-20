@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **9. Yargı Paketi Nedir?**: Türkiye'de ceza adalet sisteminde reform niteliğinde olduğu varsayılan, genellikle birden fazla kanunda (başta Türk Ceza Kanunu - TCK) değişiklikler öngören yasa teklifi veya kanunlaşmış düzenlemedir. Bu ders içeriği, TCK'da yapılan hipotetik değişikliklere odaklanmaktadır.\n•   **TCK Değişikliklerinin Amacı**: Suçlulukla mücadelede güncel ihtiyaçlara cevap vermek, mevcut düzenlemelerdeki boşlukları doldurmak, cezaların caydırıcılığını artırmak, mağdur haklarını güçlendirmek ve uluslararası standartlara uyum sağlamak gibi hedefleri taşır.\n•   **Kanunilik İlkesi (Nullum Crimen Sine Lege)**: Ceza hukukunun temelini oluşturan bu ilke, ancak kanunla suç sayılan bir fiil için ceza verilebileceğini ifade eder. TCK değişiklikleri de bu ilke doğrultusunda, suç ve ceza tanımlarını açıkça ve belirli bir şekilde yapmalıdır.\n•   **Lehe Kanunun Uygulanması İlkesi**: Bir fiilin işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların farklı olması halinde, failin lehine olan kanun hükmü uygulanır. Yargı paketleriyle yapılan değişiklikler genellikle bu ilkenin test edilmesine yol açar.\n•   **Ceza Siyaseti (Suç Politikası)**: Bir devletin suç olgusu karşısında izlediği genel tutum, aldığı önlemler ve uyguladığı yöntemlerin bütünüdür. 9. Yargı Paketi de belirli bir ceza siyasetinin ürünü olarak değerlendirilmeli, suç tiplerini ve yaptırımlarını bu kapsamda ele almalıdır.\n•   **Hukuki Değerler ve Koruma**: Ceza hukuku, toplumsal yaşamın vazgeçilmez hukuki değerlerini (örneğin yaşam hakkı, vücut dokunulmazlığı, özel yaşamın gizliliği, kamusal düzen vb.) koruma amacı taşır. Yapılan değişiklikler de bu değerlerin daha etkin korunmasını hedefler."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **TCK md. 216'da Değişiklik (Halkı Kin ve Düşmanlığa Tahrik veya Aşağılama)**: Varsayımsal 9. Yargı Paketi ile TCK md. 216'nın kapsamı, özellikle internet ve sosyal medya üzerinden yapılan paylaşımları daha etkin bir şekilde kapsayacak şekilde genişletilmiştir. Bu değişiklik, nefret söylemi ve ayrımcılığı teşvik eden dijital içeriklerin önüne geçmeyi amaçlar. Eski düzenlemede \"alenen\" ibaresinin yorumu ve ispatı sorunları, yeni düzenlemede \"dijital ortamda yayma\" gibi somutlaştırmalarla giderilmeye çalışılmıştır.\n•   **TCK md. 105'te Değişiklik (Cinsel Taciz)**: Yeni düzenleme ile cinsel taciz suçunun mağdur üzerindeki psikolojik ve sosyal etkileri daha fazla dikkate alınmış, özellikle çevrimiçi taciz (siber taciz) eylemleri de açıkça suçun kapsamına alınmıştır. Ayrıca, suçun nitelikli halleri arasına mağdurun dijital verilerinin izinsiz kullanılmasıyla işlenmesi gibi durumlar eklenmiş, cezalar artırılmıştır. Bu, özellikle rıza dışı görsel veya sesli kayıt kullanımıyla işlenen cinsel taciz vakalarına karşı caydırıcılığı artırmayı hedefler.\n•   **TCK md. 220'de Değişiklik (Suç İşlemek Amacıyla Örgüt Kurma)**: Yargı paketi ile organize siber suç örgütleri ve dolandırıcılık şebekeleri gibi yeni nesil suç örgütlenmeleriyle mücadele etmek amacıyla TCK md. 220'de bazı kavramsal netleştirmeler ve cezai yaptırımlarda artışa gidilmiştir. Örgütün hiyerarşik yapısının veya üye sayısının ispatındaki zorluklar dikkate alınarak, dijital iletişim ağları üzerinden yapılan örgütlenmelerin de kapsam dahilinde olduğu vurgulanmıştır.\n•   **Etkin Pişmanlık Hükümlerinde Kısıtlamalar**: Özellikle devlete karşı işlenen bazı suçlar ile cinsel dokunulmazlığa karşı işlenen suçlarda etkin pişmanlık hükümlerinin uygulanma koşulları daraltılmış veya bazı durumlarda tamamen kaldırılmıştır. Bu durum, mağdurların korunmasını ön planda tutan bir ceza siyaseti tercihi olarak değerlendirilmektedir. Örneğin, cinsel suçlarda etkin pişmanlık için mağdurun rızası olmadan yapılan ikrar yeterli sayılmamış, mağdurun zararının giderilmesi ve rızasının alınması gibi ek şartlar getirilmiştir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (TCK md. 216 - Siber Nefret Söylemi)**: Bir sosyal medya kullanıcısı (A), belirli bir etnik gruba yönelik \"onların varlığı bu ülkenin başına beladır\" şeklinde bir paylaşım yapar ve bu paylaşım binlerce kez beğenilir ve yayılır. Eski düzenlemede \"alenen\" ibaresinin sosyal medya için yorumu tartışmalı iken, yeni düzenlemeyle \"dijital ortamda yayma\" kriteriyle A'nın fiili doğrudan TCK md. 216 kapsamında değerlendirilerek soruşturma başlatılır.\n•   **Örnek 2 (TCK md. 105 - Siber Cinsel Taciz)**: Bir şahıs (B), eski kız arkadaşının rızası olmaksızın, ayrıldıktan sonra çekilmiş özel fotoğraflarını bir pornografik siteye yükler ve arkadaşlarının e-posta adreslerine gönderir. Yeni düzenleme ile B'nin bu eylemi, \"mağdurun dijital verilerinin izinsiz kullanılmasıyla işlenmiş cinsel taciz\" olarak nitelendirilir ve daha ağır yaptırımlara tabi tutulur.\n•   **Örnek 3 (TCK md. 220 - Kripto Para Dolandırıcılığı Örgütü)**: Bir grup (C), gizli bir forumda bir araya gelerek, sahte bir kripto para borsası kurar ve yüzlerce kişiyi dolandırarak büyük miktarda para elde eder. Grubun kendi içinde hiyerarşik bir yapı kurduğu ve görev dağılımı yaptığı tespit edilir. Yeni TCK md. 220 düzenlemesi sayesinde, bu grup \"suç işlemek amacıyla örgüt kurma\" suçundan soruşturulurken, örgütün dijital ortamdaki varlığı ve iletişim ağı, yasal delil olarak daha güçlü bir şekilde kabul edilir.\n•   **Örnek 4 (Etkin Pişmanlık - Cinsel Suçlar)**: Bir kişi (D), cinsel saldırı suçunu işledikten sonra polise teslim olur ve suçu tüm detaylarıyla itiraf eder. Ancak, mağdur bu itiraftan dolayı ekstra travma yaşar ve D'nin pişmanlığını samimi bulmadığını belirtir. Yeni düzenlemeyle, D'nin etkin pişmanlık hükümlerinden faydalanabilmesi için sadece itiraf yeterli görülmez; mağdurun zararının giderilmesi ve rızasının alınması gibi ek şartlar aranır. Mağdurun rızası olmadığı için etkin pişmanlık hükümleri D hakkında uygulanmaz."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Belirlilik İlkesi ve Yorum Sorunları**: Yeni getirilen \"dijital ortamda yayma\" veya \"siber örgütlenme\" gibi kavramların somut olaylarda nasıl yorumlanacağı, hukuki güvenlik açısından önem taşımaktadır. Kanunun lafzı, yorumu ve uygulaması arasında oluşabilecek farklılıklar, yargı birliğini etkileyebilir.\n•   **Temel Hak ve Özgürlüklerle İlişkisi**: Özellikle TCK md. 216'daki genişletilmiş kapsam, ifade özgürlüğünün sınırları konusunda hassasiyet gerektirir. Meşru eleştiri ile nefret söylemi arasındaki ince çizginin yargı organları tarafından doğru çizilmesi, temel hakların korunması açısından kritik öneme sahiptir.\n•   **Teknolojik Gelişmeler ve Dinamik Alan**: Siber suçlar ve dijital ortamdaki eylemler, sürekli gelişen bir alandır. Yapılan değişikliklerin hızla değişen teknolojik gelişmelere ne kadar uyum sağlayacağı ve gelecekteki olası suç tiplerini kapsayıp kapsayamayacağı önemlidir. Kanun koyucunun dinamik bir yaklaşım sergilemesi gerekliliği devam etmektedir.\n•   **İnfaz Hukukuna Etkileri**: TCK'da yapılan cezaların artırılması veya etkin pişmanlık hükümlerinin kısıtlanması gibi değişiklikler, hükmolunan cezaların infaz rejimini ve cezaevlerindeki doluluk oranlarını da dolaylı olarak etkileyebilir. Bu durum, infaz sisteminin mevcut kapasitesini zorlayabilir.\n•   **Mağdur Odaklılık ve Hukuk Devleti İlkeleri**: Cinsel suçlarda etkin pişmanlık hükümlerinin kısıtlanması mağdur odaklı bir yaklaşım olsa da, failin adil yargılanma hakkı ve orantılılık ilkesi çerçevesinde değerlendirilmelidir. Suçun aydınlatılması ve ispatı süreçlerinde failin haklarının korunması, hukuk devleti ilkesinin bir gereğidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Değişen Kanun Maddelerini Bilin**: TCK'da yapılan (varsayımsal) temel değişikliklerin hangi maddelerde olduğunu ve eski ile yeni düzenleme arasındaki farkları ezberleyin. Özellikle TCK 105, 216, 220 gibi ana maddelere odaklanın.\n•   **Gerekçeyi Anlayın**: Her değişikliğin ardındaki ceza siyaseti ve toplumsal ihtiyacı kavramaya çalışın. Neden bu değişikliğe gidildiği, hangi sorunu çözmeyi amaçladığı gibi sorulara cevap arayın.\n•   **Temel Ceza Hukuku İlkeleriyle İlişkilendirin**: Kanunilik, lehe kanunun uygulanması, orantılılık, suçta ve cezada şahsilik gibi genel ilkelerin yapılan değişikliklerle nasıl etkileşimde bulunduğunu irdeleyin.\n•   **Vaka Analizleri Yapın**: Değişen hükümlerin somut olaylara nasıl uygulanacağını gösteren örnek vakaları çözün. Özellikle \"eski durumda nasıl olurdu, yeni durumda nasıl olurdu?\" karşılaştırmalı analizler yapın.\n•   **Kavramsal Netlik Kazanın**: \"Dijital ortamda yayma\", \"siber taciz\", \"örgütlenme\" gibi yeni eklenen veya anlamı genişletilen kavramların ceza hukuku terminolojisindeki yerini ve kapsamını iyice anlayın.\n•   **Çoktan Seçmeli Sorular Üzerinde Çalışın**: Hem doğrudan bilgi ölçen hem de yorum ve vaka analizi gerektiren çeşitli soru tipleriyle pratik yapın. Özellikle değişikliklerin doğurduğu hukuki sonuçlara odaklanan soruları kaçırmayın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "9. Yargı Paketi ile TCK md. 216'da yapıldığı varsayılan değişikliğin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Cinsel suçlara ilişkin cezaları artırmak",
+        "B": "Sadece fiziksel ortamdaki halkı kin ve düşmanlığa tahrik fiillerini düzenlemek",
+        "C": "İnternet ve sosyal medya üzerinden yapılan nefret söylemlerini daha etkin bir şekilde cezalandırmak",
+        "D": "Suç işlemek amacıyla örgüt kurma suçunun kapsamını daraltmak"
+      },
+      "correctAnswer": "C",
+      "explanation": "Varsayımsal 9. Yargı Paketi ile TCK md. 216'da yapılan değişiklik, özellikle internet ve sosyal medya üzerinden yayılan nefret söylemi ve ayrımcılığı teşvik eden dijital içeriklerin önüne geçmeyi amaçlamaktadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "TCK md. 105'te (Cinsel Taciz) 9. Yargı Paketi ile yapıldığı varsayılan değişikliklerden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece fiziksel temas gerektiren taciz eylemlerini suç kapsamına almak",
+        "B": "Cinsel taciz suçunda mağdurun rızası olmaksızın dijital verilerinin kullanılmasını nitelikli hal olarak düzenlemek",
+        "C": "Cinsel taciz suçunda etkin pişmanlık hükümlerini genişletmek",
+        "D": "Cinsel taciz suçunda ceza sınırlarını düşürmek"
+      },
+      "correctAnswer": "B",
+      "explanation": "Varsayımsal değişikliklerden biri, cinsel taciz suçunun nitelikli halleri arasına mağdurun dijital verilerinin izinsiz kullanılmasıyla işlenmesi gibi durumların eklenmesi ve cezaların artırılmasıdır. Bu, siber tacize karşı caydırıcılığı hedefler."
+    },
+    {
+      "questionNumber": 3,
+      "question": "9. Yargı Paketi'nin TCK değişiklikleriyle ilgili olarak 'lehe kanunun uygulanması ilkesi' ne anlama gelmektedir?",
+      "options": {
+        "A": "Sadece yeni kanunun geriye yürüyeceği anlamına gelir.",
+        "B": "Suç işlendiği zamandaki kanun ile sonraki kanunlardan hangisi failin lehine ise onun uygulanmasıdır.",
+        "C": "Her zaman en ağır cezanın uygulanmasını gerektirir.",
+        "D": "Kanun değişikliklerinin mağdurların lehine olmasını zorunlu kılar."
+      },
+      "correctAnswer": "B",
+      "explanation": "Lehe kanunun uygulanması ilkesi, bir fiilin işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların farklı olması halinde, failin lehine olan kanun hükmünün uygulanacağını ifade eder."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Varsayımsal 9. Yargı Paketi ile TCK md. 220 (Suç İşlemek Amacıyla Örgüt Kurma) üzerinde yapılan değişikliklerin ana hedefi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece terör örgütlerine karşı mücadele etmek",
+        "B": "Geleneksel suç örgütlerinin cezalarını hafifletmek",
+        "C": "Organize siber suç ve dolandırıcılık şebekeleri gibi yeni nesil suç örgütlenmeleriyle mücadeleyi güçlendirmek",
+        "D": "Örgüt üyeliği için daha fazla delil şartı getirmek"
+      },
+      "correctAnswer": "C",
+      "explanation": "TCK md. 220'de yapılan değişiklikler, özellikle organize siber suç örgütleri ve dolandırıcılık şebekeleri gibi dijital ortamda faaliyet gösteren yeni nesil suç örgütlenmeleriyle mücadele etmeyi ve bu tür örgütlerin ispatındaki zorlukları gidermeyi hedeflemektedir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "9. Yargı Paketi ile bazı suçlarda etkin pişmanlık hükümlerinin uygulanma koşullarının daraltılmasının veya kaldırılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Devletin suçla mücadeledeki kararlılığını azaltmak",
+        "B": "Mağdurların korunmasını ön planda tutan bir ceza siyaseti tercihidir.",
+        "C": "Failin itiraf hakkını kısıtlamak",
+        "D": "Cezaevlerindeki doluluk oranlarını artırmak"
+      },
+      "correctAnswer": "B",
+      "explanation": "Etkin pişmanlık hükümlerindeki kısıtlamalar, özellikle cinsel dokunulmazlığa karşı işlenen suçlar gibi mağdurların ağır zarar gördüğü durumlarda, mağdur haklarını daha etkin korumak ve suçun cezasız kalmamasını sağlamak amacıyla yapılan, mağdur odaklı bir ceza siyaseti tercihi olarak açıklanmıştır."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kanunlar İhtilafı:** Farklı devletlerin hukuk sistemleri arasında, yabancılık unsuru taşıyan bir hukuki olaya hangi hukuk sisteminin uygulanacağı konusunda ortaya çıkan uyuşmazlık veya çatışma durumudur.\n•   **Uygulanacak Hukuk (Lex Causae):** Kanunlar ihtilafı kuralları uyarınca, yabancılık unsuru içeren bir hukuki ilişkiye maddi hukuk bakımından uygulanmasına karar verilen hukuk sistemidir. Bu hukuk, uyuşmazlığın esasına ilişkin hükümleri sağlar.\n•   **Bağlama Noktası:** Milletlerarası Özel Hukuk'ta (MÖHUK), bir hukuki ilişkiye hangi devlet hukukunun uygulanacağını belirlemek için kullanılan ölçüt veya kriterdir. Örneğin, bir kişinin vatandaşlığı, yerleşim yeri, sözleşmenin yapıldığı veya ifa edildiği yer gibi unsurlar bağlama noktaları olabilir.\n•   **Milletlerarası Özel Hukukun Amacı:** Yabancılık unsuru içeren özel hukuk ilişkilerinde, ortaya çıkan kanunlar ihtilafını çözerek, hangi devlet hukukunun uygulanacağını belirlemek; Türk mahkemelerinin milletlerarası yargı yetkisini tespit etmek; ve yabancı mahkeme kararlarının Türkiye'de tanınması ve tenfizini sağlamaktır.\n•   **Sevk Kuralı (Atıf Kuralı):** MÖHUK'ta yer alan ve belirli bir hukuki meseleye hangi devlet hukukunun uygulanacağını açıkça gösteren kuraldır. Örneğin, evlilik ehliyetine milli hukukun uygulanacağını belirten MÖHUK maddesi bir sevk kuralıdır.\n•   **Nitelenme (Characterization/Classification):** Yabancılık unsuru içeren bir hukuki meselenin, öncelikle bir hukuk sistemine (genellikle mahkeme hukukuna - lex fori) göre hukuki niteliğinin belirlenerek, MÖHUK'taki hangi sevk kuralı kapsamına girdiğinin tespit edilmesi işlemidir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve (MÖHUK)",
+      "content": "•   **MÖHUK m. 1 (Amaç):** Bu Kanun, yabancılık unsuru taşıyan özel hukuka ilişkin işlem ve ilişkilerde uygulanacak hukuku, Türk mahkemelerinin milletlerarası yetkisini, yabancı kararların tanınması ve tenfizini düzenler.\n•   **MÖHUK m. 5 (Kişisel Statü):** Kişilerin ehliyeti ve aile hukukuna ilişkin diğer kişisel hâlleri, millî hukuklarına tâbidir. Türk vatandaşları için Türk hukuku uygulanır. (Bu madde, ehliyet, velayet, vesayet, kayyımlık, gaiplik ve ölüm karinesi gibi durumları kapsar.)\n•   **MÖHUK m. 14 (Evlilik ve Evliliğin Genel Hükümleri):** Evlenme ehliyeti ve şartları, taraflardan her birinin kendi millî hukukuna tâbidir. Evliliğin şekline ise yapıldığı yer hukuku uygulanır. Evliliğin genel hükümleri eşlerin müşterek millî hukukuna, yoksa müşterek mutad mesken hukukuna, o da yoksa Türk hukukuna tâbidir.\n•   **MÖHUK m. 15 (Boşanma ve Ayrılık):** Boşanma ve ayrılık sebepleri ile hükümlerine, eşlerin müşterek millî hukuku, yoksa müşterek mutad mesken hukuku, o da yoksa Türk hukuku uygulanır.\n•   **MÖHUK m. 24 (Sözleşmeler):** Sözleşmelerden doğan borç ilişkileri, tarafların açıkça seçtikleri hukuka tâbidir. Tarafların hukuk seçimi yapmamaları halinde ise, sözleşmeyle en sıkı ilişkili hukukun uygulanacağı kabul edilir (objektif bağlama noktası).\n•   **MÖHUK m. 25 (Haksız Fiiller):** Haksız fiilden doğan borçlar, fiilin işlendiği yer hukukuna tâbidir. Fiilin işlendiği yer ile sonucun meydana geldiği yer farklı ise, zarar görenin seçimine göre bu yerlerden birinin hukuku uygulanır. Tarafların milliyetleri veya yerleşim yerleri farklı ise, bu durumlar da dikkate alınarak farklı bağlama noktaları belirlenebilir.\n•   **MÖHUK m. 27 (Kamu Düzeni İstisnası):** Yetkili yabancı hukukun belirli bir olaya uygulanan hükmü, Türk kamu düzenine açıkça aykırı ise, bu hüküm uygulanmaz; gereken hallerde Türk hukuku uygulanır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Evlilik Ehliyeti:** Almanya'da yaşayan bir Türk vatandaşı (A) ile İtalyan vatandaşı (B) Türkiye'de evlenmek istiyorlar. Bu durumda A'nın evlenme ehliyeti Türk hukukuna, B'nin evlenme ehliyeti ise İtalyan hukukuna göre belirlenecektir (MÖHUK m. 14/1).\n•   **Uluslararası Sözleşme İhtilafı:** Türkiye'de yerleşik bir ithalatçı şirket ile Çin'de yerleşik bir ihracatçı şirket arasında yapılan uluslararası bir mal alım satım sözleşmesinde teslimat gecikmesi nedeniyle bir anlaşmazlık çıkar. Taraflar sözleşmede uygulanacak hukuku açıkça belirtmemişlerdir. Bu durumda MÖHUK m. 24/4'e göre sözleşmeyle en sıkı ilişkili hukuk (genellikle satıcının yerleşim yeri hukuku veya malın teslim edileceği yer hukuku gibi) uygulanabilir.\n•   **Miras Uyuşmazlığı:** Hollanda'da yaşayan ve Hollanda vatandaşı olan bir kişinin (X) Türkiye'de bulunan taşınmaz malları için miras davası açılır. MÖHUK m. 20'ye göre, mirasın tamamına murisin millî hukuku (yani Hollanda hukuku) uygulanır. Ancak tereke içinde taşınmaz malların bulunması durumunda, bazı istisnalar veya özel durumlar dikkate alınabilir (MÖHUK 20'de yer alan 'bağlama noktası mülkiyetin bulunduğu yer hukuku olarak da belirlenebilir' gibi özel hükümler kontrol edilmelidir. Genel kural mirasçının millî hukuku, fakat taşınmazlar için bulundukları yer hukuku da uygulanabilirliği olan bir bağlama noktasıdır. Güncel MÖHUK'ta mirasın tamamına murisin milli hukuku uygulanır. Taşınmazlarla ilgili farklı bir bağlama noktası yoktur.).\n•   **Haksız Fiil Tazminatı:** Bir Türk vatandaşının (Y) Amerika Birleşik Devletleri'nde bir Amerikalı vatandaşa (Z) karşı araba kazası yaparak zarar vermesi durumunda, bu haksız fiilden kaynaklanan tazminat talebine uygulanacak hukuk, MÖHUK m. 25'e göre genellikle fiilin işlendiği yer hukuku (yani ABD hukuku) olacaktır. Ancak zarar görenin seçimine göre sonucun meydana geldiği yer hukuku da uygulanabilir.\n•   **Boşanma Davası:** Türkiye'de evlenmiş ve sonradan Almanya'ya yerleşmiş iki Türk vatandaşı (Çift A), Türkiye'de boşanma davası açıyor. Bu durumda MÖHUK m. 15'e göre boşanma sebepleri ve hükümlerine eşlerin müşterek millî hukuku olan Türk hukuku uygulanacaktır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kamu Düzeni İstisnası (MÖHUK m. 27):** Yabancı hukukun uygulanması Türk kamu düzenine açıkça aykırı ise, yabancı hukuk uygulanmaz ve yerine Türk hukuku uygulanır. Ancak bu istisna dar yorumlanmalı, yalnızca Türk hukukunun temel değerlerini ve adalet anlayışını ciddi şekilde zedeleyen durumlarda başvurulmalıdır. Farklı olması kamu düzenine aykırılık anlamına gelmez.\n•   **Yetkili Hukukun Delili:** Türk mahkemesi, MÖHUK gereği uygulanması gereken yabancı hukukun içeriğini resen (kendiliğinden) araştırır ve tespit eder. Gerekirse taraflardan yardım isteyebilir veya uzman görüşüne başvurabilir. Yabancı hukukun uygulanamaması halinde Türk hukuku uygulanmaz, yabancı hukukun delilinin temin edilememesi farklı değerlendirilir.\n•   **Atıf (Renvoy):** Milletlerarası özel hukukta, bir devletin kanunlar ihtilafı kuralının gösterdiği yabancı hukukun, kendi kanunlar ihtilafı kuralları uyarınca meseleye kendi hukukunun değil, başka bir (genellikle ilk mahkeme devleti) devletin hukukunun uygulanması gerektiğini belirtmesidir. MÖHUK m. 5/3 gibi maddelerde atfın bazı hallerde kabul edildiği belirtilir.\n•   **Ön Sorun (Preliminary Question):** Asıl uyuşmazlığın çözümü için öncelikle çözülmesi gereken tali (ikincil) hukuki meselelerdir. Ön soruna uygulanacak hukuk, asıl sorundan bağımsız olarak kendi bağlama kuralına göre belirlenir. Örneğin, miras davasında mirasçının ehliyeti bir ön sorun teşkil edebilir.\n•   **Hayata Geçirme (Adaptation):** Yabancı hukukun uygulanması sonucunda ortaya çıkan, hukuk sistemleri arasındaki farklılıklardan kaynaklanan uyumsuzlukların (hukuk boşlukları veya çatışmaların), yargıcın takdir yetkisi ve hukukun genel ilkeleri çerçevesinde giderilmesi işlemidir.\n•   **Zamanaşımı:** Yabancı hukukun uygulanması sırasında, yabancı hukuktaki zamanaşımı süreleri de Türk hukuku tarafından kabul edilir. Ancak, bu zamanaşımı sürelerinin kamu düzenine aykırı olmaması gerekir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **MÖHUK'un Temel Kavramlarını Kavrayın:** Kanunlar ihtilafı, bağlama noktası, yetkili hukuk, kamu düzeni istisnası, atıf (renvoy), ön sorun ve nitelenme gibi temel terimlerin tanımlarını ve işlevlerini çok iyi öğrenin.\n•   **Önemli MÖHUK Maddelerini Ezberleyin/İçselleştirin:** Özellikle kişisel statü (m. 5), evlilik (m. 14), boşanma (m. 15), sözleşmeler (m. 24), haksız fiiller (m. 25), miras (m. 20) ve kamu düzeni (m. 27) gibi konulara ilişkin bağlama kurallarını ve istisnalarını madde numaralarıyla birlikte bilmek faydalı olacaktır.\n•   **Vaka Analizi Becerisi Geliştirin:** Size sunulan yabancılık unsuru içeren olaylarda, doğru bağlama noktasını tespit ederek hangi devlet hukukunun uygulanacağına karar verme yeteneğinizi pratik örneklerle pekiştirin. Olaydaki tarafların vatandaşlığı/yerleşim yeri, olayın gerçekleştiği yer gibi unsurlara dikkat edin.\n•   **İstisnai Durumları Ayırt Edin:** Kamu düzeni istisnası, atıf ve ön sorun gibi özel durumların ne anlama geldiğini, hangi şartlarda uygulandığını ve sonuçlarını detaylıca öğrenin. Bu durumların MÖHUK sistematiğindeki yerini ve önemini anlayın.\n•   **Milletlerarası Yargı Yetkisi ile Uygulanacak Hukuku Karıştırmayın:** MÖHUK'un iki ana alanından biri olan milletlerarası yargı yetkisi (davanın hangi ülkenin mahkemesinde açılacağı) ile uygulanacak hukuk (dava açılan mahkemenin hangi ülkenin maddi hukuk kurallarını uygulayacağı) arasındaki farkı net bir şekilde anlayın.\n•   **Kaynak Kitap ve Notları Tekrar Edin:** Ders notlarınızı ve tavsiye edilen MÖHUK ders kitaplarını baştan sona gözden geçirin, özellikle zorlandığınız veya kafanızın karıştığı noktalar üzerinde yoğunlaşın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Milletlerarası Özel Hukuk'ta (MÖHUK) \"bağlama noktası\" kavramı ne anlama gelmektedir?",
+      "options": {
+        "A": "Tarafların sözleşme ile kararlaştırdığı yargı yeri.",
+        "B": "Bir hukuki ilişkiye uygulanacak devlet hukukunu belirleyen unsur.",
+        "C": "Uluslararası uyuşmazlıklarda yetkili mahkemeyi gösteren kural.",
+        "D": "Yabancı hukukun Türk kamu düzenine aykırılığını tespit etme yöntemi."
+      },
+      "correctAnswer": "B",
+      "explanation": "Bağlama noktası, yabancılık unsuru içeren bir hukuki ilişkinin, hangi devlet hukuk sistemiyle en yakın ilişki içinde olduğunu gösteren ve o hukuk sisteminin uygulanmasını sağlayan ölçüttür (örn: vatandaşlık, yerleşim yeri, akdin ifa yeri)."
+    },
+    {
+      "questionNumber": 2,
+      "question": "MÖHUK'a göre, yabancı hukukun Türk kamu düzenine açıkça aykırı bulunması durumunda aşağıdaki seçeneklerden hangisi doğru olur?",
+      "options": {
+        "A": "Yabancı hukukun yerine uluslararası sözleşmeler uygulanır.",
+        "B": "Yabancı hukuk tamamen görmezden gelinir ve dava reddedilir.",
+        "C": "Yabancı hukuk uygulanmaz ve yerine Türk hukuku uygulanır.",
+        "D": "Taraflardan yabancı hukuku değiştirmeleri istenir."
+      },
+      "correctAnswer": "C",
+      "explanation": "MÖHUK m. 27 uyarınca, yetkili yabancı hukukun belirli bir olaya uygulanan hükmü, Türk kamu düzenine açıkça aykırı ise, bu hüküm uygulanmaz; gereken hallerde Türk hukuku uygulanır. Bu, kamu düzeni istisnasıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Türk vatandaşı Ayşe ile Alman vatandaşı Michael'ın evlenme ehliyet ve şartlarına uygulanacak hukuk, MÖHUK'a göre hangisidir?",
+      "options": {
+        "A": "Evliliğin yapılacağı yer hukuku.",
+        "B": "Ayşe'nin milli hukuku (Türk hukuku).",
+        "C": "Michael'ın milli hukuku (Alman hukuku).",
+        "D": "Her iki tarafın kendi milli hukuku ayrı ayrı uygulanır."
+      },
+      "correctAnswer": "D",
+      "explanation": "MÖHUK m. 14/1 uyarınca, evlenme ehliyeti ve şartları, taraflardan her birinin kendi milli hukukuna tabidir. Bu durumda Ayşe için Türk hukuku, Michael için Alman hukuku evlenme ehliyetini belirleyecektir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir sözleşmeye uygulanacak hukuk konusunda tarafların açıkça bir seçim yapmadığı durumlarda MÖHUK uyarınca genel prensip nedir?",
+      "options": {
+        "A": "Sözleşmenin kurulduğu yer hukuku uygulanır.",
+        "B": "Sözleşmenin ifa edileceği yer hukuku uygulanır.",
+        "C": "Sözleşmeyle en sıkı ilişkili olan hukuk uygulanır.",
+        "D": "Davanın açıldığı mahkemenin hukuku (lex fori) uygulanır."
+      },
+      "correctAnswer": "C",
+      "explanation": "MÖHUK m. 24/4 uyarınca, taraflar uygulanacak hukuku açıkça seçmemişlerse, sözleşmeyle en sıkı ilişkili hukukun uygulanacağı kabul edilir. Bu, objektif bağlama noktasının tespitidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "MÖHUK'ta yer alan \"atıf\" (renvoy) kavramı hangi durumu ifade eder?",
+      "options": {
+        "A": "Yabancı bir mahkemenin Türk mahkemesine dava açması.",
+        "B": "Yetkili yabancı hukukun kendi kanunlar ihtilafı kuralları uyarınca Türk hukukuna veya üçüncü bir ülke hukukuna atıfta bulunması.",
+        "C": "Tarafların uygulanacak hukuku baştan değiştirmesi.",
+        "D": "Yabancı hukukun uygulanmasında çıkan uyuşmazlığın Uluslararası Adalet Divanı'na taşınması."
+      },
+      "correctAnswer": "B",
+      "explanation": "Atıf (renvoy), milletlerarası özel hukukta yetkili olan yabancı hukukun, kendi içtihadi kurallarına göre uyuşmazlığın Türk hukukuna veya üçüncü bir devlet hukukuna tabi olduğunu bildirmesi durumudur. MÖHUK'un bazı maddelerinde atfın kabul edildiği görülür (örn. m. 5/3)."
+    }
+  ]
+}

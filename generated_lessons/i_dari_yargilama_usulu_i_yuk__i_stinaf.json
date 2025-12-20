@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İstinaf Nedir?**: İstinaf, ilk derece idare mahkemeleri veya vergi mahkemelerince verilen nihai kararların hem maddi vakıa denetimi hem de hukuki denetimi yapılmak üzere üst yargı mercileri olan Bölge İdare Mahkemeleri (BİM) tarafından incelenmesini sağlayan bir kanun yoludur.\n•   **Amaç**: Hukuka aykırı kararların düzeltilmesi, hukukun doğru uygulanmasının sağlanması ve yargısal hataların giderilerek yargılama kalitesinin artırılmasıdır.\n•   **İdari Yargıdaki Yeri**: İdari yargılama sistemimizde iki dereceli yargılamadan sonra getirilen istinaf kanun yolu ile birlikte, ilk derece mahkemelerinin kararları doğrudan Danıştay'a temyize gitmeden önce Bölge İdare Mahkemeleri tarafından denetlenmektedir. Bu, yargılamanın üç dereceli bir yapıya dönüşmesinin ara aşamasıdır (ilk derece, istinaf, temyiz).\n•   **Tarafların Hakkı**: Davanın tarafları, aleyhlerine verilen ilk derece mahkemesi kararlarının hukuka uygun olmadığı gerekçesiyle kanunla belirlenen süre ve usulde istinaf yoluna başvurma hakkına sahiptirler.\n•   **Yetkili Merci**: İstinaf başvuruları, kararı veren ilk derece mahkemesinin yargı çevresindeki Bölge İdare Mahkemesi'ne yapılır.\n•   **İnceleme Kapsamı**: İstinaf incelemesi, ilk derece mahkemesinin kararı verilirken uyguladığı hem maddi olaylara ilişkin tespitleri hem de hukuki değerlendirmeleri kapsar. BİM, gerektiğinde yeniden delil toplayabilir, keşif yapabilir veya tanık dinleyebilir, yani duruşma açabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İdari Yargılama Usulü Kanunu (İYUK) m. 45 – İstinaf Başvurusu ve İncelenmesi**: İstinaf kanun yolu, idare ve vergi mahkemelerinin kararlarına karşı, başka kanunlarda aksine hüküm bulunmadıkça, tebliğ tarihini izleyen günden itibaren otuz gün içinde Bölge İdare Mahkemesine başvurulur. Maddi veya parasal değeri belli bir miktarın altında kalan uyuşmazlıklarda istinaf yolu kapalıdır. Bu madde, istinafa tabi kararları, başvuru süresini ve usulünü düzenler.\n•   **İYUK m. 46 – Kararların Kesinleşmesi ve Temyiz**: Bölge İdare Mahkemelerinin kararları kesin olup, bunlara karşı temyiz yoluna başvurulamaz. Ancak, kanunla belirlenen bazı istisnai durumlarda (belli bir parasal sınırı aşan uyuşmazlıklar, bazı özel davalar vb.) Bölge İdare Mahkemelerinin kararlarına karşı Danıştay'a temyiz başvurusu yapılabilir.\n•   **İYUK m. 47 – İstinaf İsteminin Reddi**: Bölge İdare Mahkemesi, istinaf dilekçesinin İYUK’un 3. ve 5. maddelerinde belirtilen şekil şartlarına uygun olmadığını veya istinaf başvurusunun süresinde yapılmadığını ya da istinaf yoluna başvurma hakkı olmadığını tespit ederse, istinaf başvurusunun reddine karar verir.\n•   **İYUK m. 48 – İstinaf Mahkemesinin Kararları**: Bölge İdare Mahkemesi, ilk derece mahkemesinin kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir. Kararı hukuka aykırı bulursa, kararı kaldırır ve esas hakkında yeniden karar verir veya eksik inceleme nedeniyle kararı bozarak dosyayı yeniden karar verilmek üzere ilk derece mahkemesine geri gönderir.\n•   **İYUK m. 3 – İdari Davaların Açılması**: İstinaf dilekçesi de idari dava dilekçesi gibi belirli şekil şartlarına tabidir. Davalı ve davacı bilgilerinin, davanın konusunun, delillerin ve imzanın bulunması zorunludur. Bu madde, istinaf dilekçesinin de taşıması gereken genel şekil şartlarını belirler.\n•   **İYUK m. 15/1-g – Görevli Yargı Yeri**: İstinaf başvuruları, kararı veren mahkemeye bir dilekçeyle yapılır ve bu dilekçe Bölge İdare Mahkemesine gönderilir. Maddenin ilgili fıkrası, dava dilekçelerinin ve eklerinin incelenmesiyle ilgili hükümleri istinaf dilekçesi için de kıyasen uygulanır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Memur Disiplin Cezası)**: Bir devlet memuruna verilen meslekten çıkarma cezasına karşı açtığı iptal davasında idare mahkemesi davanın reddine karar verir. Memur, bu kararın hukuka aykırı olduğunu düşünerek tebliğden itibaren 30 gün içinde Bölge İdare Mahkemesine istinaf başvurusu yapar. BİM, dosyayı inceleyerek ilk derece mahkemesinin kararını kaldırabilir ve memurun davasını kabul ederek disiplin cezasını iptal edebilir veya ilk derece mahkemesi kararını hukuka uygun bulup istinaf başvurusunu reddedebilir.\n•   **Örnek 2 (İmar Planı İptal Davası)**: Bir taşınmaz maliki, arazisi üzerinde yapılan imar planı değişikliğinin hukuka aykırı olduğu gerekçesiyle idare mahkemesinde iptal davası açar ve mahkeme planın iptaline karar verir. Davalı idare, bu kararı istinaf edebilir. BİM, imar planının hukuka uygunluğunu yeniden değerlendirerek ilk derece mahkemesi kararını onar veya kaldırarak esastan yeni bir karar verir.\n•   **Örnek 3 (Vergi Uyuşmazlığı)**: Bir şirket, kendisine kesilen yüksek miktardaki vergi cezasına karşı vergi mahkemesinde dava açar. Mahkeme, şirketin talebini kısmen kabul ederek cezayı azaltır. Ancak şirket, cezanın tamamen kaldırılması gerektiğini düşünerek kararı istinaf eder. BİM, vergi cezasına ilişkin idari işlemi ve uygulanan hukuku tekrar inceleyerek karar verecektir.\n•   **Örnek 4 (İstinaf Süresi İhlali)**: Bir karar, taraflara usulüne uygun olarak tebliğ edilmesine rağmen, istinaf dilekçesi 30 günlük yasal sürenin bitiminden sonra verilmiştir. Bu durumda Bölge İdare Mahkemesi, istinaf başvurusunu süre aşımı nedeniyle usulden reddedecektir.\n•   **Örnek 5 (BİM'in Bozma Kararı)**: İdare mahkemesi, bir projenin çevresel etki değerlendirme (ÇED) raporunun iptali davasında, keşif ve bilirkişi incelemesi yapmadan karar verir. BİM, bu durumu eksik inceleme olarak kabul ederek ilk derece mahkemesi kararını bozar ve dosyanın yeniden keşif ve bilirkişi incelemesi yapılarak karar verilmek üzere ilgili idare mahkemesine gönderilmesine hükmeder.\n•   **Örnek 6 (İstinaf Dilekçesindeki Eksiklik)**: İstinaf dilekçesinde, istinaf yoluna başvurulan ilk derece mahkemesi kararının numarası ve tarihi belirtilmez veya istinaf sebepleri açıklanmazsa, İYUK'taki usul eksiklikleri nedeniyle dilekçenin reddi kararı verilebilir. Ancak bu durumda, eksikliklerin giderilmesi için belli bir süre tanınır, giderilmezse reddedilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İstinaf Süresi ve Başlangıcı**: İstinaf başvuru süresi, kararın usulüne uygun olarak taraflara tebliğ edildiği tarihten itibaren işlemeye başlar ve yasal olarak kesin 30 gündür. Bu sürenin kaçırılması hak düşürücü niteliktedir.\n•   **Parasal Sınır**: İYUK m. 45'te ve ilgili tebliğlerde belirtilen parasal sınırın altında kalan idari ve vergi uyuşmazlıklarına ilişkin ilk derece mahkemesi kararlarına karşı istinaf yoluna başvurulamaz. Bu kararlar doğrudan kesindir. Sınır, her yıl yeniden değerleme oranına göre güncellenir.\n•   **İstinaf Dilekçesinin Şekil Şartları**: İstinaf dilekçesi, İYUK m. 3'te belirtilen genel dava dilekçesi şartlarını taşımakla birlikte, ayrıca istinaf edilmek istenen kararın tarih ve sayısı, istinaf sebepleri ve bu sebeplere ilişkin delillerin açıkça belirtilmesi zorunludur. Eksikliklerin süresinde giderilmemesi dilekçenin reddine yol açar.\n•   **Yürütmenin Durdurulması**: İstinaf başvurusu, kural olarak kararın icrasını kendiliğinden durdurmaz. Ancak taraflar, istinaf dilekçesinde yürütmenin durdurulması talebinde bulunabilirler. Bölge İdare Mahkemesi, yürütmenin durdurulması şartlarının (telafisi güç veya imkansız zararın doğması ve işlemin açıkça hukuka aykırı olması) varlığı halinde yürütmenin durdurulmasına karar verebilir.\n•   **BİM Kararlarının Temyizi**: Bölge İdare Mahkemelerinin istinaf başvurusu üzerine verdikleri kararlar, kural olarak kesindir ve temyiz yolu kapalıdır. Ancak kanunda açıkça belirtilen istisnai durumlarda (genellikle parasal sınırın üzerindeki davalar veya kanunda sayılan özel davalar) Danıştay'a temyiz başvurusunda bulunulabilir. Bu ayrım kritik öneme sahiptir.\n•   **İstinaf Nedenleri**: İstinaf, sadece hukuki nedenlere dayanmaz; ilk derece mahkemesinin yaptığı maddi vakıa tespitlerinin hatalı olduğu veya delillerin yanlış değerlendirildiği iddiasına da dayanabilir. Bölge İdare Mahkemesi, ilk derece mahkemesinden farklı olarak hem maddi hem de hukuki denetim yapar ve gerekli gördüğünde yeni delil toplayabilir, keşif yapabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **İstinafın Tanımı ve Amacı**: İstinaf kanun yolunun ne anlama geldiğini, idari yargıdaki yerini ve yargılamaya getirdiği faydaları iyi anlayın. Temyizden farklarını kavrayın.\n•   **İYUK'taki Temel Maddeler**: Özellikle İYUK m. 45, 46, 47 ve 48'i ezberden bilmek yerine, bu maddelerin ruhunu, getirdiği kuralları ve istisnalarını çok iyi kavrayın. Hangi kararlara karşı istinaf yoluna gidilebileceği, hangi kararların istinaf sonrası temyiz edilebileceği hayati bilgilerdir.\n•   **Süreler ve Şekil Şartları**: İstinaf başvuru süresi olan 30 günün başlangıcı ve önemi ile istinaf dilekçesinde bulunması gereken zorunlu unsurları (İYUK m. 3 ve m. 45/2) eksiksiz bilmelisiniz. Süre aşımlarının veya şekil eksikliklerinin sonuçlarına dikkat edin.\n•   **Bölge İdare Mahkemesinin Yetkileri**: BİM'in istinaf başvurusunu inceledikten sonra verebileceği kararları (red, kaldırma ve esastan karar verme, bozma ve dosyayı geri gönderme) ve bu kararların sonuçlarını örneklerle pekiştirin. BİM'in maddi ve hukuki denetim yapabilme yeteneğinin önemini kavrayın.\n•   **İstinaf Sınırları ve İstisnalar**: Her yıl güncellenen parasal sınırın altında kalan uyuşmazlıklarda istinaf yolunun kapalı olduğunu unutmayın. Ayrıca, BİM kararlarının kural olarak kesin olması ve temyiz yolunun kapalı olduğu istisnai durumları (İYUK m. 46) bilmek, sınavda ayırt edici olabilir.\n•   **Yürütmenin Durdurulması**: İstinaf aşamasında yürütmenin durdurulması kararı verilebilmesi için gereken şartları ve bu talebin istinaf dilekçesinde nasıl ifade edilmesi gerektiğini öğrenin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "İdari Yargılama Usulü Kanunu'na (İYUK) göre, ilk derece idare mahkemesi kararlarına karşı istinaf başvuru süresi, kararın tebliğinden itibaren kaç gündür?",
+      "options": {
+        "A": "7 gün",
+        "B": "15 gün",
+        "C": "30 gün",
+        "D": "60 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK m. 45/1'e göre, istinaf kanun yolu başvurusu, kararın tebliğ tarihini izleyen günden itibaren otuz gün içinde yapılır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Bölge İdare Mahkemesi'nin (BİM) istinaf incelemesi sonucunda verebileceği kararlardan biri değildir?",
+      "options": {
+        "A": "İstinaf başvurusunun reddine karar verme",
+        "B": "İlk derece mahkemesi kararını kaldırarak esastan yeniden karar verme",
+        "C": "İlk derece mahkemesi kararını bozarak dosyayı Yargıtay'a gönderme",
+        "D": "İlk derece mahkemesi kararını bozarak dosyayı yeniden karar verilmek üzere ilgili mahkemeye gönderme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bölge İdare Mahkemesi, ilk derece mahkemesi kararını bozarsa dosyayı yeniden karar verilmek üzere ilgili idare mahkemesine geri gönderir. Yargıtay, adli yargıda temyiz mercidir, idari yargıda değil. İdari yargıda temyiz mercii Danıştay'dır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İYUK'a göre, Bölge İdare Mahkemesi'nin istinaf başvurusu üzerine verdiği kararların genel niteliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her durumda temyiz yolu açıktır.",
+        "B": "Kural olarak kesindir ve temyiz yolu kapalıdır.",
+        "C": "Sadece idarenin lehine olan kararlar temyiz edilebilir.",
+        "D": "Danıştay'ın onayına tabi olmadan kesinleşmez."
+      },
+      "correctAnswer": "B",
+      "explanation": "İYUK m. 46/1'e göre, Bölge İdare Mahkemelerinin kararları kesin olup, bunlara karşı temyiz yoluna başvurulamaz. Ancak aynı maddenin devamında belirtilen istisnai durumlarda temyiz yolu açıktır. Dolayısıyla genel kural 'kesin olması ve temyiz yolunun kapalı olması'dır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İstinaf dilekçesi, İYUK'un genel dilekçe şartlarına ek olarak hangi bilgiyi içermek zorundadır?",
+      "options": {
+        "A": "Kararı veren mahkeme başkanının adı ve soyadı",
+        "B": "Kararın tebliğ tarihini gösteren belge",
+        "C": "İstinaf edilen kararın tarih ve sayısı",
+        "D": "Davacının e-posta adresi"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK m. 45/2'ye göre istinaf dilekçelerinde, istinaf edenlerin kimliği ve adresi ile birlikte istinaf olunan kararın tarih ve sayısının ve kararın hangi gerekçelerle hukuka aykırı olduğunun açıkça belirtilmesi zorunludur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki ifadelerden hangisi idari yargıda istinaf kanun yolu ile ilgili yanlıştır?",
+      "options": {
+        "A": "İstinaf başvurusu, kararın icrasını kendiliğinden durdurur.",
+        "B": "İstinaf incelemesi hem maddi olay hem de hukuki denetimi kapsar.",
+        "C": "Belirli parasal sınırın altındaki kararlar istinafa tabi değildir.",
+        "D": "İstinaf başvurusunda yürütmenin durdurulması talep edilebilir."
+      },
+      "correctAnswer": "A",
+      "explanation": "İdari yargıda istinaf başvurusu kural olarak kararın icrasını kendiliğinden durdurmaz. Tarafların, şartları oluştuğunda yürütmenin durdurulması talebinde bulunması gerekir. Diğer şıklar doğrudur."
+    }
+  ]
+}

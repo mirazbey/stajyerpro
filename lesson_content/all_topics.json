@@ -1,0 +1,1897 @@
+[
+  {
+    "subject_id": "anayasa_hukuku",
+    "subject_name": "Anayasa Hukuku",
+    "topics": [
+      {
+        "id": "1onCZx8EEn6kThDBFjOp",
+        "name": "Siyasi Haklar",
+        "parentId": "qyJyS3u01x1hlTozZ0Iz"
+      },
+      {
+        "id": "1v6eOxXJZDlRmtBh0P7S",
+        "name": "Yargı",
+        "parentId": null
+      },
+      {
+        "id": "49o0JIKSFeiJllSqVh5X",
+        "name": "Milletvekilliği",
+        "parentId": "lIGLdQIlZdIvWDZ48M6x"
+      },
+      {
+        "id": "5dNANZOBYscfEvwzQhnA",
+        "name": "TBMM'nin Görevleri",
+        "parentId": "lIGLdQIlZdIvWDZ48M6x"
+      },
+      {
+        "id": "6IHmz3ZjRGhQzIZWMgYI",
+        "name": "Devletin Unsurları",
+        "parentId": "K21jIydFGNO3YERmmnGi"
+      },
+      {
+        "id": "CuyjEu2K9AW3zZ9ocgpx",
+        "name": "Bireysel Başvuru",
+        "parentId": "1v6eOxXJZDlRmtBh0P7S"
+      },
+      {
+        "id": "DcbBrZEN1YtxvxiwQSg7",
+        "name": "Kanun Yapım Süreci",
+        "parentId": "lIGLdQIlZdIvWDZ48M6x"
+      },
+      {
+        "id": "K21jIydFGNO3YERmmnGi",
+        "name": "Anayasa Hukukuna Giriş",
+        "parentId": null
+      },
+      {
+        "id": "KNuKfHUxOxc2XhD158rx",
+        "name": "Temel Hakların Niteliği",
+        "parentId": "qyJyS3u01x1hlTozZ0Iz"
+      },
+      {
+        "id": "Nfar0t7LeE6qlm0zaYjN",
+        "name": "Anayasa Mahkemesi Görevleri",
+        "parentId": "1v6eOxXJZDlRmtBh0P7S"
+      },
+      {
+        "id": "NsT8yUjVjGvVj8LS4IPc",
+        "name": "Sosyal ve Ekonomik Haklar",
+        "parentId": "qyJyS3u01x1hlTozZ0Iz"
+      },
+      {
+        "id": "VVLyHksPV80hcGo0LpNG",
+        "name": "Kuvvetler Ayrılığı",
+        "parentId": "K21jIydFGNO3YERmmnGi"
+      },
+      {
+        "id": "Ya9XwehVcCbRZgNW9Xap",
+        "name": "Hakimler ve Savcılar Kurulu",
+        "parentId": "1v6eOxXJZDlRmtBh0P7S"
+      },
+      {
+        "id": "aDShawCH8AUEKzdhRiKe",
+        "name": "Yürütme",
+        "parentId": null
+      },
+      {
+        "id": "bTFMCGJFvTcA3GanDNX6",
+        "name": "Hükümet Sistemleri",
+        "parentId": "K21jIydFGNO3YERmmnGi"
+      },
+      {
+        "id": "f8MsedVFygU28fdYu0x8",
+        "name": "Yargı Bağımsızlığı",
+        "parentId": "1v6eOxXJZDlRmtBh0P7S"
+      },
+      {
+        "id": "iYrrXrdz8nqIujdvjEoT",
+        "name": "Cumhurbaşkanlığı Kararnameleri",
+        "parentId": "aDShawCH8AUEKzdhRiKe"
+      },
+      {
+        "id": "kYjzKQAjmCTsWn8rNfTt",
+        "name": "Sınırlandırma Rejimi",
+        "parentId": "qyJyS3u01x1hlTozZ0Iz"
+      },
+      {
+        "id": "lIGLdQIlZdIvWDZ48M6x",
+        "name": "Yasama",
+        "parentId": null
+      },
+      {
+        "id": "mRzQRtOzHVlSvSUZqi8Y",
+        "name": "Kişi Hakları",
+        "parentId": "qyJyS3u01x1hlTozZ0Iz"
+      },
+      {
+        "id": "qEN6KhdigPfR0wgCgb6P",
+        "name": "Anayasa Kavramı",
+        "parentId": "K21jIydFGNO3YERmmnGi"
+      },
+      {
+        "id": "qyJyS3u01x1hlTozZ0Iz",
+        "name": "Temel Hak ve Özgürlükler",
+        "parentId": null
+      },
+      {
+        "id": "rHX5Gx89sqFscSnro052",
+        "name": "Olağanüstü Hal",
+        "parentId": "aDShawCH8AUEKzdhRiKe"
+      },
+      {
+        "id": "sAamvnPBCvtLPlq7OR8I",
+        "name": "İptal Davası ve İtiraz Yolu",
+        "parentId": "1v6eOxXJZDlRmtBh0P7S"
+      },
+      {
+        "id": "uLrfjYQvVpnTiGEbXkzK",
+        "name": "Bakanlar",
+        "parentId": "aDShawCH8AUEKzdhRiKe"
+      },
+      {
+        "id": "uXghyvNwIK0e32jYn0r0",
+        "name": "Egemenlik",
+        "parentId": "K21jIydFGNO3YERmmnGi"
+      },
+      {
+        "id": "uimKPUV6FpYpZXZnQJMy",
+        "name": "Denetim Yolları",
+        "parentId": "lIGLdQIlZdIvWDZ48M6x"
+      },
+      {
+        "id": "xSeKwgqZEPC1aRhInGAU",
+        "name": "Cumhurbaşkanı'nın Görevleri",
+        "parentId": "aDShawCH8AUEKzdhRiKe"
+      }
+    ],
+    "pdfs": [
+      "Anayasa Hukukunun Temel Esasları - Kemal Gözler.pdf",
+      "TC Anayasası.pdf"
+    ]
+  },
+  {
+    "subject_id": "avukatlik_hukuku",
+    "subject_name": "Avukatlık Hukuku",
+    "topics": [
+      {
+        "id": "4yWMZRhNRh2f4pq8AssR",
+        "name": "Disiplin İşlemleri",
+        "parentId": "twH9qmZAiBoaEZ9SN59R"
+      },
+      {
+        "id": "5Z5HH5Uxt9kRqbpwJnHb",
+        "name": "Baro Teşkilatı",
+        "parentId": "twH9qmZAiBoaEZ9SN59R"
+      },
+      {
+        "id": "6NOEFLVIgmKbLqjMtL5e",
+        "name": "Avukatlığa Kabul Şartları",
+        "parentId": "uwhiNQJ3zIXhZvIr7hra"
+      },
+      {
+        "id": "AAJevyHHCF14fLDQekFg",
+        "name": "Avukatın Hak ve Yükümlülükleri",
+        "parentId": null
+      },
+      {
+        "id": "BqxLZiE7VwsHNDy1mOYd",
+        "name": "Uzlaştırmacı Avukat Görevlendirmesi",
+        "parentId": "e36wVnmAbT38oEesKFs8"
+      },
+      {
+        "id": "Mwqr4jGYmFhzUfXW3gII",
+        "name": "Avukatlık Ücreti",
+        "parentId": "AAJevyHHCF14fLDQekFg"
+      },
+      {
+        "id": "YdsnUQCeRifY0s1kDUgb",
+        "name": "Avukatın Hakları",
+        "parentId": "AAJevyHHCF14fLDQekFg"
+      },
+      {
+        "id": "cQrIGh8qn4L7GwDMjkaM",
+        "name": "Staj Şartları",
+        "parentId": "uwhiNQJ3zIXhZvIr7hra"
+      },
+      {
+        "id": "d6bNSb8uBxv3ezmCX2wl",
+        "name": "Avukatın Yükümlülükleri",
+        "parentId": "AAJevyHHCF14fLDQekFg"
+      },
+      {
+        "id": "e36wVnmAbT38oEesKFs8",
+        "name": "9. Yargı Paketi (Avukatlık Mesleği Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "rd3TJFgd5CKr9EFHyCd4",
+        "name": "Avukatlık Sözleşmesi",
+        "parentId": "AAJevyHHCF14fLDQekFg"
+      },
+      {
+        "id": "twH9qmZAiBoaEZ9SN59R",
+        "name": "Baro ve Disiplin",
+        "parentId": null
+      },
+      {
+        "id": "uwhiNQJ3zIXhZvIr7hra",
+        "name": "Avukatlık Mesleğine Giriş",
+        "parentId": null
+      },
+      {
+        "id": "vtUWpSjb8K1yDyBJ9MOk",
+        "name": "Avukatların Arabuluculuk Faaliyetleri",
+        "parentId": "e36wVnmAbT38oEesKFs8"
+      },
+      {
+        "id": "x4JGhkWzOMXGEKdxHeYW",
+        "name": "Türkiye Barolar Birliği",
+        "parentId": "twH9qmZAiBoaEZ9SN59R"
+      },
+      {
+        "id": "xdYNGblIKoR3dO3ppjE9",
+        "name": "Staj Süreci",
+        "parentId": "uwhiNQJ3zIXhZvIr7hra"
+      }
+    ],
+    "pdfs": [
+      "avukatlık hukuku.pdf",
+      "avukatlık kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "borclar_hukuku",
+    "subject_name": "Borçlar Hukuku",
+    "topics": [
+      {
+        "id": "6SbYrnAkToQgzJuEeIjs",
+        "name": "Kusursuz Sorumluluk",
+        "parentId": "Ti2EmVyu3ErVpAzIyr8L"
+      },
+      {
+        "id": "71mGDRew7AGulKlD04FG",
+        "name": "Tazminat",
+        "parentId": "Ti2EmVyu3ErVpAzIyr8L"
+      },
+      {
+        "id": "8gUqhJePPxVWpmJCbXyD",
+        "name": "İade Borcu",
+        "parentId": "GMHWgRdIaufo90yo1h1X"
+      },
+      {
+        "id": "GMHWgRdIaufo90yo1h1X",
+        "name": "Sebepsiz Zenginleşme",
+        "parentId": null
+      },
+      {
+        "id": "KkxaUs0fBY8B7Rb6lDwa",
+        "name": "Eser Sözleşmesi",
+        "parentId": "NsbpfLGwnzVIbaX5vT1N"
+      },
+      {
+        "id": "LHg87deGAAKpQF4cDcMT",
+        "name": "Borç İlişkisinin Kaynakları",
+        "parentId": null
+      },
+      {
+        "id": "NsbpfLGwnzVIbaX5vT1N",
+        "name": "Özel Borç İlişkileri",
+        "parentId": null
+      },
+      {
+        "id": "OrL0j9U2r9Zbgbef7SFV",
+        "name": "Geçersizlik Halleri",
+        "parentId": "LHg87deGAAKpQF4cDcMT"
+      },
+      {
+        "id": "RDugW3HHJH5uzb3D9z2z",
+        "name": "Hizmet Sözleşmesi",
+        "parentId": "NsbpfLGwnzVIbaX5vT1N"
+      },
+      {
+        "id": "T0AcRj5GTPhnd9AZWDOu",
+        "name": "Alacaklı Temerrüdü",
+        "parentId": "Z62WtUK17bryAwhnObTk"
+      },
+      {
+        "id": "Ti2EmVyu3ErVpAzIyr8L",
+        "name": "Haksız Fiil",
+        "parentId": null
+      },
+      {
+        "id": "YJDrSUuQtrFclAK54MuD",
+        "name": "Kusur Sorumluluğu",
+        "parentId": "Ti2EmVyu3ErVpAzIyr8L"
+      },
+      {
+        "id": "Z62WtUK17bryAwhnObTk",
+        "name": "Borcun İfası ve Sona Ermesi",
+        "parentId": null
+      },
+      {
+        "id": "cRDMl11N9PU2U6ip9IGa",
+        "name": "Sebepsiz Zenginleşme Şartları",
+        "parentId": "GMHWgRdIaufo90yo1h1X"
+      },
+      {
+        "id": "d2lkzvX9e4bQyQnavfJS",
+        "name": "Kefalet Sözleşmesi",
+        "parentId": "NsbpfLGwnzVIbaX5vT1N"
+      },
+      {
+        "id": "ggG3lf4jswjgeWLLJrLU",
+        "name": "Vekalet Sözleşmesi",
+        "parentId": "NsbpfLGwnzVIbaX5vT1N"
+      },
+      {
+        "id": "isKagWLDN9MOhun4mLXl",
+        "name": "Borçlu Temerrüdü",
+        "parentId": "Z62WtUK17bryAwhnObTk"
+      },
+      {
+        "id": "k3a7VJUeUU8dA3WFa3EP",
+        "name": "Haksız Fiil Şartları",
+        "parentId": "Ti2EmVyu3ErVpAzIyr8L"
+      },
+      {
+        "id": "p4vxoy7l8TCzIfx2yhpr",
+        "name": "Satış Sözleşmesi",
+        "parentId": "NsbpfLGwnzVIbaX5vT1N"
+      },
+      {
+        "id": "qXO0DXzQKPGEbPyfEKBJ",
+        "name": "Sözleşmenin Kurulması",
+        "parentId": "LHg87deGAAKpQF4cDcMT"
+      },
+      {
+        "id": "qsQB0fkUsAmhlynbUXMk",
+        "name": "Temsil",
+        "parentId": "LHg87deGAAKpQF4cDcMT"
+      },
+      {
+        "id": "um0PSYX1XO9DVmMUiTzd",
+        "name": "İfa",
+        "parentId": "Z62WtUK17bryAwhnObTk"
+      },
+      {
+        "id": "vdosmjP3lcMx97w63sgN",
+        "name": "Zamanaşımı",
+        "parentId": "Z62WtUK17bryAwhnObTk"
+      },
+      {
+        "id": "wJSAxrrHFmiQFFvlxDJa",
+        "name": "Sözleşmeden Doğan Borçlar",
+        "parentId": "LHg87deGAAKpQF4cDcMT"
+      }
+    ],
+    "pdfs": [
+      "borçlar hukuku ders notları.pdf",
+      "türk borçlar kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "ceza_hukuku",
+    "subject_name": "Ceza Hukuku",
+    "topics": [
+      {
+        "id": "1G0SSe26AjinyB2bZpKV",
+        "name": "Devlete Karşı Suçlarda Yeni Düzenlemeler",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "1dxYvO1faQZo5KGmHtDr",
+        "name": "Şiddet Suçlarının Uzlaşma Kapsamından Çıkarılması",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "77EzxIxhGk5PHXwmyKCN",
+        "name": "Cezalar",
+        "parentId": "uluC43Ph11JYYhHQIonO"
+      },
+      {
+        "id": "7Poe0MdG0sBkhzQyZAhG",
+        "name": "Cinsel Suçlarda Etkin Pişmanlığın Sınırlandırılması",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "7pIq6tOYTx1xnDm5gO5r",
+        "name": "Cinsel Suçların Kapsamı",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "Ala6tnxaxe3wm070WNiA",
+        "name": "Güvenlik Tedbirleri",
+        "parentId": "uluC43Ph11JYYhHQIonO"
+      },
+      {
+        "id": "En3PqxglaH8EPa2ppzqR",
+        "name": "9. Yargı Paketi (TCK Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "FTx1UFmLkrqhIvEcknCa",
+        "name": "Teşebbüs",
+        "parentId": "fgu0OkwdjQKKRY9eES4B"
+      },
+      {
+        "id": "IMd11M5Sjv109ub5MR80",
+        "name": "Suçun Genel Teorisi",
+        "parentId": null
+      },
+      {
+        "id": "JE77mC8LdbSdQOaGjWwD",
+        "name": "Ceza Kanunlarının Uygulanması",
+        "parentId": "PdBaO7NmP938pKbOZTpd"
+      },
+      {
+        "id": "Mwwog3W6fDGH22GJQQY0",
+        "name": "Uzlaştırmanın Hukuki Etkileri",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "PdBaO7NmP938pKbOZTpd",
+        "name": "Ceza Hukukuna Giriş",
+        "parentId": null
+      },
+      {
+        "id": "RflWiHiefXj7m9NFyMyI",
+        "name": "Zimmet",
+        "parentId": null
+      },
+      {
+        "id": "TZesCMFP3txOWcrqpMyC",
+        "name": "Uzlaştırmacı Görevlendirme Usulleri",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "VBWIHcwPH4nzAioToODA",
+        "name": "Vücut Dokunulmazlığına Karşı Suçlar",
+        "parentId": "hDGPcmffZnkH0ad7TAwJ"
+      },
+      {
+        "id": "aSjZfusjVbtlXC9WWaWf",
+        "name": "Hayata Karşı Suçlar",
+        "parentId": "hDGPcmffZnkH0ad7TAwJ"
+      },
+      {
+        "id": "aoEIURQoZd7HmLum8n0g",
+        "name": "Casusluk Kapsamı Değişikliği",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "asntaeqVhHShwTDTRb3B",
+        "name": "İçtima",
+        "parentId": "fgu0OkwdjQKKRY9eES4B"
+      },
+      {
+        "id": "bUU6Pf0BWUraCMbdERWm",
+        "name": "İştirak",
+        "parentId": "fgu0OkwdjQKKRY9eES4B"
+      },
+      {
+        "id": "cy4e3d3Okpkw45G8SvVq",
+        "name": "Cinsel Suçlarda Cezaların Artırılması",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "dMoRBnV7e1IyTlhaHAJ7",
+        "name": "Uzlaştırma Kapsamı Dışına Alınan Suçlar",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "e4s0AVC4UgDqH1fRVfLu",
+        "name": "Malvarlığına Karşı Suçlar",
+        "parentId": "hDGPcmffZnkH0ad7TAwJ"
+      },
+      {
+        "id": "fgu0OkwdjQKKRY9eES4B",
+        "name": "Suçun Özel Görünüş Şekilleri",
+        "parentId": null
+      },
+      {
+        "id": "gCxkqxaWOvt7kiXfS2cY",
+        "name": "Uzlaştırma Kapsamında Değişiklikler",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "gbYtzDoLXVLaTyj2OHYQ",
+        "name": "Tehdit",
+        "parentId": null
+      },
+      {
+        "id": "jMdmMCXaxbUOswT7XC2F",
+        "name": "Kamu İdaresine Karşı Suçlar",
+        "parentId": "hDGPcmffZnkH0ad7TAwJ"
+      },
+      {
+        "id": "kSG3YTGbHaW2PFB1Tjpz",
+        "name": "Maddi Unsur",
+        "parentId": "IMd11M5Sjv109ub5MR80"
+      },
+      {
+        "id": "nGVr2k0khi3Jwxk80HJJ",
+        "name": "Suçta ve Cezada Kanunilik",
+        "parentId": "PdBaO7NmP938pKbOZTpd"
+      },
+      {
+        "id": "qR5TX6Yev9vD0vjw9t4u",
+        "name": "Uzlaştırma Süresi ve Sonuçları",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "sbgPLS2ySvV4y0u3sFag",
+        "name": "Etki Ajanlığı (Influence Agent)",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      },
+      {
+        "id": "tWclgcw14xUaJcZCWTTK",
+        "name": "Ceza Hukukunun Temel İlkeleri",
+        "parentId": "PdBaO7NmP938pKbOZTpd"
+      },
+      {
+        "id": "uluC43Ph11JYYhHQIonO",
+        "name": "Yaptırımlar",
+        "parentId": null
+      },
+      {
+        "id": "vj1QRmMPkk4ZhW114fR9",
+        "name": "Kusur",
+        "parentId": "IMd11M5Sjv109ub5MR80"
+      },
+      {
+        "id": "y4m1re6r9aOtpDV18zQJ",
+        "name": "Hukuka Aykırılık",
+        "parentId": "IMd11M5Sjv109ub5MR80"
+      },
+      {
+        "id": "yqauRbGiDwpQjlmYi7xc",
+        "name": "Koruma Tedbirlerinde Sıkılaştırma",
+        "parentId": "En3PqxglaH8EPa2ppzqR"
+      }
+    ],
+    "pdfs": [
+      "ceza hukuku genel hükümler ders notları.pdf",
+      "ceza hukuku özel hükümler ders notları.pdf",
+      "türk ceza kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "ceza_muhakemesi",
+    "subject_name": "Ceza Muhakemesi Hukuku",
+    "topics": [
+      {
+        "id": "04U1w2pcTPBrXsYjJ0Ba",
+        "name": "Tutuklama Şartlarında Değişiklik",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "092gLcv1kq40nMwMo599",
+        "name": "CMK Temel İlkeleri",
+        "parentId": "RplaqAZ8VPHoFCILsxtx"
+      },
+      {
+        "id": "2WS4eHVPZW9z8NXoZkk0",
+        "name": "Kovuşturma",
+        "parentId": null
+      },
+      {
+        "id": "33D0S6Dk5WVew9FCSQei",
+        "name": "Ölçülülük İlkesi Kapsamında Revizyon",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "6bgrHNoVb8QWo9ys0i1A",
+        "name": "Adli Kontrol",
+        "parentId": "CaYdLmgZIm5vYXGsearU"
+      },
+      {
+        "id": "BjFUXmu2BVuUVFhTFQRm",
+        "name": "9. Yargı Paketi (CMK Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "CaYdLmgZIm5vYXGsearU",
+        "name": "Soruşturma",
+        "parentId": null
+      },
+      {
+        "id": "K4Fio68x0bcXJDrkzOHq",
+        "name": "Uzlaştırmada Süre-Yetki-Görevlendirme Değişiklikleri",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "KcgkOaKA9gKYZHxzNMI1",
+        "name": "İtiraz",
+        "parentId": "xlZleQzaYS6QHV4hXEvn"
+      },
+      {
+        "id": "OriwYbDNr0YFDuHSe3Md",
+        "name": "İddianame",
+        "parentId": "2WS4eHVPZW9z8NXoZkk0"
+      },
+      {
+        "id": "TfZZf9YHFoK5ylkidsFx",
+        "name": "İstinaf",
+        "parentId": "xlZleQzaYS6QHV4hXEvn"
+      },
+      {
+        "id": "WOzyZpMTKKZhy29SyBe4",
+        "name": "Temyiz Sebeplerinin Genişletilmesi/Daraltılması",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "XwTcAAUtgBjGKL5YqKYg",
+        "name": "Temyiz",
+        "parentId": "xlZleQzaYS6QHV4hXEvn"
+      },
+      {
+        "id": "YEKe4GFpq93pWf5MOjZE",
+        "name": "Adli Kontrol Süreleri",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "aihHfV42boBVqyoCUnMt",
+        "name": "İtiraz Sürelerinde Düzenleme",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "duSGBpSrHgExo7nmRtt2",
+        "name": "Soruşturma Aşaması",
+        "parentId": "CaYdLmgZIm5vYXGsearU"
+      },
+      {
+        "id": "e1IRyOCuOTeEB8BgL8c0",
+        "name": "Savcı Gözetimindeki İşlemlerde Yeni Kurallar",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "fZkyqhiGqXkgwdhvEPfy",
+        "name": "Yetki Kuralları",
+        "parentId": "RplaqAZ8VPHoFCILsxtx"
+      },
+      {
+        "id": "hptpNACN2umUzOtuMPuN",
+        "name": "CMK'da Uzlaştırma Sürecinin Yeni Yapısı",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "hqECH7Lgy7vHQ6u40wlI",
+        "name": "Arama-Elkoyma Kararlarında Yeni Düzenlemeler",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "iZs4UWA7z5Lwvmzee8i6",
+        "name": "Deliller",
+        "parentId": null
+      },
+      {
+        "id": "jMGXtkwg9cngWQ45TgrK",
+        "name": "Delil Değerlendirmesi",
+        "parentId": "iZs4UWA7z5Lwvmzee8i6"
+      },
+      {
+        "id": "l0BkebmuqAQS6nOIIdI0",
+        "name": "İstinaf Başvuru Koşulları",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "nkTPEm0DOwpiKZGyTcRQ",
+        "name": "Duruşma",
+        "parentId": "2WS4eHVPZW9z8NXoZkk0"
+      },
+      {
+        "id": "pb8Ph7ClfMaIUyxTk55t",
+        "name": "İletişimin Denetlenmesi Hükümleri",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "r75AO5SvwDPTYCyuDas7",
+        "name": "İletişimin Denetlenmesi",
+        "parentId": "iZs4UWA7z5Lwvmzee8i6"
+      },
+      {
+        "id": "sTZPmuHUvL7w75xpIzgz",
+        "name": "İfade Alma-Sorgu Usulü Değişiklikleri",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "u9MBIe1G88PKmnSqeqeM",
+        "name": "Kolluğun Yetkilerinde Düzenleme",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "usxqmM5emw1D5ZmyuWs5",
+        "name": "Dijital Delil Toplama Usulleri",
+        "parentId": "BjFUXmu2BVuUVFhTFQRm"
+      },
+      {
+        "id": "xlZleQzaYS6QHV4hXEvn",
+        "name": "Kanun Yolları",
+        "parentId": null
+      },
+      {
+        "id": "yH5A44ekQnfjJyx6ttMC",
+        "name": "Gözaltı",
+        "parentId": "CaYdLmgZIm5vYXGsearU"
+      },
+      {
+        "id": "yOn8gEn6yAc1LMpMakQm",
+        "name": "Hüküm",
+        "parentId": "2WS4eHVPZW9z8NXoZkk0"
+      },
+      {
+        "id": "zS92cceKFVr9FTDH4RRl",
+        "name": "Tutuklama",
+        "parentId": "CaYdLmgZIm5vYXGsearU"
+      }
+    ],
+    "pdfs": [
+      "ceza muhakemesi kanunu.pdf",
+      "CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA (7188).pdf"
+    ]
+  },
+  {
+    "subject_id": "hukuk_felsefesi",
+    "subject_name": "Hukuk Felsefesi ve Sosyolojisi",
+    "topics": [
+      {
+        "id": "3Oa6uyBALGV1TODpn2EP",
+        "name": "Hukuk ve Toplum İlişkisi",
+        "parentId": "7M1kqR3RvuDbfIpHQswn"
+      },
+      {
+        "id": "59tyR9oHrkfgpvirwJSy",
+        "name": "Hukuki Pozitivizm",
+        "parentId": "CCUm69PgEchoZxSJcgpd"
+      },
+      {
+        "id": "7M1kqR3RvuDbfIpHQswn",
+        "name": "Hukuk Sosyolojisi",
+        "parentId": null
+      },
+      {
+        "id": "CCUm69PgEchoZxSJcgpd",
+        "name": "Hukuk Felsefesi",
+        "parentId": null
+      },
+      {
+        "id": "YPrp4lH9xABA4Lj9QqoB",
+        "name": "Doğal Hukuk",
+        "parentId": "CCUm69PgEchoZxSJcgpd"
+      },
+      {
+        "id": "ch9hv2gNC982FpPRSEGY",
+        "name": "Hukukun İşlevleri",
+        "parentId": "7M1kqR3RvuDbfIpHQswn"
+      }
+    ],
+    "pdfs": []
+  },
+  {
+    "subject_id": "hukuk_muhakemeleri",
+    "subject_name": "Hukuk Muhakemeleri Kanunu",
+    "topics": [
+      {
+        "id": "3j7TATtz6FyWSGJo8lAA",
+        "name": "Medeni Usul Hukukuna Giriş",
+        "parentId": null
+      },
+      {
+        "id": "AVq7TVKxIpUsV4ueiERc",
+        "name": "Senet",
+        "parentId": null
+      },
+      {
+        "id": "IrX2fbCeCoWELTteuetP",
+        "name": "Görev Kuralları",
+        "parentId": null
+      },
+      {
+        "id": "LGzHdJk81f4ew8mE0sZC",
+        "name": "Dava Açılması",
+        "parentId": null
+      },
+      {
+        "id": "eb83fExrsYe49dt6WP2x",
+        "name": "Hüküm",
+        "parentId": null
+      },
+      {
+        "id": "h4aoxxFezooWTtzqRJsZ",
+        "name": "Temel İlkeler",
+        "parentId": null
+      },
+      {
+        "id": "mDK0oR4LSilQgysDnYlC",
+        "name": "Tanık",
+        "parentId": null
+      },
+      {
+        "id": "o73nzbZJtueB3hLOnlif",
+        "name": "Basit Yargılama",
+        "parentId": null
+      },
+      {
+        "id": "y12aIVhUdmAbB5PWUsRl",
+        "name": "Belirsiz Alacak Davası",
+        "parentId": null
+      }
+    ],
+    "pdfs": []
+  },
+  {
+    "subject_id": "icra_iflas",
+    "subject_name": "İcra ve İflas Hukuku",
+    "topics": [
+      {
+        "id": "1mNlXmAikIRV88p3SakK",
+        "name": "Konkordato",
+        "parentId": null
+      },
+      {
+        "id": "2IWLqdH9uxvfBdzH7pm7",
+        "name": "Kambiyo Senetlerine Özgü Takipte Değişiklikler",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "3BpG9fUyQ6KJawRZv14V",
+        "name": "Kiralanan Taşınmazların Tahliyesi",
+        "parentId": "ApYg8dbvBNexG71V4NWN"
+      },
+      {
+        "id": "86QKHBrXJR0tQI6IeJE9",
+        "name": "Konkordato Sürecinde İyileştirme Hükümleri",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "ApYg8dbvBNexG71V4NWN",
+        "name": "İcra Takip Yolları",
+        "parentId": null
+      },
+      {
+        "id": "B5AFcfTUV2I6EPvWHxOc",
+        "name": "İlamsız Takipte Yeni Düzenlemeler",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "EvdpmRdk41hfJg0hOfbi",
+        "name": "Satış İlanı Kuralları",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "FNmqo5Kl0sLoGEqyYSbg",
+        "name": "İlamlı Takip",
+        "parentId": "ApYg8dbvBNexG71V4NWN"
+      },
+      {
+        "id": "GGxRXR495huxg0TFkXkw",
+        "name": "İflas Sebepleri",
+        "parentId": "JSWNgrEAYAH9QbhfMpMJ"
+      },
+      {
+        "id": "J5pOhq2yXPHMM3xHRZFG",
+        "name": "Kiralanan Taşınmaz Tahliyesi Prosedürü",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "JSWNgrEAYAH9QbhfMpMJ",
+        "name": "İflas",
+        "parentId": null
+      },
+      {
+        "id": "JxguOKdUFTzSJqHvzZtn",
+        "name": "Taşınır Rehni",
+        "parentId": "PyPwtUnP5ncvmkjXR7K3"
+      },
+      {
+        "id": "OWc21Z9QMkvDoyx53b1X",
+        "name": "Elektronik Satış Usulü",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "PyPwtUnP5ncvmkjXR7K3",
+        "name": "Rehnin Paraya Çevrilmesi",
+        "parentId": null
+      },
+      {
+        "id": "Q4Rm8AtZd7UKTgofYerk",
+        "name": "9. Yargı Paketi (İİK Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "RBplAeiGvPNAsYY8bRtW",
+        "name": "Rehinli Malların Satış Usulü",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "RqVnfkGb7YZRDtpqC12l",
+        "name": "İflas Karar Süreçlerinde Değişiklikler",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "U0WVHZ6Xa0IPukoH8W1y",
+        "name": "Haczi Caiz Olmayan Mallar",
+        "parentId": "scufBTtXIrq6tZCQtWQ7"
+      },
+      {
+        "id": "Uz7S1pLuL8Nrarj240PT",
+        "name": "Konkordato Süreci",
+        "parentId": "1mNlXmAikIRV88p3SakK"
+      },
+      {
+        "id": "V63OOFd6ZwDp0woveZX7",
+        "name": "Haciz İşlemi",
+        "parentId": "scufBTtXIrq6tZCQtWQ7"
+      },
+      {
+        "id": "X9Rurt4961aSSP3Uu2CB",
+        "name": "İlamsız Takip",
+        "parentId": "ApYg8dbvBNexG71V4NWN"
+      },
+      {
+        "id": "XcO4vpvKHsasMFNldRlO",
+        "name": "Paraya Çevirme Süreleri",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "b5ttGvEpPdtRCs0NlwIf",
+        "name": "İflas Tasfiyesi",
+        "parentId": "JSWNgrEAYAH9QbhfMpMJ"
+      },
+      {
+        "id": "cpDWfMAleIU3WslyHrHj",
+        "name": "İstihkak",
+        "parentId": "scufBTtXIrq6tZCQtWQ7"
+      },
+      {
+        "id": "pXNJVn8XqqmZCblAfxKR",
+        "name": "Açık Artırma Şartlarının Yenilenmesi",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "rbLN65dmHSb0CNseivir",
+        "name": "Taşınmaz Rehni",
+        "parentId": "PyPwtUnP5ncvmkjXR7K3"
+      },
+      {
+        "id": "scufBTtXIrq6tZCQtWQ7",
+        "name": "Haciz",
+        "parentId": null
+      },
+      {
+        "id": "wwrmrAIdn4b6hqS5hb69",
+        "name": "Kambiyo Senetlerine Özgü Takip",
+        "parentId": "ApYg8dbvBNexG71V4NWN"
+      },
+      {
+        "id": "x1JEUsirzQ2YDIBnxumc",
+        "name": "Teklif Farkı-Teminat Sistemi",
+        "parentId": "Q4Rm8AtZd7UKTgofYerk"
+      },
+      {
+        "id": "y0MjjGbd4KYDX3NTmWxK",
+        "name": "Konkordato Şartları",
+        "parentId": "1mNlXmAikIRV88p3SakK"
+      }
+    ],
+    "pdfs": [
+      "icra ve iflas hukuku ders notları.pdf",
+      "icra ve iflas kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "idare_hukuku",
+    "subject_name": "İdare Hukuku",
+    "topics": [
+      {
+        "id": "9mW4jY8tdus3SZdLdRQe",
+        "name": "Memurun Hakları",
+        "parentId": "lOwz1v9YiOil44Wj2WI9"
+      },
+      {
+        "id": "IKyBhJ3x8bAZO0jcl8xi",
+        "name": "Kamu Tüzel Kişileri",
+        "parentId": "rUWZCIBP1xRgeJhIvtDk"
+      },
+      {
+        "id": "O3nCp4hIkGOCuD5fVJEN",
+        "name": "Kolluk Kavramı",
+        "parentId": "S45V8wckMQhcqM71I07k"
+      },
+      {
+        "id": "OsH42AbcDexmUAlCKmxt",
+        "name": "Disiplin",
+        "parentId": "lOwz1v9YiOil44Wj2WI9"
+      },
+      {
+        "id": "S45V8wckMQhcqM71I07k",
+        "name": "Kolluk",
+        "parentId": null
+      },
+      {
+        "id": "SHwtY7D7x1fKVOJi12p7",
+        "name": "İdarenin Sorumluluğu",
+        "parentId": null
+      },
+      {
+        "id": "VQZYOSUkQQRZp6XG2FYz",
+        "name": "Düzenleyici İşlemler",
+        "parentId": "AnLESvHTUczfEiGx2Jbe"
+      },
+      {
+        "id": "avq7sVO5bxdjIo8QhzT7",
+        "name": "Memurun Yükümlülükleri",
+        "parentId": "lOwz1v9YiOil44Wj2WI9"
+      },
+      {
+        "id": "bhNLTGTxxSY1uIfIuZD5",
+        "name": "Memur Kavramı",
+        "parentId": "lOwz1v9YiOil44Wj2WI9"
+      },
+      {
+        "id": "cf0KVK1z7s8pfGHuA1Jf",
+        "name": "Kamulaştırma",
+        "parentId": "uaPX5PiuBoX8CBjh9Oup"
+      },
+      {
+        "id": "gcCtkmNjIjoEnSrRThxL",
+        "name": "Kusursuz Sorumluluk",
+        "parentId": "SHwtY7D7x1fKVOJi12p7"
+      },
+      {
+        "id": "lOwz1v9YiOil44Wj2WI9",
+        "name": "Kamu Görevlileri",
+        "parentId": null
+      },
+      {
+        "id": "o3S4u2DieZ07cnd76vxi",
+        "name": "Kolluk Yetkileri",
+        "parentId": "S45V8wckMQhcqM71I07k"
+      },
+      {
+        "id": "ooN01pl25uVFL97fqfJ9",
+        "name": "Bireysel İşlemler",
+        "parentId": "AnLESvHTUczfEiGx2Jbe"
+      },
+      {
+        "id": "rUWZCIBP1xRgeJhIvtDk",
+        "name": "İdarenin Kuruluşu",
+        "parentId": null
+      },
+      {
+        "id": "s985X77PohpkdvrvfKbR",
+        "name": "Kamu Malı Kavramı",
+        "parentId": "uaPX5PiuBoX8CBjh9Oup"
+      },
+      {
+        "id": "shQdikZR5nsRZiA1nig1",
+        "name": "İdari İşlemin Unsurları",
+        "parentId": "AnLESvHTUczfEiGx2Jbe"
+      },
+      {
+        "id": "tRkUq22FLbzNIs7vHUP6",
+        "name": "Yerinden Yönetim",
+        "parentId": "rUWZCIBP1xRgeJhIvtDk"
+      },
+      {
+        "id": "uaPX5PiuBoX8CBjh9Oup",
+        "name": "Kamu Malları",
+        "parentId": null
+      },
+      {
+        "id": "vecjK1X9cugMZ5mPKE0p",
+        "name": "Hizmet Kusuru",
+        "parentId": "SHwtY7D7x1fKVOJi12p7"
+      }
+    ],
+    "pdfs": [
+      "idari yargı ve anayasa yargısı.pdf",
+      "idari yargılama usülü kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "idari_yargilama",
+    "subject_name": "İdari Yargılama Usulü (İYUK)",
+    "topics": [
+      {
+        "id": "3udoocHOg1LXb5zHpTJd",
+        "name": "Elektronik İşlemlerde İyileştirme",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      },
+      {
+        "id": "4TzBaPwy7jX4hVJ493aC",
+        "name": "Elektronik Dosya Süreçleri",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      },
+      {
+        "id": "4yIp5fSYoiJSFUMkShz9",
+        "name": "Ehliyet",
+        "parentId": "vASr8U5r0fdtJ2zTYaCh"
+      },
+      {
+        "id": "C1ufrZGrc8Df4yLnJCK6",
+        "name": "Yargılama",
+        "parentId": null
+      },
+      {
+        "id": "FJI0uSVSd6hI8Y9MMvsx",
+        "name": "Temyiz",
+        "parentId": "Y0DbJynzX1QUsWf0SfAl"
+      },
+      {
+        "id": "FpM1tj0Tb0Xyksr4lZLY",
+        "name": "Arabuluculuk Kapsamının Genişletilmesi",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      },
+      {
+        "id": "FwX0tZokfY9IYMVYYfUf",
+        "name": "9. Yargı Paketi (Adli Reform ve Usul Düzenlemeleri)",
+        "parentId": null
+      },
+      {
+        "id": "GxGsavoaIoD5kBRzTHY9",
+        "name": "İstinaf",
+        "parentId": "Y0DbJynzX1QUsWf0SfAl"
+      },
+      {
+        "id": "OT6OY8qnzo6XDoc75Hmc",
+        "name": "Dava Türleri",
+        "parentId": null
+      },
+      {
+        "id": "Y0DbJynzX1QUsWf0SfAl",
+        "name": "Kanun Yolları",
+        "parentId": null
+      },
+      {
+        "id": "aQbFodYlGwAD1rt3SMP5",
+        "name": "Tam Yargı Davası",
+        "parentId": "OT6OY8qnzo6XDoc75Hmc"
+      },
+      {
+        "id": "e9Xc8gqwsqTa7zDttAVv",
+        "name": "Yargılama Aşamaları",
+        "parentId": "C1ufrZGrc8Df4yLnJCK6"
+      },
+      {
+        "id": "fQWgLN2NllV8cMpj0VHz",
+        "name": "Karar",
+        "parentId": "C1ufrZGrc8Df4yLnJCK6"
+      },
+      {
+        "id": "mDR6VqMVfez2pTh8oSti",
+        "name": "Uzlaştırma Sürecinin Yeniden Yapılandırılması",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      },
+      {
+        "id": "nUz7oiYk0JSXStKyFHvn",
+        "name": "Hak Düşürücü Süreler",
+        "parentId": "vASr8U5r0fdtJ2zTYaCh"
+      },
+      {
+        "id": "psnd0RnJ1zXYoC3FNx50",
+        "name": "İptal Davası",
+        "parentId": "OT6OY8qnzo6XDoc75Hmc"
+      },
+      {
+        "id": "qIG32ZAYpZXQHLQvSUIO",
+        "name": "Yürütmenin Durdurulması",
+        "parentId": "C1ufrZGrc8Df4yLnJCK6"
+      },
+      {
+        "id": "rpz667XvLsaXtCnuTItP",
+        "name": "İdari Merci Tecavüzü",
+        "parentId": "vASr8U5r0fdtJ2zTYaCh"
+      },
+      {
+        "id": "tJJzgX1SILiLGuuWliE7",
+        "name": "UYAP Düzenlemeleri",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      },
+      {
+        "id": "vASr8U5r0fdtJ2zTYaCh",
+        "name": "Dava Şartları",
+        "parentId": null
+      },
+      {
+        "id": "yDmDD7UMxGSCpJwCNlCL",
+        "name": "Makul Sürede Yargılanma Düzenlemeleri",
+        "parentId": "FwX0tZokfY9IYMVYYfUf"
+      }
+    ],
+    "pdfs": []
+  },
+  {
+    "subject_id": "is_hukuku",
+    "subject_name": "İş Hukuku ve Sosyal Güvenlik",
+    "topics": [
+      {
+        "id": "7xVl1ybPFQoMYE1tdneb",
+        "name": "Kıdem-İhbar Tazminat Hükümlerinde Değişiklik",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "98M3xpNtI4dHFf2iw2Te",
+        "name": "Zorunlu Arabuluculukta Süre ve Usul",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "99JF1ZfvW3TL882rMrTy",
+        "name": "İhtiyari Arabuluculuk Usul Kuralları",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "9dRzf9M3ZnShttR7FjiA",
+        "name": "İş Güvencesi",
+        "parentId": "EO1W9an3RkiwLdyBztga"
+      },
+      {
+        "id": "AKnUfQnyFgcHTboFp4GA",
+        "name": "İş Uyuşmazlıklarında Dava Şartları",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "BYiDBC7KEWEorrm6qNh9",
+        "name": "İhtiyari Arabuluculuk Süreç Tanımı",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "EO1W9an3RkiwLdyBztga",
+        "name": "Fesih",
+        "parentId": null
+      },
+      {
+        "id": "GXjueUhldDYNIhV17YLK",
+        "name": "Toplu İş Sözleşmesi",
+        "parentId": "eAFQj60z3PGwANd3m9Xb"
+      },
+      {
+        "id": "HrTNcaeehAXRmnKWi8uW",
+        "name": "Yeni Zorunlu Arabuluculuk Alanları (İş-Tüketici-Ticari)",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "KVnPcXqgx2vt8y8clM7W",
+        "name": "Fesih Türlerinde Düzenlemeler",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "Mku5TKNDpe2Ii5HYSacD",
+        "name": "Arabuluculuk Sonrası Dava Açma Koşulları",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "MsAF68o1EVyRItbU4MYr",
+        "name": "Arabuluculuk Anlaşmasının Bağlayıcılığı",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "ReU9MyL2yG2BnqhxH5pN",
+        "name": "Ücret",
+        "parentId": "uaJKuMua6FUDVZ8Hlc3D"
+      },
+      {
+        "id": "T4y0SW8xgAFkbXJkWPj7",
+        "name": "Emeklilik",
+        "parentId": "nDtFjTmMpwtb5oCzSzxs"
+      },
+      {
+        "id": "TPqwDc1T8glCjHJMzyDT",
+        "name": "Çalışma Süreleri",
+        "parentId": "uaJKuMua6FUDVZ8Hlc3D"
+      },
+      {
+        "id": "TSkSRHwr7559tpwiA1oJ",
+        "name": "Mahkeme Onayı ve İcra Edilebilirlik Şerhi",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "aJgaLfniQoHUsCWYwBkg",
+        "name": "İş Davalarında Süreler",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "cb5pAtWjjGPmdubFEHvh",
+        "name": "Tazminatlar",
+        "parentId": null
+      },
+      {
+        "id": "cglkP0iqMCfmHKnwlLcC",
+        "name": "Bildirimli Fesih",
+        "parentId": "EO1W9an3RkiwLdyBztga"
+      },
+      {
+        "id": "eAFQj60z3PGwANd3m9Xb",
+        "name": "Toplu İş Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "ezsWCqPlwuJDk8rclUOZ",
+        "name": "İş Sözleşmesi Türleri",
+        "parentId": "uaJKuMua6FUDVZ8Hlc3D"
+      },
+      {
+        "id": "f3R6o2hQwu5Wgt0Gb6kQ",
+        "name": "İhbar Tazminatı",
+        "parentId": "cb5pAtWjjGPmdubFEHvh"
+      },
+      {
+        "id": "fZg8ot9tKQrE8Rdj5KVQ",
+        "name": "9. Yargı Paketi (Arabuluculuk ve İş Hukuku Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "kC28GHqZ6npqkRZltsAS",
+        "name": "Kıdem Tazminatı",
+        "parentId": "cb5pAtWjjGPmdubFEHvh"
+      },
+      {
+        "id": "nDtFjTmMpwtb5oCzSzxs",
+        "name": "Sosyal Güvenlik",
+        "parentId": null
+      },
+      {
+        "id": "nNbdVqD99VolO7xZN4Vb",
+        "name": "İşe İadede Arabuluculuk Zorunluluğu",
+        "parentId": "fZg8ot9tKQrE8Rdj5KVQ"
+      },
+      {
+        "id": "r86jQ0ab9KYNNFlmAOs9",
+        "name": "Sendika",
+        "parentId": "eAFQj60z3PGwANd3m9Xb"
+      },
+      {
+        "id": "sAjxZkmBrg0kJ2MOa66e",
+        "name": "Grev",
+        "parentId": "eAFQj60z3PGwANd3m9Xb"
+      },
+      {
+        "id": "sx8Ah2qxOXHmsdXtB7d1",
+        "name": "Haklı Nedenle Fesih",
+        "parentId": "EO1W9an3RkiwLdyBztga"
+      },
+      {
+        "id": "uaJKuMua6FUDVZ8Hlc3D",
+        "name": "Bireysel İş Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "yfPjS0GlKRQXOWAPrhWZ",
+        "name": "Sosyal Sigortalar",
+        "parentId": "nDtFjTmMpwtb5oCzSzxs"
+      }
+    ],
+    "pdfs": []
+  },
+  {
+    "subject_id": "medeni_hukuk",
+    "subject_name": "Medeni Hukuk",
+    "topics": [
+      {
+        "id": "0NQzmkuuBAhJKJeKRUWs",
+        "name": "Temyiz Edilebilir Kararlar",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "6wvMkLrzOuj9YUVEKfNZ",
+        "name": "Hak ve Fiil Ehliyeti",
+        "parentId": "n2HMNhk12RF40Sdmx2y1"
+      },
+      {
+        "id": "7qVKEKfPjXIu4unDm7oP",
+        "name": "Nişanlanma",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "7tlE2tKhnKhRGD6cdy7k",
+        "name": "İstinaf Sonucuna Göre Karar Türleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "84Due5iWOMPxI331HFo7",
+        "name": "Boşanma",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "AEbv7FYW8JBjtlEm411g",
+        "name": "Mülkiyet",
+        "parentId": "sPW5YXilNa7T3SMF75MM"
+      },
+      {
+        "id": "DPhDxM7sBUeg0qAkPP9J",
+        "name": "Soybağı",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "F55T64y86pSfFqJxgjsk",
+        "name": "Nafaka",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "FXVt95iOFmvgxTLaQ2Px",
+        "name": "Tapu Sicili",
+        "parentId": "sPW5YXilNa7T3SMF75MM"
+      },
+      {
+        "id": "FbFj3A4yRWYmXArxpAEt",
+        "name": "İyiniyet ve Dürüstlük Kuralı",
+        "parentId": "Xr0Qz7JsXI3Amr5gnKqE"
+      },
+      {
+        "id": "FbSeVKry2ASaUYm53jHa",
+        "name": "Kişiliğin Korunması",
+        "parentId": "n2HMNhk12RF40Sdmx2y1"
+      },
+      {
+        "id": "GKRgfZXjqpisW57v7wtx",
+        "name": "İspat Yükü",
+        "parentId": "Xr0Qz7JsXI3Amr5gnKqE"
+      },
+      {
+        "id": "GQ7tYpRHzNTBFPEnDKR6",
+        "name": "Bölge Adliye Mahkemesi İnceleme Kapsamı",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "Ghs1J48Pmr8dCROeIvMP",
+        "name": "Sınırlı Ayni Haklar",
+        "parentId": "sPW5YXilNa7T3SMF75MM"
+      },
+      {
+        "id": "GknKOBivbXCKfJkfzIVQ",
+        "name": "Velayet",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "KdVKo1CIRhQ4yKx4Hv2D",
+        "name": "9. Yargı Paketi (HMK ve TMK Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "MuZEm1lXW17wq6r5Z74V",
+        "name": "Soybağı Davalarında Usul Değişiklikleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "NlBMfazjAJRxqfWSajzO",
+        "name": "Gerçek Kişiler",
+        "parentId": "n2HMNhk12RF40Sdmx2y1"
+      },
+      {
+        "id": "NyvyE0CGEP0H8cTbGX9B",
+        "name": "Mirasın Geçişi",
+        "parentId": "uDhxwKi9eEfMGfjk6LZj"
+      },
+      {
+        "id": "Pb7XjnBKD4GVvJd6KcM7",
+        "name": "Aile İçi Şiddet Koruma Tedbirleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "R9CalffTXBEMiQhgWP0S",
+        "name": "Ön İnceleme Aşaması Kuralları",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "SawWUo1uDl84iATbU8p8",
+        "name": "Kişiliğin Başlangıcı ve Sonu",
+        "parentId": "n2HMNhk12RF40Sdmx2y1"
+      },
+      {
+        "id": "ShwqodI07ur0d1lgdpqH",
+        "name": "Rehin ve İpotek",
+        "parentId": "sPW5YXilNa7T3SMF75MM"
+      },
+      {
+        "id": "T7U3zOVKQQ4B0U7IFGqg",
+        "name": "Kısıtlılık ve Vesayet",
+        "parentId": "n2HMNhk12RF40Sdmx2y1"
+      },
+      {
+        "id": "TglXs68Ax9TZegGPUtj6",
+        "name": "Temyizde Harç-Masraf Düzenlemeleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "WIUW994b1HDjcWCHN2kh",
+        "name": "Tüzel Kişiler",
+        "parentId": null
+      },
+      {
+        "id": "WTrpsn3GQ0CaXCzONSAF",
+        "name": "Zilyetlik",
+        "parentId": "sPW5YXilNa7T3SMF75MM"
+      },
+      {
+        "id": "Xr0Qz7JsXI3Amr5gnKqE",
+        "name": "Başlangıç Hükümleri",
+        "parentId": null
+      },
+      {
+        "id": "bRRrh7OsY9oyCXJ26hhb",
+        "name": "Vakıflar",
+        "parentId": "WIUW994b1HDjcWCHN2kh"
+      },
+      {
+        "id": "cR6MXjPqfh8CqJXENAej",
+        "name": "Vesayet İşlemlerinde Süre-Yetki Değişiklikleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "cf6JGp81kcoWXzNgxqZs",
+        "name": "Temyiz Süresi Değişiklikleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "fFpI3eebC0WtzKV9vHsm",
+        "name": "Sürelerin Hesaplanması",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "i3krGmhQif4BWOmi5GWE",
+        "name": "Dava Şartlarında Düzenlemeler",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "kXSAwyW6GCCZOsW5AqAa",
+        "name": "Yasal Mirasçılar",
+        "parentId": "uDhxwKi9eEfMGfjk6LZj"
+      },
+      {
+        "id": "khwBfKZxUQwmgfTUaHcH",
+        "name": "Elektronik Tebligat Sistemi",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "n2HMNhk12RF40Sdmx2y1",
+        "name": "Kişiler Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "quhRYf69ov9Y5eRKW2Mm",
+        "name": "İstinaf Sebepleri",
+        "parentId": "KdVKo1CIRhQ4yKx4Hv2D"
+      },
+      {
+        "id": "sPW5YXilNa7T3SMF75MM",
+        "name": "Eşya Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "soLYYYnNlPSvc8KnQoiz",
+        "name": "Evlenme",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      },
+      {
+        "id": "uDhxwKi9eEfMGfjk6LZj",
+        "name": "Miras Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "uFbhVw6AxVdCRVYIzTiK",
+        "name": "Tüzel Kişi Kavramı",
+        "parentId": "WIUW994b1HDjcWCHN2kh"
+      },
+      {
+        "id": "vR8ryh4Kof6yoztpnCdO",
+        "name": "Hukukun Uygulanması",
+        "parentId": "Xr0Qz7JsXI3Amr5gnKqE"
+      },
+      {
+        "id": "whgcEYEOpv8E7knoLCMT",
+        "name": "Saklı Pay",
+        "parentId": "uDhxwKi9eEfMGfjk6LZj"
+      },
+      {
+        "id": "wkBTgbvAlrWpNIi1vXHO",
+        "name": "Ölüme Bağlı Tasarruflar",
+        "parentId": "uDhxwKi9eEfMGfjk6LZj"
+      },
+      {
+        "id": "wvc1iLY4hDuSUeGKtgHm",
+        "name": "Aile Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "ymbtBBpDZqrMywIqGiAj",
+        "name": "Dernekler",
+        "parentId": "WIUW994b1HDjcWCHN2kh"
+      },
+      {
+        "id": "zxMJpg27KKzbDRBvXH1k",
+        "name": "Mal Rejimleri",
+        "parentId": "wvc1iLY4hDuSUeGKtgHm"
+      }
+    ],
+    "pdfs": [
+      "medeni hukuk ders notları.pdf",
+      "türk medeni kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "milletlerarasi",
+    "subject_name": "Milletlerarası Hukuk",
+    "topics": [],
+    "pdfs": [
+      "Milletlerarası Hukuk ders notları.pdf",
+      "MİLLETLERARASI ÖZEL HUKUK VE USUL HUKUKU.pdf"
+    ]
+  },
+  {
+    "subject_id": "milletlerarasi_hukuk",
+    "subject_name": "Milletlerarası Hukuk",
+    "topics": [
+      {
+        "id": "09Wdrk5lnxYs3yccupyo",
+        "name": "Temel Anlaşmalar",
+        "parentId": "FOw03AUxQO19fDgdyAAK"
+      },
+      {
+        "id": "B3XZIFHPwW3waKxtGtXf",
+        "name": "Uluslararası Örgütler",
+        "parentId": "FOw03AUxQO19fDgdyAAK"
+      },
+      {
+        "id": "C2lINjjjx46Y4zCZpPLO",
+        "name": "Devlet ve Tanıma",
+        "parentId": "FOw03AUxQO19fDgdyAAK"
+      },
+      {
+        "id": "FOw03AUxQO19fDgdyAAK",
+        "name": "Devletler Genel Hukuku",
+        "parentId": null
+      },
+      {
+        "id": "SgkaWFa0wQfoTbeBVO8J",
+        "name": "Uluslararası Hukuk Kaynakları",
+        "parentId": "FOw03AUxQO19fDgdyAAK"
+      },
+      {
+        "id": "hjhdccDkvtwyIS0eIFXn",
+        "name": "Diplomatik İlişkiler",
+        "parentId": null
+      }
+    ],
+    "pdfs": [
+      "Milletlerarası Hukuk ders notları.pdf",
+      "MİLLETLERARASI ÖZEL HUKUK VE USUL HUKUKU.pdf"
+    ]
+  },
+  {
+    "subject_id": "mohuk",
+    "subject_name": "Milletlerarası Özel Hukuk (MÖHUK)",
+    "topics": [
+      {
+        "id": "6YptDuX3ajIWDtjmB54s",
+        "name": "Uygulanacak Hukuk",
+        "parentId": "Yck7sAT5MeNs7OkS9ANJ"
+      },
+      {
+        "id": "AThShCR80Jtq6261oYGK",
+        "name": "Kanunlar İhtilafı",
+        "parentId": "Yck7sAT5MeNs7OkS9ANJ"
+      },
+      {
+        "id": "Yck7sAT5MeNs7OkS9ANJ",
+        "name": "MÖHUK Genel",
+        "parentId": null
+      },
+      {
+        "id": "nd99Nc2kCJQbdHJN7COX",
+        "name": "Milletlerarası Usul Hukuku",
+        "parentId": "Yck7sAT5MeNs7OkS9ANJ"
+      },
+      {
+        "id": "rGKQqOEsMjOh2HrqjNqS",
+        "name": "Yabancılar Hukuku",
+        "parentId": "Yck7sAT5MeNs7OkS9ANJ"
+      }
+    ],
+    "pdfs": []
+  },
+  {
+    "subject_id": "ticaret_hukuku",
+    "subject_name": "Ticaret Hukuku",
+    "topics": [
+      {
+        "id": "37QX0sjDBO7yGKnXwE0K",
+        "name": "9. Yargı Paketi (Ticari Uyuşmazlık Değişiklikleri)",
+        "parentId": null
+      },
+      {
+        "id": "4tbVIVKsXrgWV4MKZy2y",
+        "name": "Poliçe",
+        "parentId": "pcc892DBswfOs8hZah9s"
+      },
+      {
+        "id": "7P6Y8B9x9f0Xm2RI3o8N",
+        "name": "Ticari İşletme",
+        "parentId": null
+      },
+      {
+        "id": "9JnYWDkRVkrniSJu1j8X",
+        "name": "Bono",
+        "parentId": "pcc892DBswfOs8hZah9s"
+      },
+      {
+        "id": "Anf51FhNxx5DrmZtWhzi",
+        "name": "Adi Şirket",
+        "parentId": "6NziXd1KkKbNaqn2SKnd"
+      },
+      {
+        "id": "B6qLSwqQGOQXCSbb5YO6",
+        "name": "Çek",
+        "parentId": "pcc892DBswfOs8hZah9s"
+      },
+      {
+        "id": "BHEy310CshYfJ0dBe2ow",
+        "name": "Kollektif ve Komandit Şirket",
+        "parentId": "6NziXd1KkKbNaqn2SKnd"
+      },
+      {
+        "id": "FfIrVSsedgjutrVOvwXI",
+        "name": "Tacir",
+        "parentId": "7P6Y8B9x9f0Xm2RI3o8N"
+      },
+      {
+        "id": "Iv6dPMb7U8BfJPgXALqi",
+        "name": "Ticari Davalarda Zorunlu Arabuluculuk Kapsamı",
+        "parentId": "37QX0sjDBO7yGKnXwE0K"
+      },
+      {
+        "id": "KCwmtHyeZ5AW5iK8OS7h",
+        "name": "Limited Şirket",
+        "parentId": "6NziXd1KkKbNaqn2SKnd"
+      },
+      {
+        "id": "WvgN6BKu69BFxlyKynoT",
+        "name": "Ticaret Sicili",
+        "parentId": "7P6Y8B9x9f0Xm2RI3o8N"
+      },
+      {
+        "id": "Y7rT9IrRlbE9Y1YoYhIU",
+        "name": "Şirket Kavramı",
+        "parentId": "6NziXd1KkKbNaqn2SKnd"
+      },
+      {
+        "id": "dGsiTcTJ79tagWiZzEIp",
+        "name": "Anonim Şirket Organları",
+        "parentId": "6NziXd1KkKbNaqn2SKnd"
+      },
+      {
+        "id": "m4I88CsmWAiP9nNSjf5T",
+        "name": "Kıymetli Evrak Temel Hükümler",
+        "parentId": "pcc892DBswfOs8hZah9s"
+      },
+      {
+        "id": "pcc892DBswfOs8hZah9s",
+        "name": "Kıymetli Evrak",
+        "parentId": null
+      },
+      {
+        "id": "uXh9sIZY9ILIKQeqnehA",
+        "name": "Ticari İşletme Kavramı",
+        "parentId": "7P6Y8B9x9f0Xm2RI3o8N"
+      },
+      {
+        "id": "v2MuY7nGNU5gqAqlaSjT",
+        "name": "Ticaret Unvanı",
+        "parentId": "7P6Y8B9x9f0Xm2RI3o8N"
+      },
+      {
+        "id": "y48wPpHx48E5o7W0DoM3",
+        "name": "Ticari Uyuşmazlıklarda Dava Şartı Arabuluculuk",
+        "parentId": "37QX0sjDBO7yGKnXwE0K"
+      },
+      {
+        "id": "ySEfAnamkntKV7ODwTI9",
+        "name": "Haksız Rekabet",
+        "parentId": "7P6Y8B9x9f0Xm2RI3o8N"
+      }
+    ],
+    "pdfs": [
+      "ticaret hukuku ders notları.pdf",
+      "türk ticaret kanunu.pdf"
+    ]
+  },
+  {
+    "subject_id": "vergi_hukuku",
+    "subject_name": "Vergi Hukuku",
+    "topics": [
+      {
+        "id": "2zhCBKVjzNuiLGJEyyuz",
+        "name": "Vergi Borcunun Sona Ermesi",
+        "parentId": null
+      },
+      {
+        "id": "AUbBejpYu1x9XwMmck2b",
+        "name": "Vergilendirme Süreci",
+        "parentId": null
+      },
+      {
+        "id": "DDs7urzrpBJOF2X0Qu3F",
+        "name": "Vergi Kanunlarının Uygulanması",
+        "parentId": "hWDWTlVp9jht9Ckah8gt"
+      },
+      {
+        "id": "ExpZ9AheCnZQwDFzsvS6",
+        "name": "Tebliğ",
+        "parentId": "AUbBejpYu1x9XwMmck2b"
+      },
+      {
+        "id": "INDhcT6brCRJ0TuZFOFx",
+        "name": "Vergi Sorumluluğu",
+        "parentId": "hWDWTlVp9jht9Ckah8gt"
+      },
+      {
+        "id": "MTrp4R4fIKlEmWYTBx6E",
+        "name": "Tahakkuk",
+        "parentId": "AUbBejpYu1x9XwMmck2b"
+      },
+      {
+        "id": "N0O8J7nMZgMgXm0HUZPT",
+        "name": "Terkin",
+        "parentId": "2zhCBKVjzNuiLGJEyyuz"
+      },
+      {
+        "id": "Nr2hIkFlPQwvKeSyasSW",
+        "name": "Uzlaşma",
+        "parentId": "UVlji6tdziwzYPbx7Ar6"
+      },
+      {
+        "id": "PZJvPuBsNG0bqhC7z3qO",
+        "name": "Vergi Kabahatleri",
+        "parentId": "qiSUIxGCzJ4HQmM5jSEW"
+      },
+      {
+        "id": "SIkIXyPkzD1mkFYLRhd1",
+        "name": "Tahsil",
+        "parentId": "AUbBejpYu1x9XwMmck2b"
+      },
+      {
+        "id": "UVlji6tdziwzYPbx7Ar6",
+        "name": "Vergi Uyuşmazlıkları",
+        "parentId": null
+      },
+      {
+        "id": "VHL8X3oCss29EQZ09m8f",
+        "name": "Tarh",
+        "parentId": "AUbBejpYu1x9XwMmck2b"
+      },
+      {
+        "id": "a9d12Y9szIMfgsF74Fdg",
+        "name": "Zamanaşımı",
+        "parentId": "2zhCBKVjzNuiLGJEyyuz"
+      },
+      {
+        "id": "aGHOQtfl3h4slXFr4l8j",
+        "name": "Mükellefiyet",
+        "parentId": "hWDWTlVp9jht9Ckah8gt"
+      },
+      {
+        "id": "e3UaLN9Oo0Lck39MZSyU",
+        "name": "Ödeme",
+        "parentId": "2zhCBKVjzNuiLGJEyyuz"
+      },
+      {
+        "id": "gDnbWoUSdhApCZ3rWZId",
+        "name": "Vergi Suçları",
+        "parentId": "qiSUIxGCzJ4HQmM5jSEW"
+      },
+      {
+        "id": "hWDWTlVp9jht9Ckah8gt",
+        "name": "Vergi Hukuku Genel",
+        "parentId": null
+      },
+      {
+        "id": "qiSUIxGCzJ4HQmM5jSEW",
+        "name": "Vergi Suç ve Cezaları",
+        "parentId": null
+      }
+    ],
+    "pdfs": [
+      "Turk Vergi Sistemi (2019 Guncel).pdf",
+      "vergi usul kanunu.pdf"
+    ]
+  }
+]

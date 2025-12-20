@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kovuşturma Evresi Tanımı**: Ceza Muhakemesi Kanunu (CMK) m. 2/1-f hükmüne göre kovuşturma, iddianamenin kabulüyle başlayıp hükmün kesinleşmesine kadar geçen evreyi ifade eder. Bu evre, ceza yargılamasının en kritik ve kamuoyuna açık aşamasıdır.\n•   **Başlangıcı ve Bitişi**: Kovuşturma, cumhuriyet savcısı tarafından hazırlanan iddianamenin görevli ve yetkili mahkemece kabul edilmesiyle resmen başlar. Bu evre, mahkemenin verdiği kararın (hükmün) tüm kanun yollarından geçerek kesinleşmesiyle sona erer.\n•   **Temel Farklılıklar (Şüpheli/Sanık)**: Soruşturma evresinde suç işlediği şüphesi altında olan kişiye “şüpheli” denirken, iddianamenin kabulüyle birlikte kovuşturma evresinde aynı kişiye “sanık” statüsü verilir. Bu statü değişikliği, kişinin hukuki hak ve yükümlülüklerinde önemli farklılıklar yaratır.\n•   **Kovuşturmanın Amacı**: Kovuşturma evresinin temel amacı, iddia edilen suçun maddi gerçeğini tüm yönleriyle araştırmak, delilleri tarafsız bir şekilde değerlendirmek ve böylece adalete uygun, hukuka aykırı olmayan bir hüküm tesis etmektir.\n•   **Adil Yargılanma Hakkı**: Kovuşturma, Anayasa'nın 36. maddesi ve Avrupa İnsan Hakları Sözleşmesi'nin (AİHS) 6. maddesiyle güvence altına alınan adil yargılanma hakkının hayata geçirildiği evredir. Bu evrede aleni duruşma, silahların eşitliği, masumiyet karinesi, savunma hakkı ve gerekçeli karar hakkı gibi ilkeler titizlikle uygulanır.\n•   **Delillerin Değerlendirilmesi**: Kovuşturma evresinde tüm deliller (tanık beyanları, belgeler, uzman raporları, keşif tutanakları vb.) mahkeme huzurunda tartışılır, sanık ve müdafiine bu delillere karşı savunma yapma ve karşı delil sunma imkânı tanınır. Mahkeme, hükmünü ancak duruşmada ortaya konan ve tartışılan delillere dayandırabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **CMK m. 175 (Kovuşturma Evresi ve Yargılama Usulü)**: Bu madde, kovuşturma evresinin başlangıcını ve yargılamanın temel usullerini belirler. İddianamenin kabulüyle mahkemenin görev ve yetkisinin kesinleştiğini ve yargılamanın artık mahkemece yürütüleceğini düzenler.\n•   **CMK m. 176 (Duruşma Hazırlığı)**: İddianamenin kabulünden sonra mahkemenin duruşma gününü belirlemesi, sanığa ve mağdura (varsa katılan sıfatıyla) duruşma gününü bildiren çağrı kâğıtları göndermesi, delillerin toplanması için gerekli tedbirleri alması gibi duruşma öncesi hazırlık işlemlerini kapsar.\n•   **CMK m. 188-216 (Duruşma)**: Bu geniş madde aralığı, duruşmanın baştan sona nasıl yürütüleceğini detaylı bir şekilde düzenler. Duruşmanın açılışı, sanığın sorgusu, delillerin sunulması ve tartışılması, tanık ve bilirkişi dinlenmesi, savcının esas hakkındaki mütalaası, sanığın son savunması ve müdafiinin beyanları gibi tüm aşamalar bu hükümler çerçevesinde gerçekleştirilir.\n•   **CMK m. 223 (Hüküm Çeşitleri)**: Yargılamanın sonunda mahkemenin verebileceği kararları (hükümleri) düzenler. Bunlar; beraat, ceza verilmesine yer olmadığı kararı, mahkûmiyet, güvenlik tedbirine hükmedilmesi, davanın reddi ve davanın düşmesi kararlarıdır. Her bir hükmün hukuki sonuçları farklıdır.\n•   **CMK m. 224-232 (Hükmün Açıklanması ve Gerekçeli Karar)**: Hükmün duruşmada nasıl açıklanacağını, hukuki ve fiili gerekçelerin kararda nasıl gösterileceğini belirtir. Gerekçeli karar, kanun yollarına başvuru için hayati önem taşır ve yargılamanın şeffaflığını sağlar.\n•   **CMK m. 233-242 (Kanun Yolları)**: Hükmün açıklanmasının ardından tarafların (sanık, savcı, katılan) hangi kanun yollarına (istinaf, temyiz) ve hangi sürelerde başvurabileceklerini düzenler. Bu maddeler, kovuşturma evresinin nihai sonuca ulaşmadan önceki son aşamasını oluşturur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: İddianamenin Kabulü ve İlk Duruşma Hazırlığı**: Bir hırsızlık suçlamasıyla Cumhuriyet Savcısı tarafından hazırlanan iddianamenin Ağır Ceza Mahkemesi tarafından kabul edilmesiyle kovuşturma başlar. Mahkeme, sanığa ve müdafiine iddianamenin tebliğini sağlar ve duruşma günü belirleyerek taraflara çağrı kağıtları gönderir. İlk duruşmada sanığın kimlik tespiti yapılır ve sorgusu alınır.\n•   **Örnek 2: Duruşmada Savunma Hakkının Kullanımı**: Bir kasten yaralama davasında sanık, ilk duruşmada suçlamaları reddederek olayın meşru müdafaa sınırları içinde gerçekleştiğini ileri sürer. Müdafii (avukatı), olay yerinde keşif yapılmasını ve sanığın beyanlarını destekleyecek tanıkların dinlenmesini talep eder. Mahkeme, bu talepleri değerlendirir ve yargılamanın ilerleyen aşamalarında delillerin toplanması için karar verir.\n•   **Örnek 3: Tanık Dinlenmesi ve Çelişkinin Giderilmesi**: Bir dolandırıcılık davasında mağdur, banka havalesinin yapıldığını ancak hizmeti alamadığını iddia ederken, sanık ise hizmetin verildiğini ancak mağdurun memnun kalmadığını savunur. Duruşmada dinlenen tanıklar çelişkili beyanlarda bulunduğunda, mahkeme CMK m. 212 uyarınca tanıkları yüzleştirerek veya ek sorular sorarak çelişkileri gidermeye çalışır.\n•   **Örnek 4: Keşif ve Bilirkişi İncelemesi Talepleri**: Bir trafik kazası sonucu ölümle sonuçlanan davada, olayın tam olarak nasıl meydana geldiğinin tespiti için mahkeme, olay yerinde keşif yapılmasına ve kazanın oluşum şekli, hız, kusur oranları gibi konularda bir trafik uzmanı bilirkişiden rapor alınmasına karar verebilir. Taraflar da kendi lehlerine bilirkişi incelemesi talep edebilirler.\n•   **Örnek 5: Son Söz Hakkının Kullanılması ve Hükmün Açıklanması**: Uzun süren bir uyuşturucu ticareti davasının son duruşmasında, Cumhuriyet Savcısı esas hakkındaki mütalaasını sunar ve sanığın cezalandırılmasını ister. Sanık ve müdafii, bu mütalaaya karşı savunmalarını yaptıktan sonra, mahkeme sanığa CMK m. 216/3 uyarınca son sözünü sorar. Sanığın 'sözümü müdafiim söylemiştir, beraatimi talep ederim' demesi üzerine mahkeme kararını açıklamak üzere duruşmaya ara verir ve sonrasında gerekçeli hükmünü tefhim eder.\n•   **Örnek 6: Yargılamanın Uzaması ve Adil Yargılanma Hakkı**: Bir cinayet davasında, birden fazla sanık, çok sayıda tanık ve karmaşık deliller nedeniyle yargılama yıllarca sürebilir. Bu durum, Avrupa İnsan Hakları Mahkemesi (AİHM) nezdinde 'makul sürede yargılanma hakkı'nın ihlali olarak değerlendirilebilir. Sanık, yargılamanın uzaması nedeniyle adil yargılanma hakkının ihlal edildiği gerekçesiyle Anayasa Mahkemesi'ne bireysel başvuruda bulunabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Savunma Hakkının Kısıtlanması Hataları**: Sanığın müdafii (avukat) seçme hakkının engellenmesi, delillere erişiminin kısıtlanması, son söz hakkının kullandırılmaması veya eksik kullandırılması, sorgusunun usulüne uygun yapılmaması gibi durumlar, CMK'nın temel ilkelerine ve adil yargılanma hakkına aykırılık teşkil eder ve kararın bozulmasına yol açabilir.\n•   **Hukuka Aykırı Delillerin Değerlendirilmesi**: Hukuka aykırı yollarla elde edilmiş deliller (örneğin, hukuka aykırı arama sonucu bulunan deliller, işkenceyle elde edilmiş itiraflar), CMK m. 217/2 gereğince hükme esas alınamaz. Bu tür delillere dayanarak verilen bir hüküm, istinaf veya temyiz incelemesinde bozulacaktır. Bu, yargılamanın en önemli hassasiyetlerinden biridir.\n•   **Gerekçeli Karar Eksikliği veya Yetersizliği**: Mahkemenin verdiği hükmün dayandığı tüm delillerin, hukuki ve fiili gerekçelerin açık, anlaşılır ve çelişkisiz bir şekilde kararda gösterilmesi zorunludur (CMK m. 230-232). Gerekçesiz veya yetersiz gerekçeli kararlar, kanun yollarında bozulma sebebidir, zira yargılamanın denetlenebilirliğini ortadan kaldırır.\n•   **Hüküm Çeşitlerinin Karıştırılması/Yanlış Uygulanması**: Mahkemenin sanık hakkında beraat yerine mahkûmiyet, davanın düşmesi yerine davanın reddi gibi yanlış hüküm tesis etmesi ciddi bir hata olup, kanun yollarında mutlaka düzeltilmesi gereken bir durumdur. Her hükmün kendine özgü şartları ve sonuçları bulunmaktadır.\n•   **Kanun Yollarına Başvuru Süreleri ve Usul Hataları**: İstinaf veya temyiz başvurusunun süresinde yapılmaması, başvuru dilekçesinde gerekli usuli şartların (gerekçe gösterme, imza vb.) eksik olması, başvurunun reddedilmesine veya hakkın kaybedilmesine yol açabilir. Bu süreler ve usuller titizlikle takip edilmelidir.\n•   **Tarafların Duruşma Haklarının İhlali**: Sanığın hazır bulunma, soru sorma, delil sunma haklarının engellenmesi; mağdurun katılan sıfatıyla davaya katılma ve delil sunma haklarının gözetilmemesi; savcının iddia makamını layıkıyla temsil etmesine engel olunması gibi durumlar, yargılamanın meşruiyetini zedeler ve CMK'daki usul hükümlerinin ihlali anlamına gelir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kovuşturma Evresinin Tanımını ve Başlangıç-Bitiş Noktalarını İyi Kavrayın**: Kovuşturmanın ne zaman başladığı (iddianamenin kabulü) ve ne zaman sona erdiği (hükmün kesinleşmesi) temel bir bilgidir ve sıkça soru konusu olabilir. Soruşturma ile kovuşturma arasındaki farkları net bir şekilde öğrenin.\n•   **CMK'daki İlgili Madde Numaralarını ve İçeriğini Mantığıyla Öğrenin**: CMK m. 175-242 arasındaki maddelerin ana başlıklarını ve neyi düzenlediğini bilmek, olay sorularında doğru maddeyi işaret etmenizi sağlar. Ezberden ziyade, her maddenin ceza muhakemesi sistemi içindeki işlevini anlamaya çalışın.\n•   **Duruşma Aşamalarını ve Her Aşamada Yapılan İşlemleri Sırasıyla Bilin**: Duruşmanın açılması, sanık sorgusu, delillerin ortaya konulması, tanık dinlenmesi, esas hakkındaki mütalaa, son söz ve hüküm gibi aşamaların doğru sırasını ve bu aşamalarda hangi usul kurallarının uygulandığını öğrenmek önemlidir.\n•   **Hüküm Çeşitlerini ve Sonuçlarını Ayırt Edebilme Yeteneği Geliştirin**: Beraat, mahkûmiyet, davanın reddi, davanın düşmesi, ceza verilmesine yer olmadığı kararı gibi hükümler arasındaki farkları, hangi durumlarda hangi hükmün verileceğini ve bu hükümlerin hukuki sonuçlarını iyi anlayın. Örnek olaylar üzerinden pratik yapın.\n•   **Savunma Hakları ve Adil Yargılanma İlkeleri Üzerine Odaklanın**: Sanığın savunma hakkı, müdafiiden yararlanma hakkı, susma hakkı, delillere erişim hakkı gibi temel haklar ile masumiyet karinesi, aleni yargılama, silahların eşitliği gibi adil yargılanma ilkeleri, hem teorik hem de pratik sorularda karşınıza çıkabilir. Bu konulardaki ihlal örneklerini inceleyin.\n•   **Pratik Olaylarda CMK Hükümlerini Uygulama Becerisi Kazanmak İçin Bol Örnek Çözün**: Özellikle \"bir olay senaryosu verilerek mahkemenin ne karar vermesi gerektiği\" veya \"hangi usuli hatanın yapıldığı\" şeklindeki sorular için farklı senaryoları analiz edin. Çıkmış sınav sorularını ve örnek vakaları inceleyerek bilginizi pekiştirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Ceza Muhakemesi Hukuku'nda kovuşturma evresi ne zaman başlar?",
+      "options": {
+        "A": "Cumhuriyet Savcısının soruşturmaya başlama kararı ile",
+        "B": "Şüphelinin ilk kez ifadeye çağrılması ile",
+        "C": "İddianamenin mahkemece kabul edilmesi ile",
+        "D": "Suçun işlendiği ihbarının alınması ile"
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 2/1-f hükmüne göre kovuşturma, iddianamenin kabulüyle başlayan evredir. Bu, soruşturma evresinin sona erdiğini ve yargılama evresine geçildiğini gösterir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi kovuşturma evresinin temel ilkelerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Aleni yargılama ilkesi",
+        "B": "Masumiyet karinesi ilkesi",
+        "C": "Gizlilik ilkesi",
+        "D": "Silahların eşitliği ilkesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kovuşturma evresi kural olarak aleni (açık) yürütülür. Gizlilik ilkesi genellikle soruşturma evresine özgü bir ilkedir ve kovuşturmada istisnai durumlarda uygulanır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "CMK'ya göre, mahkemenin duruşma sonunda sanık hakkında verebileceği hükümlerden hangisi, sanığın fiili işlediği ancak kusur yeteneğinin olmadığı durumlarda gündeme gelebilir?",
+      "options": {
+        "A": "Mahkûmiyet kararı",
+        "B": "Beraat kararı",
+        "C": "Ceza verilmesine yer olmadığı kararı",
+        "D": "Davanın düşmesi kararı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ceza verilmesine yer olmadığı kararı, sanığın fiili işlediğinin sabit olması ancak çeşitli sebeplerle (kusur yeteneğinin olmaması, yaş küçüklüğü, akıl hastalığı, etkin pişmanlık vb.) hakkında ceza verilmemesi gerektiği durumlarda verilir. Beraat, fiilin sanık tarafından işlenmediği veya yasal unsurlarının oluşmadığı durumlarda verilirken, mahkûmiyet fiilin sabit olup cezalandırılması gereken hallerde verilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki hallerden hangisi hukuka aykırı delil niteliğindedir ve CMK'ya göre hükme esas alınamaz?",
+      "options": {
+        "A": "Tanığın mahkemede yeminli olarak verdiği ifade",
+        "B": "Suçüstü halinde, yetkili makamlarca yapılan aramada elde edilen materyaller",
+        "C": "İşkence altında alınmış sanık ikrarı",
+        "D": "Bilirkişinin usulüne uygun hazırladığı rapor"
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 217/2 gereğince, yüklenen suçu ispat etmek için hukuka aykırı yollarla elde edilmiş deliller, hükme esas alınamaz. İşkence altında alınan ifade veya ikrar, en bariz hukuka aykırı delil örneklerinden biridir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ceza Muhakemesi Kanunu'na göre, sanığa son söz hakkının verilmemesi aşağıdaki sonuçlardan hangisine yol açar?",
+      "options": {
+        "A": "Kararın kesinleşmesini engellemez.",
+        "B": "Sadece bir usul eksikliğidir, karara etkisi yoktur.",
+        "C": "Kesin bozma nedeni teşkil eder.",
+        "D": "Sanığın rızası varsa telafi edilebilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 216/3 hükmüne göre 'Sanık, son sözünü söylemeden hüküm kurulamaz.' Bu hüküm, savunma hakkının en temel güvencelerinden biri olup, son söz hakkının kullandırılmaması mutlak bir bozma nedenidir ve mahkeme kararının kanun yollarında bozulmasına yol açar."
+    }
+  ]
+}

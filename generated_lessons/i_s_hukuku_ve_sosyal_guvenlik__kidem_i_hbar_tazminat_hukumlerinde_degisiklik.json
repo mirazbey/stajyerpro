@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kıdem Tazminatı:** İşçinin işverene bağlı olarak çalıştığı hizmet süresi boyunca yıpranmasının karşılığı olarak ödenen bir tazminat türüdür. İş sözleşmesinin kanunda belirtilen haklı nedenlerle veya işçi lehine olan bazı hallerde sona ermesi durumunda, en az 1 yıl çalışmış olan işçiye ödenir. Hesaplama, son brüt ücret üzerinden yapılır ve bir tavan sınırlaması bulunur.\n•   **İhbar Tazminatı:** İş sözleşmesini haklı bir neden olmaksızın ve usulüne uygun bildirim süresi tanımaksızın fesheden tarafın, diğer tarafa ödemek zorunda olduğu bir tazminattır. Amacı, iş sözleşmesinin aniden feshinden doğacak mağduriyetleri (iş bulma süresi, yeni işçi bulma süresi vb.) gidermektir. Yalnızca belirsiz süreli iş sözleşmelerinde söz konusudur.\n•   **Belirsiz Süreli İş Sözleşmesi:** İş Hukuku'nda temel prensip olan ve süresi baştan belirlenmemiş iş sözleşmeleridir. Kıdem ve ihbar tazminatına ilişkin hükümler genellikle bu sözleşmeler için uygulanır.\n•   **Haklı Nedenle Fesih (İş Kanunu m. 24 ve m. 25):** İşçi veya işveren için iş sözleşmesini derhal feshetme hakkı tanıyan, dürüstlük kuralına göre iş ilişkisini sürdürmeyi imkansız hale getiren hallerdir. Haklı nedenle fesihte, fesheden taraf kural olarak ihbar tazminatı ödemez, kıdem tazminatının ödenip ödenmeyeceği ise fesih nedenine göre değişir.\n•   **İş Güvencesi:** İş Kanunu'nun 18. ve devamı maddelerinde düzenlenen, belirli şartları taşıyan işçilerin iş sözleşmelerinin feshinde geçerli bir neden aranması ve feshin kötü niyetli olduğunun ispatı halinde feshin geçersizliği ve işe iade imkanı tanıyan bir hukuki korumadır. Tazminat haklarıyla yakından ilişkilidir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **4857 Sayılı İş Kanunu:**\n    •   **Madde 17 (İhbar Süreleri ve Tazminatı):** Belirsiz süreli iş sözleşmelerinin feshinden önce bildirim sürelerini düzenler (6 aydan az ise 2 hafta, 6 ay-1.5 yıl arası 4 hafta, 1.5-3 yıl arası 6 hafta, 3 yıldan fazla ise 8 hafta). Bu sürelere uymayan taraf, bildirim süresine ait ücret tutarında ihbar tazminatı öder.\n    •   **Madde 24 (İşçinin Haklı Nedenle Derhal Fesih Hakkı):** İşçinin kıdem tazminatına hak kazanarak iş sözleşmesini feshedebileceği sağlık, ahlak ve iyiniyet kurallarına aykırılık ve zorlayıcı nedenleri düzenler.\n    •   **Madde 25 (İşverenin Haklı Nedenle Derhal Fesih Hakkı):** İşverenin ihbar ve kıdem tazminatı ödemeksizin iş sözleşmesini feshedebileceği sağlık, ahlak ve iyiniyet kurallarına aykırılık ve zorlayıcı nedenleri düzenler.\n•   **1475 Sayılı (Mülga) İş Kanunu Madde 14:** 4857 sayılı İş Kanunu yürürlüğe girdiğinde, kıdem tazminatına ilişkin hükümlerin hala bu maddeye tabi olduğu, 4857 sayılı Kanun'un 120. maddesi ile belirtilmiştir. Kıdem tazminatına hak kazanma koşulları ve hesaplama esasları bu madde ile belirlenir.\n•   **6098 Sayılı Türk Borçlar Kanunu (TBK):** İş sözleşmelerine ilişkin genel hükümleri (m. 393 vd.) ve işçi-işveren ilişkisine dair genel prensipleri içerir. Özellikle özel hüküm bulunmayan durumlarda veya İş Kanunu'na aykırı olmayan tamamlayıcı nitelikte uygulanır.\n•   **Yargıtay İçtihatları:** Kıdem ve ihbar tazminatının hesaplanmasında, hangi ödemelerin brüt ücrete dahil edileceği, hizmet süresinin nasıl hesaplanacağı, hangi durumların haklı fesih sayılacağı gibi konularda Yargıtay tarafından verilen kararlar (içtihatlar) büyük önem taşır ve uygulamaya yön verir. Bu içtihatlar zaman zaman yeni yorumlar ve açıklıklar getirerek uygulamada 'değişiklik' etkisi yaratabilmektedir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: İşçinin Emeklilik Nedeniyle Feshi:** 15 yıldır aynı işyerinde çalışan bir işçi, emeklilik koşullarını (belirli prim günü ve sigortalılık süresi) tamamladığı için iş sözleşmesini feshederse, işverenden kıdem tazminatı talep edebilir. Bu durumda ihbar süresine uyma veya ihbar tazminatı ödeme yükümlülüğü yoktur.\n•   **Örnek 2: İşverenin Haklı Neden Olmaksızın Feshi:** İşveren, 2 yıldır çalışan bir işçinin iş sözleşmesini geçerli bir neden olmaksızın feshederse, işçiye hem 4 haftalık ihbar süresine uymazsa ihbar tazminatı ödemek zorunda kalır hem de 2 yıllık kıdemi için kıdem tazminatı ödemekle yükümlüdür. İşçi ayrıca işe iade davası açabilir.\n•   **Örnek 3: İşçinin Ahlak ve İyi Niyet Kurallarına Aykırı Davranışı:** Bir işçi, işyerinde hırsızlık yaparken yakalanırsa, işveren İş Kanunu m. 25/II kapsamında haklı nedenle derhal fesih yapabilir. Bu durumda işçi, kıdem ve ihbar tazminatına hak kazanamaz.\n•   **Örnek 4: Kadın İşçinin Evlilik Nedeniyle Feshi:** Bir kadın işçi, evlendiği tarihten itibaren 1 yıl içinde, kendiliğinden iş sözleşmesini feshederse (en az 1 yıl çalışmış olması koşuluyla), kıdem tazminatına hak kazanır. Bu fesih halinde ihbar tazminatı ödenmez.\n•   **Örnek 5: Belirli Süreli İş Sözleşmesi ve Fesih:** Bir inşaat projesi için 1 yıllık belirli süreli iş sözleşmesiyle çalışan işçinin sözleşmesi, projenin bitiminde kendiliğinden sona erer. Bu durumda işçi, kural olarak ihbar tazminatı talep edemez. Ancak, eğer sözleşme haksız yere süresinden önce feshedilirse veya yenilenmezse kıdem tazminatı (1 yıl şartı varsa) ve bakiye süreye ilişkin tazminat hakları doğabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kıdem Tazminatı Tavanı:** Her yıl Ocak ve Temmuz aylarında Devlet Memurları Kanunu'na göre belirlenen en yüksek devlet memuru maaşına endeksli olarak kıdem tazminatı tavanı belirlenir. İşçinin brüt ücreti ne kadar yüksek olursa olsun, kıdem tazminatı hesaplamasında bu tavanın üzerinde ödeme yapılamaz. Bu tavan, yıllar içinde tazminat tutarlarını etkileyen önemli bir 'değişiklik' parametresidir.\n•   **İhbar Sürelerinin Hesaplanması:** İhbar süreleri, işçinin kıdemine göre kademeli olarak artar. Bu sürelere uyulmaması halinde ödenecek ihbar tazminatı da bu sürelere denk gelen giydirilmiş brüt ücret üzerinden hesaplanır.\n•   **Giydirilmiş Brüt Ücret:** Kıdem ve ihbar tazminatı hesaplamalarında esas alınan ücret, sadece çıplak brüt ücret değildir. İşçiye sağlanan tüm ayni ve nakdi menfaatlerin (yemek yardımı, yol yardımı, primler, ikramiyeler, düzenli sosyal yardımlar vb.) brüt toplamı üzerinden 'giydirilmiş brüt ücret' hesaplanır. Bu hesaplama kalemleri konusunda Yargıtay içtihatları sürekli gelişmekte ve uygulamada 'değişiklikler' yaratabilmektedir.\n•   **Fesih Bildiriminin Yazılı Yapılması:** İş Kanunu'nun 19. maddesi gereği, işveren tarafından yapılan fesih bildiriminin yazılı olarak yapılması ve fesih nedeninin açıkça belirtilmesi zorunludur. Bu kurala uyulmaması feshin geçersizliğine yol açabilir.\n•   **İşçilik Alacaklarında Zamanaşımı:** Kıdem ve ihbar tazminatı alacaklarında 7036 sayılı Kanun ile yapılan önemli bir 'değişiklik' ile genel zamanaşımı süresi 10 yıldan 5 yıla indirilmiştir. Bu süre, alacağın muaccel olduğu tarihten itibaren işlemeye başlar.\n•   **Kıdem Tazminatı Fonu Tartışmaları:** Uzun yıllardır gündemde olan ve henüz yasalaşmayan 'Kıdem Tazminatı Fonu' tartışmaları, kıdem tazminatı sisteminde köklü bir 'değişiklik' potansiyeli taşımaktadır. Bu fonun amacı, işverenlerin mali yükünü hafifletmek ve tüm işçilerin kıdem tazminatına erişimini garanti altına almaktır, ancak uygulama detayları üzerinde henüz mutabakat sağlanamamıştır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Kanun Maddelerini Bilmek:** Özellikle 4857 sayılı İş Kanunu'nun 17, 24, 25. maddeleri ile 1475 sayılı Kanun'un mülga 14. maddesini iyi anlamak ve hangi durumda hangi madde hükmünün uygulanacağını bilmek kritiktir.\n•   **Kıdem ve İhbar Tazminatının Farklarını Ayırt Etmek:** Hangi koşullarda doğdukları, kimler tarafından ödenecekleri, hesaplama yöntemleri ve zamanaşımı süreleri arasındaki temel farkları net bir şekilde bilmek önemlidir.\n•   **Hesaplama Esaslarını Kavramak:** Giydirilmiş brüt ücretin nasıl hesaplandığı, kıdem tazminatı tavanının nasıl uygulandığı ve ihbar sürelerinin kıdeme göre nasıl belirlendiği gibi hesaplama temellerine hakim olmak.\n•   **Fesih Nedenleri ve Tazminata Etkileri:** İşçi veya işveren tarafından yapılan feshin niteliğine (haklı/haksız, geçerli/geçersiz) göre kıdem ve ihbar tazminatı haklarının nasıl etkilendiğini örneklerle birlikte anlamak. Özellikle kadın işçinin evliliği, askerlik, emeklilik gibi özel durumları ayırt edebilmek.\n•   **Son Dönemdeki Yasal 'Değişiklikler' ve Tartışmaları Takip Etmek:** Özellikle zamanaşımı süresindeki değişiklik (7036 S.K.) ve kıdem tazminatı fonu gibi uzun süredir gündemde olan reform önerileri hakkında genel bilgi sahibi olmak, sınavda yorum soruları için faydalı olabilir.\n•   **Yargıtay İçtihatlarının Rolü:** Kanun maddelerinin yorumlanmasında ve boşluklarının doldurulmasında Yargıtay kararlarının belirleyici rolünü anlamak, uygulamadaki detaylara dikkat çekmek."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi kıdem tazminatına hak kazanma koşullarından biri *değildir*?",
+      "options": {
+        "A": "İş sözleşmesinin işçi tarafından haklı nedenle feshedilmesi",
+        "B": "İş sözleşmesinin işveren tarafından İş Kanunu m. 25/II'ye göre (ahlak ve iyi niyet kurallarına aykırılık) feshedilmesi",
+        "C": "İş sözleşmesinin kadın işçi tarafından evlilik nedeniyle feshedilmesi",
+        "D": "İşçinin askerlik görevi nedeniyle işten ayrılması",
+        "E": "İşçinin en az 1 yıl çalışmış olması"
+      },
+      "correctAnswer": "B",
+      "explanation": "İşveren, İş Kanunu m. 25/II'ye göre haklı nedenle fesih yaptığında, işçi kıdem tazminatına hak kazanamaz. Diğer şıklar kıdem tazminatına hak kazanma koşullarındandır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İhbar tazminatının temel amacı nedir?",
+      "options": {
+        "A": "İşçinin çalışma süresi boyunca yıpranmasının karşılığını ödemek",
+        "B": "İşsiz kalan işçiye yeni bir iş bulana kadar gelir desteği sağlamak",
+        "C": "İş sözleşmesini süresiz olarak fesheden tarafın, diğer tarafın uğrayacağı ani zararını telafi etmek",
+        "D": "İşverenin, işçiyi işten çıkarırken ödemek zorunda olduğu yasal bir yükümlülük",
+        "E": "İşçinin işe iade davası açması durumunda ödenen ek tazminat"
+      },
+      "correctAnswer": "C",
+      "explanation": "İhbar tazminatı, belirsiz süreli iş sözleşmesini haklı bir neden olmaksızın ve bildirim süresi tanımaksızın fesheden tarafın, diğer tarafın bu ani fesih nedeniyle uğradığı mağduriyeti gidermek amacıyla ödediği bir tazminattır. Seçenek A kıdem tazminatının amacıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Kıdem tazminatı hesaplamasında dikkate alınan 'tavan' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Kıdem tazminatı tavanı, her yıl Çalışma ve Sosyal Güvenlik Bakanlığı tarafından sabit bir tutar olarak belirlenir.",
+        "B": "İşçinin giydirilmiş brüt ücreti ne kadar yüksek olursa olsun, kıdem tazminatı tavanının üzerinde bir ödeme yapılamaz.",
+        "C": "Tavan uygulaması sadece kamu işyerlerinde geçerlidir, özel sektörde tavan sınırlaması yoktur.",
+        "D": "Kıdem tazminatı tavanı, işçinin çalıştığı her yıl için ayrı ayrı belirlenir.",
+        "E": "Tavan, sadece belirli süreli iş sözleşmelerinde uygulanır."
+      },
+      "correctAnswer": "B",
+      "explanation": "Kıdem tazminatı tavanı, işçinin son brüt ücreti ne kadar yüksek olursa olsun, hesaplanacak kıdem tazminatı miktarını sınırlayan bir üst limittir. Bu tavan, her yıl Ocak ve Temmuz aylarında güncellenir ve devlet memuru maaş katsayısına göre belirlenir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İşveren, iş sözleşmesini İş Kanunu'nun 25. maddesinin II. bendinde belirtilen 'ahlak ve iyi niyet kurallarına uymayan haller ve benzerleri' nedeniyle feshederse, işçinin kıdem ve ihbar tazminatı hakları nasıl etkilenir?",
+      "options": {
+        "A": "İşçi, hem kıdem hem de ihbar tazminatına hak kazanır.",
+        "B": "İşçi, sadece kıdem tazminatına hak kazanır.",
+        "C": "İşçi, sadece ihbar tazminatına hak kazanır.",
+        "D": "İşçi, kıdem ve ihbar tazminatına hak kazanamaz.",
+        "E": "İşveren, işçiye ihbar süresi kadar ek ücret ödemek zorundadır."
+      },
+      "correctAnswer": "D",
+      "explanation": "İş Kanunu m. 25/II'ye göre yapılan fesihler, işçinin kusurlu davranışları nedeniyle işverenin haklı feshidir. Bu durumda işçi, kıdem ve ihbar tazminatına hak kazanamaz."
+    },
+    {
+      "questionNumber": 5,
+      "question": "7036 sayılı Kanun ile kıdem ve ihbar tazminatı alacaklarında yapılan önemli değişiklik aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kıdem tazminatı tavanının kaldırılması",
+        "B": "İhbar sürelerinin yarıya indirilmesi",
+        "C": "Kıdem ve ihbar tazminatı alacaklarında zamanaşımı süresinin 10 yıldan 5 yıla indirilmesi",
+        "D": "Belirli süreli iş sözleşmelerinde de ihbar tazminatı ödeme zorunluluğu getirilmesi",
+        "E": "İşverenin haklı feshinde de kıdem tazminatı ödenmesi zorunluluğu"
+      },
+      "correctAnswer": "C",
+      "explanation": "7036 sayılı İş Mahkemeleri Kanunu ile işçilik alacakları (kıdem ve ihbar tazminatı dahil) için genel zamanaşımı süresi 10 yıldan 5 yıla indirilmiştir."
+    }
+  ]
+}

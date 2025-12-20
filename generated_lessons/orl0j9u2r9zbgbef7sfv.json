@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nun temel taşlarından biri olan 'Geçersizlik Halleri' konusunu bugün derinlemesine inceleyeceğiz. Hukukun işleyişinde, bir hukuki işlemin veya normun doğru bir şekilde doğup doğmadığı, geçerli sonuçlar üretip üretmediği büyük önem taşır. İşte tam da bu noktada, bir hukuki işlemin veya normun hukuki varlık kazanmasında yahut hukuki sonuç doğurmasında mevcut olan sakatlıkları ifade eden 'geçersizlik' kavramı karşımıza çıkar. Geçersizlik, hukukun üstünlüğü ilkesinin, hukuki güvenlik ve istikrarın sağlanmasında kilit bir rol oynar. Bir işlemin geçerli olup olmadığını sorgulamak, aslında o işlemin hukuk düzenine uygun olup olmadığını denetlemek demektir. Türk kamu hukukunda, özellikle de anayasa ve idare hukukunda, geçersizlik halleri üç ana kategori altında incelenir: Yokluk, Mutlak Butlan ve İptal Edilebilirlik. Bu üç kavram, birbirlerinden ince farklarla ayrılmakla birlikte, her biri kendine özgü hukuki sonuçlar doğurur ve farklı usul ve esaslara tabidir. Yokluk, bir hukuki işlemin en temel kurucu unsurlarından birinin dahi bulunmaması nedeniyle baştan itibaren hiç var olmamış sayılması durumudur. Yani, yoklukla malul bir işlem, hukuk aleminde asla bir varlık kazanmamıştır. Mutlak Butlan ise, bir işlemin kurucu unsurlarının mevcut olmasına rağmen, emredici hukuk kurallarına, kamu düzenine, genel ahlaka veya kişilik haklarına aykırılık teşkil etmesi nedeniyle baştan itibaren geçersiz sayılmasıdır. Bu tür işlemler, şeklen var olsalar bile, hukuken hiçbir zaman geçerli bir sonuç doğurmazlar. İptal Edilebilirlik ise, bir işlemin başlangıçta geçerli olarak doğmasına rağmen, belirli bir hukuka aykırılık (örneğin yetki, şekil, sebep, konu veya maksat unsurlarındaki sakatlık) nedeniyle yetkili bir makam tarafından iptal edilinceye kadar hukuki sonuçlarını doğurmaya devam etmesidir. Bu kavramlar, sadece özel hukuk alanında değil, kamu hukuku alanında da normların ve idari işlemlerin geçerliliğini belirlemek açısından hayati öneme sahiptir. Özellikle Prof. Dr. Kemal Gözler'in Anayasa Hukuku eserlerinde vurguladığı normlar hiyerarşisi ve Anayasa'nın üstünlüğü ilkesi, bir normun alt normu geçersiz kılması veya bir işlemin üst norma aykırı olması durumunda ortaya çıkacak geçersizlik hallerinin temelini oluşturur. Bu derste, bu temel kavramların teorik çerçevesini çizdikten sonra, Türk hukukundaki yasal dayanakları ve pratik uygulamalarını ele alacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Geçersizlik hallerinin yasal çerçevesini incelediğimizde, özellikle kamu hukuku alanında Anayasa ve İdari Yargılama Usulü Kanunu (İYUK) gibi temel mevzuat hükümleri büyük önem taşır. Türk Anayasa Hukuku'nda geçersizlik denetiminin merkezi organı Anayasa Mahkemesi'dir. 1982 Anayasası'nın 148. maddesi, Anayasa Mahkemesi'nin görev ve yetkilerini açıkça düzenler. Buna göre, kanunların, Cumhurbaşkanlığı kararnamelerinin (CBK) ve Türkiye Büyük Millet Meclisi İçtüzüğü'nün Anayasa'ya şekil ve esas bakımından uygunluğunu denetlemek ve Anayasa'ya aykırı olanları iptal etmek Anayasa Mahkemesi'nin yetkisindedir. Anayasa değişikliklerinin denetimi ise daha sınırlıdır; sadece şekil bakımından Anayasa'ya uygunluğu denetlenebilir (m. 148/2). Burada 'iptal' kavramı, geçersizlik hallerinden biri olan 'iptal edilebilirlik' ile yakından ilişkilidir. Anayasa Mahkemesi tarafından Anayasa'ya aykırı bulunup iptal edilen bir norm, iptal kararı Resmi Gazete'de yayımlandığı tarihten itibaren geleceğe yönelik olarak hukuki etkisini kaybeder. Ancak Anayasa Mahkemesi kararlarının geriye yürümezliği ilkesi de Anayasa'nın 153. maddesinde açıkça belirtilmiştir. Bu durum, hukuki güvenliği sağlamak açısından kritik bir unsurdur. Öte yandan, 'yokluk' ve 'mutlak butlan' kavramları, Anayasa Hukuku'nda daha çok teorik tartışmalarda ve nadir görülen, çok ağır hukuka aykırılık hallerinde gündeme gelir. Örneğin, Anayasa'nın temel kurucu ilkelerine tamamen aykırı bir Anayasa değişikliği girişimi veya yetki gasbı niteliğindeki bir yasama işlemi için yokluk veya mutlak butlan iddiaları ileri sürülebilir. Ancak uygulamada, bu tür durumlar genellikle Anayasa Mahkemesi'nin şekil denetimi veya dolaylı esas denetimi içerisinde değerlendirilir. İdari Hukuk alanına baktığımızda ise, İdari Yargılama Usulü Kanunu'nun 2. maddesi idari işlemlerin hukuka uygunluğunu denetleme yetkisini idari yargıya vermektedir. İdari işlemlerin unsurları (yetki, şekil, sebep, konu, amaç) bakımından hukuka aykırı olması durumunda, ilgili işlem 'iptal edilebilir' niteliktedir. İptal davaları, idari işlemlerin hukuka aykırılığının tespiti ve işlemin geçmişe dönük olarak ortadan kaldırılması sonucunu doğurur. İdari işlemlerde 'yokluk' ve 'mutlak butlan' da mevcuttur. Örneğin, yetkisiz bir memurun başka bir makamın yerine işlem yapması (görev veya yetki gaspı), o işlemi yok hükmünde kılar. Ya da konusu imkansız olan, hukukun temel ilkelerine tamamen aykırı olan idari işlemler mutlak butlanla sakat kabul edilebilir. Bu ayrım, doğuracağı hukuki sonuçlar ve dava açma süreleri açısından önem taşır. Kemal Gözler'in normlar hiyerarşisi teorisi, bir alt normun üst norma aykırılığının geçersizlik nedeni olduğunu güçlü bir şekilde savunur ve bu yasal çerçevenin teorik temelini oluşturur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Geçersizlik hallerini daha iyi anlamak için pratik uygulamalara ve somut örneklere başvurmak elzemdir. Anayasa Mahkemesi kararları, bu konudaki en somut ve öğretici örnekleri sunar. Örneğin, Anayasa Mahkemesi, birçok kanun hükmünü veya Cumhurbaşkanlığı Kararnamesi'ni (CBK) Anayasa'nın ruhuna, temel hak ve özgürlüklere veya yasama yetkisinin devredilmezliği ilkesine aykırı bularak 'esas yönünden' iptal etmiştir. Bu kararlar, ilgili hükmün, anayasal normlar hiyerarşisindeki üstün norm olan Anayasa'ya aykırı olduğunu tescil eder ve o hükmün geleceğe yönelik olarak hukuk aleminden kaldırılmasını sağlar. 'Şekil yönünden' iptal kararlarına örnek olarak, bir kanunun belirli bir çoğunlukla kabul edilmemesi veya Anayasa'da öngörülen yasama sürecine aykırı bir şekilde çıkarılması gösterilebilir. Örneğin, 2007 yılında Anayasa Mahkemesi, Cumhurbaşkanı seçimiyle ilgili Anayasa değişikliğinin halkoylamasına sunulması sürecindeki '367' kararı olarak bilinen kararıyla, Anayasa değişikliklerinin şekil bakımından denetiminin önemini vurgulamıştır. Mahkeme, toplantı ve karar yeter sayısı gibi şekil kurallarına uyulmamasını, bir normun Anayasa'ya aykırı bulunarak iptal edilmesine gerekçe gösterebilmiştir. Bu kararlar, yasama organının dahi Anayasa'nın belirlediği çerçevede hareket etmesi gerektiğini ortaya koyar. İdari yargı alanında ise 'iptal edilebilirlik' en sık rastlanan geçersizlik halidir. Bir idari işlemin yetki, şekil, sebep, konu veya amaç unsurlarından birinde hukuka aykırılık bulunması halinde, ilgililer tarafından açılan iptal davası sonucunda Danıştay veya İdare Mahkemeleri tarafından iptaline karar verilebilir. Örneğin, bir imar planının şehircilik ilkelerine veya planlama esaslarına aykırı bulunarak iptal edilmesi, bir atama kararının liyakat ilkesine veya mevzuata aykırı olması nedeniyle iptal edilmesi gibi durumlar tipik iptal örnekleridir. 'Yokluk' hali ise, idare hukuku pratiğinde daha istisnai ve ağır hukuka aykırılıklar için kullanılır. Örneğin, bir valinin, kanunla münhasıran başka bir makama tanınmış olan bir yetkiyi kullanarak işlem tesis etmesi (yetki gaspı), bu işlemin 'yok' hükmünde sayılmasına neden olabilir. Bu tür bir işlem, başlangıçtan itibaren hiçbir hukuki sonuç doğurmaz ve herhangi bir mahkeme kararına da gerek olmaksızın yok sayılır. Benzer şekilde, 'mutlak butlan' ile sakat idari işlemler de vardır; örneğin, konusu suç teşkil eden veya kamu düzeniyle bağdaşmayan bir idari işlemin, baştan itibaren geçersiz kabul edilmesi. Bu örnekler, geçersizlik hallerinin sadece teorik kavramlar olmadığını, aksine hukuk düzeninin işleyişinde ve bireylerin hak arama özgürlüklerinde somut ve belirleyici sonuçlar doğurduğunu açıkça göstermektedir. Gözler'in norm hiyerarşisi prensibi, bu pratik uygulamaların temel mantığını oluşturur: alt norm üst norma aykırı olamaz, aykırı ise geçersizdir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Geçersizlik halleri konusunda derinlemesine bir kavrayışa sahip olmak için dikkat edilmesi gereken bazı önemli noktalar bulunmaktadır. Öncelikle, geçersizlik türlerinin hukuki sonuçları arasındaki farkı net bir şekilde anlamak gereklidir. 'Yokluk' ile malul bir işlem, hiçbir zaman hukuk aleminde varlık kazanmadığı için, herhangi bir dava açılmasına veya mahkeme kararına ihtiyaç duyulmaksızın her zaman 'yok' hükmünde sayılır. Buna karşılık, 'mutlak butlan' ile sakat bir işlem, görünürde var olsa da, baştan itibaren hüküm ve sonuç doğurmaz ve yetkili makamlarca veya ilgili taraflarca her zaman ileri sürülebilir. 'İptal edilebilirlik' ise, işlemin doğduğu andan itibaren geçerli sayıldığı, ancak hukuka aykırılığı nedeniyle yetkili bir yargı organı tarafından iptal edilinceye kadar hukuki sonuç doğurmaya devam ettiği anlamına gelir. Bu ayrım, dava açma süreleri, geriye yürüme etkisi ve hukuki güvenliğin sağlanması açısından kritik öneme sahiptir. Türk Hukuku'nda, Anayasa Mahkemesi'nin iptal kararları, Anayasa'nın 153. maddesi gereği geriye yürümezlik ilkesine tabidir. Yani, bir kanun hükmü iptal edildiğinde, bu iptal kararı kural olarak, kararın Resmi Gazete'de yayımlandığı tarihten itibaren geleceğe yönelik sonuçlar doğurur ve iptal edilen hükme dayanarak daha önce tesis edilmiş işlemlerin geçerliliğini etkilemez. Bu ilke, hukuki güvenlik ve istikrarın korunması açısından büyük önem taşır. Ancak, idari yargıda verilen iptal kararları, kural olarak, iptal edilen işlemin tesis edildiği andan itibaren, yani 'geriye dönük' olarak o işlemin hukuk alemindeki varlığını ortadan kaldırır. Bu farklılık, kamu hukuku alanındaki geçersizlik hallerinin uygulanmasında dikkatle ele alınması gereken bir konudur. Ayrıca, geçersizlik iddialarının kimler tarafından ve hangi süreler içinde ileri sürülebileceği de önemlidir. Anayasa Mahkemesi'ne iptal davası açma yetkisi Anayasa'da sınırlı sayıda kişiye (Cumhurbaşkanı, TBMM üye tam sayısının beşte biri, iktidar ve ana muhalefet partisi grupları) tanınmıştır. İdari yargıda ise, menfaati ihlal edilen herkes idari işleme karşı iptal davası açabilir, ancak bu davalar belirli hak düşürücü sürelere tabidir. Bu sürelerin kaçırılması, iddia edilen hukuka aykırılığın mahkemelerce incelenmesini engeller. Son olarak, Prof. Dr. Kemal Gözler'in Anayasa Hukuku'na ilişkin çalışmalarında vurguladığı üzere, Anayasa'nın üstünlüğü ve normlar hiyerarşisi ilkesi, tüm geçersizlik hallerinin temel felsefesini oluşturur. Bir hukuki norm veya işlemin Anayasa'ya aykırılığı, onun geçersizliğini tetikleyen en temel ve güçlü nedendir. Bu yüzden, herhangi bir geçersizlik iddiası değerlendirilirken, her zaman en üst hukuk normu olan Anayasa ile olan uyumu göz önünde bulundurulmalıdır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders kapsamında, Türk Hukuku'nda 'Geçersizlik Halleri' konusunu tüm yönleriyle ele aldık. Temel kavramlardan yasal çerçeveye, pratik uygulamalardan dikkat edilmesi gereken kritik noktalara kadar geniş bir perspektif sunduk. Özetle, hukukun işleyişinde bir hukuki işlemin veya normun geçerliliği, hukuk devletinin temelini oluşturur. Bu geçerliliğin sorgulandığı başlıca durumlar olan geçersizlik halleri, Türk Kamu Hukuku'nda 'Yokluk', 'Mutlak Butlan' ve 'İptal Edilebilirlik' olmak üzere üç ana başlık altında sınıflandırılır. 'Yokluk', işlemin en temel kurucu unsurlarından birinin eksikliği nedeniyle baştan itibaren hiç var olmamış sayılmasıdır ve herhangi bir yargı kararına ihtiyaç duymaz. 'Mutlak Butlan', işlemin kurucu unsurları olsa da, emredici hukuk kurallarına, kamu düzenine veya genel ahlaka aykırılığı nedeniyle baştan itibaren geçersiz kabul edilmesidir. 'İptal Edilebilirlik' ise, hukuka aykırı olsa bile, yetkili bir mahkeme kararıyla iptal edilinceye kadar hukuki sonuç doğurmaya devam eden işlemler için kullanılır. Türk Anayasa Hukuku'nda Anayasa Mahkemesi, kanunların ve Cumhurbaşkanlığı Kararnamelerinin Anayasa'ya uygunluğunu denetleyerek, şekil ve esas bakımından aykırı olanları 'iptal' eder. Anayasa Mahkemesi kararlarının geriye yürümezliği ilkesi, hukuki güvenliğin sağlanmasında önemli bir rol oynar. İdari Hukuk'ta ise idari işlemlerin hukuka uygunluğu idari yargı tarafından denetlenir ve hukuka aykırı bulunan işlemler iptal edilir. İdari işlemlerde 'yokluk' ve 'mutlak butlan' da yetki gaspı veya konusu imkansızlık gibi ağır hukuka aykırılık hallerinde ortaya çıkar. Kemal Gözler'in vurguladığı normlar hiyerarşisi ve Anayasa'nın üstünlüğü ilkesi, tüm bu geçersizlik mekanizmalarının temelini teşkil eder. Bu kavramları doğru bir şekilde anlamak ve uygulamak, hukuk devletinin sürdürülebilirliği, bireylerin hak ve özgürlüklerinin korunması ve hukuki istikrarın temini açısından hayati öneme sahiptir. Bu dersin sonunda, geçersizlik hallerine ilişkin temel kavramları, yasal dayanaklarını ve pratik sonuçlarını net bir şekilde kavradığınızı umuyorum. Konuyu pekiştirmek için güncel Anayasa Mahkemesi ve Danıştay kararlarını incelemenizi, ayrıca Anayasa Hukuku ve İdare Hukuku ders kitaplarınızdaki ilgili bölümleri tekrar gözden geçirmenizi tavsiye ederim. Unutmayın, hukuk bir bütündür ve her kavramın diğerleriyle ayrılmaz bir bağı vardır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Kamu Hukuku'nda bir hukuki işlemin, kurucu unsurlarından en önemlisinin (örneğin, yetki) tamamen eksik olması nedeniyle hukuk aleminde hiç var olmamış sayıldığı geçersizlik hali aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yokluk",
+        "B": "Mutlak Butlan",
+        "C": "Nispi Butlan",
+        "D": "İptal Edilebilirlik"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yokluk, bir hukuki işlemin temel kurucu unsurlarından birinin (örneğin, yetki veya irade) eksik olması nedeniyle, baştan itibaren hukuk aleminde hiç var olmamış sayılması durumudur. Bu tür bir işlem hukuki varlık kazanamaz."
+    },
+    {
+      "questionNumber": 2,
+      "question": "1982 Anayasası'na göre, Anayasa Mahkemesi'nin kanunların Anayasa'ya uygunluğunu denetlerken dikkate aldığı hususlar ve bu denetim sonucunda verdiği kararın niteliği aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
+      "options": {
+        "A": "Sadece esas yönünden denetim yapar, kararları geriye yürür.",
+        "B": "Hem şekil hem esas yönünden denetim yapar, kararları kural olarak geriye yürümez.",
+        "C": "Sadece şekil yönünden denetim yapar, kararları derhal yürürlüğe girer.",
+        "D": "Hem şekil hem esas yönünden denetim yapar, kararları TBMM tarafından onaylanmasıyla kesinleşir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Anayasa'nın 148. maddesine göre Anayasa Mahkemesi kanunları hem şekil hem esas yönünden denetler. Anayasa'nın 153. maddesine göre ise Anayasa Mahkemesi kararları kural olarak geriye yürümez ve Resmi Gazete'de yayımlanmalarıyla yürürlüğe girer."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir idari işlemin, başlangıçta hukuka uygun olarak doğduğu kabul edilmekle birlikte, taşıdığı bir hukuka aykırılık nedeniyle yetkili yargı organı tarafından ortadan kaldırılmasına yönelik hukuki durum aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Mutlak Butlan",
+        "B": "Yokluk",
+        "C": "İptal Edilebilirlik",
+        "D": "Tek taraflı fesih"
+      },
+      "correctAnswer": "C",
+      "explanation": "İptal edilebilirlik, idari işlemin başlangıçta geçerli olarak doğduğunun kabul edildiği, ancak hukuka aykırılığı nedeniyle idari yargı tarafından iptal edilinceye kadar hukuki sonuç doğurmaya devam ettiği geçersizlik halidir. İptal kararı ile işlem geriye dönük olarak ortadan kalkar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi Türk Hukuku'nda 'mutlak butlan' ile sakat bir hukuki işlem örneği olarak kabul edilebilir?",
+      "options": {
+        "A": "Bir milletvekilinin TBMM İçtüzüğü'ne aykırı olarak oy kullanması.",
+        "B": "Bir belediye meclisi kararının, kanunla münhasıran başka bir makamın yetkisinde olan bir konuda alınması.",
+        "C": "Resmi Gazete'de yayımlanmamış bir kanun hükmünün uygulanması.",
+        "D": "Konusu açıkça imkansız veya kamu düzenine aykırı olan bir idari işlemin tesis edilmesi."
+      },
+      "correctAnswer": "D",
+      "explanation": "Mutlak butlan, bir işlemin kurucu unsurları mevcut olmasına rağmen, emredici hukuk kurallarına, kamu düzenine, genel ahlaka veya kişilik haklarına aykırılık teşkil etmesi nedeniyle baştan itibaren geçersiz sayılmasıdır. Konusu açıkça imkansız veya kamu düzenine aykırı bir idari işlem bu tanıma uyar. B seçeneğindeki durum yokluk, C seçeneğindeki durum ise yayım eksikliği nedeniyle bağlayıcı olmama veya yokluk tartışması yaratır, A seçeneği ise içtüzük ihlali olup genellikle iptal edilebilirlik kapsamında değerlendirilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Prof. Dr. Kemal Gözler'in Anayasa Hukuku'ndaki normlar hiyerarşisi prensibi göz önüne alındığında, bir kanun hükmünün Anayasa'ya aykırı bulunarak Anayasa Mahkemesi tarafından iptal edilmesi, aşağıdaki geçersizlik hallerinden hangisi ile en yakından ilişkilidir?",
+      "options": {
+        "A": "Yokluk",
+        "B": "Mutlak Butlan",
+        "C": "İptal Edilebilirlik",
+        "D": "Nispi Butlan"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa Mahkemesi'nin bir kanun hükmünü Anayasa'ya aykırı bularak 'iptal' etmesi, o kanun hükmünün 'iptal edilebilirlik' vasfıyla malul olduğunu gösterir. Yani, kanun yürürlüğe girmiş ve hukuki sonuç doğurmaya başlamış olsa da, Anayasa'ya aykırılığı nedeniyle yetkili yargı organı (Anayasa Mahkemesi) tarafından ortadan kaldırılmıştır. Normlar hiyerarşisinde üstün olan Anayasa'ya aykırılık, alt normu iptal edilebilir kılar."
+    }
+  ]
+}

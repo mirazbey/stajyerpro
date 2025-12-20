@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nda yargısal süreçlerin önemli bir aşaması olan 'temyiz' ve bu sürecin mali boyutunu oluşturan 'harç-masraf düzenlemeleri' konusuna hoş geldiniz. Bu ders içeriğiyle, temyiz yoluna başvuru esnasında ortaya çıkan finansal yükümlülükleri, bunların hukuki niteliğini ve önemini kapsamlı bir şekilde inceleyeceğiz. Öncelikle, 'temyiz' kavramını netleştirmemiz gerekmektedir. Temyiz, Bölge Adliye Mahkemesi (BAM) veya ilk derece mahkemeleri tarafından verilen nihai kararların, hukuka uygunluk denetimi yapılmak üzere Yargıtay'a taşınması yoludur. Amacı, hukukun ülke genelinde yeknesak uygulanmasını sağlamak, içtihat birliğini temin etmek ve maddi hukukun doğru yorumlanıp uygulanmasını denetlemektir. Temyiz, adil yargılanma hakkının bir uzantısı olarak, yargı kararlarının denetlenerek hukuka uygunluğunu sağlamaya yönelik önemli bir kanun yoludur. Bu süreçte karşılaşılan 'harç' ve 'masraf' kavramları ise, adalet hizmetlerinin sürdürülebilirliği ve yargı organlarının giderlerinin karşılanması amacıyla devlet tarafından talep edilen mali yükümlülüklerdir. Harçlar, genellikle yargısal bir hizmetin karşılığı olarak alınan ve miktarı kanunla belirlenmiş ödemelerdir. Masraflar ise, yargılama sürecinde ortaya çıkan, tarafın doğrudan ödemekle yükümlü olduğu tebligat gideri, keşif ücreti, bilirkişi ücreti gibi kalemlerdir. Bu iki kavram, yargılama giderleri başlığı altında ele alınır ve özellikle temyiz aşamasında, başvurunun geçerliliği açısından hayati bir öneme sahiptir. Harç ve masrafların varlığı, Anayasamızın 36. maddesinde güvence altına alınan hak arama hürriyetini kısıtlamayacak nitelikte olmalı; ancak adalet hizmetlerinin etkinliğini de sağlamalıdır. Bu denge, 'adli yardım' gibi müesseselerle korunmaya çalışılır. Temyiz yoluna başvururken ödenmesi gereken harçlar, yargılamanın çeşitli aşamalarında ödenen başvuru harcı, karar harcı, ilam harcı gibi farklı türlerden oluşabilir ve her birinin kendine özgü bir hesaplama yöntemi ve ödeme zamanı bulunmaktadır. Bu ilk adımda, temyiz sürecinin ne anlama geldiğini, harç ve masrafın temel hukuksal karşılıklarını ve bunların Türk Yargı Sistemi içindeki genel yerini kavramış olmamız gerekmektedir. Bu temel bilgiler, sonraki adımlarda detaylarına ineceğimiz yasal çerçeve ve pratik uygulamalar için sağlam bir zemin oluşturacaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Temyizde harç ve masraf düzenlemelerinin yasal çerçevesini incelemek, bu konunun temelini anlamak için kritik öneme sahiptir. Bu alandaki birincil düzenleme, 492 sayılı Harçlar Kanunu ve eki tarifeleridir. Harçlar Kanunu, yargı harçlarının türlerini, oranlarını, hesaplanma şekillerini ve ödeme usullerini detaylı bir şekilde belirler. Temyiz başvurusu için, Harçlar Kanunu'nda öngörülen başvuru harcı ve temyiz karar harcı önem taşır. Harçlar Kanunu'nun yanı sıra, 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) da yargılama giderleri başlığı altında harç ve masraflara ilişkin temel hükümleri barındırır. HMK’nın 323 ve devamı maddeleri, yargılama giderlerinin neler olduğunu, kimin tarafından ödeneceğini ve hükümde nasıl gösterileceğini düzenler. Özellikle HMK m. 344 (istinaf başvurusu için gider avansı) ve HMK m. 366 (istinaf hükümleri temyiz için de kıyasen uygulanır) maddeleri, temyiz başvurusunda da gider avansı yatırma zorunluluğunu ve bunun temyiz başvurusunun kabul şartı olduğunu ortaya koymaktadır. Temyiz başvuru dilekçesi verilirken, Harçlar Kanunu gereğince belirlenen başvuru harcı ile HMK uyarınca Yargıtay gider avansının tamamının yatırılması zorunludur. Bu gider avansı, tebligat giderleri, dosyanın Yargıtay’a gönderilmesi masrafları gibi kalemleri karşılamak üzere belirlenir. Yargıtay gider avansının miktarı, HMK m. 344/b uyarınca Hukuk Muhakemeleri Kanunu Yönetmeliği'nin 44. maddesi ve Adalet Bakanlığı tarafından her yıl yayımlanan 'Yargı Harçları ve Gider Avansları Tarifesi' ile belirlenir. Bu tarife, genellikle her yıl Ocak ayında güncellenir. Eğer dava konusu para veya parayla değerlendirilebilen bir şey ise, harçlar nispi (oranlı) olarak hesaplanır. Aksi takdirde maktu (sabit) harç uygulanır. Özellikle temyiz dilekçesinin verilmesi sırasında, ilgili harç ve gider avansının eksiksiz ve süresinde ödenmesi, temyiz başvurusunun şekil şartlarından biridir. Bu şartın yerine getirilmemesi durumunda, temyiz talebinin reddi gibi ciddi sonuçlar doğabilir. Ayrıca, 2004 sayılı İcra ve İflas Kanunu (İİK) kapsamında yapılan icra ve iflas hukuku ile ilgili temyiz başvurularında da Harçlar Kanunu ve HMK’nın ilgili hükümleri uygulanır. Yasal çerçeve, harç ve masrafın sadece bir mali yükümlülük olmadığını, aynı zamanda yargılamanın etkin ve düzenli yürütülmesini sağlayan, aynı zamanda hukuki güvenliği temin eden önemli bir mekanizma olduğunu ortaya koymaktadır. Bu nedenle, mevzuattaki güncel düzenlemeleri takip etmek ve doğru yorumlamak, hukuk uygulayıcıları için vazgeçilmezdir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Temyizde harç ve masraf düzenlemelerinin pratik uygulamaları, başvuru sürecinin sorunsuz ilerlemesi için büyük önem taşır. Öncelikle, temyiz başvurusu yapılırken ödenmesi gereken harçlar ve gider avansının doğru hesaplanması ve yatırılması gerekmektedir. Temyiz harcı ve gider avansı, temyiz dilekçesiyle birlikte Bölge Adliye Mahkemesi (BAM) kalemine veya ilk derece mahkemesine (eğer temyiz başvurusunu direkt olarak ilk derece mahkemesi vermişse) yatırılır. Bu ödemeler genellikle banka aracılığıyla veya vezneye nakit olarak yapılır ve ödeme dekontunun temyiz dilekçesine eklenmesi zorunludur. Temyiz başvurusunda, Harçlar Kanunu'nda belirtilen başvuru harcı (maktu) ile HMK m. 344/b uyarınca Adalet Bakanlığı tarafından her yıl yayımlanan tarifede belirtilen Yargıtay gider avansının tamamının yatırılması esastır. Eğer dava konusu para ile değerlendirilebilen bir değerse, Harçlar Kanunu'nda yer alan temyiz karar harcı da nispi olarak hesaplanır ve bu harcın ¼'ü temyiz dilekçesinin verilmesi sırasında ödenmelidir. Harç ve avansların eksik yatırılması veya hiç yatırılmaması durumunda, HMK'nın 344. ve 366. maddeleri gereği, temyiz incelemesini yapacak olan mahkeme (BAM veya Yargıtay) veya başvuru makamı (BAM), başvurucunun eksikliği gidermesi için kendisine kesin süre verir. Bu kesin süre içinde eksiklik giderilmezse, temyiz dilekçesinin reddine karar verilir ve bu karar kesinleşir. Bu durum, hak kaybına yol açabilecek ciddi bir sonuçtur. Adli yardım müessesesi, harç ve masraf yükümlülüklerinin adil yargılanma hakkını engellemesini önlemek amacıyla devreye girer. HMK m. 334 ve devamı maddelerinde düzenlenen adli yardım, talepte bulunan kişinin ve ailesinin geçimini önemli ölçüde güçleştirmeksizin gereken yargılama giderlerini ödeme gücünden yoksun olması durumunda harçlardan muafiyeti, yargılama avanslarının devlet tarafından karşılanmasını ve vekil tayinini kapsar. Adli yardım talebinin kabulü halinde, temyiz harç ve masraflarından muafiyet sağlanır. Bu, özellikle ekonomik güçlük çeken vatandaşlar için adalete erişimin önündeki finansal engelleri ortadan kaldıran önemli bir mekanizmadır. Temyiz sürecinin sonunda, Yargıtay'ın temyiz talebini reddetmesi veya kararı bozması durumunda, yargılama giderleri (harç ve masraflar dahil) HMK m. 331 uyarınca haksız çıkan tarafa yükletilir. Bu pratik uygulamalar, temyiz sürecinin hem mali hem de usuli boyutunu anlamak açısından kritik öneme sahiptir ve başvurucuların hak kaybına uğramaması için dikkatle takip edilmelidir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Temyizde harç ve masraf düzenlemeleri konusunda dikkat edilmesi gereken birkaç kritik nokta bulunmaktadır. Bu noktalara özen gösterilmemesi, temyiz başvurusunun reddine ve dolayısıyla hak kayıplarına yol açabilir. Öncelikle, harç ve avans miktarının doğru hesaplanması büyük önem taşır. Harçlar Kanunu ve Adalet Bakanlığı'nın yayımladığı güncel tarifeler her yıl değişebilir. Bu nedenle, temyiz başvurusu yapılacağı tarihteki güncel tarifelerin ve mevzuatın titizlikle incelenmesi şarttır. Eksik yatırılan bir kuruş dahi, başvurunun reddine sebep olabilmektedir. Harç ve avansların yatırılma zamanı da hayati öneme sahiptir. Temyiz dilekçesi verilirken harç ve avansların tam olarak yatırılması, yasal bir zorunluluktur. Eğer eksik ödeme yapılırsa, mahkeme tarafından verilen kesin süre içerisinde eksikliğin tamamlanması gerekmektedir. Bu kesin süre, hak düşürücü bir nitelik taşır ve bu süreye uyulmaması halinde temyiz talebi reddedilir. Bu durum, HMK m. 344 ve m. 366 atfı ile açıkça düzenlenmiştir. Başvurucunun veya vekilinin bu süreleri kaçırmaması, sürecin devamlılığı için elzemdir. Temyiz başvurusunun kabul edilebilirliğini etkileyen bir diğer husus ise, adli yardım talepleridir. Adli yardım talebi reddedilen bir kişi, harç ve masrafları ödemekle yükümlü hale gelir ve bu ödemeleri süresinde yapmadığı takdirde yine temyiz talebinin reddi ile karşılaşır. Bu nedenle, adli yardım başvurusunun sürecin başında doğru ve eksiksiz yapılması, reddi halinde ise harç ve masrafların süresinde yatırılması gerekmektedir. Uygulamada sıkça yapılan hatalardan biri, tebligat giderleri ve diğer masrafların yeterince dikkate alınmamasıdır. Yargıtay'da görülen davaların birçoğunda tebligatlar yapılması gerekmekte, bu da ek masrafları beraberinde getirmektedir. Başlangıçta yatırılan gider avansının yetersiz kalması halinde, mahkeme yine ek avans talep edebilir ve bu talebe de süresinde uyulması gerekir. Ayrıca, Harçlar Kanunu'nda yer alan istisna ve muafiyet durumlarının da iyi bilinmesi önemlidir. Bazı özel davalar veya kişiler için harç muafiyeti tanınmış olabilir. Bu istisnalar, yargılamanın mali yükünü hafifletebilir. Son olarak, yargılama giderlerinin nihai olarak kime yükleneceği hususu da temyiz sürecinde dikkatle değerlendirilmelidir. HMK'nın 'yargılama giderlerinden sorumluluk' hükümleri çerçevesinde, temyiz sonucunda haklı çıkan tarafın yapmış olduğu harç ve masraflar haksız çıkan tarafa yükletilir. Bu durum, temyiz yoluna başvurmadan önce davanın kazanılma ihtimalini ve potansiyel maliyetleri doğru bir şekilde analiz etmeyi gerektirir. Tüm bu noktalar, temyiz sürecinin karmaşıklığını ve harç-masraf düzenlemelerinin usuli açıdan ne kadar kritik olduğunu ortaya koymaktadır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu ders içeriğimizde, Türk Hukuku'nda temyiz yoluna başvuru sürecindeki harç ve masraf düzenlemelerini kapsamlı bir şekilde ele aldık. Temelden başlayarak, 'temyiz' kavramının hukuktaki yerini ve önemini, ardından 'harç' ve 'masraf'ın ne anlama geldiğini ve yargılama giderleri içindeki konumunu inceledik. Anayasamızın 36. maddesinde güvence altına alınan hak arama hürriyeti ve adil yargılanma hakkı bağlamında, bu mali yükümlülüklerin adalet hizmetlerinin sürdürülebilirliği açısından ne denli kritik olduğunu vurguladık. Dersin ikinci adımında, bu düzenlemelerin yasal çerçevesini derinlemesine inceledik. 492 sayılı Harçlar Kanunu, 6100 sayılı Hukuk Muhakemeleri Kanunu (özellikle HMK m. 344 ve m. 366), ilgili yönetmelikler ve Adalet Bakanlığı'nın yıllık tarifeleri, temyiz başvurusunda ödenmesi gereken harç ve gider avanslarının yasal dayanaklarını oluşturmaktadır. Nispi ve maktu harç ayrımını, başvuru harcı, temyiz karar harcı ve Yargıtay gider avansı gibi temel kalemleri bu bölümde detaylandırdık. Üçüncü adımda, teorik bilgiyi pratik uygulamalarla birleştirdik. Harç ve avansların nasıl hesaplandığını, ne zaman ve nereye yatırıldığını, eksik veya hiç yatırılmaması durumunda karşılaşılacak 'kesin süre' ve 'temyiz dilekçesinin reddi' gibi ağır sonuçları ele aldık. Ayrıca, ekonomik güçlük çeken vatandaşlar için adli yardım müessesesinin, adalete erişim hakkını güvence altına alan önemli bir mekanizma olduğunu belirttik. Son olarak, dikkat edilmesi gerekenler başlığı altında, güncel mevzuatı takip etmenin, harç ve avansları doğru ve eksiksiz yatırmanın, kesin sürelere riayet etmenin ve adli yardım süreçlerini doğru yönetmenin önemini vurguladık. Temyiz sürecinin maliyetinin sadece başvurana ait olmadığını, haksız çıkan tarafa yükletilen yargılama giderleri bağlamında davanın sonucuna göre değişiklik gösterebileceğini de belirttik. Bu ders içeriği, sizlerin temyiz sürecinin finansal boyutunu ve bu süreçte uyulması gereken usul kurallarını eksiksiz bir şekilde anlamanızı sağlamayı hedeflemiştir. Unutmayın ki, Türk Hukuku'nda usul kurallarına riayet, hakka ulaşmanın olmazsa olmaz şartıdır. Bu bilgileri pekiştirmek adına şimdi pratik sorulara geçebiliriz."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ve 492 sayılı Harçlar Kanunu kapsamında temyiz yoluna başvuru esnasında ödenmesi gereken zorunlu mali yükümlülüklerden biri *değildir*?",
+      "options": {
+        "A": "Temyiz başvuru harcı",
+        "B": "Yargıtay gider avansı",
+        "C": "Vekalet pulu",
+        "D": "Temyiz karar harcı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Temyiz başvuru harcı, Yargıtay gider avansı ve temyiz karar harcı (nispi harç olan davalarda 1/4'ü) temyiz yoluna başvuru esnasında ödenmesi gereken zorunlu mali yükümlülüklerdir. Vekalet pulu ise vekil ile temsil durumunda dilekçeye yapıştırılması gereken bir damga vergisidir ve harç veya gider avansı niteliğinde değildir, vekaletnamenin düzenlenmesi aşamasında vekilin sorumluluğundadır ve dava açılırken veya vekaletname dosyaya sunulurken eksikliğinin tamamlanması istenir, ancak doğrudan temyiz başvurusunun kabul şartı olan bir harç veya gider avansı değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Temyiz başvurusunda harç ve gider avansının süresinde ve eksiksiz yatırılmaması durumunda, Hukuk Muhakemeleri Kanunu (HMK) uyarınca uygulanacak usulü yaptırım aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Temyiz incelemesinin durdurulması ve ek süre verilmesi",
+        "B": "Temyiz talebinin doğrudan reddedilmesi",
+        "C": "Eksikliğin tamamlanması için kesin süre verilmesi, bu süreye uyulmazsa temyiz talebinin reddi",
+        "D": "Para cezası uygulanması ve temyiz incelemesine devam edilmesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 344 ve 366 uyarınca, temyiz başvurusu sırasında harç ve gider avansının eksik yatırılması veya hiç yatırılmaması durumunda, mahkeme (Bölge Adliye Mahkemesi veya Yargıtay) başvurucuya eksikliği tamamlaması için kesin süre verir. Bu kesin süre içerisinde eksiklik giderilmezse, temyiz talebinin reddine karar verilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdaki ifadelerden hangisi adli yardım müessesesi ile temyizde harç-masraf ilişkisi açısından *yanlıştır*?",
+      "options": {
+        "A": "Adli yardım talebinin kabulü halinde, başvurucu temyiz harçlarından muaf tutulur.",
+        "B": "Adli yardım talebi, temyiz dilekçesiyle birlikte veya ayrı bir dilekçeyle yapılabilir.",
+        "C": "Adli yardım talebinin kabul edilmesi durumunda, yargılama avansları devlet tarafından karşılanır.",
+        "D": "Adli yardım talebinin reddi halinde, başvurucu temyiz harç ve masraflarını ödemekten tamamen muaf olur."
+      },
+      "correctAnswer": "D",
+      "explanation": "Adli yardım talebinin reddedilmesi halinde, başvurucu harç ve masrafları ödeme yükümlülüğünden muaf olmaz; aksine, bu yükümlülükleri yasal süresi içinde yerine getirmek zorunda kalır. A, B ve C seçenekleri, adli yardım müessesesinin HMK'daki düzenlemelerine uygun doğru ifadelerdir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Temyiz başvurusu için yatırılması gereken Yargıtay gider avansı ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": {
+        "A": "Miktarı, Harçlar Kanunu'nda sabit olarak belirlenmiştir.",
+        "B": "Her yıl Adalet Bakanlığı tarafından yayımlanan tarifede güncel olarak belirlenir.",
+        "C": "Sadece davanın değerine göre nispi olarak hesaplanır.",
+        "D": "Yargıtay'a dosya ulaştıktan sonra ödenmesi gereken bir kalemdir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Yargıtay gider avansının miktarı, HMK m. 344/b uyarınca Hukuk Muhakemeleri Kanunu Yönetmeliği'nin 44. maddesi ve Adalet Bakanlığı tarafından her yıl yayımlanan 'Yargı Harçları ve Gider Avansları Tarifesi' ile belirlenir. Bu avans, temyiz dilekçesinin verilmesi sırasında yatırılmalıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir davada, Bölge Adliye Mahkemesi kararının temyiz edilmesi üzerine Yargıtay, temyiz talebini esas yönünden reddetmiştir. Bu durumda, temyiz yargılama giderlerinin karşılanması açısından aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Yargılama giderleri her zaman devlet tarafından karşılanır.",
+        "B": "Temyiz yargılama giderleri, temyiz talebi reddedilen tarafa yüklenir.",
+        "C": "Yargılama giderleri, davanın türüne göre kendiliğinden yarı yarıya paylaşılır.",
+        "D": "Harç ve masraflar her zaman temyiz eden taraf üzerinde kalır."
+      },
+      "correctAnswer": "B",
+      "explanation": "HMK m. 331 uyarınca, yargılama giderleri (harç ve masraflar dahil), kural olarak davada haksız çıkan tarafa yüklenir. Temyiz aşamasında temyiz talebinin reddedilmesi, temyiz eden tarafın temyiz talebinde haksız çıktığı anlamına gelir. Bu durumda, temyiz yargılama giderleri (temyiz harcı, Yargıtay gider avansı vb.) temyiz talebi reddedilen tarafa yüklenir."
+    }
+  ]
+}

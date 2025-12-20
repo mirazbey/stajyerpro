@@ -1,0 +1,26 @@
+{
+  "topicId": "KdVKo1CIRhQ4yKx4Hv2D",
+  "topicName": "9. Yargı Paketi (HMK ve TMK Değişiklikleri)",
+  "subjectName": "Medeni Hukuk",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Adım 1 Başlığı",
+      "content": "## Başlık\n\nİçerik buraya gelecek..."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "question": "Örnek soru metni?",
+      "options": {
+        "A": "Seçenek A",
+        "B": "Seçenek B",
+        "C": "Seçenek C",
+        "D": "Seçenek D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Doğru cevap açıklaması"
+    }
+  ],
+  "createdAt": ""
+}

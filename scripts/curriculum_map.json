@@ -1,0 +1,4502 @@
+{
+  "curriculum": {
+    "anayasa_hukuku": {
+      "name": "Anayasa Hukuku",
+      "groups": {
+        "K21jIydFGNO3YERmmnGi": {
+          "name": "Anayasa Hukukuna Giriş",
+          "topics": {
+            "qEN6KhdigPfR0wgCgb6P": {
+              "name": "Anayasa Kavramı"
+            },
+            "6IHmz3ZjRGhQzIZWMgYI": {
+              "name": "Devletin Unsurları"
+            },
+            "bTFMCGJFvTcA3GanDNX6": {
+              "name": "Hükümet Sistemleri"
+            },
+            "uXghyvNwIK0e32jYn0r0": {
+              "name": "Egemenlik"
+            },
+            "VVLyHksPV80hcGo0LpNG": {
+              "name": "Kuvvetler Ayrılığı"
+            }
+          }
+        },
+        "qyJyS3u01x1hlTozZ0Iz": {
+          "name": "Temel Hak ve Özgürlükler",
+          "topics": {
+            "KNuKfHUxOxc2XhD158rx": {
+              "name": "Temel Hakların Niteliği"
+            },
+            "kYjzKQAjmCTsWn8rNfTt": {
+              "name": "Sınırlandırma Rejimi"
+            },
+            "mRzQRtOzHVlSvSUZqi8Y": {
+              "name": "Kişi Hakları"
+            },
+            "NsT8yUjVjGvVj8LS4IPc": {
+              "name": "Sosyal ve Ekonomik Haklar"
+            },
+            "1onCZx8EEn6kThDBFjOp": {
+              "name": "Siyasi Haklar"
+            }
+          }
+        },
+        "lIGLdQIlZdIvWDZ48M6x": {
+          "name": "Yasama",
+          "topics": {
+            "5dNANZOBYscfEvwzQhnA": {
+              "name": "TBMM'nin Görevleri"
+            },
+            "49o0JIKSFeiJllSqVh5X": {
+              "name": "Milletvekilliği"
+            },
+            "DcbBrZEN1YtxvxiwQSg7": {
+              "name": "Kanun Yapım Süreci"
+            },
+            "uimKPUV6FpYpZXZnQJMy": {
+              "name": "Denetim Yolları"
+            }
+          }
+        },
+        "aDShawCH8AUEKzdhRiKe": {
+          "name": "Yürütme",
+          "topics": {
+            "xSeKwgqZEPC1aRhInGAU": {
+              "name": "Cumhurbaşkanı'nın Görevleri"
+            },
+            "iYrrXrdz8nqIujdvjEoT": {
+              "name": "Cumhurbaşkanlığı Kararnameleri"
+            },
+            "uLrfjYQvVpnTiGEbXkzK": {
+              "name": "Bakanlar"
+            },
+            "rHX5Gx89sqFscSnro052": {
+              "name": "Olağanüstü Hal"
+            }
+          }
+        },
+        "1v6eOxXJZDlRmtBh0P7S": {
+          "name": "Yargı",
+          "topics": {
+            "Ya9XwehVcCbRZgNW9Xap": {
+              "name": "Hakimler ve Savcılar Kurulu"
+            },
+            "f8MsedVFygU28fdYu0x8": {
+              "name": "Yargı Bağımsızlığı"
+            },
+            "Nfar0t7LeE6qlm0zaYjN": {
+              "name": "Anayasa Mahkemesi Görevleri"
+            },
+            "sAamvnPBCvtLPlq7OR8I": {
+              "name": "İptal Davası ve İtiraz Yolu"
+            },
+            "CuyjEu2K9AW3zZ9ocgpx": {
+              "name": "Bireysel Başvuru"
+            }
+          }
+        }
+      }
+    },
+    "medeni_hukuk": {
+      "name": "Medeni Hukuk",
+      "groups": {
+        "Xr0Qz7JsXI3Amr5gnKqE": {
+          "name": "Başlangıç Hükümleri",
+          "topics": {
+            "vR8ryh4Kof6yoztpnCdO": {
+              "name": "Hukukun Uygulanması"
+            },
+            "FbFj3A4yRWYmXArxpAEt": {
+              "name": "İyiniyet ve Dürüstlük Kuralı"
+            },
+            "GKRgfZXjqpisW57v7wtx": {
+              "name": "İspat Yükü"
+            }
+          }
+        },
+        "n2HMNhk12RF40Sdmx2y1": {
+          "name": "Kişiler Hukuku",
+          "topics": {
+            "NlBMfazjAJRxqfWSajzO": {
+              "name": "Gerçek Kişiler"
+            },
+            "SawWUo1uDl84iATbU8p8": {
+              "name": "Kişiliğin Başlangıcı ve Sonu"
+            },
+            "6wvMkLrzOuj9YUVEKfNZ": {
+              "name": "Hak ve Fiil Ehliyeti"
+            },
+            "T7U3zOVKQQ4B0U7IFGqg": {
+              "name": "Kısıtlılık ve Vesayet"
+            },
+            "FbSeVKry2ASaUYm53jHa": {
+              "name": "Kişiliğin Korunması"
+            }
+          }
+        },
+        "WIUW994b1HDjcWCHN2kh": {
+          "name": "Tüzel Kişiler",
+          "topics": {
+            "uFbhVw6AxVdCRVYIzTiK": {
+              "name": "Tüzel Kişi Kavramı"
+            },
+            "ymbtBBpDZqrMywIqGiAj": {
+              "name": "Dernekler"
+            },
+            "bRRrh7OsY9oyCXJ26hhb": {
+              "name": "Vakıflar"
+            }
+          }
+        },
+        "wvc1iLY4hDuSUeGKtgHm": {
+          "name": "Aile Hukuku",
+          "topics": {
+            "7qVKEKfPjXIu4unDm7oP": {
+              "name": "Nişanlanma"
+            },
+            "soLYYYnNlPSvc8KnQoiz": {
+              "name": "Evlenme"
+            },
+            "84Due5iWOMPxI331HFo7": {
+              "name": "Boşanma"
+            },
+            "zxMJpg27KKzbDRBvXH1k": {
+              "name": "Mal Rejimleri"
+            },
+            "DPhDxM7sBUeg0qAkPP9J": {
+              "name": "Soybağı"
+            },
+            "GknKOBivbXCKfJkfzIVQ": {
+              "name": "Velayet"
+            },
+            "F55T64y86pSfFqJxgjsk": {
+              "name": "Nafaka"
+            }
+          }
+        },
+        "uDhxwKi9eEfMGfjk6LZj": {
+          "name": "Miras Hukuku",
+          "topics": {
+            "kXSAwyW6GCCZOsW5AqAa": {
+              "name": "Yasal Mirasçılar"
+            },
+            "whgcEYEOpv8E7knoLCMT": {
+              "name": "Saklı Pay"
+            },
+            "wkBTgbvAlrWpNIi1vXHO": {
+              "name": "Ölüme Bağlı Tasarruflar"
+            },
+            "NyvyE0CGEP0H8cTbGX9B": {
+              "name": "Mirasın Geçişi"
+            }
+          }
+        },
+        "sPW5YXilNa7T3SMF75MM": {
+          "name": "Eşya Hukuku",
+          "topics": {
+            "WTrpsn3GQ0CaXCzONSAF": {
+              "name": "Zilyetlik"
+            },
+            "FXVt95iOFmvgxTLaQ2Px": {
+              "name": "Tapu Sicili"
+            },
+            "AEbv7FYW8JBjtlEm411g": {
+              "name": "Mülkiyet"
+            },
+            "Ghs1J48Pmr8dCROeIvMP": {
+              "name": "Sınırlı Ayni Haklar"
+            },
+            "ShwqodI07ur0d1lgdpqH": {
+              "name": "Rehin ve İpotek"
+            }
+          }
+        },
+        "KdVKo1CIRhQ4yKx4Hv2D": {
+          "name": "9. Yargı Paketi (HMK ve TMK Değişiklikleri)",
+          "topics": {
+            "0NQzmkuuBAhJKJeKRUWs": {
+              "name": "Temyiz Edilebilir Kararlar"
+            },
+            "cf6JGp81kcoWXzNgxqZs": {
+              "name": "Temyiz Süresi Değişiklikleri"
+            },
+            "TglXs68Ax9TZegGPUtj6": {
+              "name": "Temyizde Harç-Masraf Düzenlemeleri"
+            },
+            "GQ7tYpRHzNTBFPEnDKR6": {
+              "name": "Bölge Adliye Mahkemesi İnceleme Kapsamı"
+            },
+            "quhRYf69ov9Y5eRKW2Mm": {
+              "name": "İstinaf Sebepleri"
+            },
+            "7tlE2tKhnKhRGD6cdy7k": {
+              "name": "İstinaf Sonucuna Göre Karar Türleri"
+            },
+            "i3krGmhQif4BWOmi5GWE": {
+              "name": "Dava Şartlarında Düzenlemeler"
+            },
+            "R9CalffTXBEMiQhgWP0S": {
+              "name": "Ön İnceleme Aşaması Kuralları"
+            },
+            "khwBfKZxUQwmgfTUaHcH": {
+              "name": "Elektronik Tebligat Sistemi"
+            },
+            "fFpI3eebC0WtzKV9vHsm": {
+              "name": "Sürelerin Hesaplanması"
+            },
+            "MuZEm1lXW17wq6r5Z74V": {
+              "name": "Soybağı Davalarında Usul Değişiklikleri"
+            },
+            "Pb7XjnBKD4GVvJd6KcM7": {
+              "name": "Aile İçi Şiddet Koruma Tedbirleri"
+            },
+            "cR6MXjPqfh8CqJXENAej": {
+              "name": "Vesayet İşlemlerinde Süre-Yetki Değişiklikleri"
+            }
+          }
+        }
+      }
+    },
+    "borclar_hukuku": {
+      "name": "Borçlar Hukuku",
+      "groups": {
+        "LHg87deGAAKpQF4cDcMT": {
+          "name": "Borç İlişkisinin Kaynakları",
+          "topics": {
+            "wJSAxrrHFmiQFFvlxDJa": {
+              "name": "Sözleşmeden Doğan Borçlar"
+            },
+            "qXO0DXzQKPGEbPyfEKBJ": {
+              "name": "Sözleşmenin Kurulması"
+            },
+            "OrL0j9U2r9Zbgbef7SFV": {
+              "name": "Geçersizlik Halleri"
+            },
+            "qsQB0fkUsAmhlynbUXMk": {
+              "name": "Temsil"
+            }
+          }
+        },
+        "Ti2EmVyu3ErVpAzIyr8L": {
+          "name": "Haksız Fiil",
+          "topics": {
+            "k3a7VJUeUU8dA3WFa3EP": {
+              "name": "Haksız Fiil Şartları"
+            },
+            "YJDrSUuQtrFclAK54MuD": {
+              "name": "Kusur Sorumluluğu"
+            },
+            "6SbYrnAkToQgzJuEeIjs": {
+              "name": "Kusursuz Sorumluluk"
+            },
+            "71mGDRew7AGulKlD04FG": {
+              "name": "Tazminat"
+            }
+          }
+        },
+        "GMHWgRdIaufo90yo1h1X": {
+          "name": "Sebepsiz Zenginleşme",
+          "topics": {
+            "cRDMl11N9PU2U6ip9IGa": {
+              "name": "Sebepsiz Zenginleşme Şartları"
+            },
+            "8gUqhJePPxVWpmJCbXyD": {
+              "name": "İade Borcu"
+            }
+          }
+        },
+        "Z62WtUK17bryAwhnObTk": {
+          "name": "Borcun İfası ve Sona Ermesi",
+          "topics": {
+            "um0PSYX1XO9DVmMUiTzd": {
+              "name": "İfa"
+            },
+            "isKagWLDN9MOhun4mLXl": {
+              "name": "Borçlu Temerrüdü"
+            },
+            "T0AcRj5GTPhnd9AZWDOu": {
+              "name": "Alacaklı Temerrüdü"
+            },
+            "vdosmjP3lcMx97w63sgN": {
+              "name": "Zamanaşımı"
+            }
+          }
+        },
+        "NsbpfLGwnzVIbaX5vT1N": {
+          "name": "Özel Borç İlişkileri",
+          "topics": {
+            "p4vxoy7l8TCzIfx2yhpr": {
+              "name": "Satış Sözleşmesi"
+            },
+            "HKud4FbgtSmkzpJUWiNw": {
+              "name": "Kira Sözleşmesi"
+            },
+            "KkxaUs0fBY8B7Rb6lDwa": {
+              "name": "Eser Sözleşmesi"
+            },
+            "ggG3lf4jswjgeWLLJrLU": {
+              "name": "Vekalet Sözleşmesi"
+            },
+            "RDugW3HHJH5uzb3D9z2z": {
+              "name": "Hizmet Sözleşmesi"
+            },
+            "d2lkzvX9e4bQyQnavfJS": {
+              "name": "Kefalet Sözleşmesi"
+            }
+          }
+        }
+      }
+    },
+    "ticaret_hukuku": {
+      "name": "Ticaret Hukuku",
+      "groups": {
+        "7P6Y8B9x9f0Xm2RI3o8N": {
+          "name": "Ticari İşletme",
+          "topics": {
+            "uXh9sIZY9ILIKQeqnehA": {
+              "name": "Ticari İşletme Kavramı"
+            },
+            "FfIrVSsedgjutrVOvwXI": {
+              "name": "Tacir"
+            },
+            "v2MuY7nGNU5gqAqlaSjT": {
+              "name": "Ticaret Unvanı"
+            },
+            "WvgN6BKu69BFxlyKynoT": {
+              "name": "Ticaret Sicili"
+            },
+            "ySEfAnamkntKV7ODwTI9": {
+              "name": "Haksız Rekabet"
+            }
+          }
+        },
+        "6NziXd1KkKbNaqn2SKnd": {
+          "name": "Şirketler Hukuku",
+          "topics": {
+            "Y7rT9IrRlbE9Y1YoYhIU": {
+              "name": "Şirket Kavramı"
+            },
+            "Anf51FhNxx5DrmZtWhzi": {
+              "name": "Adi Şirket"
+            },
+            "BHEy310CshYfJ0dBe2ow": {
+              "name": "Kollektif ve Komandit Şirket"
+            },
+            "dGsiTcTJ79tagWiZzEIp": {
+              "name": "Anonim Şirket Organları"
+            },
+            "KCwmtHyeZ5AW5iK8OS7h": {
+              "name": "Limited Şirket"
+            }
+          }
+        },
+        "pcc892DBswfOs8hZah9s": {
+          "name": "Kıymetli Evrak",
+          "topics": {
+            "m4I88CsmWAiP9nNSjf5T": {
+              "name": "Kıymetli Evrak Temel Hükümler"
+            },
+            "4tbVIVKsXrgWV4MKZy2y": {
+              "name": "Poliçe"
+            },
+            "9JnYWDkRVkrniSJu1j8X": {
+              "name": "Bono"
+            },
+            "B6qLSwqQGOQXCSbb5YO6": {
+              "name": "Çek"
+            }
+          }
+        },
+        "37QX0sjDBO7yGKnXwE0K": {
+          "name": "9. Yargı Paketi (Ticari Uyuşmazlık Değişiklikleri)",
+          "topics": {
+            "Iv6dPMb7U8BfJPgXALqi": {
+              "name": "Ticari Davalarda Zorunlu Arabuluculuk Kapsamı"
+            },
+            "y48wPpHx48E5o7W0DoM3": {
+              "name": "Ticari Uyuşmazlıklarda Dava Şartı Arabuluculuk"
+            }
+          }
+        }
+      }
+    },
+    "ceza_hukuku": {
+      "name": "Ceza Hukuku",
+      "groups": {
+        "PdBaO7NmP938pKbOZTpd": {
+          "name": "Ceza Hukukuna Giriş",
+          "topics": {
+            "tWclgcw14xUaJcZCWTTK": {
+              "name": "Ceza Hukukunun Temel İlkeleri"
+            },
+            "nGVr2k0khi3Jwxk80HJJ": {
+              "name": "Suçta ve Cezada Kanunilik"
+            },
+            "JE77mC8LdbSdQOaGjWwD": {
+              "name": "Ceza Kanunlarının Uygulanması"
+            }
+          }
+        },
+        "IMd11M5Sjv109ub5MR80": {
+          "name": "Suçun Genel Teorisi",
+          "topics": {
+            "kSG3YTGbHaW2PFB1Tjpz": {
+              "name": "Maddi Unsur"
+            },
+            "zm5uLYEOATzHDDcnQ6YW": {
+              "name": "Manevi Unsur"
+            },
+            "y4m1re6r9aOtpDV18zQJ": {
+              "name": "Hukuka Aykırılık"
+            },
+            "vj1QRmMPkk4ZhW114fR9": {
+              "name": "Kusur"
+            }
+          }
+        },
+        "fgu0OkwdjQKKRY9eES4B": {
+          "name": "Suçun Özel Görünüş Şekilleri",
+          "topics": {
+            "FTx1UFmLkrqhIvEcknCa": {
+              "name": "Teşebbüs"
+            },
+            "bUU6Pf0BWUraCMbdERWm": {
+              "name": "İştirak"
+            },
+            "asntaeqVhHShwTDTRb3B": {
+              "name": "İçtima"
+            }
+          }
+        },
+        "uluC43Ph11JYYhHQIonO": {
+          "name": "Yaptırımlar",
+          "topics": {
+            "77EzxIxhGk5PHXwmyKCN": {
+              "name": "Cezalar"
+            },
+            "Ala6tnxaxe3wm070WNiA": {
+              "name": "Güvenlik Tedbirleri"
+            }
+          }
+        },
+        "hDGPcmffZnkH0ad7TAwJ": {
+          "name": "Özel Suçlar",
+          "topics": {
+            "aSjZfusjVbtlXC9WWaWf": {
+              "name": "Hayata Karşı Suçlar"
+            },
+            "VBWIHcwPH4nzAioToODA": {
+              "name": "Vücut Dokunulmazlığına Karşı Suçlar"
+            },
+            "e4s0AVC4UgDqH1fRVfLu": {
+              "name": "Malvarlığına Karşı Suçlar"
+            },
+            "jMdmMCXaxbUOswT7XC2F": {
+              "name": "Kamu İdaresine Karşı Suçlar"
+            }
+          }
+        },
+        "En3PqxglaH8EPa2ppzqR": {
+          "name": "9. Yargı Paketi (TCK Değişiklikleri)",
+          "topics": {
+            "gCxkqxaWOvt7kiXfS2cY": {
+              "name": "Uzlaştırma Kapsamında Değişiklikler"
+            },
+            "dMoRBnV7e1IyTlhaHAJ7": {
+              "name": "Uzlaştırma Kapsamı Dışına Alınan Suçlar"
+            },
+            "TZesCMFP3txOWcrqpMyC": {
+              "name": "Uzlaştırmacı Görevlendirme Usulleri"
+            },
+            "qR5TX6Yev9vD0vjw9t4u": {
+              "name": "Uzlaştırma Süresi ve Sonuçları"
+            },
+            "Mwwog3W6fDGH22GJQQY0": {
+              "name": "Uzlaştırmanın Hukuki Etkileri"
+            },
+            "sbgPLS2ySvV4y0u3sFag": {
+              "name": "Etki Ajanlığı (Influence Agent)"
+            },
+            "aoEIURQoZd7HmLum8n0g": {
+              "name": "Casusluk Kapsamı Değişikliği"
+            },
+            "1G0SSe26AjinyB2bZpKV": {
+              "name": "Devlete Karşı Suçlarda Yeni Düzenlemeler"
+            },
+            "7pIq6tOYTx1xnDm5gO5r": {
+              "name": "Cinsel Suçların Kapsamı"
+            },
+            "cy4e3d3Okpkw45G8SvVq": {
+              "name": "Cinsel Suçlarda Cezaların Artırılması"
+            },
+            "7Poe0MdG0sBkhzQyZAhG": {
+              "name": "Cinsel Suçlarda Etkin Pişmanlığın Sınırlandırılması"
+            },
+            "1dxYvO1faQZo5KGmHtDr": {
+              "name": "Şiddet Suçlarının Uzlaşma Kapsamından Çıkarılması"
+            },
+            "yqauRbGiDwpQjlmYi7xc": {
+              "name": "Koruma Tedbirlerinde Sıkılaştırma"
+            }
+          }
+        }
+      }
+    },
+    "ceza_muhakemesi": {
+      "name": "Ceza Muhakemesi Hukuku",
+      "groups": {
+        "RplaqAZ8VPHoFCILsxtx": {
+          "name": "Ceza Muhakemesine Giriş",
+          "topics": {
+            "092gLcv1kq40nMwMo599": {
+              "name": "CMK Temel İlkeleri"
+            },
+            "fZkyqhiGqXkgwdhvEPfy": {
+              "name": "Yetki Kuralları"
+            }
+          }
+        },
+        "CaYdLmgZIm5vYXGsearU": {
+          "name": "Soruşturma",
+          "topics": {
+            "duSGBpSrHgExo7nmRtt2": {
+              "name": "Soruşturma Aşaması"
+            },
+            "yH5A44ekQnfjJyx6ttMC": {
+              "name": "Gözaltı"
+            },
+            "zS92cceKFVr9FTDH4RRl": {
+              "name": "Tutuklama"
+            },
+            "6bgrHNoVb8QWo9ys0i1A": {
+              "name": "Adli Kontrol"
+            }
+          }
+        },
+        "iZs4UWA7z5Lwvmzee8i6": {
+          "name": "Deliller",
+          "topics": {
+            "jM9yI4SdoSallpQvdaBF": {
+              "name": "Arama ve Elkoyma"
+            },
+            "r75AO5SvwDPTYCyuDas7": {
+              "name": "İletişimin Denetlenmesi"
+            },
+            "jMGXtkwg9cngWQ45TgrK": {
+              "name": "Delil Değerlendirmesi"
+            }
+          }
+        },
+        "2WS4eHVPZW9z8NXoZkk0": {
+          "name": "Kovuşturma",
+          "topics": {
+            "OriwYbDNr0YFDuHSe3Md": {
+              "name": "İddianame"
+            },
+            "nkTPEm0DOwpiKZGyTcRQ": {
+              "name": "Duruşma"
+            },
+            "yOn8gEn6yAc1LMpMakQm": {
+              "name": "Hüküm"
+            }
+          }
+        },
+        "xlZleQzaYS6QHV4hXEvn": {
+          "name": "Kanun Yolları",
+          "topics": {
+            "KcgkOaKA9gKYZHxzNMI1": {
+              "name": "İtiraz"
+            },
+            "TfZZf9YHFoK5ylkidsFx": {
+              "name": "İstinaf"
+            },
+            "XwTcAAUtgBjGKL5YqKYg": {
+              "name": "Temyiz"
+            }
+          }
+        },
+        "BjFUXmu2BVuUVFhTFQRm": {
+          "name": "9. Yargı Paketi (CMK Değişiklikleri)",
+          "topics": {
+            "u9MBIe1G88PKmnSqeqeM": {
+              "name": "Kolluğun Yetkilerinde Düzenleme"
+            },
+            "e1IRyOCuOTeEB8BgL8c0": {
+              "name": "Savcı Gözetimindeki İşlemlerde Yeni Kurallar"
+            },
+            "sTZPmuHUvL7w75xpIzgz": {
+              "name": "İfade Alma-Sorgu Usulü Değişiklikleri"
+            },
+            "04U1w2pcTPBrXsYjJ0Ba": {
+              "name": "Tutuklama Şartlarında Değişiklik"
+            },
+            "YEKe4GFpq93pWf5MOjZE": {
+              "name": "Adli Kontrol Süreleri"
+            },
+            "33D0S6Dk5WVew9FCSQei": {
+              "name": "Ölçülülük İlkesi Kapsamında Revizyon"
+            },
+            "usxqmM5emw1D5ZmyuWs5": {
+              "name": "Dijital Delil Toplama Usulleri"
+            },
+            "hqECH7Lgy7vHQ6u40wlI": {
+              "name": "Arama-Elkoyma Kararlarında Yeni Düzenlemeler"
+            },
+            "pb8Ph7ClfMaIUyxTk55t": {
+              "name": "İletişimin Denetlenmesi Hükümleri"
+            },
+            "hptpNACN2umUzOtuMPuN": {
+              "name": "CMK'da Uzlaştırma Sürecinin Yeni Yapısı"
+            },
+            "K4Fio68x0bcXJDrkzOHq": {
+              "name": "Uzlaştırmada Süre-Yetki-Görevlendirme Değişiklikleri"
+            },
+            "aihHfV42boBVqyoCUnMt": {
+              "name": "İtiraz Sürelerinde Düzenleme"
+            },
+            "l0BkebmuqAQS6nOIIdI0": {
+              "name": "İstinaf Başvuru Koşulları"
+            },
+            "WOzyZpMTKKZhy29SyBe4": {
+              "name": "Temyiz Sebeplerinin Genişletilmesi/Daraltılması"
+            }
+          }
+        }
+      }
+    },
+    "idare_hukuku": {
+      "name": "İdare Hukuku",
+      "groups": {
+        "rUWZCIBP1xRgeJhIvtDk": {
+          "name": "İdarenin Kuruluşu",
+          "topics": {
+            "1HWGE59uPhvsPceAjF7D": {
+              "name": "Merkezi İdare"
+            },
+            "tRkUq22FLbzNIs7vHUP6": {
+              "name": "Yerinden Yönetim"
+            },
+            "IKyBhJ3x8bAZO0jcl8xi": {
+              "name": "Kamu Tüzel Kişileri"
+            }
+          }
+        },
+        "AnLESvHTUczfEiGx2Jbe": {
+          "name": "İdari İşlemler",
+          "topics": {
+            "VQZYOSUkQQRZp6XG2FYz": {
+              "name": "Düzenleyici İşlemler"
+            },
+            "ooN01pl25uVFL97fqfJ9": {
+              "name": "Bireysel İşlemler"
+            },
+            "shQdikZR5nsRZiA1nig1": {
+              "name": "İdari İşlemin Unsurları"
+            }
+          }
+        },
+        "lOwz1v9YiOil44Wj2WI9": {
+          "name": "Kamu Görevlileri",
+          "topics": {
+            "bhNLTGTxxSY1uIfIuZD5": {
+              "name": "Memur Kavramı"
+            },
+            "9mW4jY8tdus3SZdLdRQe": {
+              "name": "Memurun Hakları"
+            },
+            "avq7sVO5bxdjIo8QhzT7": {
+              "name": "Memurun Yükümlülükleri"
+            },
+            "OsH42AbcDexmUAlCKmxt": {
+              "name": "Disiplin"
+            }
+          }
+        },
+        "S45V8wckMQhcqM71I07k": {
+          "name": "Kolluk",
+          "topics": {
+            "O3nCp4hIkGOCuD5fVJEN": {
+              "name": "Kolluk Kavramı"
+            },
+            "o3S4u2DieZ07cnd76vxi": {
+              "name": "Kolluk Yetkileri"
+            }
+          }
+        },
+        "uaPX5PiuBoX8CBjh9Oup": {
+          "name": "Kamu Malları",
+          "topics": {
+            "s985X77PohpkdvrvfKbR": {
+              "name": "Kamu Malı Kavramı"
+            },
+            "cf0KVK1z7s8pfGHuA1Jf": {
+              "name": "Kamulaştırma"
+            }
+          }
+        },
+        "SHwtY7D7x1fKVOJi12p7": {
+          "name": "İdarenin Sorumluluğu",
+          "topics": {
+            "vecjK1X9cugMZ5mPKE0p": {
+              "name": "Hizmet Kusuru"
+            },
+            "gcCtkmNjIjoEnSrRThxL": {
+              "name": "Kusursuz Sorumluluk"
+            }
+          }
+        }
+      }
+    },
+    "hukuk_muhakemeleri": {
+      "name": "Hukuk Muhakemeleri Kanunu",
+      "groups": {}
+    },
+    "idari_yargilama": {
+      "name": "İdari Yargılama Usulü (İYUK)",
+      "groups": {
+        "OT6OY8qnzo6XDoc75Hmc": {
+          "name": "Dava Türleri",
+          "topics": {
+            "psnd0RnJ1zXYoC3FNx50": {
+              "name": "İptal Davası"
+            },
+            "aQbFodYlGwAD1rt3SMP5": {
+              "name": "Tam Yargı Davası"
+            }
+          }
+        },
+        "vASr8U5r0fdtJ2zTYaCh": {
+          "name": "Dava Şartları",
+          "topics": {
+            "4yIp5fSYoiJSFUMkShz9": {
+              "name": "Ehliyet"
+            },
+            "nUz7oiYk0JSXStKyFHvn": {
+              "name": "Hak Düşürücü Süreler"
+            },
+            "rpz667XvLsaXtCnuTItP": {
+              "name": "İdari Merci Tecavüzü"
+            }
+          }
+        },
+        "C1ufrZGrc8Df4yLnJCK6": {
+          "name": "Yargılama",
+          "topics": {
+            "qIG32ZAYpZXQHLQvSUIO": {
+              "name": "Yürütmenin Durdurulması"
+            },
+            "e9Xc8gqwsqTa7zDttAVv": {
+              "name": "Yargılama Aşamaları"
+            },
+            "fQWgLN2NllV8cMpj0VHz": {
+              "name": "Karar"
+            }
+          }
+        },
+        "Y0DbJynzX1QUsWf0SfAl": {
+          "name": "Kanun Yolları",
+          "topics": {
+            "GxGsavoaIoD5kBRzTHY9": {
+              "name": "İstinaf"
+            },
+            "FJI0uSVSd6hI8Y9MMvsx": {
+              "name": "Temyiz"
+            }
+          }
+        },
+        "FwX0tZokfY9IYMVYYfUf": {
+          "name": "9. Yargı Paketi (Adli Reform ve Usul Düzenlemeleri)",
+          "topics": {
+            "yDmDD7UMxGSCpJwCNlCL": {
+              "name": "Makul Sürede Yargılanma Düzenlemeleri"
+            },
+            "3udoocHOg1LXb5zHpTJd": {
+              "name": "Elektronik İşlemlerde İyileştirme"
+            },
+            "FpM1tj0Tb0Xyksr4lZLY": {
+              "name": "Arabuluculuk Kapsamının Genişletilmesi"
+            },
+            "mDR6VqMVfez2pTh8oSti": {
+              "name": "Uzlaştırma Sürecinin Yeniden Yapılandırılması"
+            },
+            "tJJzgX1SILiLGuuWliE7": {
+              "name": "UYAP Düzenlemeleri"
+            },
+            "4TzBaPwy7jX4hVJ493aC": {
+              "name": "Elektronik Dosya Süreçleri"
+            }
+          }
+        }
+      }
+    },
+    "vergi_hukuku": {
+      "name": "Vergi Hukuku",
+      "groups": {
+        "hWDWTlVp9jht9Ckah8gt": {
+          "name": "Vergi Hukuku Genel",
+          "topics": {
+            "DDs7urzrpBJOF2X0Qu3F": {
+              "name": "Vergi Kanunlarının Uygulanması"
+            },
+            "aGHOQtfl3h4slXFr4l8j": {
+              "name": "Mükellefiyet"
+            },
+            "INDhcT6brCRJ0TuZFOFx": {
+              "name": "Vergi Sorumluluğu"
+            }
+          }
+        },
+        "AUbBejpYu1x9XwMmck2b": {
+          "name": "Vergilendirme Süreci",
+          "topics": {
+            "VHL8X3oCss29EQZ09m8f": {
+              "name": "Tarh"
+            },
+            "ExpZ9AheCnZQwDFzsvS6": {
+              "name": "Tebliğ"
+            },
+            "MTrp4R4fIKlEmWYTBx6E": {
+              "name": "Tahakkuk"
+            },
+            "SIkIXyPkzD1mkFYLRhd1": {
+              "name": "Tahsil"
+            }
+          }
+        },
+        "2zhCBKVjzNuiLGJEyyuz": {
+          "name": "Vergi Borcunun Sona Ermesi",
+          "topics": {
+            "e3UaLN9Oo0Lck39MZSyU": {
+              "name": "Ödeme"
+            },
+            "a9d12Y9szIMfgsF74Fdg": {
+              "name": "Zamanaşımı"
+            },
+            "N0O8J7nMZgMgXm0HUZPT": {
+              "name": "Terkin"
+            }
+          }
+        },
+        "qiSUIxGCzJ4HQmM5jSEW": {
+          "name": "Vergi Suç ve Cezaları",
+          "topics": {
+            "PZJvPuBsNG0bqhC7z3qO": {
+              "name": "Vergi Kabahatleri"
+            },
+            "gDnbWoUSdhApCZ3rWZId": {
+              "name": "Vergi Suçları"
+            }
+          }
+        },
+        "UVlji6tdziwzYPbx7Ar6": {
+          "name": "Vergi Uyuşmazlıkları",
+          "topics": {
+            "Nr2hIkFlPQwvKeSyasSW": {
+              "name": "Uzlaşma"
+            },
+            "cf5Jer8rgC6pZNkCFDzG": {
+              "name": "Vergi Davaları"
+            }
+          }
+        }
+      }
+    },
+    "icra_iflas": {
+      "name": "İcra ve İflas Hukuku",
+      "groups": {
+        "ApYg8dbvBNexG71V4NWN": {
+          "name": "İcra Takip Yolları",
+          "topics": {
+            "X9Rurt4961aSSP3Uu2CB": {
+              "name": "İlamsız Takip"
+            },
+            "FNmqo5Kl0sLoGEqyYSbg": {
+              "name": "İlamlı Takip"
+            },
+            "wwrmrAIdn4b6hqS5hb69": {
+              "name": "Kambiyo Senetlerine Özgü Takip"
+            },
+            "3BpG9fUyQ6KJawRZv14V": {
+              "name": "Kiralanan Taşınmazların Tahliyesi"
+            }
+          }
+        },
+        "scufBTtXIrq6tZCQtWQ7": {
+          "name": "Haciz",
+          "topics": {
+            "V63OOFd6ZwDp0woveZX7": {
+              "name": "Haciz İşlemi"
+            },
+            "U0WVHZ6Xa0IPukoH8W1y": {
+              "name": "Haczi Caiz Olmayan Mallar"
+            },
+            "cpDWfMAleIU3WslyHrHj": {
+              "name": "İstihkak"
+            }
+          }
+        },
+        "PyPwtUnP5ncvmkjXR7K3": {
+          "name": "Rehnin Paraya Çevrilmesi",
+          "topics": {
+            "JxguOKdUFTzSJqHvzZtn": {
+              "name": "Taşınır Rehni"
+            },
+            "rbLN65dmHSb0CNseivir": {
+              "name": "Taşınmaz Rehni"
+            }
+          }
+        },
+        "JSWNgrEAYAH9QbhfMpMJ": {
+          "name": "İflas",
+          "topics": {
+            "GGxRXR495huxg0TFkXkw": {
+              "name": "İflas Sebepleri"
+            },
+            "b5ttGvEpPdtRCs0NlwIf": {
+              "name": "İflas Tasfiyesi"
+            }
+          }
+        },
+        "1mNlXmAikIRV88p3SakK": {
+          "name": "Konkordato",
+          "topics": {
+            "y0MjjGbd4KYDX3NTmWxK": {
+              "name": "Konkordato Şartları"
+            },
+            "Uz7S1pLuL8Nrarj240PT": {
+              "name": "Konkordato Süreci"
+            }
+          }
+        },
+        "Q4Rm8AtZd7UKTgofYerk": {
+          "name": "9. Yargı Paketi (İİK Değişiklikleri)",
+          "topics": {
+            "OWc21Z9QMkvDoyx53b1X": {
+              "name": "Elektronik Satış Usulü"
+            },
+            "pXNJVn8XqqmZCblAfxKR": {
+              "name": "Açık Artırma Şartlarının Yenilenmesi"
+            },
+            "EvdpmRdk41hfJg0hOfbi": {
+              "name": "Satış İlanı Kuralları"
+            },
+            "x1JEUsirzQ2YDIBnxumc": {
+              "name": "Teklif Farkı-Teminat Sistemi"
+            },
+            "B5AFcfTUV2I6EPvWHxOc": {
+              "name": "İlamsız Takipte Yeni Düzenlemeler"
+            },
+            "2IWLqdH9uxvfBdzH7pm7": {
+              "name": "Kambiyo Senetlerine Özgü Takipte Değişiklikler"
+            },
+            "J5pOhq2yXPHMM3xHRZFG": {
+              "name": "Kiralanan Taşınmaz Tahliyesi Prosedürü"
+            },
+            "RBplAeiGvPNAsYY8bRtW": {
+              "name": "Rehinli Malların Satış Usulü"
+            },
+            "XcO4vpvKHsasMFNldRlO": {
+              "name": "Paraya Çevirme Süreleri"
+            },
+            "RqVnfkGb7YZRDtpqC12l": {
+              "name": "İflas Karar Süreçlerinde Değişiklikler"
+            },
+            "86QKHBrXJR0tQI6IeJE9": {
+              "name": "Konkordato Sürecinde İyileştirme Hükümleri"
+            }
+          }
+        }
+      }
+    },
+    "is_hukuku": {
+      "name": "İş Hukuku ve Sosyal Güvenlik",
+      "groups": {
+        "uaJKuMua6FUDVZ8Hlc3D": {
+          "name": "Bireysel İş Hukuku",
+          "topics": {
+            "ezsWCqPlwuJDk8rclUOZ": {
+              "name": "İş Sözleşmesi Türleri"
+            },
+            "ReU9MyL2yG2BnqhxH5pN": {
+              "name": "Ücret"
+            },
+            "TPqwDc1T8glCjHJMzyDT": {
+              "name": "Çalışma Süreleri"
+            }
+          }
+        },
+        "EO1W9an3RkiwLdyBztga": {
+          "name": "Fesih",
+          "topics": {
+            "cglkP0iqMCfmHKnwlLcC": {
+              "name": "Bildirimli Fesih"
+            },
+            "sx8Ah2qxOXHmsdXtB7d1": {
+              "name": "Haklı Nedenle Fesih"
+            },
+            "9dRzf9M3ZnShttR7FjiA": {
+              "name": "İş Güvencesi"
+            }
+          }
+        },
+        "cb5pAtWjjGPmdubFEHvh": {
+          "name": "Tazminatlar",
+          "topics": {
+            "kC28GHqZ6npqkRZltsAS": {
+              "name": "Kıdem Tazminatı"
+            },
+            "f3R6o2hQwu5Wgt0Gb6kQ": {
+              "name": "İhbar Tazminatı"
+            }
+          }
+        },
+        "nDtFjTmMpwtb5oCzSzxs": {
+          "name": "Sosyal Güvenlik",
+          "topics": {
+            "yfPjS0GlKRQXOWAPrhWZ": {
+              "name": "Sosyal Sigortalar"
+            },
+            "T4y0SW8xgAFkbXJkWPj7": {
+              "name": "Emeklilik"
+            }
+          }
+        },
+        "eAFQj60z3PGwANd3m9Xb": {
+          "name": "Toplu İş Hukuku",
+          "topics": {
+            "r86jQ0ab9KYNNFlmAOs9": {
+              "name": "Sendika"
+            },
+            "GXjueUhldDYNIhV17YLK": {
+              "name": "Toplu İş Sözleşmesi"
+            },
+            "sAjxZkmBrg0kJ2MOa66e": {
+              "name": "Grev"
+            }
+          }
+        },
+        "fZg8ot9tKQrE8Rdj5KVQ": {
+          "name": "9. Yargı Paketi (Arabuluculuk ve İş Hukuku Değişiklikleri)",
+          "topics": {
+            "HrTNcaeehAXRmnKWi8uW": {
+              "name": "Yeni Zorunlu Arabuluculuk Alanları (İş-Tüketici-Ticari)"
+            },
+            "98M3xpNtI4dHFf2iw2Te": {
+              "name": "Zorunlu Arabuluculukta Süre ve Usul"
+            },
+            "BYiDBC7KEWEorrm6qNh9": {
+              "name": "İhtiyari Arabuluculuk Süreç Tanımı"
+            },
+            "99JF1ZfvW3TL882rMrTy": {
+              "name": "İhtiyari Arabuluculuk Usul Kuralları"
+            },
+            "MsAF68o1EVyRItbU4MYr": {
+              "name": "Arabuluculuk Anlaşmasının Bağlayıcılığı"
+            },
+            "TSkSRHwr7559tpwiA1oJ": {
+              "name": "Mahkeme Onayı ve İcra Edilebilirlik Şerhi"
+            },
+            "KVnPcXqgx2vt8y8clM7W": {
+              "name": "Fesih Türlerinde Düzenlemeler"
+            },
+            "nNbdVqD99VolO7xZN4Vb": {
+              "name": "İşe İadede Arabuluculuk Zorunluluğu"
+            },
+            "7xVl1ybPFQoMYE1tdneb": {
+              "name": "Kıdem-İhbar Tazminat Hükümlerinde Değişiklik"
+            },
+            "Mku5TKNDpe2Ii5HYSacD": {
+              "name": "Arabuluculuk Sonrası Dava Açma Koşulları"
+            },
+            "AKnUfQnyFgcHTboFp4GA": {
+              "name": "İş Uyuşmazlıklarında Dava Şartları"
+            },
+            "aJgaLfniQoHUsCWYwBkg": {
+              "name": "İş Davalarında Süreler"
+            }
+          }
+        }
+      }
+    },
+    "avukatlik_hukuku": {
+      "name": "Avukatlık Hukuku",
+      "groups": {
+        "uwhiNQJ3zIXhZvIr7hra": {
+          "name": "Avukatlık Mesleğine Giriş",
+          "topics": {
+            "6NOEFLVIgmKbLqjMtL5e": {
+              "name": "Avukatlığa Kabul Şartları"
+            },
+            "cQrIGh8qn4L7GwDMjkaM": {
+              "name": "Staj Şartları"
+            },
+            "xdYNGblIKoR3dO3ppjE9": {
+              "name": "Staj Süreci"
+            }
+          }
+        },
+        "AAJevyHHCF14fLDQekFg": {
+          "name": "Avukatın Hak ve Yükümlülükleri",
+          "topics": {
+            "YdsnUQCeRifY0s1kDUgb": {
+              "name": "Avukatın Hakları"
+            },
+            "d6bNSb8uBxv3ezmCX2wl": {
+              "name": "Avukatın Yükümlülükleri"
+            },
+            "rd3TJFgd5CKr9EFHyCd4": {
+              "name": "Avukatlık Sözleşmesi"
+            },
+            "Mwqr4jGYmFhzUfXW3gII": {
+              "name": "Avukatlık Ücreti"
+            }
+          }
+        },
+        "twH9qmZAiBoaEZ9SN59R": {
+          "name": "Baro ve Disiplin",
+          "topics": {
+            "5Z5HH5Uxt9kRqbpwJnHb": {
+              "name": "Baro Teşkilatı"
+            },
+            "x4JGhkWzOMXGEKdxHeYW": {
+              "name": "Türkiye Barolar Birliği"
+            },
+            "4yWMZRhNRh2f4pq8AssR": {
+              "name": "Disiplin İşlemleri"
+            }
+          }
+        },
+        "e36wVnmAbT38oEesKFs8": {
+          "name": "9. Yargı Paketi (Avukatlık Mesleği Değişiklikleri)",
+          "topics": {
+            "vtUWpSjb8K1yDyBJ9MOk": {
+              "name": "Avukatların Arabuluculuk Faaliyetleri"
+            },
+            "BqxLZiE7VwsHNDy1mOYd": {
+              "name": "Uzlaştırmacı Avukat Görevlendirmesi"
+            }
+          }
+        }
+      }
+    },
+    "hukuk_felsefesi": {
+      "name": "Hukuk Felsefesi ve Sosyolojisi",
+      "groups": {
+        "CCUm69PgEchoZxSJcgpd": {
+          "name": "Hukuk Felsefesi",
+          "topics": {
+            "YPrp4lH9xABA4Lj9QqoB": {
+              "name": "Doğal Hukuk"
+            },
+            "59tyR9oHrkfgpvirwJSy": {
+              "name": "Hukuki Pozitivizm"
+            }
+          }
+        },
+        "7M1kqR3RvuDbfIpHQswn": {
+          "name": "Hukuk Sosyolojisi",
+          "topics": {
+            "3Oa6uyBALGV1TODpn2EP": {
+              "name": "Hukuk ve Toplum İlişkisi"
+            },
+            "ch9hv2gNC982FpPRSEGY": {
+              "name": "Hukukun İşlevleri"
+            }
+          }
+        }
+      }
+    },
+    "milletlerarasi": {
+      "name": "Milletlerarası Hukuk",
+      "groups": {}
+    },
+    "milletlerarasi_hukuk": {
+      "name": "Milletlerarası Hukuk",
+      "groups": {
+        "FOw03AUxQO19fDgdyAAK": {
+          "name": "Devletler Genel Hukuku",
+          "topics": {
+            "SgkaWFa0wQfoTbeBVO8J": {
+              "name": "Uluslararası Hukuk Kaynakları"
+            },
+            "C2lINjjjx46Y4zCZpPLO": {
+              "name": "Devlet ve Tanıma"
+            },
+            "B3XZIFHPwW3waKxtGtXf": {
+              "name": "Uluslararası Örgütler"
+            },
+            "09Wdrk5lnxYs3yccupyo": {
+              "name": "Temel Anlaşmalar"
+            }
+          }
+        }
+      }
+    },
+    "mohuk": {
+      "name": "Milletlerarası Özel Hukuk (MÖHUK)",
+      "groups": {
+        "Yck7sAT5MeNs7OkS9ANJ": {
+          "name": "MÖHUK Genel",
+          "topics": {
+            "AThShCR80Jtq6261oYGK": {
+              "name": "Kanunlar İhtilafı"
+            },
+            "6YptDuX3ajIWDtjmB54s": {
+              "name": "Uygulanacak Hukuk"
+            },
+            "rGKQqOEsMjOh2HrqjNqS": {
+              "name": "Yabancılar Hukuku"
+            },
+            "nd99Nc2kCJQbdHJN7COX": {
+              "name": "Milletlerarası Usul Hukuku"
+            }
+          }
+        }
+      }
+    }
+  },
+  "topic_name_to_id": {
+    "anayasa kavramı": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "qEN6KhdigPfR0wgCgb6P"
+    },
+    "anayasa_kavrami": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "qEN6KhdigPfR0wgCgb6P"
+    },
+    "devletin unsurları": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "6IHmz3ZjRGhQzIZWMgYI"
+    },
+    "devletin_unsurlari": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "6IHmz3ZjRGhQzIZWMgYI"
+    },
+    "hükümet sistemleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "bTFMCGJFvTcA3GanDNX6"
+    },
+    "hukumet_sistemleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "bTFMCGJFvTcA3GanDNX6"
+    },
+    "egemenlik": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "uXghyvNwIK0e32jYn0r0"
+    },
+    "kuvvetler ayrılığı": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "VVLyHksPV80hcGo0LpNG"
+    },
+    "kuvvetler_ayriligi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "VVLyHksPV80hcGo0LpNG"
+    },
+    "anayasa hukukuna giriş": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "K21jIydFGNO3YERmmnGi"
+    },
+    "anayasa_hukukuna_giris": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "K21jIydFGNO3YERmmnGi",
+      "topicId": "K21jIydFGNO3YERmmnGi"
+    },
+    "temel hakların niteliği": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "KNuKfHUxOxc2XhD158rx"
+    },
+    "temel_haklarin_niteligi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "KNuKfHUxOxc2XhD158rx"
+    },
+    "sınırlandırma rejimi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "kYjzKQAjmCTsWn8rNfTt"
+    },
+    "sinirlandirma_rejimi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "kYjzKQAjmCTsWn8rNfTt"
+    },
+    "kişi hakları": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "mRzQRtOzHVlSvSUZqi8Y"
+    },
+    "kisi_haklari": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "mRzQRtOzHVlSvSUZqi8Y"
+    },
+    "sosyal ve ekonomik haklar": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "NsT8yUjVjGvVj8LS4IPc"
+    },
+    "sosyal_ve_ekonomik_haklar": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "NsT8yUjVjGvVj8LS4IPc"
+    },
+    "siyasi haklar": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "1onCZx8EEn6kThDBFjOp"
+    },
+    "siyasi_haklar": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "1onCZx8EEn6kThDBFjOp"
+    },
+    "temel hak ve özgürlükler": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "qyJyS3u01x1hlTozZ0Iz"
+    },
+    "temel_hak_ve_ozgurlukler": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "qyJyS3u01x1hlTozZ0Iz",
+      "topicId": "qyJyS3u01x1hlTozZ0Iz"
+    },
+    "tbmm'nin görevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "5dNANZOBYscfEvwzQhnA"
+    },
+    "tbmmnin_gorevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "5dNANZOBYscfEvwzQhnA"
+    },
+    "milletvekilliği": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "49o0JIKSFeiJllSqVh5X"
+    },
+    "milletvekilligi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "49o0JIKSFeiJllSqVh5X"
+    },
+    "kanun yapım süreci": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "DcbBrZEN1YtxvxiwQSg7"
+    },
+    "kanun_yapim_sureci": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "DcbBrZEN1YtxvxiwQSg7"
+    },
+    "denetim yolları": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "uimKPUV6FpYpZXZnQJMy"
+    },
+    "denetim_yollari": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "uimKPUV6FpYpZXZnQJMy"
+    },
+    "yasama": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "lIGLdQIlZdIvWDZ48M6x",
+      "topicId": "lIGLdQIlZdIvWDZ48M6x"
+    },
+    "cumhurbaşkanı'nın görevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "xSeKwgqZEPC1aRhInGAU"
+    },
+    "cumhurbaskaninin_gorevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "xSeKwgqZEPC1aRhInGAU"
+    },
+    "cumhurbaşkanlığı kararnameleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "iYrrXrdz8nqIujdvjEoT"
+    },
+    "cumhurbaskanligi_kararnameleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "iYrrXrdz8nqIujdvjEoT"
+    },
+    "bakanlar": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "uLrfjYQvVpnTiGEbXkzK"
+    },
+    "olağanüstü hal": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "rHX5Gx89sqFscSnro052"
+    },
+    "olaganustu_hal": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "rHX5Gx89sqFscSnro052"
+    },
+    "yürütme": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "aDShawCH8AUEKzdhRiKe"
+    },
+    "yurutme": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "aDShawCH8AUEKzdhRiKe",
+      "topicId": "aDShawCH8AUEKzdhRiKe"
+    },
+    "hakimler ve savcılar kurulu": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "Ya9XwehVcCbRZgNW9Xap"
+    },
+    "hakimler_ve_savcilar_kurulu": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "Ya9XwehVcCbRZgNW9Xap"
+    },
+    "yargı bağımsızlığı": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "f8MsedVFygU28fdYu0x8"
+    },
+    "yargi_bagimsizligi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "f8MsedVFygU28fdYu0x8"
+    },
+    "anayasa mahkemesi görevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "Nfar0t7LeE6qlm0zaYjN"
+    },
+    "anayasa_mahkemesi_gorevleri": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "Nfar0t7LeE6qlm0zaYjN"
+    },
+    "i̇ptal davası ve i̇tiraz yolu": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "sAamvnPBCvtLPlq7OR8I"
+    },
+    "iptal_davasi_ve_itiraz_yolu": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "sAamvnPBCvtLPlq7OR8I"
+    },
+    "bireysel başvuru": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "CuyjEu2K9AW3zZ9ocgpx"
+    },
+    "bireysel_basvuru": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "CuyjEu2K9AW3zZ9ocgpx"
+    },
+    "yargı": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "1v6eOxXJZDlRmtBh0P7S"
+    },
+    "yargi": {
+      "subjectId": "anayasa_hukuku",
+      "groupId": "1v6eOxXJZDlRmtBh0P7S",
+      "topicId": "1v6eOxXJZDlRmtBh0P7S"
+    },
+    "hukukun uygulanması": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "vR8ryh4Kof6yoztpnCdO"
+    },
+    "hukukun_uygulanmasi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "vR8ryh4Kof6yoztpnCdO"
+    },
+    "i̇yiniyet ve dürüstlük kuralı": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "FbFj3A4yRWYmXArxpAEt"
+    },
+    "iyiniyet_ve_durustluk_kurali": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "FbFj3A4yRWYmXArxpAEt"
+    },
+    "i̇spat yükü": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "GKRgfZXjqpisW57v7wtx"
+    },
+    "ispat_yuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "GKRgfZXjqpisW57v7wtx"
+    },
+    "başlangıç hükümleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "Xr0Qz7JsXI3Amr5gnKqE"
+    },
+    "baslangic_hukumleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "Xr0Qz7JsXI3Amr5gnKqE",
+      "topicId": "Xr0Qz7JsXI3Amr5gnKqE"
+    },
+    "gerçek kişiler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "NlBMfazjAJRxqfWSajzO"
+    },
+    "gercek_kisiler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "NlBMfazjAJRxqfWSajzO"
+    },
+    "kişiliğin başlangıcı ve sonu": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "SawWUo1uDl84iATbU8p8"
+    },
+    "kisiligin_baslangici_ve_sonu": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "SawWUo1uDl84iATbU8p8"
+    },
+    "hak ve fiil ehliyeti": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "6wvMkLrzOuj9YUVEKfNZ"
+    },
+    "hak_ve_fiil_ehliyeti": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "6wvMkLrzOuj9YUVEKfNZ"
+    },
+    "kısıtlılık ve vesayet": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "T7U3zOVKQQ4B0U7IFGqg"
+    },
+    "kisitlilik_ve_vesayet": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "T7U3zOVKQQ4B0U7IFGqg"
+    },
+    "kişiliğin korunması": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "FbSeVKry2ASaUYm53jHa"
+    },
+    "kisiligin_korunmasi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "FbSeVKry2ASaUYm53jHa"
+    },
+    "kişiler hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "n2HMNhk12RF40Sdmx2y1"
+    },
+    "kisiler_hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "n2HMNhk12RF40Sdmx2y1",
+      "topicId": "n2HMNhk12RF40Sdmx2y1"
+    },
+    "tüzel kişi kavramı": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "uFbhVw6AxVdCRVYIzTiK"
+    },
+    "tuzel_kisi_kavrami": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "uFbhVw6AxVdCRVYIzTiK"
+    },
+    "dernekler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "ymbtBBpDZqrMywIqGiAj"
+    },
+    "vakıflar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "bRRrh7OsY9oyCXJ26hhb"
+    },
+    "vakiflar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "bRRrh7OsY9oyCXJ26hhb"
+    },
+    "tüzel kişiler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "WIUW994b1HDjcWCHN2kh"
+    },
+    "tuzel_kisiler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "WIUW994b1HDjcWCHN2kh",
+      "topicId": "WIUW994b1HDjcWCHN2kh"
+    },
+    "nişanlanma": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "7qVKEKfPjXIu4unDm7oP"
+    },
+    "nisanlanma": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "7qVKEKfPjXIu4unDm7oP"
+    },
+    "evlenme": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "soLYYYnNlPSvc8KnQoiz"
+    },
+    "boşanma": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "84Due5iWOMPxI331HFo7"
+    },
+    "bosanma": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "84Due5iWOMPxI331HFo7"
+    },
+    "mal rejimleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "zxMJpg27KKzbDRBvXH1k"
+    },
+    "mal_rejimleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "zxMJpg27KKzbDRBvXH1k"
+    },
+    "soybağı": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "DPhDxM7sBUeg0qAkPP9J"
+    },
+    "soybagi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "DPhDxM7sBUeg0qAkPP9J"
+    },
+    "velayet": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "GknKOBivbXCKfJkfzIVQ"
+    },
+    "nafaka": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "F55T64y86pSfFqJxgjsk"
+    },
+    "aile hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "wvc1iLY4hDuSUeGKtgHm"
+    },
+    "aile_hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "wvc1iLY4hDuSUeGKtgHm",
+      "topicId": "wvc1iLY4hDuSUeGKtgHm"
+    },
+    "yasal mirasçılar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "kXSAwyW6GCCZOsW5AqAa"
+    },
+    "yasal_mirascilar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "kXSAwyW6GCCZOsW5AqAa"
+    },
+    "saklı pay": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "whgcEYEOpv8E7knoLCMT"
+    },
+    "sakli_pay": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "whgcEYEOpv8E7knoLCMT"
+    },
+    "ölüme bağlı tasarruflar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "wkBTgbvAlrWpNIi1vXHO"
+    },
+    "olume_bagli_tasarruflar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "wkBTgbvAlrWpNIi1vXHO"
+    },
+    "mirasın geçişi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "NyvyE0CGEP0H8cTbGX9B"
+    },
+    "mirasin_gecisi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "NyvyE0CGEP0H8cTbGX9B"
+    },
+    "miras hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "uDhxwKi9eEfMGfjk6LZj"
+    },
+    "miras_hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "uDhxwKi9eEfMGfjk6LZj",
+      "topicId": "uDhxwKi9eEfMGfjk6LZj"
+    },
+    "zilyetlik": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "WTrpsn3GQ0CaXCzONSAF"
+    },
+    "tapu sicili": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "FXVt95iOFmvgxTLaQ2Px"
+    },
+    "tapu_sicili": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "FXVt95iOFmvgxTLaQ2Px"
+    },
+    "mülkiyet": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "AEbv7FYW8JBjtlEm411g"
+    },
+    "mulkiyet": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "AEbv7FYW8JBjtlEm411g"
+    },
+    "sınırlı ayni haklar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "Ghs1J48Pmr8dCROeIvMP"
+    },
+    "sinirli_ayni_haklar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "Ghs1J48Pmr8dCROeIvMP"
+    },
+    "rehin ve i̇potek": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "ShwqodI07ur0d1lgdpqH"
+    },
+    "rehin_ve_ipotek": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "ShwqodI07ur0d1lgdpqH"
+    },
+    "eşya hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "sPW5YXilNa7T3SMF75MM"
+    },
+    "esya_hukuku": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "sPW5YXilNa7T3SMF75MM",
+      "topicId": "sPW5YXilNa7T3SMF75MM"
+    },
+    "temyiz edilebilir kararlar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "0NQzmkuuBAhJKJeKRUWs"
+    },
+    "temyiz_edilebilir_kararlar": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "0NQzmkuuBAhJKJeKRUWs"
+    },
+    "temyiz süresi değişiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "cf6JGp81kcoWXzNgxqZs"
+    },
+    "temyiz_suresi_degisiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "cf6JGp81kcoWXzNgxqZs"
+    },
+    "temyizde harç-masraf düzenlemeleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "TglXs68Ax9TZegGPUtj6"
+    },
+    "temyizde_harcmasraf_duzenlemeleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "TglXs68Ax9TZegGPUtj6"
+    },
+    "bölge adliye mahkemesi i̇nceleme kapsamı": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "GQ7tYpRHzNTBFPEnDKR6"
+    },
+    "bolge_adliye_mahkemesi_inceleme_kapsami": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "GQ7tYpRHzNTBFPEnDKR6"
+    },
+    "i̇stinaf sebepleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "quhRYf69ov9Y5eRKW2Mm"
+    },
+    "istinaf_sebepleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "quhRYf69ov9Y5eRKW2Mm"
+    },
+    "i̇stinaf sonucuna göre karar türleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "7tlE2tKhnKhRGD6cdy7k"
+    },
+    "istinaf_sonucuna_gore_karar_turleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "7tlE2tKhnKhRGD6cdy7k"
+    },
+    "dava şartlarında düzenlemeler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "i3krGmhQif4BWOmi5GWE"
+    },
+    "dava_sartlarinda_duzenlemeler": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "i3krGmhQif4BWOmi5GWE"
+    },
+    "ön i̇nceleme aşaması kuralları": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "R9CalffTXBEMiQhgWP0S"
+    },
+    "on_inceleme_asamasi_kurallari": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "R9CalffTXBEMiQhgWP0S"
+    },
+    "elektronik tebligat sistemi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "khwBfKZxUQwmgfTUaHcH"
+    },
+    "elektronik_tebligat_sistemi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "khwBfKZxUQwmgfTUaHcH"
+    },
+    "sürelerin hesaplanması": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "fFpI3eebC0WtzKV9vHsm"
+    },
+    "surelerin_hesaplanmasi": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "fFpI3eebC0WtzKV9vHsm"
+    },
+    "soybağı davalarında usul değişiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "MuZEm1lXW17wq6r5Z74V"
+    },
+    "soybagi_davalarinda_usul_degisiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "MuZEm1lXW17wq6r5Z74V"
+    },
+    "aile i̇çi şiddet koruma tedbirleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "Pb7XjnBKD4GVvJd6KcM7"
+    },
+    "aile_ici_siddet_koruma_tedbirleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "Pb7XjnBKD4GVvJd6KcM7"
+    },
+    "vesayet i̇şlemlerinde süre-yetki değişiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "cR6MXjPqfh8CqJXENAej"
+    },
+    "vesayet_islemlerinde_sureyetki_degisiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "cR6MXjPqfh8CqJXENAej"
+    },
+    "9. yargı paketi (hmk ve tmk değişiklikleri)": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "KdVKo1CIRhQ4yKx4Hv2D"
+    },
+    "9_yargi_paketi_hmk_ve_tmk_degisiklikleri": {
+      "subjectId": "medeni_hukuk",
+      "groupId": "KdVKo1CIRhQ4yKx4Hv2D",
+      "topicId": "KdVKo1CIRhQ4yKx4Hv2D"
+    },
+    "sözleşmeden doğan borçlar": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "wJSAxrrHFmiQFFvlxDJa"
+    },
+    "sozlesmeden_dogan_borclar": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "wJSAxrrHFmiQFFvlxDJa"
+    },
+    "sözleşmenin kurulması": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "qXO0DXzQKPGEbPyfEKBJ"
+    },
+    "sozlesmenin_kurulmasi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "qXO0DXzQKPGEbPyfEKBJ"
+    },
+    "geçersizlik halleri": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "OrL0j9U2r9Zbgbef7SFV"
+    },
+    "gecersizlik_halleri": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "OrL0j9U2r9Zbgbef7SFV"
+    },
+    "temsil": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "qsQB0fkUsAmhlynbUXMk"
+    },
+    "borç i̇lişkisinin kaynakları": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "LHg87deGAAKpQF4cDcMT"
+    },
+    "borc_iliskisinin_kaynaklari": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "LHg87deGAAKpQF4cDcMT",
+      "topicId": "LHg87deGAAKpQF4cDcMT"
+    },
+    "haksız fiil şartları": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "k3a7VJUeUU8dA3WFa3EP"
+    },
+    "haksiz_fiil_sartlari": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "k3a7VJUeUU8dA3WFa3EP"
+    },
+    "kusur sorumluluğu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "YJDrSUuQtrFclAK54MuD"
+    },
+    "kusur_sorumlulugu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "YJDrSUuQtrFclAK54MuD"
+    },
+    "kusursuz sorumluluk": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "gcCtkmNjIjoEnSrRThxL"
+    },
+    "kusursuz_sorumluluk": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "gcCtkmNjIjoEnSrRThxL"
+    },
+    "tazminat": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "71mGDRew7AGulKlD04FG"
+    },
+    "haksız fiil": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "Ti2EmVyu3ErVpAzIyr8L"
+    },
+    "haksiz_fiil": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Ti2EmVyu3ErVpAzIyr8L",
+      "topicId": "Ti2EmVyu3ErVpAzIyr8L"
+    },
+    "sebepsiz zenginleşme şartları": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "cRDMl11N9PU2U6ip9IGa"
+    },
+    "sebepsiz_zenginlesme_sartlari": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "cRDMl11N9PU2U6ip9IGa"
+    },
+    "i̇ade borcu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "8gUqhJePPxVWpmJCbXyD"
+    },
+    "iade_borcu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "8gUqhJePPxVWpmJCbXyD"
+    },
+    "sebepsiz zenginleşme": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "GMHWgRdIaufo90yo1h1X"
+    },
+    "sebepsiz_zenginlesme": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "GMHWgRdIaufo90yo1h1X",
+      "topicId": "GMHWgRdIaufo90yo1h1X"
+    },
+    "i̇fa": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "um0PSYX1XO9DVmMUiTzd"
+    },
+    "ifa": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "um0PSYX1XO9DVmMUiTzd"
+    },
+    "borçlu temerrüdü": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "isKagWLDN9MOhun4mLXl"
+    },
+    "borclu_temerrudu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "isKagWLDN9MOhun4mLXl"
+    },
+    "alacaklı temerrüdü": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "T0AcRj5GTPhnd9AZWDOu"
+    },
+    "alacakli_temerrudu": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "T0AcRj5GTPhnd9AZWDOu"
+    },
+    "zamanaşımı": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "a9d12Y9szIMfgsF74Fdg"
+    },
+    "zamanasimi": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "a9d12Y9szIMfgsF74Fdg"
+    },
+    "borcun i̇fası ve sona ermesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "Z62WtUK17bryAwhnObTk"
+    },
+    "borcun_ifasi_ve_sona_ermesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "Z62WtUK17bryAwhnObTk",
+      "topicId": "Z62WtUK17bryAwhnObTk"
+    },
+    "satış sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "p4vxoy7l8TCzIfx2yhpr"
+    },
+    "satis_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "p4vxoy7l8TCzIfx2yhpr"
+    },
+    "kira sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "HKud4FbgtSmkzpJUWiNw"
+    },
+    "kira_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "HKud4FbgtSmkzpJUWiNw"
+    },
+    "eser sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "KkxaUs0fBY8B7Rb6lDwa"
+    },
+    "eser_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "KkxaUs0fBY8B7Rb6lDwa"
+    },
+    "vekalet sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "ggG3lf4jswjgeWLLJrLU"
+    },
+    "vekalet_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "ggG3lf4jswjgeWLLJrLU"
+    },
+    "hizmet sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "RDugW3HHJH5uzb3D9z2z"
+    },
+    "hizmet_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "RDugW3HHJH5uzb3D9z2z"
+    },
+    "kefalet sözleşmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "d2lkzvX9e4bQyQnavfJS"
+    },
+    "kefalet_sozlesmesi": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "d2lkzvX9e4bQyQnavfJS"
+    },
+    "özel borç i̇lişkileri": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "NsbpfLGwnzVIbaX5vT1N"
+    },
+    "ozel_borc_iliskileri": {
+      "subjectId": "borclar_hukuku",
+      "groupId": "NsbpfLGwnzVIbaX5vT1N",
+      "topicId": "NsbpfLGwnzVIbaX5vT1N"
+    },
+    "ticari i̇şletme kavramı": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "uXh9sIZY9ILIKQeqnehA"
+    },
+    "ticari_isletme_kavrami": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "uXh9sIZY9ILIKQeqnehA"
+    },
+    "tacir": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "FfIrVSsedgjutrVOvwXI"
+    },
+    "ticaret unvanı": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "v2MuY7nGNU5gqAqlaSjT"
+    },
+    "ticaret_unvani": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "v2MuY7nGNU5gqAqlaSjT"
+    },
+    "ticaret sicili": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "WvgN6BKu69BFxlyKynoT"
+    },
+    "ticaret_sicili": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "WvgN6BKu69BFxlyKynoT"
+    },
+    "haksız rekabet": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "ySEfAnamkntKV7ODwTI9"
+    },
+    "haksiz_rekabet": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "ySEfAnamkntKV7ODwTI9"
+    },
+    "ticari i̇şletme": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "7P6Y8B9x9f0Xm2RI3o8N"
+    },
+    "ticari_isletme": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "7P6Y8B9x9f0Xm2RI3o8N",
+      "topicId": "7P6Y8B9x9f0Xm2RI3o8N"
+    },
+    "şirket kavramı": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "Y7rT9IrRlbE9Y1YoYhIU"
+    },
+    "sirket_kavrami": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "Y7rT9IrRlbE9Y1YoYhIU"
+    },
+    "adi şirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "Anf51FhNxx5DrmZtWhzi"
+    },
+    "adi_sirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "Anf51FhNxx5DrmZtWhzi"
+    },
+    "kollektif ve komandit şirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "BHEy310CshYfJ0dBe2ow"
+    },
+    "kollektif_ve_komandit_sirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "BHEy310CshYfJ0dBe2ow"
+    },
+    "anonim şirket organları": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "dGsiTcTJ79tagWiZzEIp"
+    },
+    "anonim_sirket_organlari": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "dGsiTcTJ79tagWiZzEIp"
+    },
+    "limited şirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "KCwmtHyeZ5AW5iK8OS7h"
+    },
+    "limited_sirket": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "KCwmtHyeZ5AW5iK8OS7h"
+    },
+    "şirketler hukuku": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "6NziXd1KkKbNaqn2SKnd"
+    },
+    "sirketler_hukuku": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "6NziXd1KkKbNaqn2SKnd",
+      "topicId": "6NziXd1KkKbNaqn2SKnd"
+    },
+    "kıymetli evrak temel hükümler": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "m4I88CsmWAiP9nNSjf5T"
+    },
+    "kiymetli_evrak_temel_hukumler": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "m4I88CsmWAiP9nNSjf5T"
+    },
+    "poliçe": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "4tbVIVKsXrgWV4MKZy2y"
+    },
+    "police": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "4tbVIVKsXrgWV4MKZy2y"
+    },
+    "bono": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "9JnYWDkRVkrniSJu1j8X"
+    },
+    "çek": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "B6qLSwqQGOQXCSbb5YO6"
+    },
+    "cek": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "B6qLSwqQGOQXCSbb5YO6"
+    },
+    "kıymetli evrak": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "pcc892DBswfOs8hZah9s"
+    },
+    "kiymetli_evrak": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "pcc892DBswfOs8hZah9s",
+      "topicId": "pcc892DBswfOs8hZah9s"
+    },
+    "ticari davalarda zorunlu arabuluculuk kapsamı": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "Iv6dPMb7U8BfJPgXALqi"
+    },
+    "ticari_davalarda_zorunlu_arabuluculuk_kapsami": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "Iv6dPMb7U8BfJPgXALqi"
+    },
+    "ticari uyuşmazlıklarda dava şartı arabuluculuk": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "y48wPpHx48E5o7W0DoM3"
+    },
+    "ticari_uyusmazliklarda_dava_sarti_arabuluculuk": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "y48wPpHx48E5o7W0DoM3"
+    },
+    "9. yargı paketi (ticari uyuşmazlık değişiklikleri)": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "37QX0sjDBO7yGKnXwE0K"
+    },
+    "9_yargi_paketi_ticari_uyusmazlik_degisiklikleri": {
+      "subjectId": "ticaret_hukuku",
+      "groupId": "37QX0sjDBO7yGKnXwE0K",
+      "topicId": "37QX0sjDBO7yGKnXwE0K"
+    },
+    "ceza hukukunun temel i̇lkeleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "tWclgcw14xUaJcZCWTTK"
+    },
+    "ceza_hukukunun_temel_ilkeleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "tWclgcw14xUaJcZCWTTK"
+    },
+    "suçta ve cezada kanunilik": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "nGVr2k0khi3Jwxk80HJJ"
+    },
+    "sucta_ve_cezada_kanunilik": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "nGVr2k0khi3Jwxk80HJJ"
+    },
+    "ceza kanunlarının uygulanması": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "JE77mC8LdbSdQOaGjWwD"
+    },
+    "ceza_kanunlarinin_uygulanmasi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "JE77mC8LdbSdQOaGjWwD"
+    },
+    "ceza hukukuna giriş": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "PdBaO7NmP938pKbOZTpd"
+    },
+    "ceza_hukukuna_giris": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "PdBaO7NmP938pKbOZTpd",
+      "topicId": "PdBaO7NmP938pKbOZTpd"
+    },
+    "maddi unsur": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "kSG3YTGbHaW2PFB1Tjpz"
+    },
+    "maddi_unsur": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "kSG3YTGbHaW2PFB1Tjpz"
+    },
+    "manevi unsur": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "zm5uLYEOATzHDDcnQ6YW"
+    },
+    "manevi_unsur": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "zm5uLYEOATzHDDcnQ6YW"
+    },
+    "hukuka aykırılık": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "y4m1re6r9aOtpDV18zQJ"
+    },
+    "hukuka_aykirilik": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "y4m1re6r9aOtpDV18zQJ"
+    },
+    "kusur": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "vj1QRmMPkk4ZhW114fR9"
+    },
+    "suçun genel teorisi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "IMd11M5Sjv109ub5MR80"
+    },
+    "sucun_genel_teorisi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "IMd11M5Sjv109ub5MR80",
+      "topicId": "IMd11M5Sjv109ub5MR80"
+    },
+    "teşebbüs": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "FTx1UFmLkrqhIvEcknCa"
+    },
+    "tesebbus": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "FTx1UFmLkrqhIvEcknCa"
+    },
+    "i̇ştirak": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "bUU6Pf0BWUraCMbdERWm"
+    },
+    "istirak": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "bUU6Pf0BWUraCMbdERWm"
+    },
+    "i̇çtima": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "asntaeqVhHShwTDTRb3B"
+    },
+    "ictima": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "asntaeqVhHShwTDTRb3B"
+    },
+    "suçun özel görünüş şekilleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "fgu0OkwdjQKKRY9eES4B"
+    },
+    "sucun_ozel_gorunus_sekilleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "fgu0OkwdjQKKRY9eES4B",
+      "topicId": "fgu0OkwdjQKKRY9eES4B"
+    },
+    "cezalar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "uluC43Ph11JYYhHQIonO",
+      "topicId": "77EzxIxhGk5PHXwmyKCN"
+    },
+    "güvenlik tedbirleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "uluC43Ph11JYYhHQIonO",
+      "topicId": "Ala6tnxaxe3wm070WNiA"
+    },
+    "guvenlik_tedbirleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "uluC43Ph11JYYhHQIonO",
+      "topicId": "Ala6tnxaxe3wm070WNiA"
+    },
+    "yaptırımlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "uluC43Ph11JYYhHQIonO",
+      "topicId": "uluC43Ph11JYYhHQIonO"
+    },
+    "yaptirimlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "uluC43Ph11JYYhHQIonO",
+      "topicId": "uluC43Ph11JYYhHQIonO"
+    },
+    "hayata karşı suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "aSjZfusjVbtlXC9WWaWf"
+    },
+    "hayata_karsi_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "aSjZfusjVbtlXC9WWaWf"
+    },
+    "vücut dokunulmazlığına karşı suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "VBWIHcwPH4nzAioToODA"
+    },
+    "vucut_dokunulmazligina_karsi_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "VBWIHcwPH4nzAioToODA"
+    },
+    "malvarlığına karşı suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "e4s0AVC4UgDqH1fRVfLu"
+    },
+    "malvarligina_karsi_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "e4s0AVC4UgDqH1fRVfLu"
+    },
+    "kamu i̇daresine karşı suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "jMdmMCXaxbUOswT7XC2F"
+    },
+    "kamu_idaresine_karsi_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "jMdmMCXaxbUOswT7XC2F"
+    },
+    "özel suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "hDGPcmffZnkH0ad7TAwJ"
+    },
+    "ozel_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "hDGPcmffZnkH0ad7TAwJ",
+      "topicId": "hDGPcmffZnkH0ad7TAwJ"
+    },
+    "uzlaştırma kapsamında değişiklikler": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "gCxkqxaWOvt7kiXfS2cY"
+    },
+    "uzlastirma_kapsaminda_degisiklikler": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "gCxkqxaWOvt7kiXfS2cY"
+    },
+    "uzlaştırma kapsamı dışına alınan suçlar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "dMoRBnV7e1IyTlhaHAJ7"
+    },
+    "uzlastirma_kapsami_disina_alinan_suclar": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "dMoRBnV7e1IyTlhaHAJ7"
+    },
+    "uzlaştırmacı görevlendirme usulleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "TZesCMFP3txOWcrqpMyC"
+    },
+    "uzlastirmaci_gorevlendirme_usulleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "TZesCMFP3txOWcrqpMyC"
+    },
+    "uzlaştırma süresi ve sonuçları": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "qR5TX6Yev9vD0vjw9t4u"
+    },
+    "uzlastirma_suresi_ve_sonuclari": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "qR5TX6Yev9vD0vjw9t4u"
+    },
+    "uzlaştırmanın hukuki etkileri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "Mwwog3W6fDGH22GJQQY0"
+    },
+    "uzlastirmanin_hukuki_etkileri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "Mwwog3W6fDGH22GJQQY0"
+    },
+    "etki ajanlığı (influence agent)": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "sbgPLS2ySvV4y0u3sFag"
+    },
+    "etki_ajanligi_influence_agent": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "sbgPLS2ySvV4y0u3sFag"
+    },
+    "casusluk kapsamı değişikliği": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "aoEIURQoZd7HmLum8n0g"
+    },
+    "casusluk_kapsami_degisikligi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "aoEIURQoZd7HmLum8n0g"
+    },
+    "devlete karşı suçlarda yeni düzenlemeler": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "1G0SSe26AjinyB2bZpKV"
+    },
+    "devlete_karsi_suclarda_yeni_duzenlemeler": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "1G0SSe26AjinyB2bZpKV"
+    },
+    "cinsel suçların kapsamı": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "7pIq6tOYTx1xnDm5gO5r"
+    },
+    "cinsel_suclarin_kapsami": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "7pIq6tOYTx1xnDm5gO5r"
+    },
+    "cinsel suçlarda cezaların artırılması": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "cy4e3d3Okpkw45G8SvVq"
+    },
+    "cinsel_suclarda_cezalarin_artirilmasi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "cy4e3d3Okpkw45G8SvVq"
+    },
+    "cinsel suçlarda etkin pişmanlığın sınırlandırılması": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "7Poe0MdG0sBkhzQyZAhG"
+    },
+    "cinsel_suclarda_etkin_pismanligin_sinirlandirilmasi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "7Poe0MdG0sBkhzQyZAhG"
+    },
+    "şiddet suçlarının uzlaşma kapsamından çıkarılması": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "1dxYvO1faQZo5KGmHtDr"
+    },
+    "siddet_suclarinin_uzlasma_kapsamindan_cikarilmasi": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "1dxYvO1faQZo5KGmHtDr"
+    },
+    "koruma tedbirlerinde sıkılaştırma": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "yqauRbGiDwpQjlmYi7xc"
+    },
+    "koruma_tedbirlerinde_sikilastirma": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "yqauRbGiDwpQjlmYi7xc"
+    },
+    "9. yargı paketi (tck değişiklikleri)": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "En3PqxglaH8EPa2ppzqR"
+    },
+    "9_yargi_paketi_tck_degisiklikleri": {
+      "subjectId": "ceza_hukuku",
+      "groupId": "En3PqxglaH8EPa2ppzqR",
+      "topicId": "En3PqxglaH8EPa2ppzqR"
+    },
+    "cmk temel i̇lkeleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "092gLcv1kq40nMwMo599"
+    },
+    "cmk_temel_ilkeleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "092gLcv1kq40nMwMo599"
+    },
+    "yetki kuralları": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "fZkyqhiGqXkgwdhvEPfy"
+    },
+    "yetki_kurallari": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "fZkyqhiGqXkgwdhvEPfy"
+    },
+    "ceza muhakemesine giriş": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "RplaqAZ8VPHoFCILsxtx"
+    },
+    "ceza_muhakemesine_giris": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "RplaqAZ8VPHoFCILsxtx",
+      "topicId": "RplaqAZ8VPHoFCILsxtx"
+    },
+    "soruşturma aşaması": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "duSGBpSrHgExo7nmRtt2"
+    },
+    "sorusturma_asamasi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "duSGBpSrHgExo7nmRtt2"
+    },
+    "gözaltı": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "yH5A44ekQnfjJyx6ttMC"
+    },
+    "gozalti": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "yH5A44ekQnfjJyx6ttMC"
+    },
+    "tutuklama": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "zS92cceKFVr9FTDH4RRl"
+    },
+    "adli kontrol": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "6bgrHNoVb8QWo9ys0i1A"
+    },
+    "adli_kontrol": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "6bgrHNoVb8QWo9ys0i1A"
+    },
+    "soruşturma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "CaYdLmgZIm5vYXGsearU"
+    },
+    "sorusturma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "CaYdLmgZIm5vYXGsearU",
+      "topicId": "CaYdLmgZIm5vYXGsearU"
+    },
+    "arama ve elkoyma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "jM9yI4SdoSallpQvdaBF"
+    },
+    "arama_ve_elkoyma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "jM9yI4SdoSallpQvdaBF"
+    },
+    "i̇letişimin denetlenmesi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "r75AO5SvwDPTYCyuDas7"
+    },
+    "iletisimin_denetlenmesi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "r75AO5SvwDPTYCyuDas7"
+    },
+    "delil değerlendirmesi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "jMGXtkwg9cngWQ45TgrK"
+    },
+    "delil_degerlendirmesi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "jMGXtkwg9cngWQ45TgrK"
+    },
+    "deliller": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "iZs4UWA7z5Lwvmzee8i6",
+      "topicId": "iZs4UWA7z5Lwvmzee8i6"
+    },
+    "i̇ddianame": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "OriwYbDNr0YFDuHSe3Md"
+    },
+    "iddianame": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "OriwYbDNr0YFDuHSe3Md"
+    },
+    "duruşma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "nkTPEm0DOwpiKZGyTcRQ"
+    },
+    "durusma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "nkTPEm0DOwpiKZGyTcRQ"
+    },
+    "hüküm": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "yOn8gEn6yAc1LMpMakQm"
+    },
+    "hukum": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "yOn8gEn6yAc1LMpMakQm"
+    },
+    "kovuşturma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "2WS4eHVPZW9z8NXoZkk0"
+    },
+    "kovusturma": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "2WS4eHVPZW9z8NXoZkk0",
+      "topicId": "2WS4eHVPZW9z8NXoZkk0"
+    },
+    "i̇tiraz": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "xlZleQzaYS6QHV4hXEvn",
+      "topicId": "KcgkOaKA9gKYZHxzNMI1"
+    },
+    "itiraz": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "xlZleQzaYS6QHV4hXEvn",
+      "topicId": "KcgkOaKA9gKYZHxzNMI1"
+    },
+    "i̇stinaf": {
+      "subjectId": "idari_yargilama",
+      "groupId": "Y0DbJynzX1QUsWf0SfAl",
+      "topicId": "GxGsavoaIoD5kBRzTHY9"
+    },
+    "istinaf": {
+      "subjectId": "idari_yargilama",
+      "groupId": "Y0DbJynzX1QUsWf0SfAl",
+      "topicId": "GxGsavoaIoD5kBRzTHY9"
+    },
+    "temyiz": {
+      "subjectId": "idari_yargilama",
+      "groupId": "Y0DbJynzX1QUsWf0SfAl",
+      "topicId": "FJI0uSVSd6hI8Y9MMvsx"
+    },
+    "kanun yolları": {
+      "subjectId": "idari_yargilama",
+      "groupId": "Y0DbJynzX1QUsWf0SfAl",
+      "topicId": "Y0DbJynzX1QUsWf0SfAl"
+    },
+    "kanun_yollari": {
+      "subjectId": "idari_yargilama",
+      "groupId": "Y0DbJynzX1QUsWf0SfAl",
+      "topicId": "Y0DbJynzX1QUsWf0SfAl"
+    },
+    "kolluğun yetkilerinde düzenleme": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "u9MBIe1G88PKmnSqeqeM"
+    },
+    "kollugun_yetkilerinde_duzenleme": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "u9MBIe1G88PKmnSqeqeM"
+    },
+    "savcı gözetimindeki i̇şlemlerde yeni kurallar": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "e1IRyOCuOTeEB8BgL8c0"
+    },
+    "savci_gozetimindeki_islemlerde_yeni_kurallar": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "e1IRyOCuOTeEB8BgL8c0"
+    },
+    "i̇fade alma-sorgu usulü değişiklikleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "sTZPmuHUvL7w75xpIzgz"
+    },
+    "ifade_almasorgu_usulu_degisiklikleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "sTZPmuHUvL7w75xpIzgz"
+    },
+    "tutuklama şartlarında değişiklik": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "04U1w2pcTPBrXsYjJ0Ba"
+    },
+    "tutuklama_sartlarinda_degisiklik": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "04U1w2pcTPBrXsYjJ0Ba"
+    },
+    "adli kontrol süreleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "YEKe4GFpq93pWf5MOjZE"
+    },
+    "adli_kontrol_sureleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "YEKe4GFpq93pWf5MOjZE"
+    },
+    "ölçülülük i̇lkesi kapsamında revizyon": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "33D0S6Dk5WVew9FCSQei"
+    },
+    "olcululuk_ilkesi_kapsaminda_revizyon": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "33D0S6Dk5WVew9FCSQei"
+    },
+    "dijital delil toplama usulleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "usxqmM5emw1D5ZmyuWs5"
+    },
+    "dijital_delil_toplama_usulleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "usxqmM5emw1D5ZmyuWs5"
+    },
+    "arama-elkoyma kararlarında yeni düzenlemeler": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "hqECH7Lgy7vHQ6u40wlI"
+    },
+    "aramaelkoyma_kararlarinda_yeni_duzenlemeler": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "hqECH7Lgy7vHQ6u40wlI"
+    },
+    "i̇letişimin denetlenmesi hükümleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "pb8Ph7ClfMaIUyxTk55t"
+    },
+    "iletisimin_denetlenmesi_hukumleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "pb8Ph7ClfMaIUyxTk55t"
+    },
+    "cmk'da uzlaştırma sürecinin yeni yapısı": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "hptpNACN2umUzOtuMPuN"
+    },
+    "cmkda_uzlastirma_surecinin_yeni_yapisi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "hptpNACN2umUzOtuMPuN"
+    },
+    "uzlaştırmada süre-yetki-görevlendirme değişiklikleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "K4Fio68x0bcXJDrkzOHq"
+    },
+    "uzlastirmada_sureyetkigorevlendirme_degisiklikleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "K4Fio68x0bcXJDrkzOHq"
+    },
+    "i̇tiraz sürelerinde düzenleme": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "aihHfV42boBVqyoCUnMt"
+    },
+    "itiraz_surelerinde_duzenleme": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "aihHfV42boBVqyoCUnMt"
+    },
+    "i̇stinaf başvuru koşulları": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "l0BkebmuqAQS6nOIIdI0"
+    },
+    "istinaf_basvuru_kosullari": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "l0BkebmuqAQS6nOIIdI0"
+    },
+    "temyiz sebeplerinin genişletilmesi/daraltılması": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "WOzyZpMTKKZhy29SyBe4"
+    },
+    "temyiz_sebeplerinin_genisletilmesidaraltilmasi": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "WOzyZpMTKKZhy29SyBe4"
+    },
+    "9. yargı paketi (cmk değişiklikleri)": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "BjFUXmu2BVuUVFhTFQRm"
+    },
+    "9_yargi_paketi_cmk_degisiklikleri": {
+      "subjectId": "ceza_muhakemesi",
+      "groupId": "BjFUXmu2BVuUVFhTFQRm",
+      "topicId": "BjFUXmu2BVuUVFhTFQRm"
+    },
+    "merkezi i̇dare": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "1HWGE59uPhvsPceAjF7D"
+    },
+    "merkezi_idare": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "1HWGE59uPhvsPceAjF7D"
+    },
+    "yerinden yönetim": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "tRkUq22FLbzNIs7vHUP6"
+    },
+    "yerinden_yonetim": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "tRkUq22FLbzNIs7vHUP6"
+    },
+    "kamu tüzel kişileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "IKyBhJ3x8bAZO0jcl8xi"
+    },
+    "kamu_tuzel_kisileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "IKyBhJ3x8bAZO0jcl8xi"
+    },
+    "i̇darenin kuruluşu": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "rUWZCIBP1xRgeJhIvtDk"
+    },
+    "idarenin_kurulusu": {
+      "subjectId": "idare_hukuku",
+      "groupId": "rUWZCIBP1xRgeJhIvtDk",
+      "topicId": "rUWZCIBP1xRgeJhIvtDk"
+    },
+    "düzenleyici i̇şlemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "VQZYOSUkQQRZp6XG2FYz"
+    },
+    "duzenleyici_islemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "VQZYOSUkQQRZp6XG2FYz"
+    },
+    "bireysel i̇şlemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "ooN01pl25uVFL97fqfJ9"
+    },
+    "bireysel_islemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "ooN01pl25uVFL97fqfJ9"
+    },
+    "i̇dari i̇şlemin unsurları": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "shQdikZR5nsRZiA1nig1"
+    },
+    "idari_islemin_unsurlari": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "shQdikZR5nsRZiA1nig1"
+    },
+    "i̇dari i̇şlemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "AnLESvHTUczfEiGx2Jbe"
+    },
+    "idari_islemler": {
+      "subjectId": "idare_hukuku",
+      "groupId": "AnLESvHTUczfEiGx2Jbe",
+      "topicId": "AnLESvHTUczfEiGx2Jbe"
+    },
+    "memur kavramı": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "bhNLTGTxxSY1uIfIuZD5"
+    },
+    "memur_kavrami": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "bhNLTGTxxSY1uIfIuZD5"
+    },
+    "memurun hakları": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "9mW4jY8tdus3SZdLdRQe"
+    },
+    "memurun_haklari": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "9mW4jY8tdus3SZdLdRQe"
+    },
+    "memurun yükümlülükleri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "avq7sVO5bxdjIo8QhzT7"
+    },
+    "memurun_yukumlulukleri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "avq7sVO5bxdjIo8QhzT7"
+    },
+    "disiplin": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "OsH42AbcDexmUAlCKmxt"
+    },
+    "kamu görevlileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "lOwz1v9YiOil44Wj2WI9"
+    },
+    "kamu_gorevlileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "lOwz1v9YiOil44Wj2WI9",
+      "topicId": "lOwz1v9YiOil44Wj2WI9"
+    },
+    "kolluk kavramı": {
+      "subjectId": "idare_hukuku",
+      "groupId": "S45V8wckMQhcqM71I07k",
+      "topicId": "O3nCp4hIkGOCuD5fVJEN"
+    },
+    "kolluk_kavrami": {
+      "subjectId": "idare_hukuku",
+      "groupId": "S45V8wckMQhcqM71I07k",
+      "topicId": "O3nCp4hIkGOCuD5fVJEN"
+    },
+    "kolluk yetkileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "S45V8wckMQhcqM71I07k",
+      "topicId": "o3S4u2DieZ07cnd76vxi"
+    },
+    "kolluk_yetkileri": {
+      "subjectId": "idare_hukuku",
+      "groupId": "S45V8wckMQhcqM71I07k",
+      "topicId": "o3S4u2DieZ07cnd76vxi"
+    },
+    "kolluk": {
+      "subjectId": "idare_hukuku",
+      "groupId": "S45V8wckMQhcqM71I07k",
+      "topicId": "S45V8wckMQhcqM71I07k"
+    },
+    "kamu malı kavramı": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "s985X77PohpkdvrvfKbR"
+    },
+    "kamu_mali_kavrami": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "s985X77PohpkdvrvfKbR"
+    },
+    "kamulaştırma": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "cf0KVK1z7s8pfGHuA1Jf"
+    },
+    "kamulastirma": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "cf0KVK1z7s8pfGHuA1Jf"
+    },
+    "kamu malları": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "uaPX5PiuBoX8CBjh9Oup"
+    },
+    "kamu_mallari": {
+      "subjectId": "idare_hukuku",
+      "groupId": "uaPX5PiuBoX8CBjh9Oup",
+      "topicId": "uaPX5PiuBoX8CBjh9Oup"
+    },
+    "hizmet kusuru": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "vecjK1X9cugMZ5mPKE0p"
+    },
+    "hizmet_kusuru": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "vecjK1X9cugMZ5mPKE0p"
+    },
+    "i̇darenin sorumluluğu": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "SHwtY7D7x1fKVOJi12p7"
+    },
+    "idarenin_sorumlulugu": {
+      "subjectId": "idare_hukuku",
+      "groupId": "SHwtY7D7x1fKVOJi12p7",
+      "topicId": "SHwtY7D7x1fKVOJi12p7"
+    },
+    "i̇ptal davası": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "psnd0RnJ1zXYoC3FNx50"
+    },
+    "iptal_davasi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "psnd0RnJ1zXYoC3FNx50"
+    },
+    "tam yargı davası": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "aQbFodYlGwAD1rt3SMP5"
+    },
+    "tam_yargi_davasi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "aQbFodYlGwAD1rt3SMP5"
+    },
+    "dava türleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "OT6OY8qnzo6XDoc75Hmc"
+    },
+    "dava_turleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "OT6OY8qnzo6XDoc75Hmc",
+      "topicId": "OT6OY8qnzo6XDoc75Hmc"
+    },
+    "ehliyet": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "4yIp5fSYoiJSFUMkShz9"
+    },
+    "hak düşürücü süreler": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "nUz7oiYk0JSXStKyFHvn"
+    },
+    "hak_dusurucu_sureler": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "nUz7oiYk0JSXStKyFHvn"
+    },
+    "i̇dari merci tecavüzü": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "rpz667XvLsaXtCnuTItP"
+    },
+    "idari_merci_tecavuzu": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "rpz667XvLsaXtCnuTItP"
+    },
+    "dava şartları": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "vASr8U5r0fdtJ2zTYaCh"
+    },
+    "dava_sartlari": {
+      "subjectId": "idari_yargilama",
+      "groupId": "vASr8U5r0fdtJ2zTYaCh",
+      "topicId": "vASr8U5r0fdtJ2zTYaCh"
+    },
+    "yürütmenin durdurulması": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "qIG32ZAYpZXQHLQvSUIO"
+    },
+    "yurutmenin_durdurulmasi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "qIG32ZAYpZXQHLQvSUIO"
+    },
+    "yargılama aşamaları": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "e9Xc8gqwsqTa7zDttAVv"
+    },
+    "yargilama_asamalari": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "e9Xc8gqwsqTa7zDttAVv"
+    },
+    "karar": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "fQWgLN2NllV8cMpj0VHz"
+    },
+    "yargılama": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "C1ufrZGrc8Df4yLnJCK6"
+    },
+    "yargilama": {
+      "subjectId": "idari_yargilama",
+      "groupId": "C1ufrZGrc8Df4yLnJCK6",
+      "topicId": "C1ufrZGrc8Df4yLnJCK6"
+    },
+    "makul sürede yargılanma düzenlemeleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "yDmDD7UMxGSCpJwCNlCL"
+    },
+    "makul_surede_yargilanma_duzenlemeleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "yDmDD7UMxGSCpJwCNlCL"
+    },
+    "elektronik i̇şlemlerde i̇yileştirme": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "3udoocHOg1LXb5zHpTJd"
+    },
+    "elektronik_islemlerde_iyilestirme": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "3udoocHOg1LXb5zHpTJd"
+    },
+    "arabuluculuk kapsamının genişletilmesi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "FpM1tj0Tb0Xyksr4lZLY"
+    },
+    "arabuluculuk_kapsaminin_genisletilmesi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "FpM1tj0Tb0Xyksr4lZLY"
+    },
+    "uzlaştırma sürecinin yeniden yapılandırılması": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "mDR6VqMVfez2pTh8oSti"
+    },
+    "uzlastirma_surecinin_yeniden_yapilandirilmasi": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "mDR6VqMVfez2pTh8oSti"
+    },
+    "uyap düzenlemeleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "tJJzgX1SILiLGuuWliE7"
+    },
+    "uyap_duzenlemeleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "tJJzgX1SILiLGuuWliE7"
+    },
+    "elektronik dosya süreçleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "4TzBaPwy7jX4hVJ493aC"
+    },
+    "elektronik_dosya_surecleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "4TzBaPwy7jX4hVJ493aC"
+    },
+    "9. yargı paketi (adli reform ve usul düzenlemeleri)": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "FwX0tZokfY9IYMVYYfUf"
+    },
+    "9_yargi_paketi_adli_reform_ve_usul_duzenlemeleri": {
+      "subjectId": "idari_yargilama",
+      "groupId": "FwX0tZokfY9IYMVYYfUf",
+      "topicId": "FwX0tZokfY9IYMVYYfUf"
+    },
+    "vergi kanunlarının uygulanması": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "DDs7urzrpBJOF2X0Qu3F"
+    },
+    "vergi_kanunlarinin_uygulanmasi": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "DDs7urzrpBJOF2X0Qu3F"
+    },
+    "mükellefiyet": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "aGHOQtfl3h4slXFr4l8j"
+    },
+    "mukellefiyet": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "aGHOQtfl3h4slXFr4l8j"
+    },
+    "vergi sorumluluğu": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "INDhcT6brCRJ0TuZFOFx"
+    },
+    "vergi_sorumlulugu": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "INDhcT6brCRJ0TuZFOFx"
+    },
+    "vergi hukuku genel": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "hWDWTlVp9jht9Ckah8gt"
+    },
+    "vergi_hukuku_genel": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "hWDWTlVp9jht9Ckah8gt",
+      "topicId": "hWDWTlVp9jht9Ckah8gt"
+    },
+    "tarh": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "VHL8X3oCss29EQZ09m8f"
+    },
+    "tebliğ": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "ExpZ9AheCnZQwDFzsvS6"
+    },
+    "teblig": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "ExpZ9AheCnZQwDFzsvS6"
+    },
+    "tahakkuk": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "MTrp4R4fIKlEmWYTBx6E"
+    },
+    "tahsil": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "SIkIXyPkzD1mkFYLRhd1"
+    },
+    "vergilendirme süreci": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "AUbBejpYu1x9XwMmck2b"
+    },
+    "vergilendirme_sureci": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "AUbBejpYu1x9XwMmck2b",
+      "topicId": "AUbBejpYu1x9XwMmck2b"
+    },
+    "ödeme": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "e3UaLN9Oo0Lck39MZSyU"
+    },
+    "odeme": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "e3UaLN9Oo0Lck39MZSyU"
+    },
+    "terkin": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "N0O8J7nMZgMgXm0HUZPT"
+    },
+    "vergi borcunun sona ermesi": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "2zhCBKVjzNuiLGJEyyuz"
+    },
+    "vergi_borcunun_sona_ermesi": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "2zhCBKVjzNuiLGJEyyuz",
+      "topicId": "2zhCBKVjzNuiLGJEyyuz"
+    },
+    "vergi kabahatleri": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "PZJvPuBsNG0bqhC7z3qO"
+    },
+    "vergi_kabahatleri": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "PZJvPuBsNG0bqhC7z3qO"
+    },
+    "vergi suçları": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "gDnbWoUSdhApCZ3rWZId"
+    },
+    "vergi_suclari": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "gDnbWoUSdhApCZ3rWZId"
+    },
+    "vergi suç ve cezaları": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "qiSUIxGCzJ4HQmM5jSEW"
+    },
+    "vergi_suc_ve_cezalari": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "qiSUIxGCzJ4HQmM5jSEW",
+      "topicId": "qiSUIxGCzJ4HQmM5jSEW"
+    },
+    "uzlaşma": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "Nr2hIkFlPQwvKeSyasSW"
+    },
+    "uzlasma": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "Nr2hIkFlPQwvKeSyasSW"
+    },
+    "vergi davaları": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "cf5Jer8rgC6pZNkCFDzG"
+    },
+    "vergi_davalari": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "cf5Jer8rgC6pZNkCFDzG"
+    },
+    "vergi uyuşmazlıkları": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "UVlji6tdziwzYPbx7Ar6"
+    },
+    "vergi_uyusmazliklari": {
+      "subjectId": "vergi_hukuku",
+      "groupId": "UVlji6tdziwzYPbx7Ar6",
+      "topicId": "UVlji6tdziwzYPbx7Ar6"
+    },
+    "i̇lamsız takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "X9Rurt4961aSSP3Uu2CB"
+    },
+    "ilamsiz_takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "X9Rurt4961aSSP3Uu2CB"
+    },
+    "i̇lamlı takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "FNmqo5Kl0sLoGEqyYSbg"
+    },
+    "ilamli_takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "FNmqo5Kl0sLoGEqyYSbg"
+    },
+    "kambiyo senetlerine özgü takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "wwrmrAIdn4b6hqS5hb69"
+    },
+    "kambiyo_senetlerine_ozgu_takip": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "wwrmrAIdn4b6hqS5hb69"
+    },
+    "kiralanan taşınmazların tahliyesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "3BpG9fUyQ6KJawRZv14V"
+    },
+    "kiralanan_tasinmazlarin_tahliyesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "3BpG9fUyQ6KJawRZv14V"
+    },
+    "i̇cra takip yolları": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "ApYg8dbvBNexG71V4NWN"
+    },
+    "icra_takip_yollari": {
+      "subjectId": "icra_iflas",
+      "groupId": "ApYg8dbvBNexG71V4NWN",
+      "topicId": "ApYg8dbvBNexG71V4NWN"
+    },
+    "haciz i̇şlemi": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "V63OOFd6ZwDp0woveZX7"
+    },
+    "haciz_islemi": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "V63OOFd6ZwDp0woveZX7"
+    },
+    "haczi caiz olmayan mallar": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "U0WVHZ6Xa0IPukoH8W1y"
+    },
+    "haczi_caiz_olmayan_mallar": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "U0WVHZ6Xa0IPukoH8W1y"
+    },
+    "i̇stihkak": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "cpDWfMAleIU3WslyHrHj"
+    },
+    "istihkak": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "cpDWfMAleIU3WslyHrHj"
+    },
+    "haciz": {
+      "subjectId": "icra_iflas",
+      "groupId": "scufBTtXIrq6tZCQtWQ7",
+      "topicId": "scufBTtXIrq6tZCQtWQ7"
+    },
+    "taşınır rehni": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "JxguOKdUFTzSJqHvzZtn"
+    },
+    "tasinir_rehni": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "JxguOKdUFTzSJqHvzZtn"
+    },
+    "taşınmaz rehni": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "rbLN65dmHSb0CNseivir"
+    },
+    "tasinmaz_rehni": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "rbLN65dmHSb0CNseivir"
+    },
+    "rehnin paraya çevrilmesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "PyPwtUnP5ncvmkjXR7K3"
+    },
+    "rehnin_paraya_cevrilmesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "PyPwtUnP5ncvmkjXR7K3",
+      "topicId": "PyPwtUnP5ncvmkjXR7K3"
+    },
+    "i̇flas sebepleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "GGxRXR495huxg0TFkXkw"
+    },
+    "iflas_sebepleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "GGxRXR495huxg0TFkXkw"
+    },
+    "i̇flas tasfiyesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "b5ttGvEpPdtRCs0NlwIf"
+    },
+    "iflas_tasfiyesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "b5ttGvEpPdtRCs0NlwIf"
+    },
+    "i̇flas": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "JSWNgrEAYAH9QbhfMpMJ"
+    },
+    "iflas": {
+      "subjectId": "icra_iflas",
+      "groupId": "JSWNgrEAYAH9QbhfMpMJ",
+      "topicId": "JSWNgrEAYAH9QbhfMpMJ"
+    },
+    "konkordato şartları": {
+      "subjectId": "icra_iflas",
+      "groupId": "1mNlXmAikIRV88p3SakK",
+      "topicId": "y0MjjGbd4KYDX3NTmWxK"
+    },
+    "konkordato_sartlari": {
+      "subjectId": "icra_iflas",
+      "groupId": "1mNlXmAikIRV88p3SakK",
+      "topicId": "y0MjjGbd4KYDX3NTmWxK"
+    },
+    "konkordato süreci": {
+      "subjectId": "icra_iflas",
+      "groupId": "1mNlXmAikIRV88p3SakK",
+      "topicId": "Uz7S1pLuL8Nrarj240PT"
+    },
+    "konkordato_sureci": {
+      "subjectId": "icra_iflas",
+      "groupId": "1mNlXmAikIRV88p3SakK",
+      "topicId": "Uz7S1pLuL8Nrarj240PT"
+    },
+    "konkordato": {
+      "subjectId": "icra_iflas",
+      "groupId": "1mNlXmAikIRV88p3SakK",
+      "topicId": "1mNlXmAikIRV88p3SakK"
+    },
+    "elektronik satış usulü": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "OWc21Z9QMkvDoyx53b1X"
+    },
+    "elektronik_satis_usulu": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "OWc21Z9QMkvDoyx53b1X"
+    },
+    "açık artırma şartlarının yenilenmesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "pXNJVn8XqqmZCblAfxKR"
+    },
+    "acik_artirma_sartlarinin_yenilenmesi": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "pXNJVn8XqqmZCblAfxKR"
+    },
+    "satış i̇lanı kuralları": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "EvdpmRdk41hfJg0hOfbi"
+    },
+    "satis_ilani_kurallari": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "EvdpmRdk41hfJg0hOfbi"
+    },
+    "teklif farkı-teminat sistemi": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "x1JEUsirzQ2YDIBnxumc"
+    },
+    "teklif_farkiteminat_sistemi": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "x1JEUsirzQ2YDIBnxumc"
+    },
+    "i̇lamsız takipte yeni düzenlemeler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "B5AFcfTUV2I6EPvWHxOc"
+    },
+    "ilamsiz_takipte_yeni_duzenlemeler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "B5AFcfTUV2I6EPvWHxOc"
+    },
+    "kambiyo senetlerine özgü takipte değişiklikler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "2IWLqdH9uxvfBdzH7pm7"
+    },
+    "kambiyo_senetlerine_ozgu_takipte_degisiklikler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "2IWLqdH9uxvfBdzH7pm7"
+    },
+    "kiralanan taşınmaz tahliyesi prosedürü": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "J5pOhq2yXPHMM3xHRZFG"
+    },
+    "kiralanan_tasinmaz_tahliyesi_proseduru": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "J5pOhq2yXPHMM3xHRZFG"
+    },
+    "rehinli malların satış usulü": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "RBplAeiGvPNAsYY8bRtW"
+    },
+    "rehinli_mallarin_satis_usulu": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "RBplAeiGvPNAsYY8bRtW"
+    },
+    "paraya çevirme süreleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "XcO4vpvKHsasMFNldRlO"
+    },
+    "paraya_cevirme_sureleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "XcO4vpvKHsasMFNldRlO"
+    },
+    "i̇flas karar süreçlerinde değişiklikler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "RqVnfkGb7YZRDtpqC12l"
+    },
+    "iflas_karar_sureclerinde_degisiklikler": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "RqVnfkGb7YZRDtpqC12l"
+    },
+    "konkordato sürecinde i̇yileştirme hükümleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "86QKHBrXJR0tQI6IeJE9"
+    },
+    "konkordato_surecinde_iyilestirme_hukumleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "86QKHBrXJR0tQI6IeJE9"
+    },
+    "9. yargı paketi (i̇i̇k değişiklikleri)": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "Q4Rm8AtZd7UKTgofYerk"
+    },
+    "9_yargi_paketi_iik_degisiklikleri": {
+      "subjectId": "icra_iflas",
+      "groupId": "Q4Rm8AtZd7UKTgofYerk",
+      "topicId": "Q4Rm8AtZd7UKTgofYerk"
+    },
+    "i̇ş sözleşmesi türleri": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "ezsWCqPlwuJDk8rclUOZ"
+    },
+    "is_sozlesmesi_turleri": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "ezsWCqPlwuJDk8rclUOZ"
+    },
+    "ücret": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "ReU9MyL2yG2BnqhxH5pN"
+    },
+    "ucret": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "ReU9MyL2yG2BnqhxH5pN"
+    },
+    "çalışma süreleri": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "TPqwDc1T8glCjHJMzyDT"
+    },
+    "calisma_sureleri": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "TPqwDc1T8glCjHJMzyDT"
+    },
+    "bireysel i̇ş hukuku": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "uaJKuMua6FUDVZ8Hlc3D"
+    },
+    "bireysel_is_hukuku": {
+      "subjectId": "is_hukuku",
+      "groupId": "uaJKuMua6FUDVZ8Hlc3D",
+      "topicId": "uaJKuMua6FUDVZ8Hlc3D"
+    },
+    "bildirimli fesih": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "cglkP0iqMCfmHKnwlLcC"
+    },
+    "bildirimli_fesih": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "cglkP0iqMCfmHKnwlLcC"
+    },
+    "haklı nedenle fesih": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "sx8Ah2qxOXHmsdXtB7d1"
+    },
+    "hakli_nedenle_fesih": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "sx8Ah2qxOXHmsdXtB7d1"
+    },
+    "i̇ş güvencesi": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "9dRzf9M3ZnShttR7FjiA"
+    },
+    "is_guvencesi": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "9dRzf9M3ZnShttR7FjiA"
+    },
+    "fesih": {
+      "subjectId": "is_hukuku",
+      "groupId": "EO1W9an3RkiwLdyBztga",
+      "topicId": "EO1W9an3RkiwLdyBztga"
+    },
+    "kıdem tazminatı": {
+      "subjectId": "is_hukuku",
+      "groupId": "cb5pAtWjjGPmdubFEHvh",
+      "topicId": "kC28GHqZ6npqkRZltsAS"
+    },
+    "kidem_tazminati": {
+      "subjectId": "is_hukuku",
+      "groupId": "cb5pAtWjjGPmdubFEHvh",
+      "topicId": "kC28GHqZ6npqkRZltsAS"
+    },
+    "i̇hbar tazminatı": {
+      "subjectId": "is_hukuku",
+      "groupId": "cb5pAtWjjGPmdubFEHvh",
+      "topicId": "f3R6o2hQwu5Wgt0Gb6kQ"
+    },
+    "ihbar_tazminati": {
+      "subjectId": "is_hukuku",
+      "groupId": "cb5pAtWjjGPmdubFEHvh",
+      "topicId": "f3R6o2hQwu5Wgt0Gb6kQ"
+    },
+    "tazminatlar": {
+      "subjectId": "is_hukuku",
+      "groupId": "cb5pAtWjjGPmdubFEHvh",
+      "topicId": "cb5pAtWjjGPmdubFEHvh"
+    },
+    "sosyal sigortalar": {
+      "subjectId": "is_hukuku",
+      "groupId": "nDtFjTmMpwtb5oCzSzxs",
+      "topicId": "yfPjS0GlKRQXOWAPrhWZ"
+    },
+    "sosyal_sigortalar": {
+      "subjectId": "is_hukuku",
+      "groupId": "nDtFjTmMpwtb5oCzSzxs",
+      "topicId": "yfPjS0GlKRQXOWAPrhWZ"
+    },
+    "emeklilik": {
+      "subjectId": "is_hukuku",
+      "groupId": "nDtFjTmMpwtb5oCzSzxs",
+      "topicId": "T4y0SW8xgAFkbXJkWPj7"
+    },
+    "sosyal güvenlik": {
+      "subjectId": "is_hukuku",
+      "groupId": "nDtFjTmMpwtb5oCzSzxs",
+      "topicId": "nDtFjTmMpwtb5oCzSzxs"
+    },
+    "sosyal_guvenlik": {
+      "subjectId": "is_hukuku",
+      "groupId": "nDtFjTmMpwtb5oCzSzxs",
+      "topicId": "nDtFjTmMpwtb5oCzSzxs"
+    },
+    "sendika": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "r86jQ0ab9KYNNFlmAOs9"
+    },
+    "toplu i̇ş sözleşmesi": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "GXjueUhldDYNIhV17YLK"
+    },
+    "toplu_is_sozlesmesi": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "GXjueUhldDYNIhV17YLK"
+    },
+    "grev": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "sAjxZkmBrg0kJ2MOa66e"
+    },
+    "toplu i̇ş hukuku": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "eAFQj60z3PGwANd3m9Xb"
+    },
+    "toplu_is_hukuku": {
+      "subjectId": "is_hukuku",
+      "groupId": "eAFQj60z3PGwANd3m9Xb",
+      "topicId": "eAFQj60z3PGwANd3m9Xb"
+    },
+    "yeni zorunlu arabuluculuk alanları (i̇ş-tüketici-ticari)": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "HrTNcaeehAXRmnKWi8uW"
+    },
+    "yeni_zorunlu_arabuluculuk_alanlari_istuketiciticari": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "HrTNcaeehAXRmnKWi8uW"
+    },
+    "zorunlu arabuluculukta süre ve usul": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "98M3xpNtI4dHFf2iw2Te"
+    },
+    "zorunlu_arabuluculukta_sure_ve_usul": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "98M3xpNtI4dHFf2iw2Te"
+    },
+    "i̇htiyari arabuluculuk süreç tanımı": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "BYiDBC7KEWEorrm6qNh9"
+    },
+    "ihtiyari_arabuluculuk_surec_tanimi": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "BYiDBC7KEWEorrm6qNh9"
+    },
+    "i̇htiyari arabuluculuk usul kuralları": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "99JF1ZfvW3TL882rMrTy"
+    },
+    "ihtiyari_arabuluculuk_usul_kurallari": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "99JF1ZfvW3TL882rMrTy"
+    },
+    "arabuluculuk anlaşmasının bağlayıcılığı": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "MsAF68o1EVyRItbU4MYr"
+    },
+    "arabuluculuk_anlasmasinin_baglayiciligi": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "MsAF68o1EVyRItbU4MYr"
+    },
+    "mahkeme onayı ve i̇cra edilebilirlik şerhi": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "TSkSRHwr7559tpwiA1oJ"
+    },
+    "mahkeme_onayi_ve_icra_edilebilirlik_serhi": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "TSkSRHwr7559tpwiA1oJ"
+    },
+    "fesih türlerinde düzenlemeler": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "KVnPcXqgx2vt8y8clM7W"
+    },
+    "fesih_turlerinde_duzenlemeler": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "KVnPcXqgx2vt8y8clM7W"
+    },
+    "i̇şe i̇adede arabuluculuk zorunluluğu": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "nNbdVqD99VolO7xZN4Vb"
+    },
+    "ise_iadede_arabuluculuk_zorunlulugu": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "nNbdVqD99VolO7xZN4Vb"
+    },
+    "kıdem-i̇hbar tazminat hükümlerinde değişiklik": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "7xVl1ybPFQoMYE1tdneb"
+    },
+    "kidemihbar_tazminat_hukumlerinde_degisiklik": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "7xVl1ybPFQoMYE1tdneb"
+    },
+    "arabuluculuk sonrası dava açma koşulları": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "Mku5TKNDpe2Ii5HYSacD"
+    },
+    "arabuluculuk_sonrasi_dava_acma_kosullari": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "Mku5TKNDpe2Ii5HYSacD"
+    },
+    "i̇ş uyuşmazlıklarında dava şartları": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "AKnUfQnyFgcHTboFp4GA"
+    },
+    "is_uyusmazliklarinda_dava_sartlari": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "AKnUfQnyFgcHTboFp4GA"
+    },
+    "i̇ş davalarında süreler": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "aJgaLfniQoHUsCWYwBkg"
+    },
+    "is_davalarinda_sureler": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "aJgaLfniQoHUsCWYwBkg"
+    },
+    "9. yargı paketi (arabuluculuk ve i̇ş hukuku değişiklikleri)": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "fZg8ot9tKQrE8Rdj5KVQ"
+    },
+    "9_yargi_paketi_arabuluculuk_ve_is_hukuku_degisiklikleri": {
+      "subjectId": "is_hukuku",
+      "groupId": "fZg8ot9tKQrE8Rdj5KVQ",
+      "topicId": "fZg8ot9tKQrE8Rdj5KVQ"
+    },
+    "avukatlığa kabul şartları": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "6NOEFLVIgmKbLqjMtL5e"
+    },
+    "avukatliga_kabul_sartlari": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "6NOEFLVIgmKbLqjMtL5e"
+    },
+    "staj şartları": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "cQrIGh8qn4L7GwDMjkaM"
+    },
+    "staj_sartlari": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "cQrIGh8qn4L7GwDMjkaM"
+    },
+    "staj süreci": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "xdYNGblIKoR3dO3ppjE9"
+    },
+    "staj_sureci": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "xdYNGblIKoR3dO3ppjE9"
+    },
+    "avukatlık mesleğine giriş": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "uwhiNQJ3zIXhZvIr7hra"
+    },
+    "avukatlik_meslegine_giris": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "uwhiNQJ3zIXhZvIr7hra",
+      "topicId": "uwhiNQJ3zIXhZvIr7hra"
+    },
+    "avukatın hakları": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "YdsnUQCeRifY0s1kDUgb"
+    },
+    "avukatin_haklari": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "YdsnUQCeRifY0s1kDUgb"
+    },
+    "avukatın yükümlülükleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "d6bNSb8uBxv3ezmCX2wl"
+    },
+    "avukatin_yukumlulukleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "d6bNSb8uBxv3ezmCX2wl"
+    },
+    "avukatlık sözleşmesi": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "rd3TJFgd5CKr9EFHyCd4"
+    },
+    "avukatlik_sozlesmesi": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "rd3TJFgd5CKr9EFHyCd4"
+    },
+    "avukatlık ücreti": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "Mwqr4jGYmFhzUfXW3gII"
+    },
+    "avukatlik_ucreti": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "Mwqr4jGYmFhzUfXW3gII"
+    },
+    "avukatın hak ve yükümlülükleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "AAJevyHHCF14fLDQekFg"
+    },
+    "avukatin_hak_ve_yukumlulukleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "AAJevyHHCF14fLDQekFg",
+      "topicId": "AAJevyHHCF14fLDQekFg"
+    },
+    "baro teşkilatı": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "5Z5HH5Uxt9kRqbpwJnHb"
+    },
+    "baro_teskilati": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "5Z5HH5Uxt9kRqbpwJnHb"
+    },
+    "türkiye barolar birliği": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "x4JGhkWzOMXGEKdxHeYW"
+    },
+    "turkiye_barolar_birligi": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "x4JGhkWzOMXGEKdxHeYW"
+    },
+    "disiplin i̇şlemleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "4yWMZRhNRh2f4pq8AssR"
+    },
+    "disiplin_islemleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "4yWMZRhNRh2f4pq8AssR"
+    },
+    "baro ve disiplin": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "twH9qmZAiBoaEZ9SN59R"
+    },
+    "baro_ve_disiplin": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "twH9qmZAiBoaEZ9SN59R",
+      "topicId": "twH9qmZAiBoaEZ9SN59R"
+    },
+    "avukatların arabuluculuk faaliyetleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "vtUWpSjb8K1yDyBJ9MOk"
+    },
+    "avukatlarin_arabuluculuk_faaliyetleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "vtUWpSjb8K1yDyBJ9MOk"
+    },
+    "uzlaştırmacı avukat görevlendirmesi": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "BqxLZiE7VwsHNDy1mOYd"
+    },
+    "uzlastirmaci_avukat_gorevlendirmesi": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "BqxLZiE7VwsHNDy1mOYd"
+    },
+    "9. yargı paketi (avukatlık mesleği değişiklikleri)": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "e36wVnmAbT38oEesKFs8"
+    },
+    "9_yargi_paketi_avukatlik_meslegi_degisiklikleri": {
+      "subjectId": "avukatlik_hukuku",
+      "groupId": "e36wVnmAbT38oEesKFs8",
+      "topicId": "e36wVnmAbT38oEesKFs8"
+    },
+    "doğal hukuk": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "YPrp4lH9xABA4Lj9QqoB"
+    },
+    "dogal_hukuk": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "YPrp4lH9xABA4Lj9QqoB"
+    },
+    "hukuki pozitivizm": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "59tyR9oHrkfgpvirwJSy"
+    },
+    "hukuki_pozitivizm": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "59tyR9oHrkfgpvirwJSy"
+    },
+    "hukuk felsefesi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "CCUm69PgEchoZxSJcgpd"
+    },
+    "hukuk_felsefesi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "CCUm69PgEchoZxSJcgpd",
+      "topicId": "CCUm69PgEchoZxSJcgpd"
+    },
+    "hukuk ve toplum i̇lişkisi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "3Oa6uyBALGV1TODpn2EP"
+    },
+    "hukuk_ve_toplum_iliskisi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "3Oa6uyBALGV1TODpn2EP"
+    },
+    "hukukun i̇şlevleri": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "ch9hv2gNC982FpPRSEGY"
+    },
+    "hukukun_islevleri": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "ch9hv2gNC982FpPRSEGY"
+    },
+    "hukuk sosyolojisi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "7M1kqR3RvuDbfIpHQswn"
+    },
+    "hukuk_sosyolojisi": {
+      "subjectId": "hukuk_felsefesi",
+      "groupId": "7M1kqR3RvuDbfIpHQswn",
+      "topicId": "7M1kqR3RvuDbfIpHQswn"
+    },
+    "uluslararası hukuk kaynakları": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "SgkaWFa0wQfoTbeBVO8J"
+    },
+    "uluslararasi_hukuk_kaynaklari": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "SgkaWFa0wQfoTbeBVO8J"
+    },
+    "devlet ve tanıma": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "C2lINjjjx46Y4zCZpPLO"
+    },
+    "devlet_ve_tanima": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "C2lINjjjx46Y4zCZpPLO"
+    },
+    "uluslararası örgütler": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "B3XZIFHPwW3waKxtGtXf"
+    },
+    "uluslararasi_orgutler": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "B3XZIFHPwW3waKxtGtXf"
+    },
+    "temel anlaşmalar": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "09Wdrk5lnxYs3yccupyo"
+    },
+    "temel_anlasmalar": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "09Wdrk5lnxYs3yccupyo"
+    },
+    "devletler genel hukuku": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "FOw03AUxQO19fDgdyAAK"
+    },
+    "devletler_genel_hukuku": {
+      "subjectId": "milletlerarasi_hukuk",
+      "groupId": "FOw03AUxQO19fDgdyAAK",
+      "topicId": "FOw03AUxQO19fDgdyAAK"
+    },
+    "kanunlar i̇htilafı": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "AThShCR80Jtq6261oYGK"
+    },
+    "kanunlar_ihtilafi": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "AThShCR80Jtq6261oYGK"
+    },
+    "uygulanacak hukuk": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "6YptDuX3ajIWDtjmB54s"
+    },
+    "uygulanacak_hukuk": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "6YptDuX3ajIWDtjmB54s"
+    },
+    "yabancılar hukuku": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "rGKQqOEsMjOh2HrqjNqS"
+    },
+    "yabancilar_hukuku": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "rGKQqOEsMjOh2HrqjNqS"
+    },
+    "milletlerarası usul hukuku": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "nd99Nc2kCJQbdHJN7COX"
+    },
+    "milletlerarasi_usul_hukuku": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "nd99Nc2kCJQbdHJN7COX"
+    },
+    "möhuk genel": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "Yck7sAT5MeNs7OkS9ANJ"
+    },
+    "mohuk_genel": {
+      "subjectId": "mohuk",
+      "groupId": "Yck7sAT5MeNs7OkS9ANJ",
+      "topicId": "Yck7sAT5MeNs7OkS9ANJ"
+    }
+  }
+}

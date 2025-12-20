@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nda yargılama sürecinin vazgeçilmez bir parçası olan 'İstinaf' kavramını bugün derinlemesine inceleyeceğiz. İstinaf, ilk derece mahkemelerinin kararlarına karşı, üst mahkemeler nezdinde başvurulan bir kanun yoludur. Amacı, ilk derece mahkemeleri tarafından verilen kararların hem maddi vakıa denetimi hem de hukuki denetimini sağlamak, böylece yargılama hatalarını düzelterek adalete erişimi güçlendirmektir. Türk yargı sistemine 2016 yılında, 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun ve 5326 sayılı İdari Yargılama Usulü Kanunu'nda yapılan değişikliklerle, Bölge Adliye Mahkemeleri (BAM) ve Bölge İdare Mahkemeleri (BİM) aracılığıyla dahil olmuştur. Bu sistem, hukukun üstünlüğü ilkesinin ve adil yargılanma hakkının güvencesi niteliğindedir. İstinaf, ülkemizdeki çok dereceli yargı sisteminin orta kademesini oluşturur; ilk derece mahkemelerinin (Asliye Hukuk, Asliye Ceza, İdare Mahkemeleri vb.) verdiği kararların doğrudan Yargıtay veya Danıştay'a gitmeden önce bir ara denetime tabi tutulmasını sağlar. Bu sayede, hem Yargıtay ve Danıştay'ın iş yükü hafifletilir hem de dosyaların daha hızlı ve etkin bir şekilde incelenerek kesinleşmesi sağlanır. İstinaf kanun yolunun en temel özelliklerinden biri, 'maddi olay denetimi' yapabilme yeteneğidir. Temyiz yolundan farklı olarak, istinaf mahkemesi sadece hukuki denetim yapmakla kalmaz, aynı zamanda ilk derece mahkemesinin yaptığı tahkikatı, topladığı delilleri yeniden değerlendirebilir, hatta gerekli gördüğü hallerde yeni deliller toplayabilir veya tahkikatı genişletebilir. Bu özelliğiyle istinaf, bir nevi ikinci derece bir yargılama mahkemesi gibi hareket eder. İstinaf mahkemesi, ilk derece mahkemesinin kararını usul ve yasaya uygunluk açısından incelerken, aynı zamanda olayın esasına girerek yeniden bir değerlendirme yapar. Taraflar, istinaf kanun yoluna başvurarak ilk derece mahkemesinin kararında hata olduğunu düşündükleri noktaları, hem maddi vakıalar hem de hukuki yorumlar açısından ileri sürebilirler. İstinaf incelemesinin sonucunda, ilk derece mahkemesi kararının doğru veya hatalı olduğuna dair yeni bir değerlendirme yapılır ve bu doğrultuda çeşitli kararlar verilebilir. Bu dersin sonunda, istinafın ne olduğunu, neden var olduğunu ve Türk yargı sistemindeki önemini tam olarak kavramış olacaksınız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Türk hukuk sisteminde istinaf kanun yolunun yasal çerçevesini incelediğimizde, temel olarak üç ana kanunun belirleyici rol oynadığını görürüz: Hukuk Muhakemeleri Kanunu (HMK) medeni yargılama alanında, Ceza Muhakemeleri Kanunu (CMK) ceza yargılaması alanında ve İdari Yargılama Usulü Kanunu (İYUK) idari yargılama alanında istinafa ilişkin hükümleri barındırır. Bu kanunlar, istinaf başvurusunun nasıl yapılacağını, hangi kararlara karşı başvurulabileceğini, başvuru sürelerini, istinaf incelemesinin kapsamını ve Bölge Adliye/İdare Mahkemeleri'nin verebileceği kararların türlerini ayrıntılı olarak düzenler. Örneğin, HMK m. 341-360 arasında istinaf hükümleri yer alır. Bu maddeler, istinaf başvuru dilekçesinin içeriğini, duruşma yapılıp yapılmayacağını, duruşmasız inceleme hallerini ve istinaf mahkemesinin verebileceği kararları (düzelterek onama, esastan ret, bozma ve dosyanın geri gönderilmesi, yeniden karar verme) detaylandırır. CMK'da ise 272-284. maddeler arasında istinafa ilişkin düzenlemeler bulunmaktadır. Ceza yargılamasında istinaf başvurusu, hükmün hukuki niteliğine ve maddi gerçeğe uygunluğunu sağlamayı hedefler. Burada da istinaf mahkemesinin (Bölge Adliye Mahkemeleri'nin ilgili ceza daireleri) yeniden delil toplama ve değerlendirme yetkisi ön plandadır. İYUK'un 45-48. maddeleri ise idari yargıdaki istinaf kanun yolunu düzenler. İdari yargıda istinaf, idari yargılamanın özelliklerine uygun olarak şekillenmiş olup, özellikle usul hatalarının giderilmesi ve hukuka uygunluğun teminini amaçlar. İstinaf başvurusu için genel olarak kanunlarda belirli süreler öngörülmüştür. Bu süreler, kararın tebliğinden itibaren işlemeye başlar ve hak düşürücü niteliktedir. Sürelerin kaçırılması, istinaf başvuru hakkının kaybedilmesi anlamına gelir. İstinaf kanun yolu, belirli parasal sınırların üzerindeki davalar veya kanunda açıkça istinafa tabi olduğu belirtilen kararlar için geçerlidir. Örneğin, HMK'da belirli bir parasal değerin altındaki davalar için istinaf yolu kapalı olabilir. İstinaf mahkemesi, başvuruyu incelerken, öncelikle ilk derece mahkemesinin kararında herhangi bir usul hatası olup olmadığını araştırır. Şayet bir usul hatası tespit ederse, kararı bozarak dosyayı ilk derece mahkemesine gönderebilir. Eğer usulde bir eksiklik yoksa, esas yönünden inceleme yapar ve ilk derece mahkemesinin maddi vakıaları doğru tespit edip etmediğini, hukuku doğru uygulayıp uygulamadığını değerlendirir. Yasal düzenlemeler, istinafın Türk yargı sisteminde etkin bir denetim mekanizması olarak işlev görmesini sağlayacak şekilde tasarlanmıştır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "İstinafın pratik uygulamalarına geçtiğimizde, bir avukatın veya tarafın istinaf kanun yoluna nasıl başvurduğunu ve bu sürecin işleyişini somut örnekler üzerinden ele alabiliriz. Öncelikle, istinaf başvurusu, ilk derece mahkemesi kararının tebliğinden itibaren kanunda belirtilen süre içinde, kararı veren ilk derece mahkemesine verilecek bir 'istinaf dilekçesi' ile yapılır. Bu dilekçede, istinaf nedenleri açıkça belirtilmeli, yani ilk derece mahkemesi kararının hangi yönlerden hatalı olduğu, hangi hukuki veya maddi gerekçelerle bozulması gerektiği somutlaştırılmalıdır. Örneğin, bir işçi alacağı davasında, ilk derece mahkemesi tanık beyanlarını eksik değerlendirerek işçinin bazı alacaklarını reddetmişse, istinaf dilekçesinde bu eksik değerlendirme ve hangi tanık beyanlarının dikkate alınmadığı belirtilir. Bölge Adliye Mahkemesi, bu iddiayı yeniden inceleyerek tanık beyanlarını ve diğer delilleri tekrar değerlendirebilir. Ceza yargılamasında ise, sanık hakkında verilen bir hapis cezasının, suç vasfının yanlış tayin edildiği veya delillerin hatalı yorumlandığı gerekçesiyle istinaf kanun yoluna başvurulabilir. Örneğin, bir kasten yaralama olayında, ilk derece mahkemesi fiili 'kasten öldürmeye teşebbüs' olarak niteleyerek yüksek bir ceza vermişse, sanık müdafii, eylemin gerçekte sadece 'kasten yaralama' olduğunu ve delillerin bu yönde yorumlanması gerektiğini istinaf dilekçesinde ileri sürebilir. İstinaf mahkemesi (Bölge Adliye Mahkemesi'nin ilgili ceza daireleri), dosyadaki tüm delilleri yeniden inceleyerek, hatta gerekli görürse tanık dinleyerek veya keşif yaparak olayın gerçek mahiyetini tespit etmeye çalışır. İdari yargıda ise, bir idari işlemin iptali talebiyle açılan davada, ilk derece idare mahkemesinin işlemde hukuka aykırılık bulmayarak davayı reddetmesi üzerine, davacı idari işlemin hukuka aykırılığını, örneğin yetki, şekil, sebep, konu veya maksat unsurlarından birinde hata olduğunu istinaf dilekçesinde gerekçelendirebilir. Bölge İdare Mahkemesi, bu gerekçeleri değerlendirir ve idari işlemin hukuka uygunluğunu yeniden denetler. İstinaf mahkemeleri, bu incelemeler sonucunda, ilk derece mahkemesi kararını ya tamamen onayabilir (esastan ret), ya bazı küçük düzeltmelerle onayabilir (düzelterek onama), ya da usul veya esas yönünden hatalı bularak bozup dosyayı ilk derece mahkemesine geri gönderebilir, veya kendisi yeniden hüküm kurabilir. Yeniden hüküm kurma yetkisi, özellikle istinafın tam bir yargılama yapma yeteneğinin bir göstergesidir. Pratik olarak, istinaf sürecinde dilekçelerin hukuki niteliklerinin yüksek olması, delillerin doğru sunulması ve yasal sürelere riayet edilmesi büyük önem taşımaktadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "İstinaf kanun yolunda başarılı olmak ve hukuki süreçleri doğru yönetebilmek için dikkat edilmesi gereken kritik noktalar bulunmaktadır. Öncelikle, 'süreler' mutlak surette göz önünde bulundurulmalıdır. İstinaf başvuru süresi, mahkeme kararının taraflara tebliğinden itibaren genellikle iki haftadır (HMK, CMK, İYUK'ta belirtilen özel haller saklı kalmak üzere). Bu süreler, hak düşürücü nitelikte olup, süresi içinde yapılmayan başvurular reddedilmekte ve istinaf hakkı kaybedilmektedir. Bu nedenle, kararın tebliğ tarihi ve son başvuru tarihi dikkatlice takip edilmelidir. İkinci önemli nokta, 'istinaf sebepleri'nin somut ve gerekçeli bir şekilde belirtilmesidir. İstinaf dilekçesi, ilk derece mahkemesi kararının hangi hukuki veya maddi hata içerdiğini açıkça ortaya koymalı, genel ifadelerden kaçınılmalıdır. Örneğin, 'karar hatalıdır' demek yerine, 'Mahkeme, tanık A'nın beyanlarını göz ardı ederek olayın gerçekleşme şeklini yanlış tespit etmiştir' veya 'Uygulanan kanun maddesi, somut olaya uygun değildir' şeklinde somutlaştırma yapılmalıdır. İstinaf mahkemesi, başvurucunun dilekçesindeki istinaf sebepleriyle bağlıdır, ancak kamu düzenine aykırılık teşkil eden hususları re'sen inceleyebilir. Üçüncü olarak, 'istinaf incelemesinin kapsamı' iyi anlaşılmalıdır. İstinaf mahkemeleri, temyiz mahkemelerinin aksine, sadece hukuki denetimle yetinmez; olayın maddi yönünü de inceler, yani 'maddi vakıa denetimi' yapar. Bu durum, istinaf mahkemesinin, gerekli görmesi halinde ilk derece mahkemesinde sunulan veya toplanan delilleri yeniden değerlendirebileceği, hatta yeni deliller toplayabileceği veya duruşma açabileceği anlamına gelir. Bu yetki, ilk derece mahkemesinin eksik veya hatalı tahkikatının istinaf aşamasında giderilmesine olanak tanır. Dördüncü olarak, 'istinaf mahkemesinin yetkileri' ve verebileceği kararlar arasındaki farklar iyi bilinmelidir. İstinaf mahkemesi, başvuruyu kabul edip ilk derece mahkemesinin kararını ya 'düzelterek onar', ya 'bozarak dosyayı geri gönderir', ya da 'kendisi yeniden hüküm kurar'. Özellikle ilk derece mahkemesinin esasa ilişkin bir hatası varsa ve bu hatanın düzeltilmesi için yeni bir yargılama yapılmasına gerek yoksa, Bölge Adliye/İdare Mahkemesi duruşma açarak veya açmaksızın doğrudan kendisi 'yeniden hüküm kurabilir'. Bu, yargılama sürecini hızlandıran ve adalete erişimi kolaylaştıran önemli bir yetkidir. Son olarak, her davanın istinaf yoluna tabi olmadığını unutmamak gerekir. Kanunda belirtilen parasal sınırlar altında kalan davalar veya özel kanunlarla istinaf yolu kapatılmış kararlar için istinaf başvurusu yapılamaz. Bu gibi durumlarda, diğer kanun yollarının veya hukuki çarelerin araştırılması gerekir. Bu detaylara dikkat etmek, istinaf sürecinde hak kayıplarının önüne geçmek ve adaletin doğru tecellisini sağlamak açısından hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bugünkü dersimizde Türk yargı sisteminin orta kademesi olan istinaf kanun yolunu enine boyuna inceledik. İstinaf, ilk derece mahkemelerinin kararlarının hem maddi vakıa hem de hukuki yönden kapsamlı bir denetimini sağlayan, adaletin tecellisinde kilit rol oynayan bir mekanizmadır. Dersimizin başında da belirttiğimiz gibi, istinaf, 2016 yılında Türk hukukuna kazandırılan Bölge Adliye ve Bölge İdare Mahkemeleri aracılığıyla uygulanan, temyizden farklı olarak maddi olay denetimi de yapabilen bir üst kanun yoludur. Bu özelliğiyle, Yargıtay ve Danıştay'ın hukuki denetim rolünden ayrışarak, ilk derece mahkemesindeki olası hataları yerinde ve daha hızlı bir şekilde düzelten bir filtre görevi görür. Yasal çerçevesi HMK, CMK ve İYUK gibi temel usul kanunlarımızda düzenlenmiş olup, her yargılama türü için kendine özgü detaylar barındırır. Pratik uygulamalar kısmında, istinaf dilekçesinin hazırlanmasından, sürecin işleyişine ve istinaf mahkemelerinin verebileceği farklı karar türlerine kadar bir dizi örneği ele aldık. Bu örnekler, istinafın sadece teorik bir kavram olmadığını, aynı zamanda somut yargılamalar üzerinde doğrudan bir etkisi olduğunu gözler önüne serdi. Son olarak, dikkat edilmesi gerekenler başlığı altında, başvuru sürelerinin önemi, istinaf sebeplerinin açıkça ve gerekçeli bir şekilde belirtilmesi, istinaf mahkemesinin denetim kapsamının genişliği ve verebileceği kararların türleri gibi kritik noktalara değindik. Bu hususlara riayet etmek, hem avukatlar hem de yargılamanın tarafları için hak kayıplarının önüne geçmenin ve adil bir sonuca ulaşmanın temelini oluşturur. Pekiştirme amacıyla bazı kilit sorular üzerinde durmak istiyorum: İstinafın Türk yargı sistemine katkıları nelerdir? Temyiz yolundan temel farkları nelerdir? Bir avukat olarak istinaf dilekçesi hazırlarken nelere özellikle dikkat etmelisiniz? Bu soruların cevapları, konuyu ne denli kavradığınızın bir göstergesi olacaktır. Unutmayın ki, adalet arayışında her aşama önemlidir ve istinaf, bu arayışın önemli bir güvencesidir. Hukuk fakültesi eğitiminiz boyunca ve meslek hayatınızda istinaf kurumunun inceliklerini anlamak, başarılı bir hukukçu olmanın temel taşlarından biridir. Bu dersle birlikte istinaf konusunda sağlam bir temel attığınıza inanıyorum. Bir sonraki dersimizde görüşmek üzere."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk hukuk sisteminde 2016 yılı itibarıyla uygulamaya konulan istinaf kanun yolu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "İstinaf mahkemeleri, ilk derece mahkemesinin kararını hem hukuki hem de maddi vakıa yönünden inceler.",
+        "B": "İstinaf başvurusu, ilk derece mahkemesi kararının tebliğinden itibaren kanunda belirtilen hak düşürücü süreler içinde yapılır.",
+        "C": "İstinaf kanun yolunda, Bölge Adliye Mahkemeleri ve Bölge İdare Mahkemeleri görevlidir.",
+        "D": "İstinaf mahkemesi, gerekli gördüğü takdirde ilk derece mahkemesinin toplayamadığı delilleri re'sen toplayamaz ve tahkikatı genişletemez."
+      },
+      "correctAnswer": "D",
+      "explanation": "İstinaf mahkemeleri, sadece hukuki denetim yapmakla kalmaz, aynı zamanda maddi vakıa denetimi yapar ve gerekli gördüğü hallerde re'sen delil toplama ve tahkikatı genişletme yetkisine sahiptir. Bu, istinafın temyizden temel farklarından biridir ve HMK, CMK, İYUK'ta açıkça düzenlenmiştir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi, Türk hukukunda istinaf kanun yolu ile temyiz kanun yolu arasındaki temel farklardan biri değildir?",
+      "options": {
+        "A": "İstinaf mahkemeleri maddi vakıa denetimi yapabilirken, temyiz mahkemeleri kural olarak sadece hukuki denetim yapar.",
+        "B": "İstinaf mahkemesi, ilk derece mahkemesi kararını bozarak dosyayı geri gönderme yetkisine sahipken, temyiz mahkemesi bu yetkiye sahip değildir.",
+        "C": "İstinaf başvuruları Bölge Adliye/İdare Mahkemeleri'ne yapılırken, temyiz başvuruları Yargıtay/Danıştay'a yapılır.",
+        "D": "İstinaf mahkemesi, yeni delil toplama ve tahkikat yapma yetkisine sahipken, temyiz mahkemesi kural olarak bu yetkiye sahip değildir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Hem istinaf mahkemeleri (Bölge Adliye/İdare Mahkemeleri) hem de temyiz mahkemeleri (Yargıtay/Danıştay), ilk derece mahkemesi veya alt istinaf mahkemesi kararını bozarak dosyayı ilgili mahkemesine geri gönderme yetkisine sahiptir. Bu, her iki kanun yolunun da ortak bir yetkisidir. İstinaf mahkemesi bozmakla kalmayıp bazen kendisi de karar verebilir (yeniden hüküm kurma)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Hukuk Muhakemeleri Kanunu (HMK) uyarınca, ilk derece mahkemesince verilen bir karara karşı istinaf yoluna başvurma süresi, kanunda aksine özel bir hüküm bulunmadıkça, kararın usulen tebliğinden itibaren kaç gündür?",
+      "options": {
+        "A": "7 gün",
+        "B": "10 gün",
+        "C": "15 gün",
+        "D": "30 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 345'e göre, istinaf yoluna başvuru süresi iki haftadır. Bu süre, kanunda aksine özel bir hüküm bulunmadığı takdirde, nihai kararın tebliği ile işlemeye başlar. İki hafta, 15 günlük bir süreye tekabül etmektedir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bölge Adliye Mahkemesi, istinaf başvurusunu inceledikten sonra, ilk derece mahkemesi kararının usul veya esasa ilişkin bir hatadan dolayı tamamen hatalı olduğuna kanaat getirirse aşağıdaki kararlardan hangisini veremez?",
+      "options": {
+        "A": "Düzelterek onama kararı",
+        "B": "Esastan ret kararı",
+        "C": "Kararı bozarak dosyayı ilk derece mahkemesine geri gönderme kararı",
+        "D": "Kendisi yeniden hüküm kurma kararı"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bölge Adliye Mahkemesi, ilk derece mahkemesi kararının tamamen hatalı olduğuna kanaat getirirse esastan ret kararı veremez. Esastan ret kararı, istinaf başvurusunun yerinde görülmemesi ve ilk derece mahkemesi kararının doğru bulunması halinde verilir. Hatalı olduğu durumlarda düzelterek onama, bozma ve geri gönderme veya kendisi yeniden hüküm kurma kararları verilebilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Türk hukukunda istinaf kanun yolu başvuruları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "İstinaf başvurusu kararı veren ilk derece mahkemesine bir dilekçe ile yapılır.",
+        "B": "İstinaf kanun yoluna başvurmak için belirli bir parasal sınır bulunmamaktadır; her türlü ilk derece mahkemesi kararı istinafa tabidir.",
+        "C": "İstinaf mahkemesi, istinaf dilekçesinde belirtilen sebeplerle bağlıdır ve bu sebeplerin dışına çıkarak re'sen inceleme yapamaz.",
+        "D": "Ceza davalarında istinaf incelemesini Bölge İdare Mahkemeleri yapar."
+      },
+      "correctAnswer": "A",
+      "explanation": "İstinaf başvurusu, kararı veren ilk derece mahkemesine bir dilekçe ile yapılır (HMK m. 343, CMK m. 273, İYUK m. 45). B seçeneği yanlıştır, belirli parasal sınırların altında kalan bazı kararlar istinafa tabi değildir. C seçeneği yanlıştır, kamu düzenine ilişkin hususlar istinaf mahkemesince re'sen incelenebilir. D seçeneği yanlıştır, ceza davalarında istinaf incelemesini Bölge Adliye Mahkemelerinin Ceza Daireleri yapar."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1042135335286",
+    "project_id": "stajyerpro-app",
+    "storage_bucket": "stajyerpro-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042135335286:android:a23904679aca4ade9f3a57",
+        "android_client_info": {
+          "package_name": "com.stajyerpro.stajyerpro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042135335286-h4nppvdl5paprm7lt15al1qf7ht2r0iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stajyerpro.stajyerpro_app",
+            "certificate_hash": "22eca5da1870035cf2e5170ba14693d0493a6467"
+          }
+        },
+        {
+          "client_id": "1042135335286-s5jgqgks7mcu0890mce8el3nlvn2smpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzJtch4kptma6m68MGZP6AGtt1h2zy6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042135335286-s5jgqgks7mcu0890mce8el3nlvn2smpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042135335286-7i3e8bo4pbaheqpagj1itt58jugoh3bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stajyerpro.stajyerproApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

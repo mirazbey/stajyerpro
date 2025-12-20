@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tazminatın Tanımı:** Hukuka aykırı bir eylem, durum veya sözleşmeye aykırılık sonucunda meydana gelen zararı, eski hale getirmeyi veya parasal olarak gidermeyi amaçlayan hukuki araçtır. Borçlar Hukuku'nda genellikle haksız fiil, sözleşmeye aykırılık veya sebepsiz zenginleşme gibi nedenlerle doğar.\n•   **Zarar Kavramı:** Tazminatın temelini oluşturan, kişinin malvarlığında (maddi zarar) veya kişilik değerlerinde (manevi zarar) rızası dışında meydana gelen eksilme, azalma veya ihlaldir. Zarar görenin iradesi dışında oluşan olumsuz değişiklikleri ifade eder.\n•   **Maddi Tazminat:** Zarar görenin malvarlığında meydana gelen azalmanın (fiili zarar) ve eğer zarar verici olay olmasaydı elde edeceği kesinleşmiş kazançtan yoksun kalmasının (yoksun kalınan kar) giderilmesini amaçlar. Genellikle somut delillerle ispatlanır ve objektif olarak hesaplanabilir.\n•   **Manevi Tazminat:** Kişilik haklarına yapılan saldırılar (bedensel bütünlüğe, sağlığa, şerefe, haysiyete, özel hayata, sır alanına) sonucunda duyulan elem, keder, acı ve ızdırabın, duyulan ruhsal sarsıntının bir nebze olsun hafifletilmesi ve bir teselli sağlanması amacıyla ödenen tazminat türüdür. Manevi tazminatın amacı zarar görenin zenginleşmesi değildir.\n•   **Kusur:** Tazminat sorumluluğunun doğması için genellikle aranan bir şarttır. Hukuka aykırı sonucu istemek (kast) veya öngörülebilir bir sonucu öngörmemek (ihmal) şeklinde ortaya çıkar. Kusurun derecesi (ağır kusur, hafif kusur) tazminatın miktarını etkileyebilir. Ancak bazı durumlarda kusur aranmaksızın sorumluluk doğabilir (kusursuz sorumluluk).\n•   **İlliyet Bağı (Nedensellik Bağı):** Hukuka aykırı fiil ile meydana gelen zarar arasında uygun bir bağlantının bulunmasıdır. Zararın doğrudan ve beklenebilir bir şekilde hukuka aykırı fiilin bir sonucu olarak ortaya çıkması gerekir. İlliyet bağı kesilirse (örneğin mücbir sebep, üçüncü kişinin ağır kusuru, zarar görenin ağır kusuru), sorumluluk ortadan kalkabilir veya azalabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Haksız Fiil Sorumluluğu (Türk Borçlar Kanunu - TBK m. 49):** \"Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür.\" Bu madde, haksız fiil sorumluluğunun temelini oluşturur ve tazminatın en yaygın kaynaklarından biridir. Fiil, zarar, kusur ve illiyet bağı unsurlarının bir arada bulunması gerekir.\n•   **Tazminatın Kapsamı (TBK m. 50-51):** Hakim, zararın miktarını ve kapsamını belirlerken, olayların özelliklerini, kusurun ağırlığını ve zararın niteliğini dikkate alır. Maddi tazminat hem fiili zararı (gerçekleşen kayıp) hem de yoksun kalınan kârı (elde edilemeyen kazanç) kapsar. Amaç, zarar görenin malvarlığının, zarar verici olaydan önceki durumuna getirilmesidir.\n•   **Manevi Tazminat (TBK m. 56):** \"Hakimin, kişilik haklarının zedelenmesi hâlinde, zarar görene uygun bir miktar manevi tazminat ödenmesine karar verebileceğini\" düzenler. Bu tazminatın miktarı, hakimin takdir yetkisine bağlıdır ve hakkaniyet ilkelerine göre belirlenir. Manevi tazminatın bir zenginleşme aracı olmaması esastır.\n•   **Ölüm ve Bedensel Zararlarda Tazminat (TBK m. 53-54):** Ölüm halinde cenaze giderleri, destekten yoksun kalma zararları (ölenin desteğini kaybedenlerin zararları) ve çalışma gücünün azalmasından doğan zararlar talep edilebilir. Bedensel zararlarda ise tedavi giderleri, kazanç kaybı, çalışma gücünün azalmasından veya yitirilmesinden doğan zararlar ile ekonomik geleceğin sarsılmasından doğan zararlar talep edilebilir.\n•   **Zararın Azaltılması ve İndirim Sebepleri (TBK m. 52):** Zarar görenin, zararın doğmasında veya artmasında kusuru bulunması hâlinde (müterafik kusur), hâkim tazminat miktarında indirim yapabilir veya tazminatı tamamen kaldırabilir. Bu madde aynı zamanda, hakkaniyet gerektiriyorsa, tazminatın peşin veya irat (dönemsel ödeme) şeklinde ödenmesine karar verilebileceğini de belirtir.\n•   **Zamanaşımı (TBK m. 72):** Haksız fiilden doğan tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. Ancak, tazminat istemi ceza kanunlarında daha uzun bir zamanaşımı süresine tabi olan cezayı gerektiren bir fiilden doğmuşsa, bu süre uygulanır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Trafik Kazası Sonucu Maddi ve Manevi Zarar:** Bir sürücünün trafik kurallarını ihlal ederek (kırmızı ışıkta geçme, aşırı hız) başka bir araca çarpması sonucu diğer araçtaki yolcuların yaralanması ve aracın hasar görmesi. Yaralıların hastane ve tedavi giderleri, iş göremezlik süreleri boyunca uğradıkları kazanç kayıpları maddi tazminat; kazanın neden olduğu fiziksel acı, travma ve psikolojik rahatsızlıklar ise manevi tazminat konusu olabilir. Aracın tamir masrafı da maddi zarardır.\n•   **Hekim Hatası (Malpraktis):** Bir cerrahın ameliyat sırasında gerekli özeni göstermemesi, hatalı işlem yapması veya hastanın durumunu yanlış değerlendirmesi sonucu hastanın kalıcı bir sağlık sorunu yaşaması. Bu durumda hastanın ek tedavi masrafları, iş gücü kaybı veya meslekten men gibi durumlar maddi tazminat; çektiği acı, yaşam kalitesindeki düşüş, fiziksel veya ruhsal travma ise manevi tazminat talebine yol açar.\n•   **Basın Yoluyla Kişilik Haklarına Saldırı:** Bir medya kuruluşunun veya yazarın, bir kişi hakkında gerçek dışı, itibar zedeleyici veya özel hayatın gizliliğini ihlal eden bir haber veya yazı yayınlaması. Bu durum, kişinin toplum içindeki şeref ve haysiyetine zarar vereceğinden, kişi yaşadığı üzüntü ve mağduriyet nedeniyle manevi tazminat davası açabilir.\n•   **İş Kazası Sonucu Tazminat:** Bir işyerinde, işveren tarafından yeterli güvenlik önlemlerinin alınmaması nedeniyle bir işçinin düşerek veya makineye sıkışarak yaralanması, uzuv kaybı yaşaması. İşçinin tedavi giderleri, ilaç masrafları, protez gibi giderler, iş göremezlik ödeneği, gelecekteki kazanç kaybı ve bakıcı giderleri maddi tazminat; yaşadığı fiziksel ve ruhsal acılar ile yaşam kalitesindeki düşüş manevi tazminat olarak talep edilebilir.\n•   **Kusursuz Sorumluluk Örneği (Hayvan Bulundurmanın Sorumluluğu):** Bir kişinin evcil hayvanı (örneğin bir köpek), tasmasından kurtularak komşusunun bahçesine girip değerli bitkilerine zarar vermesi veya komşusunu ısırması. Hayvan sahibi kusurlu olmasa dahi, hayvan bulunduran sıfatıyla meydana gelen zararı tazmin etmekle yükümlüdür (TBK m. 67). Bu, kusursuz sorumluluğa bir örnektir.\n•   **Ürün Sorumluluğu:** Üretilen bir maldaki (örneğin bir elektrikli ev aleti, otomobil) ayıplı tasarım, üretim hatası veya hatalı kullanım talimatı nedeniyle tüketicinin malına veya sağlığına zarar gelmesi. Bu durumda üretici firma, kusuru aranmaksızın meydana gelen maddi ve manevi zararları tazmin etmekle yükümlü olabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İspat Yükü ve Zararın Somutlaştırılması:** Tazminat talebinde bulunan zarar gören, zararın varlığını, miktarını ve hukuka aykırı fiil ile zarar arasındaki illiyet bağını somut delillerle ispat etmekle yükümlüdür. Özellikle maddi tazminatta, zararın parasal karşılığının detaylı ve belgelenebilir bir şekilde ortaya konması büyük önem taşır.\n•   **Zararın Belirlenmesinde Hakimin Takdir Yetkisi:** Özellikle manevi tazminat miktarının belirlenmesinde hakimin geniş bir takdir yetkisi bulunmaktadır. Ancak bu takdir, somut olayın özellikleri, tarafların sosyal ve ekonomik durumu, kusurun derecesi ve hakkaniyet ilkeleri çerçevesinde, objektif ve ölçülü bir şekilde kullanılmalıdır. Manevi tazminatın zenginleşme aracı olmaması ilkesi burada belirleyicidir.\n•   **Müterafik Kusur (Ortak Kusur):** Zarar görenin de zararın doğmasında veya artmasında kusuru varsa, Borçlar Kanunu m. 52 gereği, hâkim tazminat miktarında indirim yapabilir veya tazminatı tamamen kaldırabilir. Örneğin, trafik kazasında emniyet kemeri takmayan yolcunun yaralanma derecesi artmışsa, bu durum tazminatın indirilmesine neden olabilir.\n•   **Tazminatın Peşin veya İrat Şeklinde Ödenmesi:** Özellikle sürekli bakım gerektiren bedensel zararlar veya destekten yoksun kalma durumlarında, tazminatın tek seferde peşin ödenmesi yerine, belirli dönemlerde (aylık, yıllık gibi) irat (dönemsel ödeme) şeklinde ödenmesine karar verilebilir (TBK m. 55). Bu, zarar görenin mağduriyetini sürekli olarak gidermeyi amaçlar.\n•   **Zamanaşımı Sürelerinin Başlangıcı ve Önemi:** Haksız fiilden doğan tazminat taleplerinde TBK m. 72'deki 2 yıllık (öğrenme tarihinden itibaren) ve 10 yıllık (fiilin işlendiği tarihten itibaren) zamanaşımı süreleri hayati öneme sahiptir. Bu sürelerin kaçırılması, hak kaybına yol açar. Eğer fiil aynı zamanda ceza kanunlarına göre bir suç teşkil ediyorsa ve ceza zamanaşımı daha uzunsa, o süre uygulanır.\n•   **Kusursuz Sorumluluk Halleri:** Genel kural kusura dayalı sorumluluk olsa da, bazı durumlarda kanun koyucu, kusur aranmaksızın sorumluluk öngörmüştür. Tehlike sorumluluğu (TBK m. 71), hayvan bulunduranın sorumluluğu (TBK m. 67), yapı malikinin sorumluluğu (TBK m. 69) gibi haller bu kapsamdadır. Bu durumlarda tazminat talebi için sadece hukuka aykırı fiil, zarar ve illiyet bağının ispatı yeterlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Tazminatın Kaynakları Arasındaki Farklar:** Özellikle haksız fiil, sözleşmeye aykırılık ve sebepsiz zenginleşmeden doğan tazminat sorumluluklarının temel şartlarını, unsurlarını ve farklarını iyi kavramak önemlidir. HMGS sınavlarında bu borç kaynaklarının ayrımı ve her birinin kendine özgü şartları sıkça sorulabilir.\n•   **Haksız Fiilin Unsurları:** TBK m. 49'da düzenlenen haksız fiilin dört temel unsuru (hukuka aykırı fiil, zarar, kusur, illiyet bağı) ile bu unsurların her birinin içeriğini ve örneklerini detaylıca öğrenmek. Özellikle hukuka aykırılığı kaldıran haller (haklı savunma, rıza, kanun hükmü vb.) ve illiyet bağını kesen sebepler sınavda kritik olabilir.\n•   **Maddi ve Manevi Tazminatın Ayrımı:** Her iki tazminat türünün tanımını, talep şartlarını, hesaplama yöntemlerini, amaçlarını ve Borçlar Kanunu'ndaki ilgili maddelerini (TBK m. 50-54 vs. TBK m. 56) kesinlikle ayırt edebilmek. Manevi tazminatın zenginleşme aracı olmaması ve takdir yetkisi gibi noktalar önemlidir.\n•   **Kusur ve Kusursuz Sorumluluk İlkesi:** Genel sorumluluk ilkesi olan kusur sorumluluğunu ve istisnaları olan kusursuz sorumluluk hallerini (tehlike sorumluluğu, adam çalıştıranın sorumluluğu, hayvan sahibi sorumluluğu vb.) örneklerle birlikte anlamak. Hangi durumda kusurun aranmadığı ve neden aranmadığına odaklanmak.\n•   **Zamanaşımı Süreleri:** Haksız fiil, sözleşmeden doğan ve sebepsiz zenginleşmeden doğan tazminat davaları için öngörülen genel ve özel zamanaşımı sürelerini, bu sürelerin başlangıç anlarını ve sonuçlarını kesinlikle bilmek. Ceza zamanaşımının tazminat davasına etkisi de önemli bir detaydır.\n•   **Tazminatın Belirlenmesi ve İndirim Nedenleri:** Hakimin tazminat miktarını belirlemedeki takdir yetkisi, zarar görenin kusuru (müterafik kusur), zararın azaltılması yükümlülüğü ve hakkaniyet indirimi gibi tazminat miktarını etkileyen faktörleri iyi anlamak. Özellikle TBK m. 52'nin uygulama alanları önemlidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Haksız fiil sorumluluğunun Borçlar Kanunu'nda yer alan temel unsurları arasında aşağıdakilerden hangisi doğrudan yer almaz?",
+      "options": {
+        "A": "Hukuka aykırı fiil",
+        "B": "Zarar",
+        "C": "Sözleşmeye aykırılık",
+        "D": "Kusur",
+        "E": "İlliyet bağı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Haksız fiil sorumluluğunun temel unsurları hukuka aykırı fiil, zarar, kusur ve illiyet bağıdır (TBK m. 49). Sözleşmeye aykırılık ise bir sözleşmeden doğan borcun ihlali sonucunda ortaya çıkan ayrı bir sorumluluk nedenidir ve haksız fiilin doğrudan bir unsuru değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Borçlar Kanunu'na göre, haksız fiilden doğan tazminat istemi için öngörülen genel zamanaşımı süreleri hangi seçenekte doğru verilmiştir?",
+      "options": {
+        "A": "Zararı ve faili öğrenmeden itibaren 1 yıl ve her halde fiilden itibaren 5 yıl.",
+        "B": "Zararı ve faili öğrenmeden itibaren 2 yıl ve her halde fiilden itibaren 10 yıl.",
+        "C": "Zararı ve faili öğrenmeden itibaren 5 yıl ve her halde fiilden itibaren 15 yıl.",
+        "D": "Zararı ve faili öğrenmeden itibaren 10 yıl ve her halde fiilden itibaren 20 yıl.",
+        "E": "Zararı ve faili öğrenmeden itibaren 6 ay ve her halde fiilden itibaren 1 yıl."
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk Borçlar Kanunu'nun 72. maddesine göre, tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Manevi tazminatın temel amacı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Zarar görenin malvarlığını zenginleştirmek.",
+        "B": "Zarar verene caydırıcı bir ceza uygulamak.",
+        "C": "Kişilik haklarına saldırıdan duyulan elem ve ızdırabı bir nebze olsun hafifleterek teselli sağlamak.",
+        "D": "Devlete ek bir gelir kaynağı oluşturmak.",
+        "E": "Zarar görenin sosyal statüsünü yükseltmek."
+      },
+      "correctAnswer": "C",
+      "explanation": "Manevi tazminat, kişilik haklarının ihlali sonucunda duyulan ruhsal acı, elem ve üzüntüyü gidermeye yönelik bir teselli amacı güder. Amacı zarar görenin zenginleşmesi değildir ve ceza verme niteliği taşımaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir trafik kazasında, bir yayanın trafik ışıklarına uymayarak yola aniden çıkması ve bir aracın çarpması sonucu yaralanması durumunda, yayanın bu davranışı tazminat miktarı açısından nasıl değerlendirilir?",
+      "options": {
+        "A": "Yayanın kusuru olmadığından tazminat tam ödenir.",
+        "B": "Yayanın müterafik kusuru nedeniyle tazminat miktarında indirim yapılabilir veya tamamen kaldırılabilir.",
+        "C": "Yayanın kusuru, aracın kusurundan daha ağır olduğundan araç sürücüsü hiç tazminat ödemez.",
+        "D": "Bu durum sadece manevi tazminatın miktarını etkiler, maddi tazminatı etkilemez.",
+        "E": "Yayanın kusuru olsa bile, sürücünün sorumluluğu değişmez."
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk Borçlar Kanunu m. 52'ye göre, zarar görenin, zararın doğmasında veya artmasında kusuru bulunması hâlinde (müterafik kusur), hâkim tazminat miktarında indirim yapabilir veya tazminatı tamamen kaldırabilir. Yayanın trafik kurallarına uymaması müterafik kusur teşkil eder."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi, Türk Borçlar Kanunu'nda düzenlenen 'kusursuz sorumluluk' (objektif sorumluluk) hallerinden birine örnek teşkil eder?",
+      "options": {
+        "A": "Bir kişinin kasten komşusunun bahçesindeki ağaçları kesmesi.",
+        "B": "Bir doktorun ameliyatta gerekli özeni göstermeyerek hastasına zarar vermesi.",
+        "C": "Hayvan bulunduranın, hayvanının başkasına zarar vermesinden doğan sorumluluğu.",
+        "D": "Bir müteahhidin, sözleşmeye aykırı olarak kalitesiz malzeme kullanması.",
+        "E": "Bir gazetenin, gerçekleri araştırmadan yanlış haber yayımlaması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Hayvan bulunduranın sorumluluğu (TBK m. 67), bir kusur aramaksızın hayvanın verdiği zarardan dolayı sahibinin sorumlu olduğu bir kusursuz sorumluluk (objektif sorumluluk) halidir. Diğer seçenekler kusura dayalı sorumluluk veya sözleşmeden doğan sorumluluk örnekleridir."
+    }
+  ]
+}

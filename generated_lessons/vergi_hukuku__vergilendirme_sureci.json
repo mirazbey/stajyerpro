@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Vergi Tanımı:** Devletin veya yetkili kamu kuruluşlarının, kamu harcamalarını karşılamak üzere, egemenlik gücüne dayanarak, kanunlara uygun biçimde, karşılıksız ve zorunlu olarak gerçek ve tüzel kişilerden aldığı ekonomik değerlerdir.\n•   **Verginin Unsurları:** Verginin kamu gücüne dayanması (cebrilik), karşılıksız olması, kanunilik ilkesine tabi olması, sürekli ve düzenli olması, maliye hazinesine aktarılması ve amacının kamu giderlerini karşılamak olması temel unsurlarıdır.\n•   **Vergilendirme Sürecinin Aşamaları:** Bir verginin doğuşundan tahsiline kadar geçen dört temel aşamadan oluşur: Tarh, Tebliğ, Tahakkuk ve Tahsil.\n•   **Vergi Yükümlüsü (Mükellef):** Vergi kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir. Verginin kanuni muhatabıdır.\n•   **Vergi Sorumlusu:** Verginin ödenmesi bakımından vergi dairesine karşı sorumlu olan, ancak vergi yükümlüsü olmayan kişidir (örn: stopaj yoluyla vergi kesintisi yapan işveren).\n•   **Vergi Hukuku Kaynakları:** Anayasa, Vergi Kanunları (VUK, GVK, KVK vb.), Uluslararası Vergi Anlaşmaları, Kanun Hükmünde Kararnameler, Tüzükler, Yönetmelikler ve diğer idari düzenlemeler vergi hukukunun başlıca kaynaklarıdır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türkiye Cumhuriyeti Anayasası (Madde 73):** 'Herkes, kamu giderlerini karşılamak üzere, mali gücüne göre, vergi ödemekle yükümlüdür. Vergi yükünün adaletli ve dengeli dağılımı maliye politikasının sosyal amacıdır. Vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır.' Bu madde, verginin kanuniliği ve mali güç ilkelerini ortaya koyar.\n•   **213 Sayılı Vergi Usul Kanunu (VUK):** Vergilendirme sürecinin temelini oluşturan, verginin tarhı, tebliği, tahakkuku ve tahsiline ilişkin usul ve esasları düzenler. Ayrıca vergi yükümlülüğünü, vergi hatalarını, vergi denetimini ve vergi cezalarını da kapsar.\n•   **6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK):** Devlete, il özel idarelerine ve belediyelere ait vergi, resim, harç, para cezası ve benzeri tüm amme alacaklarının tahsiline ilişkin usul ve esasları düzenler. Özellikle tahsilatın cebri icra yöntemlerini (haciz, satış vb.) içerir.\n•   **Gelir Vergisi Kanunu (GVK), Kurumlar Vergisi Kanunu (KVK), Katma Değer Vergisi Kanunu (KDV K) vb.:** Her bir vergi türünün konusunu, mükellefiyetini, matrahını, oranlarını, istisna ve muafiyetlerini ayrı ayrı düzenleyen özel kanunlardır.\n•   **2577 Sayılı İdari Yargılama Usulü Kanunu ve 2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun:** Vergi uyuşmazlıklarının çözümünde izlenecek yargılama usullerini ve yetkili mahkemeleri belirler.\n•   **Çifte Vergilendirmeyi Önleme Anlaşmaları (ÇVÖA):** Uluslararası alanda, farklı ülkelerin vergi sistemleri arasındaki çakışmaları ve çifte vergilendirmeyi önlemek amacıyla yapılan ikili anlaşmalardır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Gelir Vergisi Beyannamesinin Verilmesi ve Tarh:** Bir ücretli, yıl sonunda elde ettiği gelirleri için Mart ayında Gelir Vergisi Beyannamesi verir. Vergi dairesi, beyannameye dayanarak vergiyi hesaplar (tarh eder) ve tahakkuk fişini düzenler.\n•   **Örnek 2: KDV'nin Beyanı ve Ödenmesi:** Bir şirketin sattığı mal ve hizmetler üzerinden hesapladığı Katma Değer Vergisini (KDV), her ayın 26'sına kadar elektronik ortamda beyan etmesi ve aynı gün ödemesi. Bu süreç tebliğ (beyanname kabulü), tahakkuk (ödenecek tutarın kesinleşmesi) ve tahsil (ödeme) aşamalarını içerir.\n•   **Örnek 3: Vergi İncelemesi Sonucu Ek Tarhiyat:** Bir mükellefin defter ve belgeleri üzerinde yapılan inceleme sonucunda, geçmiş dönemlere ait eksik beyan edilmiş bir kazancın tespit edilmesi üzerine, mükellefe ek vergi ve vergi cezası kesilmesi ve bu durumun bir vergi/ceza ihbarnamesi ile tebliğ edilmesi.\n•   **Örnek 4: Ödeme Emri ve Cebri İcra:** Vergisini zamanında ödemeyen bir mükellefe, vergi dairesi tarafından 6183 sayılı AATUHK uyarınca ödeme emri gönderilmesi. Mükellefin ödeme emrine rağmen borcunu ödememesi durumunda, banka hesaplarına veya taşınmazlarına haciz konulması suretiyle tahsil yoluna gidilmesi.\n•   **Örnek 5: Vergi Hatasının Düzeltilmesi Talebi:** Bir mükellefin, yanlışlıkla iki kez ödediği veya hatalı beyan nedeniyle fazla ödediği bir verginin iadesi veya mahsubu için vergi dairesine düzeltme ve şikayet yoluyla başvurması.\n•   **Örnek 6: İhtirazi Kayıtla Beyan ve Dava Açma:** Bir mükellefin, vergi dairesinin bir uygulaması veya tebliğ ettiği vergi/ceza ihbarnamesinin hukuka aykırı olduğunu düşünerek, ödeme yaparken 'ihtirazi kayıtla' beyanname vermesi veya ödeme yapması ve ardından vergi mahkemesinde dava açarak işlemin iptalini talep etmesi."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kanunilik İlkesi ve Yorum:** Vergi hukukunda kanunilik ilkesi çok katıdır. Verginin matrahı, oranı, mükellefi gibi temel unsurları ancak kanunla düzenlenebilir. Kıyas yasağı ve yorumda dar yorum ilkesi önemlidir.\n•   **Süreler ve Müeyyideleri:** Vergilendirme sürecindeki beyan, ödeme, itiraz, dava açma gibi tüm işlemler yasal sürelere tabidir. Sürelerin kaçırılması hak kayıplarına (hukuki ve cezai müeyyideler) yol açabilir.\n•   **Tebliğ Usulü ve Önemi:** Vergi işlemlerinin hukuki sonuç doğurabilmesi için usulüne uygun olarak mükellefe tebliğ edilmesi şarttır. Tebliğdeki hatalar, işlemin sakatlanmasına neden olabilir.\n•   **Vergi Hataları ve Düzeltme Yolları:** Mükellefin veya idarenin hatasından kaynaklanan vergi hataları (hesap hatası, matrah hatası, mükerrer vergi vb.) düzeltme dilekçesi, şikayet yoluyla veya kendiliğinden düzeltilebilir. Bu yollar dava açma sürelerini etkileyebilir.\n•   **Uzlaşma ve Dava Yolları:** Mükellefler, kendilerine tebliğ edilen vergi ve cezalara karşı, dava açmadan önce idare ile uzlaşma yoluna gidebilirler. Uzlaşmanın sağlanamaması veya uzlaşma yoluna gidilmemesi halinde idari yargıda dava açma hakları vardır. Her iki yolun da kendine özgü süreleri ve sonuçları vardır.\n•   **Vergi Ceza Hukuku:** Vergi ziyaı cezası, usulsüzlük cezaları gibi vergi suç ve kabahatlerine ilişkin cezalar, vergilendirme sürecinin önemli bir parçasıdır. Bu cezalar, vergi kaçakçılığı gibi suçlarla mücadelede caydırıcı rol oynar ve ağır idari ve adli yaptırımları olabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Vergi Kavramlarını İçselleştirin:** Verginin tanımı, özellikleri, türleri (gelir, harcama, servet) ve özellikle vergilendirme sürecinin (tarh, tebliğ, tahakkuk, tahsil) aşamaları ve anlamları çok iyi anlaşılmalıdır.\n•   **Yasal Dayanakları ve Ana Maddeleri Ezberleyin:** Özellikle Anayasa'nın 73. maddesi, VUK'un temel hükümleri (tarh, tebliğ, tahakkuk, tahsil, hata düzeltme), AATUHK'nın genel prensipleri ve tahsilat yöntemleri hakkında bilgi sahibi olunmalıdır.\n•   **Süreç Akışını Şemalarla Öğrenin:** Vergilendirme sürecinin dört aşaması arasındaki ilişkiyi ve bu aşamalarda hangi işlemlerin yapıldığını, örneklerle veya kendi oluşturduğunuz akış şemalarıyla pekiştirin.\n•   **Örnek Olay Analizi Yapın:** Verilen pratik örnekler veya kendi düşüneceğiniz senaryolar üzerinden vergilendirme sürecinin nasıl işlediğini, hangi kanun maddelerinin devreye girdiğini ve olası sonuçlarını analiz etme becerisi geliştirin.\n•   **Dikkat Noktalarını Tekrarlayın:** Kanunilik ilkesi, sürelerin önemi, tebliğ usulü, vergi hataları ve çözüm yolları, uzlaşma ve dava açma süreçleri gibi kritik noktalar üzerinden geçerek bilgi eksiklerinizi tamamlayın.\n•   **Çoktan Seçmeli Sorularla Pratik Yapın:** Edindiğiniz bilgileri pekiştirmek ve sınav formatına alışmak için bolca çoktan seçmeli soru çözerek hız ve doğruluk oranınızı artırın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi vergilendirme sürecinin temel aşamalarından biri değildir?",
+      "options": {
+        "A": "Tarh",
+        "B": "Tebliğ",
+        "C": "Denetim",
+        "D": "Tahakkuk",
+        "E": "Tahsil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vergilendirme sürecinin temel aşamaları Vergi Usul Kanunu'nda Tarh, Tebliğ, Tahakkuk ve Tahsil olarak belirlenmiştir. Denetim, bu aşamalar içinde yer alan bir faaliyet olmakla birlikte, sürecin temel aşamalarından biri olarak kabul edilmez."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türkiye Cumhuriyeti Anayasası'nın 73. maddesi uyarınca, vergi, resim, harç ve benzeri mali yükümlülükler hangi yolla konulur, değiştirilir veya kaldırılır?",
+      "options": {
+        "A": "Cumhurbaşkanlığı Kararnamesi ile",
+        "B": "Bakanlar Kurulu Kararı ile",
+        "C": "Kanunla",
+        "D": "Maliye Bakanlığı Genelgesi ile",
+        "E": "Anayasa Mahkemesi Kararı ile"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa'nın 73. maddesi, 'Vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır.' hükmünü içermektedir. Bu, vergi hukukunun en temel ilkesi olan kanunilik ilkesinin anayasal dayanağıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Vergi Usul Kanunu'na göre, mükellef tarafından ödenmesi gereken verginin miktarının hesaplanması ve bu miktarın yasal defterlere kaydedilmesi işlemi aşağıdaki aşamalardan hangisidir?",
+      "options": {
+        "A": "Tebliğ",
+        "B": "Tarh",
+        "C": "Tahakkuk",
+        "D": "Tahsil",
+        "E": "Uzlaşma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tarh, verginin kanunlarına göre miktarının hesaplanması işlemidir. Tebliğ hesaplanan verginin mükellefe bildirilmesi, tahakkuk verginin kesinleşmesi, tahsil ise ödenmesidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun (AATUHK) esas olarak hangi vergilendirme aşamasına ilişkin hükümleri düzenler?",
+      "options": {
+        "A": "Tarh",
+        "B": "Tebliğ",
+        "C": "Tahakkuk",
+        "D": "Tahsil",
+        "E": "Denetim"
+      },
+      "correctAnswer": "D",
+      "explanation": "AATUHK, devlete ait tüm amme alacaklarının tahsiline ilişkin usul ve esasları düzenler. Özellikle cebri icra yöntemleri bu kanun kapsamında yer alır, dolayısıyla tahsil aşamasıyla doğrudan ilgilidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir mükellefin, vergi dairesi tarafından kendisine tebliğ edilen bir vergi/ceza ihbarnamesinin hukuka aykırı olduğunu düşünerek, ödeme yaparken 'ihtirazi kayıtla' beyanname vermesi veya ödeme yapması ne anlama gelir?",
+      "options": {
+        "A": "Mükellefin vergisini ödemeyeceği anlamına gelir.",
+        "B": "Mükellefin borcunu tamamen kabul ettiği anlamına gelir.",
+        "C": "Mükellefin vergiyi ödeyerek yargı yoluna başvurma hakkını saklı tuttuğu anlamına gelir.",
+        "D": "Mükellefin vergi dairesi ile uzlaşma talep ettiği anlamına gelir.",
+        "E": "Mükellefin vergi hatası düzeltme talebinde bulunduğu anlamına gelir."
+      },
+      "correctAnswer": "C",
+      "explanation": "İhtirazi kayıtla beyan veya ödeme, mükellefin tebliğ edilen vergi veya cezaya itirazı olduğunu ve yargı yoluna başvurma hakkını saklı tuttuğunu gösterir. Böylece, ödeme yapmasına rağmen, sonrasında dava açarak işlemi iptal ettirme imkanı bulunur."
+    }
+  ]
+}

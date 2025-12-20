@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Arabuluculuk:** Hukuk uyuşmazlıklarında tarafların, tarafsız bir üçüncü kişi (arabulucu) aracılığıyla, mahkemeye gitmeden veya mahkeme sürecinde anlaşarak uyuşmazlıklarını çözmelerini sağlayan alternatif bir uyuşmazlık çözüm yöntemidir.\n•   **Zorunlu Arabuluculuk (Dava Şartı Arabuluculuk):** Belirli dava türlerinde, dava açılmadan önce arabuluculuk yoluna başvurulmasının yasa tarafından zorunlu tutulmasıdır. Bu başvuru yapılmadan açılan dava, dava şartı eksikliğinden reddedilir.\n•   **Ticari Dava:** Türk Ticaret Kanunu (TTK) ve diğer kanunlarda ticari dava olarak belirlenen veya bir ticari işletmeyi ilgilendiren hukuki uyuşmazlıklardan doğan davalardır. Ticari davalar, mutlak ticari davalar ve nispi ticari davalar olarak iki ana başlıkta incelenir (Dilek Cengiz, Ticaret Hukuku, Bölüm 5).\n•   **Mutlak Ticari Davalar:** Tarafların tacir olup olmadığına veya işin ticari işletmeyle ilgili olup olmadığına bakılmaksızın Türk Ticaret Kanunu’nda veya özel kanunlarda açıkça ticari dava olarak belirtilen davalardır (Dilek Cengiz, Ticaret Hukuku, 5.2.2).\n•   **Nispi Ticari Davalar:** Her iki tarafın da tacir olduğu ve uyuşmazlığın her iki tarafın da ticari işletmesiyle ilgili olduğu davalardır. Bu tür davaların ticari dava sayılabilmesi için her iki şartın da birlikte gerçekleşmesi gerekir (Dilek Cengiz, Ticaret Hukuku, 5.2.3, 5.2.4).\n•   **Dava Şartı:** Bir davanın mahkeme tarafından esastan incelenebilmesi için varlığı veya yokluğu zorunlu olan hallerdir. Zorunlu arabuluculuk, ticari davaların önemli bir kısmı için dava şartı niteliğindedir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (HUAK) m. 18/A:** Ticari davalarda zorunlu arabuluculuğun temel yasal dayanağını oluşturur. Bu maddeye göre, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulması dava şartıdır.\n•   **Türk Ticaret Kanunu (TTK) m. 4:** Ticari davaları tanımlar ve hangi uyuşmazlıkların ticari mahkemelerde görüleceğini belirler. Zorunlu arabuluculuk, bu madde kapsamında yer alan ticari davaların birçoğu için geçerlidir. Özellikle TTK m.4/1’de sayılan mutlak ticari davalar ve TTK m.4/2’deki nispi ticari davalar arabuluculuğa tabidir.\n•   **HMK m. 114/2:** Dava şartlarının yokluğunda davanın usulden reddedileceğini düzenler. Zorunlu arabuluculuk şartı yerine getirilmeden açılan ticari davalar, bu madde uyarınca dava şartı eksikliği nedeniyle reddedilir.\n•   **HUAK m. 18/A İstisnaları:** İşçi-işveren uyuşmazlıkları (iş hukukunda ayrı bir zorunlu arabuluculuk sistemi vardır), tüketici uyuşmazlıkları (tüketici arabuluculuğu ayrı düzenlenmiştir), iflas ve konkordato davaları, taşınmazın aynından doğan davalar gibi bazı ticari nitelikli uyuşmazlıklar zorunlu arabuluculuk kapsamı dışındadır.\n•   **HUAK Yönetmeliği:** Zorunlu arabuluculuk sürecinin nasıl işleyeceğine dair usul ve esasları düzenler. Arabuluculuk bürolarına başvuru, arabulucu atanması, sürecin başlaması ve sona ermesi gibi konularda detaylı hükümler içerir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Mal Satışından Kaynaklanan Alacak Davaları:** Bir tacirin diğer bir tacire sattığı malların bedelinin ödenmemesi nedeniyle açacağı alacak davaları, her iki taraf da tacir ve iş ticari işletmeleriyle ilgili olduğundan zorunlu arabuluculuğa tabidir.\n•   **Hizmet Sözleşmesinden Doğan Tazminat Davaları:** İki ticari işletme arasında akdedilen bir hizmet sözleşmesinin ihlali nedeniyle istenen tazminat davaları, dava açılmadan önce arabuluculuk şartına tabidir.\n•   **Kira İlişkisinden Kaynaklanan Davalar (Ticari Nitelikte):** Bir ticari işletmenin faaliyet gösterdiği taşınmazın kirasıyla ilgili alacak, tazminat veya tahliye davaları (özellikle kira bedelinin ödenmemesi gibi parasal talepler), ticari nitelik taşıyorsa zorunlu arabuluculuk kapsamına girer. Ancak taşınmazın aynına ilişkin davalar bu kapsam dışındadır.\n•   **Abonelik Sözleşmelerinden Doğan Davalar:** Telekomünikasyon, enerji, su gibi abonelik hizmeti sunan ticari işletmelerin abonelerinden alacak talepleri veya abonelerin bu işletmelerden tazminat talepleri (tüketici işlemi niteliğinde değilse), zorunlu arabuluculuğa tabidir.\n•   **Cari Hesap Sözleşmesinden Doğan Davalar:** İki tacir arasında devam eden cari hesap ilişkisinden kaynaklanan alacak veya menfi tespit davaları, zorunlu arabuluculuk kapsamında yer alır.\n•   **Bankacılık İşlemlerinden Kaynaklanan Alacak Davaları:** Bankaların (bir ticari işletme olarak) müşterilerinden (eğer müşteri de tacir ise veya işlem ticari nitelikte ise) doğan alacak davaları, zorunlu arabuluculuğa tabidir. Ancak tüketici bankacılığı işlemleri tüketici arabuluculuğuna yönlendirilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kapsam Karmaşası:** Her ticari davanın zorunlu arabuluculuğa tabi olmadığı unutulmamalıdır. Sadece \"konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri\" zorunludur. Menfi tespit, istirdat, fuzuli işgal gibi davalar, temelinde bir alacak/tazminat talebi varsa zorunlu olabilir; ancak doğrudan ayni haklara ilişkin veya eda niteliğinde olmayan davalar genellikle kapsam dışıdır.\n•   **Dava Şartı İhlali:** Arabuluculuk sürecine başvurulmadan dava açılması durumunda, mahkeme dava şartı yokluğundan davayı usulden reddeder. Bu durum, davacı için ek maliyet ve zaman kaybı anlamına gelir.\n•   **Süreler:** Arabuluculuk süreci başvuru tarihinden itibaren üç hafta içinde tamamlanır. Bu süre, zorunlu hallerde arabulucu tarafından en fazla bir hafta uzatılabilir. Bu sürelerin takibi önemlidir.\n•   **Arabuluculuk Ücreti:** Arabuluculuk süreci anlaşmayla sonuçlanmazsa, iki saatlik arabuluculuk ücreti Hazine tarafından karşılanır. Ancak daha uzun süren veya anlaşmayla sonuçlanan süreçlerde taraflar ücreti anlaşmaları oranında öder.\n•   **Gizlilik İlkesi:** Arabuluculuk sürecinde sunulan belgeler ve yapılan açıklamalar gizlidir. Bu bilgiler, daha sonra açılacak davada delil olarak kullanılamaz. Bu ilkeye riayet etmek ve tarafları bilgilendirmek önemlidir.\n•   **Yetkili Arabuluculuk Bürosu:** Arabuluculuk başvurusu, davalının yerleşim yeri veya işyerinin bulunduğu yerdeki arabuluculuk bürosuna yapılır. Birden fazla davalı varsa, bunlardan birinin yerleşim yeri veya işyerinin bulunduğu yerdeki büro da yetkilidir. Yetki hatası, sürecin uzamasına neden olabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kilit Kanun Maddeleri:** HUAK m. 18/A ve TTK m. 4'ü iyi öğrenin. HUAK 18/A'nın zorunlu arabuluculuğun kapsamını (para alacak ve tazminat) ve dava şartı niteliğini, TTK m. 4'ün ise ticari dava türlerini (mutlak ve nispi) nasıl belirlediğini anlayın.\n•   **İstisnaları Ezberleyin:** Zorunlu arabuluculuk kapsamı dışında kalan ticari nitelikli uyuşmazlıkları (iş hukuku, tüketici hukuku, iflas, konkordato, taşınmazın aynından doğan davalar vb.) mutlaka bilin.\n•   **Dava Şartı Niteliği ve Sonuçları:** Zorunlu arabuluculuk başvurusunun bir dava şartı olduğunu ve bu şartın yerine getirilmemesi halinde davanın usulden reddedileceğini kavrayın. Reddin hukuki ve mali sonuçlarını değerlendirin.\n•   **Süreleri ve Usulü:** Arabuluculuk başvuru sürelerini (3+1 hafta) ve sürecin işleyişini (başvuru, arabulucu atanması, ilk toplantı, son tutanağın düzenlenmesi) genel hatlarıyla bilin.\n•   **Uygulama Alanı Ayrımı:** Hangi tip ticari uyuşmazlıkların zorunlu arabuluculuğa tabi olduğunu, hangilerinin ihtiyari olduğunu veya kapsam dışında kaldığını örneklerle açıklayabilecek düzeyde bilgi sahibi olun. Özellikle \"konusu bir miktar paranın ödenmesi olan alacak ve tazminat\" şartına odaklanın.\n•   **Arabuluculuk Tutanağının Hukuki Niteliği:** Anlaşma tutanağının ilam niteliğinde belge olduğunu ve icra edilebilirlik şerhi alınarak ilamlı icraya konu edilebileceğini unutmayın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdaki ticari davalardan hangisi, Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na göre zorunlu arabuluculuğa tabi DEĞİLDİR?",
+      "options": {
+        "A": "İki tacir arasında mal satışından kaynaklanan 100.000 TL alacak davası.",
+        "B": "Bir ticari işletmenin, hizmet sözleşmesinin ihlali nedeniyle istediği 50.000 TL tazminat davası.",
+        "C": "Bir anonim şirketin, yönetim kurulu üyesinin şirket malvarlığına verdiği zarardan kaynaklanan sorumluluk davası.",
+        "D": "Bir şirketin iflasına ilişkin iflas davası."
+      },
+      "correctAnswer": "D",
+      "explanation": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (HUAK) m. 18/A uyarınca, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulması dava şartıdır. Ancak, iflas ve konkordato davaları, zorunlu arabuluculuk kapsamı dışında bırakılmıştır. Diğer seçenekler, alacak veya tazminat talebi içeren ticari davalar olduğundan zorunlu arabuluculuğa tabidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Zorunlu arabuluculuğa tabi bir ticari davada, arabuluculuk süreci tamamlanmadan dava açılması durumunda mahkeme ne karar verir?",
+      "options": {
+        "A": "Davanın esastan reddine.",
+        "B": "Davanın kabulüne, ancak arabuluculuk ücretinin davalıdan alınmasına.",
+        "C": "Davanın dava şartı yokluğu nedeniyle usulden reddine.",
+        "D": "Arabuluculuk sürecinin tamamlanması için ek süre verilmesine."
+      },
+      "correctAnswer": "C",
+      "explanation": "Zorunlu arabuluculuk, belirli ticari davalar için bir dava şartıdır. Hukuk Muhakemeleri Kanunu (HMK) m. 114/2 uyarınca, dava şartı eksikliği halinde dava esasa girilmeden usulden reddedilir. Arabuluculuk süreci tamamlanmadan açılan dava, bu eksiklik nedeniyle usulden reddedilecektir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na göre, zorunlu arabuluculuk süreci en geç ne kadar sürede tamamlanır?",
+      "options": {
+        "A": "İki hafta",
+        "B": "Üç hafta",
+        "C": "Bir ay",
+        "D": "Dört hafta"
+      },
+      "correctAnswer": "B",
+      "explanation": "HUAK m. 18/A f. 11 uyarınca, arabuluculuk bürosuna başvurulduğu tarihten itibaren üç hafta içinde arabuluculuk süreci tamamlanır. Zorunlu hallerde arabulucu bu süreyi en fazla bir hafta uzatabilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi, zorunlu arabuluculuk kapsamındaki ticari davalar için doğru bir ifadedir?",
+      "options": {
+        "A": "Her ticari dava zorunlu arabuluculuğa tabidir.",
+        "B": "Zorunlu arabuluculuk sadece tacirler arasındaki uyuşmazlıklar için geçerlidir.",
+        "C": "Sadece konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri zorunlu arabuluculuğa tabidir.",
+        "D": "Arabuluculuk süreci anlaşmayla sonuçlanmasa bile, tüm arabuluculuk ücretleri devlet tarafından karşılanır."
+      },
+      "correctAnswer": "C",
+      "explanation": "HUAK m. 18/A açıkça 'konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri' hakkında dava açılmadan önce arabulucuya başvurulmasının dava şartı olduğunu belirtir. A seçeneği yanlıştır çünkü her ticari dava değil, sadece belirtilen nitelikteki davalar zorunludur. B seçeneği yanlıştır çünkü taraflardan biri tacir olmasa bile işin ticari işletmeyi ilgilendirmesi durumunda ticari dava ve dolayısıyla zorunlu arabuluculuk söz konusu olabilir (mutlak ticari davalar). D seçeneği yanlıştır; anlaşma olmaması halinde sadece iki saatlik ücret Hazinece karşılanır, daha uzun süren veya anlaşmayla biten süreçlerde ücretin tamamı veya kalan kısmı taraflarca ödenir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Zorunlu arabuluculuk süreci sonunda düzenlenen anlaşma belgesi (anlaşma tutanağı) hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Sadece tavsiye niteliğindedir ve hukuki bağlayıcılığı yoktur.",
+        "B": "Mahkemeden icra edilebilirlik şerhi alınmadan doğrudan ilamlı icraya konulabilir.",
+        "C": "İlam niteliğinde belgedir ve mahkemeden icra edilebilirlik şerhi alınarak ilamlı icra takibine konu edilebilir.",
+        "D": "Tarafların imzası yeterli değildir; mutlaka bir hakimin onayını gerektirir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na göre, arabuluculuk faaliyeti sonunda varılan anlaşma tutanağı, icra edilebilirlik şerhi alınmak suretiyle ilam niteliğinde belge hükmündedir. Bu şerh alındıktan sonra ilamlı icra takibine konu edilebilir. Anlaşma belgesi, taraflar ve arabulucu tarafından imzalandığında bağlayıcılık kazanır, ancak ilamlı icra için mahkeme şerhi gerekir."
+    }
+  ]
+}

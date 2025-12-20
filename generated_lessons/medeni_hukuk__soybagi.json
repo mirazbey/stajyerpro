@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Soybağı Tanımı:** Kişiler arasındaki kan hısımlığına, evlat edinmeye veya evlilik ilişkisine dayanan hukuksal bağı ifade eder. Medeni Hukukun Aile Hukuku dalının temelini oluşturur.\n•   **Kan Hısımlığı (Nesep):** Aynı soydan gelen kişiler arasındaki bağıdır. Üstsoy-altsoy (dikey) ve yansoy (yatay) hısımlığı olarak ikiye ayrılır. Derece ile ifade edilir (örn. ana-baba ile çocuk birinci derece üstsoy-altsoy hısımlarıdır).\n•   **Kayın Hısımlığı (Sıhri Hısımlık):** Bir eş ile diğer eşin kan hısımları arasındaki bağıdır. Evlilik sona erse dahi bu hısımlık devam eder. Evliliğin tarafları arasında değil, eşin hısımları ile diğer eş arasında kurulur (örn. kayınvalide-gelin).\n•   **Evlat Edinme (Evlatlık İlişkisi):** Kanuni şartlara uygun olarak mahkeme kararıyla kurulan yapay bir soybağıdır. Evlat edinen ile evlatlık arasında kan hısımlığına benzer bir ilişki yaratır.\n•   **Soybağının Hukuki Önemi:** Miras hakkı, nafaka yükümlülüğü, velayet, vesayet, isim ve vatandaşlık gibi birçok hukuki sonuç doğurur. Kamu düzenine ilişkin önemli hükümler içerir.\n•   **Çocuk ile Ana-Baba Arasındaki Soybağı:** Medeni Hukukta en temel soybağı ilişkisidir. Genellikle ana ile çocuk arasında doğumla, baba ile çocuk arasında ise evlilik karinesi, tanıma veya babalık davası gibi yollarla kurulur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Medeni Kanunu (TMK):** Soybağına ilişkin temel düzenlemeler, TMK'nın İkinci Kitabı olan Aile Hukuku başlığı altında, Üçüncü Kısım 'Soybağı' bölümünde (m. 282-363) yer almaktadır.\n•   **Ana ile Çocuk Arasındaki Soybağı (TMK m. 282):** Ana ile çocuk arasındaki soybağı, çocuğun anneden doğmasıyla kurulur. Bu konuda herhangi bir ispat zorluğu veya karineye ihtiyaç duyulmaz; doğum olayı yeterlidir.\n•   **Baba ile Çocuk Arasındaki Soybağı (TMK m. 282):** Baba ile çocuk arasındaki soybağı üç şekilde kurulur: a) Ana ile evlilik, b) Tanıma, c) Babalık hükmü (mahkeme kararı). Ayrıca evlat edinme yoluyla da soybağı kurulabilir.\n•   **Evlilik Karinesi (TMK m. 285):** Evlilik devam ederken veya evliliğin sona ermesinden başlayarak üçyüz gün içinde doğan çocuğun babası kocadır. Bu, çürütülebilir bir yasal karinedir ve soybağının reddi davasıyla ortadan kaldırılabilir.\n•   **Tanıma (TMK m. 295):** Bir erkeğin, evlilik dışı doğmuş çocuğunun kendisinden olduğunu resmi senetle veya vasiyetnameyle kabul etmesidir. Tanımanın geçerliliği için ana ve çocukla herhangi bir hukuki bağın olmaması gerekir.\n•   **Babalık Davası (TMK m. 301):** Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini amaçlayan bir davadır. Çocuğun ana veya vasisi tarafından açılabilir. Delil olarak genellikle DNA testleri kullanılır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Evlilik İçi Soybağı):** Ayşe ve Mehmet evlidir. Evlilikleri devam ederken Ayşe bir çocuk dünyaya getirir. Bu çocuğun babası, TMK m. 285 gereğince karine olarak Mehmet'tir. Mehmet, bu soybağını reddetmek isterse 'soybağının reddi' davası açmalıdır.\n•   **Örnek 2 (Evlilik Dışı Soybağı - Tanıma):** Bekar olan Elif'in evlilik dışı bir çocuğu dünyaya gelir. Çocuğun biyolojik babası olduğunu bilen Can, noterde düzenleyeceği resmi senetle çocuğu tanıyabilir. Bu tanıma ile Can ile çocuk arasında soybağı kurulur.\n•   **Örnek 3 (Evlat Edinme):** Evli olan Fatma ve Ali'nin çocukları yoktur. Aile ve Sosyal Hizmetler Bakanlığı'ndan uygun görülen 5 yaşındaki Zeynep'i evlat edinme kararı alırlar. Mahkemece verilen evlat edinme kararı ile Zeynep ile Fatma ve Ali arasında, yasal olarak kan hısımlığına eşdeğer bir soybağı kurulur.\n•   **Örnek 4 (Babalık Davası):** Ayşe, evlilik dışı bir çocuğu olduğunu ve babanın Hasan olduğunu iddia etmektedir. Hasan çocuğu tanımadığı için Ayşe, çocuk adına Hasan'a karşı babalık davası açar. Mahkeme, DNA testi talep ederek Hasan'ın biyolojik baba olup olmadığını tespit eder.\n•   **Örnek 5 (Soybağının Reddi Süresi):** Evlilik içinde doğan çocuğunun kendi çocuğu olmadığını düşünen baba, doğumdan itibaren 1 yıl içinde soybağının reddi davası açmak zorundadır. Bu süre hak düşürücü bir süredir; süresi içinde dava açılmazsa soybağı kesinleşir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kamu Düzeni İlkesi:** Soybağına ilişkin hükümler büyük ölçüde kamu düzenine ilişkindir. Bu nedenle tarafların serbest iradesiyle soybağı kurulamaz veya kaldırılamaz; kanunun öngördüğü yöntemlere sıkı sıkıya bağlı kalınması gerekir.\n•   **Hak Düşürücü Süreler:** Soybağının reddi, tespiti veya tanımanın iptali gibi davalarda genellikle kısa ve kesin hak düşürücü süreler öngörülmüştür. Bu sürelerin kaçırılması, dava hakkının kaybedilmesine yol açar.\n•   **İspat Kolaylığı ve Zorluğu:** Ana ile çocuk arasındaki soybağı doğumla kolayca ispatlanırken, baba ile çocuk arasındaki soybağının evlilik dışı durumlarda ispatı (tanıma, babalık davası) daha karmaşık olabilir ve biyolojik testler gerektirebilir.\n•   **Çocuğun Üstün Yararı İlkesi:** Soybağına ilişkin tüm düzenlemelerde ve mahkeme kararlarında, çocuğun üstün yararı ilkesi temel alınır. Çocuğun fiziksel, ruhsal ve ekonomik menfaatleri ön planda tutulur.\n•   **Evlat Edinme ve Miras:** Evlat edinme, evlatlık ile evlat edinen arasında mirasçılık ilişkisi doğurur. Ancak evlatlığın kendi biyolojik ailesiyle olan mirasçılık ilişkisi de devam ederken, evlat edinenin hısımlarına mirasçı olamaz.\n•   **Soybağı ve İsim:** Soybağı, çocuğun soyadının belirlenmesinde doğrudan etkilidir. Evlilik içinde doğan çocuk babanın soyadını, evlilik dışında doğup tanınan çocuk tanıyan babanın soyadını alır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Ana ve Baba ile Soybağı Kurulma Yollarını Ayırt Etme:** Ana ile soybağının sadece doğumla kurulduğunu, baba ile soybağının ise evlilik karinesi, tanıma, babalık davası ve evlat edinme ile kurulduğunu kesinlikle bilmelisiniz.\n•   **Davaları ve Süreleri Bilme:** Soybağının reddi, soybağının tespiti, tanımanın iptali ve babalık davalarının tarafları, açılma süreleri (özellikle hak düşürücü süreler) ve ispat kurallarını iyi ezberleyin.\n•   **Evlat Edinmenin Şartları ve Sonuçları:** Evlat edinme için aranan yaş farkı, rıza, bir yıl bakım gibi şartları ve evlat edinmenin yarattığı miras, velayet gibi sonuçları öğrenin.\n•   **Temel Kavramlara Hakim Olma:** Kan hısımlığı, kayın hısımlığı, üstsoy, altsoy, yansoy, hısımlık derecesi gibi kavramları tanımlayabilmeli ve örnekler verebilmelisiniz.\n•   **Örnek Olay Analizi:** Verilen somut olaylarda hangi soybağı kuralının uygulanacağını, hangi davanın açılması gerektiğini ve olası sonuçları belirleyebilme yeteneğinizi geliştirin.\n•   **İlgili TMK Maddelerini Bilme:** Soybağına ilişkin temel maddeler olan TMK m. 282, 285, 286, 295, 301, 305 gibi maddelerin içeriklerini genel hatlarıyla kavramak önemlidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Medeni Kanunu'na göre, ana ile çocuk arasındaki soybağı hangi durumla kurulur?",
+      "options": {
+        "A": "Çocuğun ana tarafından tanınmasıyla",
+        "B": "Evlat edinme yoluyla",
+        "C": "Çocuğun anneden doğmasıyla",
+        "D": "Mahkeme kararıyla babalık hükmüyle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Medeni Kanunu'nun 282. maddesine göre, ana ile çocuk arasındaki soybağı, çocuğun anneden doğmasıyla kurulur. Diğer seçenekler baba ile soybağı veya evlat edinme ile ilgili durumlardır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi baba ile çocuk arasındaki soybağının kurulma yollarından biri **değildir**?",
+      "options": {
+        "A": "Ana ile evlilik",
+        "B": "Babalık hükmü (mahkeme kararı)",
+        "C": "Evlat edinme",
+        "D": "Kayın hısımlığı"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kayın hısımlığı, bir eş ile diğer eşin kan hısımları arasındaki ilişkidir ve bir soybağı kurma yolu değildir. Baba ile çocuk arasındaki soybağı; ana ile evlilik, tanıma, babalık hükmü ve evlat edinme yoluyla kurulur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Evlilik birliği içinde doğan çocuğun babasının koca olduğu karinesi hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Bu karine mutlaktır ve asla çürütülemez.",
+        "B": "Koca, doğumdan itibaren 5 yıl içinde soybağının reddi davası açabilir.",
+        "C": "Bu karine, soybağının reddi davasıyla çürütülebilir.",
+        "D": "Çocuğun biyolojik babası olduğu iddia edilen kişi tarafından açılan davayla kaldırılır."
+      },
+      "correctAnswer": "C",
+      "explanation": "TMK m. 285'te yer alan bu karine çürütülebilir bir karinedir. Koca veya diğer ilgililer, kanunda belirtilen süreler içinde 'soybağının reddi' davası açarak bu karineyi ortadan kaldırabilirler. Dava açma süresi genellikle doğumdan itibaren 1 yıldır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Evlat edinme ile kurulan soybağı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "Evlat edinme, mahkeme kararı ile kurulur.",
+        "B": "Evlatlık, evlat edinenin mirasçısı olur.",
+        "C": "Evlatlık, kendi biyolojik ailesiyle olan mirasçılık ilişkisini tamamen kaybeder.",
+        "D": "Evlat edinen ile evlatlık arasında kan hısımlığına eşdeğer hak ve yükümlülükler doğar."
+      },
+      "correctAnswer": "C",
+      "explanation": "Evlat edinme ile evlatlık, evlat edinenin mirasçısı olur. Ancak evlatlığın kendi biyolojik ailesiyle olan mirasçılık ilişkisi, evlat edinme ile tamamen sona ermez; bu ilişki korunur. Yanlış olan ifade C seçeneğidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Evlilik dışı doğan çocuğunu tanımak isteyen bir erkek, tanıma işlemini hangi yollardan biriyle gerçekleştirebilir?",
+      "options": {
+        "A": "Sözlü beyanla aile mahkemesine başvurarak",
+        "B": "Mahkemeye dilekçe sunarak",
+        "C": "Resmi senetle veya vasiyetnameyle",
+        "D": "Sadece annenin rızasıyla nüfus müdürlüğüne bildirimle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Medeni Kanunu'nun 295. maddesine göre, tanıma resmi senetle veya vasiyetnameyle yapılır. Sözlü beyan veya basit dilekçe yeterli değildir. Annenin rızası tanıma için bir şart olmasa da, ana veya çocuk tanımanın iptali davası açabilirler."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Suç Kavramı:** Ceza hukuku anlamında suç, kanunda tanımlanmış, hukuka aykırı ve kusurlu bir insan davranışıdır. Toplumsal düzeni bozan ve yaptırım olarak ceza veya güvenlik tedbiri gerektiren eylemleri ifade eder.\n•   **Suçun Unsurları:** Bir fiilin suç sayılabilmesi için \"maddi unsur (tipiklik)\", \"hukuka aykırılık unsuru\" ve \"manevi unsur (kusurluluk)\" olmak üzere üç temel unsurun bir arada bulunması gerekir.\n•   **Ceza Hukukunun Amaçları:** Genel olarak suç işlenmesini önlemek (genel önleme) ve suç işleyen kişinin tekrar suç işlemesini engellemek (özel önleme) ile adalet ve hakkaniyeti sağlamaktır.\n•   **Kanunilik İlkesi:** \"Kanunsuz suç ve ceza olmaz\" (nullum crimen, nulla poena sine lege) ilkesidir. Bir fiilin suç sayılabilmesi ve karşılığında ceza uygulanabilmesi için kanunda açıkça tanımlanmış olması şarttır.\n•   **Ultima Ratio İlkesi (Son Çare Prensibi):** Ceza hukukunun, toplumsal düzenin korunmasında kullanılabilecek son araç olması demektir. Suçun önlenmesi için diğer hukuk dallarının yetersiz kaldığı durumlarda ceza hukukuna başvurulmalıdır.\n•   **Ceza ve Güvenlik Tedbirleri:** Suç karşılığında uygulanan yaptırımlar ceza (hapis, adli para cezası) ve güvenlik tedbirleri (müsadere, hak yoksunlukları, tekerrür vb.) olarak ikiye ayrılır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Anayasa m. 38:** Suç ve cezaların kanuniliği, masumiyet karinesi, cezaların şahsiliği, ölüm cezasının ve genel müsadere cezasının verilememesi gibi temel ceza hukuku ilkelerini düzenler.\n•   **Türk Ceza Kanunu (TCK) m. 2 (Kanunilik İlkesi):** \"Kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez ve güvenlik tedbiri uygulanamaz. Kanunda yazılı cezalardan ve güvenlik tedbirlerinden başka bir ceza ve güvenlik tedbirine hükmolunamaz.\"\n•   **TCK m. 4 (Zaman Bakımından Uygulama):** \"İşlendiği zaman yürürlükte bulunan kanuna göre suç sayılmayan bir fiilden dolayı kimseye ceza verilemez.\" ve \"Suçun işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların hükümleri farklı ise, failin lehine olan kanun uygulanır ve infaz olunur.\"\n•   **TCK m. 20-24 (Hukuka Uygunluk Nedenleri):** Meşru savunma (m. 25/1), ıstırar hali (zorunluluk hali) (m. 25/2), kanun hükmünü yerine getirme (m. 24/1), amirin emrini yerine getirme (m. 24/2), hakkın kullanılması (m. 26/1), ilgilinin rızası (m. 26/2) gibi durumlarda fiil hukuka uygun hale gelir ve suç teşkil etmez.\n•   **TCK m. 25-34 (Kusurluluğu Etkileyen Haller):** Yaş küçüklüğü (m. 31), akıl hastalığı (m. 32), sağır ve dilsizlik (m. 33), geçici nedenler, alkol veya uyuşturucu madde etkisi (m. 34), hata (m. 30), cebir ve tehdit (m. 28), haksız tahrik (m. 29) gibi durumlar kusurluluğu tamamen kaldırabilir veya azaltabilir.\n•   **TCK m. 35-41 (Suça Teşebbüs, İştirak, İçtima):** Suçun özel görünüş biçimleri olan teşebbüs, iştirak ve içtima hallerini düzenleyerek suçun genel teorisini tamamlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Meşru Savunma:** Gece evine hırsız giren bir kişinin, hırsızın saldırısını bertaraf etmek amacıyla orantılı güç kullanarak hırsızı yaralaması. Burada fiil tipik olsa da hukuka uygunluk nedeniyle suç oluşmaz.\n•   **Yaş Küçüklüğü:** 14 yaşını doldurmamış bir çocuğun (m. 31/2 uyarınca) hırsızlık yapması. Fiil suç teşkil etse de, çocuğun kusur yeteneği olmadığından ceza yerine çocuklara özgü güvenlik tedbirleri uygulanır.\n•   **Hata Hali:** Bir avcının ormanda avlanırken, çalılıklardan gelen bir sesi av hayvanı zannederek ateş etmesi sonucu insanı vurması. Burada failin \"tipik fiili\" (insan öldürme) bilinci eksik olduğundan kasten öldürme suçu değil, duruma göre taksirle öldürme veya cezasızlık gündeme gelebilir.\n•   **Kanun Hükmünü Yerine Getirme:** Bir icra memurunun mahkeme kararına dayanarak borçlunun malına haciz koyması. Memurun bu eylemi, kanun hükmünün verdiği yetkiyle yapıldığından hukuka uygundur.\n•   **Istırar Hali (Zorunluluk Hali):** Bir dağcının, fırtına nedeniyle kayalıklarda mahsur kalan yaralı arkadaşını kurtarmak için özel mülkiyete ait bir kulübeye izinsiz girerek yardım istemesi. Başka çaresi olmadığından fiil hukuka uygun kabul edilebilir.\n•   **Taksirle Öldürme:** Bir sürücünün trafik kurallarına uymayarak (ihmal veya tedbirsizlik) kazaya neden olup bir kişinin ölümüne yol açması. Kasten hareket etmese de, kusurlu davranışı nedeniyle cezalandırılır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Suçun Unsurları Arasındaki Hiyerarşi:** Suçun unsurları, \"tipiklik > hukuka aykırılık > kusurluluk\" sırasıyla incelenir. Bir önceki unsurun yokluğu, sonraki unsurun incelenmesine gerek bırakmaz (Örn: Fiil tipik değilse, hukuka aykırılık ve kusurluluk aranmaz).\n•   **Hukuka Aykırılık ve Kusurluluk Ayrımı:** Hukuka aykırılık, fiilin hukuk düzeninin emir ve yasaklarına aykırı olması durumudur. Kusurluluk ise, bu hukuka aykırı fiili işleyen failin kınanabilirliğidir. Meşru savunmada fiil hukuka uygun olduğu için suç oluşmazken, akıl hastalığında fiil hukuka aykırı olsa bile failin kusur yeteneği olmadığından ceza verilmez.\n•   **Kast ve Taksir Kavramları:** Kast, fiili bilerek ve isteyerek işleme iradesidir. Taksir ise, dikkat ve özen yükümlülüğüne aykırı hareket ederek öngörülebilir bir neticeyi istemeyerek meydana getirmektir. İkisi arasındaki ayrım ceza sorumluluğu açısından esastır.\n•   **Suçun Şahsiliği İlkesi:** Cezaların yalnızca suçu işleyen kişi hakkında uygulanabileceği, başkasına teşmil edilemeyeceği anlamına gelir (Anayasa m. 38).\n•   **Ceza Hukukunun Parçalı Yapısı:** Ceza hukukunun bir bütün olduğu ancak \"maddi ceza hukuku\" (suç ve ceza teorileri), \"ceza muhakemesi hukuku\" (yargılama süreci) ve \"ceza infaz hukuku\" (cezaların infazı) olarak ayrıldığı unutulmamalıdır. Suçun genel teorisi, maddi ceza hukukunun temelini oluşturur.\n•   **Ceza Kanununun Yorumu:** Ceza hukukunda kıyas yasağı ve şüpheden sanık yararlanır ilkesi (in dubio pro reo) önemlidir. Ceza kanunları, sanığın aleyhine genişletici yorumlanamaz."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Tanımları Ezberleyin:** \"Suç\", \"kast\", \"taksir\", \"meşru savunma\", \"ıstırar hali\", \"kanunilik ilkesi\" gibi temel kavramların yasal ve doktriner tanımlarını iyi bilin.\n•   **Suçun Unsurlarını Şematize Edin:** Maddi unsur, hukuka aykırılık, manevi unsur (kast/taksir) ve bunların alt başlıklarını (tipiklik, hukuka uygunluk nedenleri, kusurluluğu etkileyen nedenler) bir şema üzerinde öğrenin. Bir unsurun yokluğunun diğerlerini nasıl etkilediğini anlayın.\n•   **Kanun Maddeleri ile Bağ Kurun:** Özellikle TCK'nın Genel Hükümler kısmındaki ilgili maddeleri (m. 2, 4, 20-34) ve Anayasa m. 38'i içeriğiyle birlikte öğrenin. Hukuka uygunluk ve kusurluluğu etkileyen nedenleri maddeleriyle eşleştirin.\n•   **Örnek Olay Çözümleri Yapın:** Verilen bir olayda hangi suçun işlendiğini, suçun hangi unsurlarının mevcut olduğunu, varsa hukuka uygunluk veya kusurluluğu etkileyen bir neden olup olmadığını adım adım analiz etme becerisi kazanın.\n•   **Ceza Teorilerini Anlayın:** Adaletçi (mutlak), faydacı (nispi – genel ve özel önleme) ve uzlaştırıcı (karma) teorilerin temel farklarını ve Türk Ceza Hukukunda benimsenen yaklaşımı (karma) kavrayın.\n•   **Kavram Haritaları ve Özet Notlar:** Konuyu bütüncül bir şekilde görebilmek için kendi kavram haritalarınızı oluşturun ve önemli noktaları içeren kısa özet notlar hazırlayın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi \"kanunsuz suç ve ceza olmaz\" ilkesinin doğrudan bir sonucudur?",
+      "options": {
+        "A": "Suçların ancak kanunla düzenlenebilmesi",
+        "B": "Cezaların şahsi olması",
+        "C": "Cezaların geriye yürümezliği",
+        "D": "Masumiyet karinesi"
+      },
+      "correctAnswer": "A",
+      "explanation": "\"Kanunsuz suç ve ceza olmaz\" (nullum crimen, nulla poena sine lege) ilkesi, bir fiilin suç sayılabilmesi ve karşılığında ceza uygulanabilmesi için bu durumun kanunda açıkça belirtilmiş olmasını gerektirir. Diğer seçenekler Anayasa m. 38'de yer alan ancak bu ilkeyle doğrudan ilişkili olmayan diğer temel ceza hukuku ilkeleridir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir fiilin suç teşkil etmesi için aranan temel unsurlardan hangisi, fiilin hukuk düzeninin emir ve yasaklarına aykırı olması durumunu ifade eder?",
+      "options": {
+        "A": "Manevi unsur",
+        "B": "Maddi unsur",
+        "C": "Kusurluluk unsuru",
+        "D": "Hukuka aykırılık unsuru"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hukuka aykırılık unsuru, işlenen fiilin genel hukuk düzeni tarafından onaylanmayan, bir hakka veya hukuki değere saldırı niteliği taşıyan bir eylem olması durumudur. Maddi unsur tipikliği, manevi unsur ise failin kınanabilirliğini (kast veya taksir) ifade eder. Kusurluluk, manevi unsurun bir parçasıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Türk Ceza Hukuku'nda, bir kimsenin kendisine veya başkasına yönelmiş ağır ve haksız bir saldırıyı o anki hal ve koşullara göre saldırı ile orantılı bir şekilde defetmesi olarak tanımlanan hukuka uygunluk nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Istırar hali (zorunluluk hali)",
+        "B": "Kanun hükmünü yerine getirme",
+        "C": "Meşru savunma",
+        "D": "İlgilinin rızası"
+      },
+      "correctAnswer": "C",
+      "explanation": "Meşru savunma (TCK m. 25/1), hukuka uygunluk nedenlerinden biri olup, şahsın veya başkasının haklarına yönelik haksız bir saldırıya karşı orantılı bir savunma yapılması durumudur. Istırar hali (m. 25/2) bir tehlikeden kurtulmak için başkasının haklarına zarar vermeyi, kanun hükmünü yerine getirme (m. 24) yasal bir görevi ifayı, ilgilinin rızası (m. 26/2) ise mağdurun rızasıyla bir fiilin işlenmesini ifade eder."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisi, işlenen fiilin hukuka aykırılığını ortadan kaldırmaz, ancak failin \"kusur yeteneği\" olmadığından ceza verilmemesine yol açar?",
+      "options": {
+        "A": "Meşru savunma",
+        "B": "Akıl hastalığı",
+        "C": "Kanun hükmünü yerine getirme",
+        "D": "Hakkın kullanılması"
+      },
+      "correctAnswer": "B",
+      "explanation": "Akıl hastalığı (TCK m. 32), failin işlediği fiilin hukuki anlam ve sonuçlarını algılama veya davranışlarını yönlendirme yeteneğini ortadan kaldırdığı durumlarda kusurluluğu etkileyen bir nedendir. Bu durumda fiil hukuka aykırı olsa bile fail kınanamayacağı için ceza verilmez, güvenlik tedbiri uygulanabilir. Diğer seçenekler ise fiili hukuka uygun hale getiren nedenlerdir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "“Ceza hukukunun, toplumsal düzenin korunmasında kullanılabilecek son araç olması” anlamına gelen ilke aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kanunilik ilkesi",
+        "B": "Ultima Ratio ilkesi",
+        "C": "Masumiyet karinesi",
+        "D": "Orantılılık ilkesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ultima Ratio ilkesi (son çare prensibi), ceza hukukunun diğer hukuk dallarının yetersiz kaldığı durumlarda başvurulması gereken en ağır yaptırım aracı olduğunu vurgular. Kanunilik ilkesi suç ve cezaların kanunla düzenlenmesini, masumiyet karinesi suçluluğu ispatlanana kadar kimsenin suçlu sayılamayacağını, orantılılık ilkesi ise ceza ile işlenen fiil arasında adil bir denge olmasını ifade eder."
+    }
+  ]
+}

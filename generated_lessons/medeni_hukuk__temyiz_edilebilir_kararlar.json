@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Temyiz Kavramı:** Bir yargı kararının, kanun yolları içinde, üst bir mahkeme olan Yargıtay tarafından hukuka uygunluk denetimine tabi tutulmasıdır. Esas olarak maddi vakıaların değil, hukukun doğru uygulanıp uygulanmadığının incelendiği bir kanun yoludur.\n•   **Karar ve Hüküm:** Medeni hukuk uyuşmazlıklarında mahkemelerin nihai olarak verdikleri, uyuşmazlığı esastan çözümleyen yazılı irade açıklamalarıdır. Temyiz edilebilir kararlar, genellikle bu nihai hükümleri ifade eder.\n•   **Kesinleşme:** Bir yargı kararının, olağan kanun yollarının tüketilmesi veya belirli sürelerin geçmesiyle itiraz edilemez ve değiştirilemez hale gelmesidir. Temyiz, kararın kesinleşmesini geciktiren olağan bir kanun yoludur.\n•   **Kanun Yolları Sistemi:** Türk hukukunda, ilk derece mahkemesi kararlarına karşı önce istinaf (bölge adliye mahkemesi), ardından temyiz (Yargıtay) kanun yolları öngörülmüştür. Temyiz, istinaftan sonra gelen ikinci aşama denetimdir.\n•   **Temyiz Ehliyeti:** Kararın tarafları, yani davacı ve davalı ile davaya fer'i müdahil olarak katılan kişiler, leh veya aleyhine verilen kararlar hakkında temyiz yoluna başvurabilirler.\n•   **Amaç ve Fonksiyon:** Temyiz yolunun temel amacı, mahkemelerce verilen kararların hukuka uygunluğunu sağlamak, hukuk kurallarının ülke genelinde yeknesak uygulanmasını temin etmek ve adil yargılanma hakkının güvencesi olmaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Anayasal Dayanak:** T.C. Anayasası'nın 36. maddesinde güvence altına alınan hak arama özgürlüğü ve adil yargılanma hakkı kapsamında, yargı kararlarına karşı kanun yollarının açık olması esastır. Temyiz de bu kanun yollarından biridir.\n•   **Hukuk Muhakemeleri Kanunu (HMK):** Temyiz yolu, HMK'nın 361 ve devamı maddelerinde ayrıntılı olarak düzenlenmiştir. Medeni hukuktan doğan uyuşmazlıkların yargılanmasında uygulanan bu Kanun, hangi kararların temyiz edilebileceğini, temyiz başvuru şartlarını ve usulünü belirler.\n•   **Temyiz Edilebilecek Kararlar:** Genel kural olarak, istinaf incelemesinden geçerek kesinleşmeyen bölge adliye mahkemesi hukuk dairelerinin HMK 361'de belirtilen nihai kararları ile temyizi kabil diğer kararları temyiz edilebilir. İstinaf kanun yoluna başvurulabilen kararların temyiz yolu açık olmakla birlikte, istisnalar da mevcuttur.\n•   **Temyiz Edilemeyecek Kararlar:** HMK 362'de sayılan kararlar temyiz edilemez. Bunlar genellikle, kanunda değeri veya niteliği itibarıyla temyiz sınırı altında kalan ya da kesin nitelikte olan bölge adliye mahkemesi kararlarıdır. Örneğin, belli bir miktarın altındaki alacak davalarına ilişkin istinaf mahkemesi kararları temyiz yolu kapalı olabilir.\n•   **Ara Kararlar:** İlk derece mahkemelerinin yargılama sırasında verdiği ara kararlar, tek başına temyiz edilemezler. Ancak bu ara kararların hukuka aykırı olduğu iddiası, nihai karar ile birlikte temyiz incelemesine konu edilebilir.\n•   **Özel Kanunlardaki Düzenlemeler:** Bazı özel kanunlarda, medeni hukuk ilişkilerinden doğan belirli dava türlerine ilişkin kararlar için temyiz yoluna başvuru konusunda HMK'dan farklı veya ek düzenlemeler bulunabilir. Bu tür özel hükümlerin de dikkate alınması gerekir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Tapu İptali ve Tescil Davası:** Bir gayrimenkulün mülkiyetinin hukuka aykırı bir şekilde el değiştirdiği iddiasıyla açılan ve mahkemenin tapu kaydının iptali ile davacı adına tesciline karar verdiği bir hüküm, HMK'daki değer sınırları dahilinde temyiz edilebilir niteliktedir.\n•   **Maddi ve Manevi Tazminat Davası:** Haksız fiil, sözleşmeye aykırılık gibi sebeplerle açılan ve belirli bir miktarın üzerinde maddi veya manevi tazminat ödenmesine hükmedilen bir karar, genellikle temyiz kanun yoluna tabidir.\n•   **Boşanma ve Fer'ileri Davası:** Evlilik birliğinin temelden sarsılması gibi nedenlerle açılan boşanma davasında verilen boşanma kararı, velayet, nafaka ve tazminat gibi fer'ilerine ilişkin hükümler temyiz edilebilir niteliktedir. Ancak nafaka gibi bazı kararlarda miktara göre temyiz sınırı uygulanabilir.\n•   **Miras Paylaşım Davası:** Mirasçıların miras üzerinde anlaşamaması sonucu açılan miras paylaşım davasında mahkemenin verdiği paylaşım kararı, malvarlığının değeri dikkate alınarak temyiz edilebilir.\n•   **İcra Takibine İtirazın İptali Davası:** İcra takibine yapılan itirazın kaldırılması veya iptali talebiyle açılan davada verilen karar, HMK'da belirlenen parasal sınırların üzerinde ise temyiz edilebilir.\n•   **Temyiz Edilemeyen Karar Örneği:** HMK'da belirlenen parasal sınırın altında kalan bir alacak davasında istinaf mahkemesi tarafından verilen kararlar, genellikle temyiz yolu kapalı olarak kesinleşir. Örneğin, 10.000 TL'lik bir alacak davası için istinaf kararı kesin olabilir (Bu sınırlar HMK 362'de düzenli olarak güncellenir)."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Süreler:** Temyiz yoluna başvuru süresi, genellikle bölge adliye mahkemesi kararının tebliğinden itibaren iki haftadır (HMK m. 361/1). Bu süreler hak düşürücü nitelikte olup, süresinde yapılmayan başvurular reddedilir.\n•   **Şekil Şartları:** Temyiz dilekçesi, HMK'da belirtilen zorunlu unsurları taşımalıdır (HMK m. 364). Bunlar arasında temyiz edenin ve karşı tarafın kimliği, kararın hangi mahkemeden verildiği, kararın tarihi ve numarası, temyiz sebepleri ve talebi gibi bilgiler yer alır.\n•   **Temyiz Sebepleri:** Temyiz başvurusu, HMK'da belirtilen temyiz sebeplerine dayanmalıdır. En yaygın sebep, hukukun yanlış uygulanması veya hiç uygulanmamasıdır. Maddi olay denetimi istinafın yetkisinde olup, Yargıtay'ın temyiz incelemesi genellikle hukuka uygunlukla sınırlıdır.\n•   **Temyizin İcraya Etkisi:** Temyiz başvurusu kural olarak kararın icrasını durdurmaz (HMK m. 367/1). Ancak, temyiz eden tarafın talep etmesi ve Yargıtay'ın gerekli görmesi halinde icranın geri bırakılmasına (tehiri icra) karar verilebilir. Özellikle kişiler hukukuna ilişkin kararlar gibi bazı istisnai durumlarda temyiz kendiliğinden icrayı durdurabilir.\n•   **İstinaf-Temyiz Farkı:** İstinaf mahkemeleri hem maddi vakıa denetimi (olay incelemesi) hem de hukuki denetim yaparken, Yargıtay (temyiz mahkemesi) genellikle sadece hukuki denetim yapar. Bu ayrım, hangi kanun yoluna ne tür iddialarla gidilebileceği açısından önemlidir.\n•   **Kesinleşme Kriteri:** Bir kararın temyiz edilip edilemeyeceğini belirlemede, öncelikle kararın nihai niteliği ve HMK'da belirtilen parasal sınırlar veya dava türüne ilişkin özel düzenlemeler önem taşır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kavramsal Anlayış:** Temyiz, istinaf, kesinleşme, nihai karar gibi temel kavramları ve bunların birbirleriyle ilişkisini net bir şekilde anlamak esastır. Bu kavramlar, sınavdaki yorum sorularının temelini oluşturur.\n•   **HMK Hükümlerini Bilgi:** Özellikle HMK'nın temyiz yoluyla ilgili 361, 362, 364, 367 ve ilgili diğer maddelerini ezberlemek yerine, içeriklerini ve uygulama alanlarını kavramak önemlidir. Hangi kararların temyiz edilemeyeceğine dair istisnalar genellikle soru konusu olur.\n•   **Dava Türleri ve Karar Nitelikleri:** Medeni hukukun farklı alanlarından (eşya hukuku, borçlar hukuku, aile hukuku, miras hukuku) gelen davalarda verilen kararların temyiz edilebilirlik niteliklerini, örnekler üzerinden öğrenmek faydalıdır.\n•   **Sürelere Dikkat:** Temyiz başvuru süreleri ve bu sürelerin başlangıç anları kritik öneme sahiptir. Sürelerle ilgili olası tuzak sorulara karşı dikkatli olunmalıdır.\n•   **Temyiz Sebepleri ve Denetim Türü:** Temyiz incelemesinin maddi vakıa denetimi değil, hukuka uygunluk denetimi olduğu ayrımını iyi kavramak, Yargıtay'ın hangi konularda karar verebileceğini anlamak açısından önemlidir.\n•   **Vedat Kitapçılık Yayını (Oğuzman/Barlas):** Kitabın giriş, kaynaklar ve temel kavramlar bölümlerinde yer alan genel hukuk felsefesi, yargı sistemi ve medeni yargılamanın genel ilkeleri hakkında bilgilere hakim olmak, konuyu daha geniş bir perspektifle değerlendirmenize yardımcı olacaktır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Hukuk Muhakemeleri Kanunu'na (HMK) göre temyiz yolu açık olan bir karar niteliğindedir?",
+      "options": {
+        "A": "Belli bir parasal sınırın altında kalan alacak davasında verilen istinaf mahkemesi kararı.",
+        "B": "Yargılama sırasında verilen bir tanık dinleme ara kararı.",
+        "C": "Bir tapu iptali ve tescil davasında istinaf mahkemesi tarafından verilen ve değeri temyiz sınırının üzerinde olan nihai karar.",
+        "D": "Temyizden feragat edildiğine dair karar."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK'ya göre temyiz yolu, istinaf incelemesinden geçerek kesinleşmeyen bölge adliye mahkemelerinin nihai kararları için açıktır. A seçeneği, HMK 362'de sayılan temyiz edilemez kararlara bir örnektir. B seçeneği, nihai karar niteliğinde olmayan bir ara karardır ve tek başına temyiz edilemez. D seçeneği ise kararın kendisi değil, kanun yolundan vazgeçme işlemidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Temyiz yolunun amacı ile ilgili olarak aşağıdakilerden hangisi doğru bir ifadedir?",
+      "options": {
+        "A": "Temyiz yolu, maddi vakıaların yeniden incelenerek gerçeğin tam olarak ortaya çıkarılmasını sağlamaktır.",
+        "B": "Temyiz, sadece hukuk kurallarının ülke genelinde farklı uygulanması durumunda başvurulabilecek istisnai bir yoldur.",
+        "C": "Temyiz yolunun temel amacı, mahkemelerce verilen kararların hukuka uygunluğunu sağlamak ve hukuk kurallarının yeknesak uygulanmasını temin etmektir.",
+        "D": "Temyiz yolu, ilk derece mahkemesinin yargılama hatalarını düzelten birincil kanun yoludur."
+      },
+      "correctAnswer": "C",
+      "explanation": "Temyiz yolu, maddi vakıa denetimi yapmaz (bu istinafın görevidir). Amacı hukukun doğru uygulanmasını sağlamak ve yargı kararlarında birlik ve yeknesaklığı temin etmektir. Birincil kanun yolu istinaftır, temyiz ikinci aşama denetimdir ve istisnai değil, olağan bir kanun yoludur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi temyiz başvurusunun icraya etkisi bakımından genel kuraldır?",
+      "options": {
+        "A": "Temyiz başvurusu, kararın icrasını kendiliğinden durdurur.",
+        "B": "Temyiz başvurusu kural olarak kararın icrasını durdurmaz, ancak temyiz edenin talebiyle icranın geri bırakılmasına karar verilebilir.",
+        "C": "Temyiz başvurusu, sadece nafaka ve velayet gibi kişisel haklara ilişkin kararların icrasını durdurur.",
+        "D": "Temyiz başvurusu, icra takibi başlatılmışsa icra sürecini durdurur ancak kesinleşmeyi etkilemez."
+      },
+      "correctAnswer": "B",
+      "explanation": "HMK m. 367/1'e göre, temyiz başvurusu kural olarak kararın icrasını durdurmaz. Ancak temyiz eden, icranın geri bırakılması (tehiri icra) talebinde bulunabilir ve Yargıtay gerekli görürse buna karar verebilir. Aile hukukuna ilişkin bazı kararlar gibi istisnalar dışında kendiliğinden durdurma söz konusu değildir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Temyiz başvuru süresi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Temyiz başvuru süresi, ilk derece mahkemesi kararının tebliğinden itibaren bir aydır.",
+        "B": "Temyiz başvuru süresi, bölge adliye mahkemesi kararının tebliğinden itibaren iki haftadır.",
+        "C": "Temyiz başvuru süresi, kararın verildiği tarihten itibaren üç aydır.",
+        "D": "Temyiz başvuru süresi, hakimin takdirine göre belirlenir ve kanunda sabit bir süre yoktur."
+      },
+      "correctAnswer": "B",
+      "explanation": "HMK m. 361/1'e göre, temyiz yoluna başvuru süresi, bölge adliye mahkemesi kararının tebliğinden itibaren iki haftadır. Bu süre hak düşürücü niteliktedir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi temyiz incelemesinin kapsamına **girmez**?",
+      "options": {
+        "A": "Hukuk kurallarının yanlış uygulanması.",
+        "B": "Maddi olayların yeniden incelenerek delil değerlendirmesi yapılması.",
+        "C": "Kanunun olaya hiç uygulanmaması.",
+        "D": "Yargılama usulüne ilişkin kurallara uyulmaması."
+      },
+      "correctAnswer": "B",
+      "explanation": "Temyiz incelemesi, Yargıtay tarafından hukuka uygunluk denetimiyle sınırlıdır. Maddi olayların yeniden incelenmesi ve delil değerlendirmesi yapmak istinaf mahkemelerinin görevidir. Yargıtay, kararın hukuka uygun olup olmadığını, yani hukuk kurallarının doğru uygulanıp uygulanmadığını, yargılama usulüne uygun hareket edilip edilmediğini denetler."
+    }
+  ]
+}

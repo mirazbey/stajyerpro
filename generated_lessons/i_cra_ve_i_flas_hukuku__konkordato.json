@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Konkordato Tanımı ve Amacı:** İcra ve İflas Kanunu (İİK) kapsamında düzenlenen, borçlunun mali durumunu düzeltmek ve iflastan kurtulmak amacıyla, alacaklılarla belirli bir indirim veya vade dahilinde anlaşarak borçlarını ödeme taahhüdünde bulunması ve bu taahhüdün mahkemece onaylanmasıyla tüm alacaklılar için bağlayıcı hale gelmesini sağlayan bir kurumdur. Temel amacı, hem borçlunun işletmesini sürdürmesini sağlamak hem de alacaklıların alacaklarına kısmen de olsa kavuşmasını temin etmektir.\n•   **Konkordato Türleri:** Temel olarak adi konkordato ve malvarlığının terki suretiyle konkordato olmak üzere iki ana türü bulunur. Adi konkordato, borçlunun mevcut işletmesini devam ettirerek belirli bir plan dahilinde borçlarını ödemesidir. Malvarlığının terki suretiyle konkordato ise borçlunun malvarlığının tasfiyesi yoluyla alacaklıların tatminini amaçlar ve iflasa benzer yönleri vardır ancak daha kontrollü ve tasfiye masrafı daha düşüktür.\n•   **Konkordato Sürecinin Tarafları:** Borçlu (konkordato talep eden), alacaklılar (konkordato projesine rıza gösteren veya itiraz eden), konkordato komiseri (süreç boyunca borçlunun faaliyetlerini denetleyen ve alacaklılar toplantısına başkanlık eden bağımsız uzman), konkordato talep eden mahkeme (Asliye Ticaret Mahkemesi) ve gerektiğinde Alacaklılar Kurulu gibi temel tarafları vardır.\n•   **İflas ile Farkı:** Konkordato, borçlunun ticari yaşamını devam ettirme imkanı sunarken, iflas borçlunun tasfiyesini ve ticari yaşamının sonlanmasını ifade eder. Konkordato iflasın önlenmesi veya iflasın sonuçlarını hafifletilmesi amacıyla kullanılan bir yoldur. İflasta borçlunun tüm malvarlığı tasfiye edilirken, konkordatoda borçlunun taahhüt ettiği oran ve vadelere göre ödeme yapılır.\n•   **Geçici ve Kesin Mühlet:** Konkordato talebi üzerine mahkemece verilen sürelerdir. Geçici mühlet (en fazla 3 ay), borçlunun mali durumunu incelemesi ve konkordato projesi hazırlaması için tanınan ilk süredir. Kesin mühlet (en fazla 1 yıl, 6 ay uzatılabilir), konkordato komiseri atanarak projenin hazırlanması, alacaklıların toplanması ve projenin oylanması gibi işlemlerin yapıldığı daha uzun ve kritik bir süredir.\n•   **Konkordato Komiseri:** Mahkeme tarafından atanan, borçlunun işletmesini denetleyen, konkordato projesinin hazırlanmasına yardımcı olan, alacaklıları toplayıp projenin oylanmasını sağlayan ve mahkemeye rapor sunan bağımsız bir kişidir. Komiserin görevi, alacaklıların menfaatlerini korurken borçlunun da yeniden yapılanmasına destek olmaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İcra ve İflas Kanunu (İİK) Madde 285 ve Devamı:** Konkordato kurumu, 2004 sayılı İİK'nın 1. Kısım 13. bölümünde (m. 285-309/h) detaylı olarak düzenlenmiştir. 2018 yılında yapılan değişikliklerle konkordato süreci daha işlevsel hale getirilmiş, özellikle geçici ve kesin mühlet kurumları ile konkordato komiserinin görev ve yetkileri netleştirilmiştir.\n•   **Konkordato Başvuru Süreci:** Konkordato talebi, borçlunun kendisi veya alacaklılarından biri tarafından yetkili ve görevli Asliye Ticaret Mahkemesi'ne (borçlunun merkezinin bulunduğu yer mahkemesi) yapılır. Başvuru dilekçesine, konkordato projesi, borçlunun defterleri, mali tabloları, alacaklı listesi ve en önemlisi ön fizibilite raporu (borç ödeme teklifinin gerçekçi olduğunu gösteren belge) eklenmelidir.\n•   **Geçici ve Kesin Mühletin Hukuki Sonuçları:** Mahkemenin geçici mühlet kararı vermesiyle birlikte borçlu aleyhine takip yapılamaz, yapılmış takipler durur ve ihtiyati tedbir ile ihtiyati haciz kararları uygulanamaz. Kesin mühlet kararıyla bu koruma daha da güçlenir. Borçlu, komiserin onayı olmaksızın teminat göstermek suretiyle dahi taşınır ve taşınmazlarını rehin veremez, kefil olamaz, ivazsız tasarruflarda bulunamaz.\n•   **Alacaklılar Toplantısı ve Konkordato Projesinin Oylanması:** Konkordato komiseri, kesin mühlet içinde alacaklıları toplayarak konkordato projesini oylamaya sunar. Projenin kabul edilebilmesi için, konkordato projesinde öngörülen tutarın, kaydedilmiş alacaklıların yarısını ve alacaklıların alacaklarının üçte ikisini aşan bir çoğunlukla yahut kaydedilmiş alacaklıların dörtte birini ve alacaklıların alacaklarının üçte ikisini aşan bir çoğunlukla kabul edilmesi gerekir.\n•   **Konkordatonun Tasdiki ve Hukuki Etkileri:** Alacaklılarca kabul edilen proje, mahkeme tarafından tasdik edilerek hukuken geçerlilik kazanır. Mahkeme tasdik kararı verirken projenin İİK'ya uygunluğunu, alacaklı lehine olmasını ve borçlunun projeye uygun davranacağına dair ikna edici delillerin bulunmasını arar. Tasdik edilen konkordato, konkordato talebinden önce veya komiserin izni olmaksızın yapılan devir ve işlemler dışında tüm adi alacaklılar için bağlayıcı hale gelir.\n•   **Konkordatonun Feshi ve İptali:** Konkordatonun borçlu tarafından taahhüt edilen şartlara uyulmaması, konkordatonun kötü niyetle elde edilmesi veya sonradan ortaya çıkan yeni durumlarda mahkeme kararıyla feshi veya iptali mümkündür. Fesih veya iptal halinde, alacaklılar eski haklarına geri dönerler ve takiplere devam edebilirler."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Anonim Şirketin Mali Sıkıntıları:** X A.Ş., piyasadaki durgunluk ve yüksek faiz oranları nedeniyle ciddi nakit akışı sıkıntısı yaşamaktadır. Tedarikçilere ve bankalara olan borçlarını zamanında ödeyememektedir. İflasın eşiğindeyken, yönetim kurulu şirketin faaliyetlerini sürdürebilmek ve alacaklıları tatmin etmek amacıyla Asliye Ticaret Mahkemesi'ne konkordato başvurusunda bulunur. Hazırlanan projede, borçların %60 oranında ve 36 ay vadede ödeneceği taahhüt edilir.\n•   **Farklı Nitelikteki Alacaklıların Durumu:** Bir konkordato sürecinde hem banka alacakları (ipotekli), hem ticari mal tedarikçisi alacakları (teminatsız), hem de çalışanların ücret alacakları (imtiyazlı) bulunmaktadır. Konkordato projesi, imtiyazlı alacaklılara tam ödeme önerirken, teminatsız alacaklılara belirli bir indirimle ödeme teklif eder. Banka alacaklarının ise teminatlı olduğu için konkordatodan etkilenmeyeceği veya teminatın paraya çevrilmesi sürecine ilişkin özel düzenleme yapılacağı öngörülür.\n•   **Konkordato Projesinin Reddedilmesi:** Y Gıda Sanayi, konkordato başvurusunda bulunmuş ve bir proje sunmuştur. Ancak, alacaklılar toplantısında alacaklılar, şirketin sunduğu %30 ödeme teklifini yetersiz bularak veya şirketin projedeki vaatlerinin gerçekçi olmadığına inanarak projeyi yeterli çoğunlukla kabul etmezler. Bu durumda mahkeme konkordato talebinin reddine ve borçlunun iflasına karar verebilir.\n•   **İyiniyetli Olmayan Borçlunun Durumu:** Bir borçlu, konkordatoyu iflastan kaçmak ve malvarlığını kaçırmak amacıyla kötüye kullanmaktadır. Komiserin yaptığı denetimler sonucunda, borçlunun geçici mühlet kararı alındıktan sonra değeri yüksek taşınmazlarını düşük bedelle yakınlarına devrettiği tespit edilir. Komiser bu durumu mahkemeye bildirir ve mahkeme, borçlunun iyiniyetli olmadığına karar vererek konkordato talebini reddedip, şartları varsa borçlunun iflasına hükmedebilir.\n•   **Başarılı Bir Konkordato Sonucu İşletmenin Canlanması:** Z Tekstil A.Ş., başarılı bir konkordato süreci sonunda alacaklılarıyla anlaşıp borçlarını yeniden yapılandırmış ve mahkeme kararıyla konkordato tasdik edilmiştir. Bu süreçte şirketin üretim kapasitesi korunmuş, iş gücü azaltılmamış ve devlet desteklerinden faydalanılmıştır. Konkordato sonrası şirket, borç ödeme takvimine sadık kalarak ticari faaliyetlerine devam etmiş ve kısa sürede eski gücüne kavuşarak yeni yatırımlar yapmaya başlamıştır.\n•   **Devam Eden İcra Takipleri Üzerindeki Etkisi:** Bir borçlu aleyhine başlatılmış çok sayıda icra takibi varken konkordato talebinde bulunulur ve geçici mühlet kararı verilir. Bu karar, mevcut tüm icra takiplerini durdurur. Örneğin, borçlunun banka hesaplarındaki hacizler kalkmaz ancak yeni hacizler uygulanamaz ve mevcut hacizli malların satışı yapılamaz. Ancak, rehinli alacaklılar teminatlarının paraya çevrilmesi talebinde bulunabilirler, bu durum konkordatodan doğrudan etkilenmez."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Fizibilite Raporunun Önemi:** Konkordato başvurusunda sunulacak fizibilite raporu, projenin gerçekçiliğini ve uygulanabilirliğini göstermesi açısından hayati öneme sahiptir. Yetersiz veya gerçek dışı bir rapor, mahkemenin geçici mühlet vermemesi veya konkordato talebini reddetmesi sonucunu doğurabilir. Detaylı ve analitik bir fizibilite raporu, alacaklıların güvenini kazanmak için de temeldir.\n•   **Komiserin Yetkilerinin Doğru Anlaşılması:** Konkordato komiseri, borçlunun mali durumunu denetler, borçlunun bazı işlemlerine izin verir veya reddeder. Bu yetkiler, borçlunun serbestçe hareket etmesini kısıtlar. Borçlunun komiserin izni olmaksızın yaptığı işlemlerin hükümsüz kalma riski bulunmaktadır. Komiserin tarafsız ve etkin çalışması, sürecin başarısı için kritik öneme sahiptir.\n•   **Alacaklı Haklarının Korunması ve İtiraz İmkanları:** Konkordato sürecinde alacaklıların haklarının korunması esastır. Alacaklılar, konkordato projesine itiraz edebilir, alacak kayıt cetveline itiraz edebilir veya komiserin kararlarına karşı şikayet yoluna başvurabilirler. Alacaklıların aktif katılımı ve haklarını etkin kullanması, sürecin adil ve şeffaf ilerlemesini sağlar.\n•   **Kötü Niyetli Konkordato Taleplerinin Riski:** Bazı durumlarda borçlular, konkordatoyu iflastan kaçmak, malvarlıklarını korumak veya alacaklıları oyalayarak daha fazla zarar vermek amacıyla kullanmaya çalışabilirler. Mahkeme ve komiser, kötü niyetli talepleri tespit etmek ve engellemekle yükümlüdür. Kötü niyetin tespiti halinde konkordato talebi reddedilir ve borçlu hakkında suç duyurusunda bulunulabilir.\n•   **Rehinli Alacaklılar ve Konkordato İlişkisi:** Konkordato kararı, rehinli alacaklıların rehinli mallar üzerindeki takip haklarını kural olarak etkilemez. Rehinli alacaklılar, teminatlarının paraya çevrilmesini talep edebilirler. Ancak, konkordato projesi kapsamında rehinli alacaklılarla da özel anlaşmalar yapılabilir ve bu anlaşmalar da konkordatoya dahil edilebilir. Bu durum, projenin kapsamını ve karmaşıklığını artırır.\n•   **Kanun Değişiklikleri ve İçtihat Takibi:** İcra ve İflas Kanunu, özellikle konkordato hükümleri açısından sıkça değişikliklere uğrayan bir alandır. Ayrıca Yargıtay'ın konkordato ile ilgili verdiği kararlar (içtihatlar) uygulamanın şekillenmesinde büyük rol oynar. Bu nedenle, sınav hazırlığında ve hukuki uygulamada güncel kanun değişiklikleri ve Yargıtay içtihatlarını yakından takip etmek büyük önem taşır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımları ve Kavramları Ezberleyin:** Konkordato, komiser, geçici mühlet, kesin mühlet, alacaklılar toplantısı, konkordatonun tasdiki gibi kilit kavramların tanımlarını ve hukuki niteliklerini eksiksiz bilmek, çoktan seçmeli sorularda ve pratik olaylarda doğru yorum yapabilmek için temeldir.\n•   **Prosedürel Aşamaları Sırasıyla Öğrenin:** Konkordato sürecinin hangi adımlarla ilerlediğini (başvuru, geçici mühlet, komiser atanması, alacaklılar toplantısı, projenin oylanması, mahkeme tasdiki, konkordatonun sonuçları) kronolojik olarak anlamak, vaka bazlı sorularda doğru sıralama yapmanıza veya bir aşamadaki hukuki sonucunu belirlemenize yardımcı olacaktır.\n•   **İflas ve Diğer Kurumlarla Farkları Vurgulayın:** Konkordatonun iflastan, iflasın ertelenmesinden (artık yürürlükte olmasa da mukayese açısından), malvarlığının terki suretiyle konkordatodan veya doğrudan doğruya alacaklılarla yapılan sulhlerden farklarını net bir şekilde anlamak, karıştırıcı sorulara karşı hazırlıklı olmanızı sağlar.\n•   **İİK'nın İlgili Maddelerine Odaklanın:** Özellikle İİK m. 285'ten başlayan ve konkordatoyu düzenleyen maddeleri dikkatlice okuyun ve anahtar hükümleri not alın. Hangi maddenin hangi aşamayı veya hangi kuralı düzenlediğini bilmek, sınavda zaman kazanmanızı ve doğru cevaba ulaşmanızı sağlar.\n•   **Vaka Analizi Yeteneğinizi Geliştirin:** Konkordato, pratik uygulaması yoğun olan bir alandır. Farklı senaryolar üzerinde (örneğin, bir alacaklının itiraz etmesi, borçlunun konkordatoyu ihlal etmesi, teminatlı alacaklıların durumu) düşünerek olası hukuki sonuçları analiz etme yeteneğinizi geliştirin. Bu, özellikle olay sorusu formatındaki sorularda başarılı olmanızı sağlar.\n•   **Güncel Mevzuat ve Yargıtay Kararlarını Gözden Geçirin:** Konkordato, özellikle 2018 sonrası önemli değişiklikler geçirmiştir. Bu değişiklikleri ve Yargıtay'ın güncel içtihatlarını (özellikle konkordato komiserinin yetkileri, mühletin sonuçları, tasdik şartları gibi konulardaki kararlarını) gözden geçirmek, sınavda güncel bilgilere sahip olmanızı ve olası mevzuat değişikliği odaklı sorulara doğru yanıt vermenizi sağlar."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi konkordatonun temel amacı DEĞİLDİR?",
+      "options": {
+        "A": "Borçlunun mali durumunu düzeltmek ve iflastan kurtulmasını sağlamak.",
+        "B": "Alacaklıların alacaklarına kısmen de olsa kavuşmasını temin etmek.",
+        "C": "Borçlunun ticari faaliyetlerini sürdürmesine olanak tanımak.",
+        "D": "Borçlunun tüm malvarlığını tasfiye ederek alacaklıları tam olarak tatmin etmek."
+      },
+      "correctAnswer": "D",
+      "explanation": "Konkordato, borçlunun ticari faaliyetlerini sürdürerek borçlarını belirli bir plan dahilinde ödemesini amaçlar. Borçlunun tüm malvarlığının tasfiyesi ve alacaklıların tam olarak tatmini genellikle iflasın sonucudur, konkordatonun değil."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Konkordato talebi üzerine yetkili ve görevli mahkeme aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sulh Hukuk Mahkemesi",
+        "B": "İcra Hukuk Mahkemesi",
+        "C": "Asliye Ticaret Mahkemesi",
+        "D": "Bölge Adliye Mahkemesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra ve İflas Kanunu'na göre konkordato başvuruları, borçlunun merkezinin bulunduğu yerdeki Asliye Ticaret Mahkemesi'ne yapılır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Kesin mühletin hukuki sonuçlarından biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Borçlu aleyhine yeni takip başlatılması serbest hale gelir.",
+        "B": "Yapılmış tüm takipler durur ve ihtiyati tedbir ile ihtiyati haciz kararları uygulanır.",
+        "C": "Rehinli alacaklılar, teminatlarının paraya çevrilmesini talep edemezler.",
+        "D": "Borçlu, konkordato komiserinin onayı olmaksızın bazı önemli tasarruflarda bulunamaz."
+      },
+      "correctAnswer": "D",
+      "explanation": "Kesin mühlet kararı ile borçlu aleyhine takip yapılamaz, yapılmış takipler durur. Ayrıca, borçlu komiserin onayı olmaksızın teminat göstermek suretiyle dahi taşınır ve taşınmazlarını rehin veremez, kefil olamaz, ivazsız tasarruflarda bulunamaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Konkordato projesinin alacaklılarca kabul edilmesi için gerekli olan çoğunluk şartlarından biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kaydedilmiş alacaklıların yarısını ve alacaklıların alacaklarının üçte ikisini aşan bir çoğunlukla kabul edilmesi.",
+        "B": "Kaydedilmiş alacaklıların tamamının ve alacaklıların alacaklarının dörtte üçünü aşan bir çoğunlukla kabul edilmesi.",
+        "C": "Sadece alacaklıların alacaklarının yarısından fazlasının kabul etmesi.",
+        "D": "Sadece kaydedilmiş alacaklı sayısının çoğunluğunun kabul etmesi."
+      },
+      "correctAnswer": "A",
+      "explanation": "İİK m. 302'ye göre, konkordato projesinin kabul edilebilmesi için kaydedilmiş alacaklıların yarısını ve alacaklıların alacaklarının üçte ikisini aşan bir çoğunlukla yahut kaydedilmiş alacaklıların dörtte birini ve alacaklıların alacaklarının üçte ikisini aşan bir çoğunlukla kabul edilmesi gerekir. Şıklarda verilen A seçeneği bu şartlardan birini doğru şekilde ifade etmektedir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi konkordato komiserinin görevlerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Borçlunun mali durumunu ve işletme faaliyetlerini denetlemek.",
+        "B": "Konkordato projesinin hazırlanmasına yardımcı olmak.",
+        "C": "Alacaklılar toplantısını düzenlemek ve projenin oylanmasını sağlamak.",
+        "D": "Konkordato projesi kapsamında borçlunun tüm borçlarını kendi malvarlığından ödemek."
+      },
+      "correctAnswer": "D",
+      "explanation": "Konkordato komiseri, borçlunun mali durumunu denetler, projeye yardımcı olur ve alacaklılar toplantısını yönetir. Ancak, borçlunun borçlarını kendi malvarlığından ödemek gibi bir görevi veya sorumluluğu bulunmamaktadır; bu, borçlunun sorumluluğundadır."
+    }
+  ]
+}

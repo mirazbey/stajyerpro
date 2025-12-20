@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Hukuku'nda 'kolluk' kavramı, kamu düzeni ve güvenliğinin sağlanması amacıyla devlet tarafından kullanılan, bireylerin hak ve özgürlüklerini etkileyebilecek geniş yetkilere sahip kurumları ifade eder. Bu dersin ilk adımında, kolluğun tanımı, tarihsel gelişimi, temel fonksiyonları ve farklı türleri üzerinde duracağız. Kolluk, en genel anlamıyla, devletin kamu düzenini (güvenlik, esenlik, dirlik) koruma ve ihlal edenlere karşı müdahale etme görevini üstlenen organlarıdır. Bu fonksiyon, Anayasa'nın tanıdığı temel hak ve özgürlüklerle sürekli bir etkileşim içerisindedir ve bu denge, hukuk devleti ilkesinin bir gereğidir. Türkiye'de kolluk, idari kolluk ve adli kolluk olmak üzere iki ana kategoriye ayrılır. İdari kolluk, kamu düzenini bozucu nitelikteki eylemleri önlemek ve bozulan düzeni yeniden tesis etmekle görevli iken; adli kolluk, işlenmiş suçların aydınlatılması, delillerin toplanması ve şüphelilerin yakalanması gibi ceza muhakemesi süreçlerine yardımcı olan birime verilen addır. Bu ayrım, kolluğun yetki ve sorumluluklarının sınırlarını belirlemede hayati öneme sahiptir. Polis, Jandarma ve Sahil Güvenlik Komutanlığı gibi kurumlar hem idari hem de adli kolluk görevlerini yerine getirebilen genel kolluk kuvvetleridir. Ayrıca, özel kolluk niteliğinde orman kolluğu, belediye zabıtası gibi birimler de bulunmaktadır. Bu ilk adımda, kolluğun anayasal dayanaklarına, özellikle temel hak ve özgürlükleri sınırlama yetkisinin ancak kanunla ve meşru bir amaçla kullanılabileceği ilkelerine dikkat çekeceğiz. Kolluğun faaliyetlerinde kanunilik, orantılılık, gereklilik ve ölçülülük ilkelerine uygun hareket etme zorunluluğu, hukuk devleti olmanın vazgeçilmez bir gereğidir. Bu bağlamda, Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserinde belirtildiği üzere, kamu gücünün kullanımı her zaman anayasal sınırlar içinde kalmak zorundadır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Kolluğun görev ve yetkileri, Türk hukuk sisteminde Anayasa ve çeşitli özel kanunlarla ayrıntılı bir şekilde düzenlenmiştir. Bu adımda, kolluk faaliyetlerini şekillendiren temel yasalara ve anayasal ilkeler üzerinde yoğunlaşacağız. Türkiye Cumhuriyeti Anayasası, kolluk yetkilerinin sınırlarını ve kullanım şeklini belirleyen en üst normdur. Özellikle Anayasa'nın 19. maddesi (Kişi hürriyeti ve güvenliği), 20. maddesi (Özel hayatın gizliliği), 21. maddesi (Konut dokunulmazlığı), 22. maddesi (Haberleşme hürriyeti), 26. maddesi (Düşünceyi açıklama ve yayma hürriyeti) ve 38. maddesi (Suç ve cezalarla ilgili esaslar), kolluk faaliyetlerinin anayasal denetime tabi olduğunu gösterir. Bu maddeler, kolluğun bireylerin temel hak ve özgürlüklerine müdahale yetkisinin ancak kanunla ve belirli koşullar altında kullanılabileceğini açıkça ifade eder. Kolluk faaliyetlerinin temelini oluşturan diğer önemli mevzuat ise şunlardır: Polis Vazife ve Salâhiyet Kanunu (PVSK), Jandarma Teşkilat, Görev ve Yetkileri Yönetmeliği, Ceza Muhakemesi Kanunu (CMK), Kabahatler Kanunu ve 5442 sayılı İl İdaresi Kanunu. PVSK, polisin durdurma, kimlik sorma, arama, zor kullanma, el koyma gibi idari kolluk yetkilerini ve bu yetkilerin kullanım koşullarını düzenler. CMK ise adli kolluğun soruşturma aşamasındaki görev ve yetkilerini (suç delillerini toplama, şüpheliyi yakalama, gözaltına alma vb.) ayrıntılı olarak ele alır. Bu yasal düzenlemeler, kolluğun keyfi davranışlarını önlemek ve hukuk devleti ilkesini pekiştirmek amacıyla getirilmiştir. Ayrıca, kolluğun hukuka aykırı fiillerinden doğan sorumluluklar ve bu sorumlulukların giderilmesi de idari yargı ve ceza yargılaması kapsamında ele alınır. Anayasa'nın 125. maddesi, idarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olduğunu düzenleyerek, kolluk faaliyetlerinin de yargısal denetime tabi olduğunu vurgular. Dolayısıyla, kolluğun her eylemi, kanunilik ilkesi çerçevesinde ve temel hak ve özgürlükleri koruyacak şekilde, belirlenmiş yasal sınırlar içinde kalmak zorundadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Kolluk kuvvetlerinin günlük hayattaki pratik uygulamaları, idari kolluk ve adli kolluk ayrımı çerçevesinde çeşitlilik gösterir. Bu adımda, kolluğun yetkilerini somut olaylar üzerinden inceleyerek, teorik bilgilerin pratiğe nasıl yansıdığını anlayacağız. İdari kolluk açısından, kamu düzenini sağlamaya yönelik faaliyetler büyük yer tutar. Örneğin, halka açık bir alanda meydana gelen kavga olayına müdahale etmek, trafiği düzenlemek, izinsiz gösterileri dağıtmak veya gürültü kirliliğini önlemek idari kolluk görevlerindendir. Bir polisin şüphe üzerine bir kişiyi durdurup kimlik kontrolü yapması veya üst araması yapması, PVSK kapsamında yetkilendirilmiş idari kolluk faaliyetleridir. Bu işlemlerin hukukiliği, şüphe nedeninin somut ve makul olmasına, orantılılık ilkesine uygun olmasına ve kişinin onurunu zedelemeyecek şekilde yapılmasına bağlıdır. Adli kolluk uygulamaları ise, işlenmiş bir suç sonrası devreye girer. Bir hırsızlık olayında olay yerine intikal eden adli kolluk görevlileri, delilleri toplar, görgü tanıklarının ifadelerini alır, şüphelileri belirler ve cumhuriyet savcısının talimatları doğrultusunda soruşturma işlemlerini yürütür. Şüphelinin yakalanması ve Ceza Muhakemesi Kanunu'nda belirtilen süreler içinde gözaltına alınması, adli kolluğun önemli yetkilerindendir. Özellikle gözaltı süresinin Anayasa'nın 19. maddesi ve CMK'daki sınırlamalara tabi olması, keyfi uygulamaların önüne geçmek için kritik öneme sahiptir. Zor kullanma yetkisi de kolluğun önemli ancak hassas bir yetkisidir. PVSK'da düzenlenen bu yetki, ancak direnişi kırmak, kanunsuz emirlere uymayanları etkisiz hale getirmek gibi meşru amaçlarla ve orantılılık ilkesine uygun olarak kullanılabilir. Orantılılık ilkesi, müdahalenin ağırlığı ile elde edilecek amacın dengeli olması gerektiğini ifade eder. Aşırı veya gereksiz zor kullanımı, hukuka aykırılık teşkil eder ve cezai, idari sorumluluğa yol açar. Bu pratik örnekler, kolluğun toplumdaki rolünü ve yetkilerinin nasıl kullanılması gerektiğini daha net ortaya koymaktadır. Her bir uygulama, bireylerin hak ve özgürlükleriyle kamu düzeni arasında hassas bir dengeyi gözetmek zorundadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Kolluk faaliyetleri, bireylerin temel hak ve özgürlüklerini doğrudan etkileme potansiyeli taşıdığı için, bu alanda dikkat edilmesi gereken birçok önemli nokta bulunmaktadır. Hukuk devleti ilkesinin bir gereği olarak, kolluğun yetkilerini kullanırken uyması gereken temel prensipler ve olası sorun alanları üzerinde duracağız. Öncelikle, kolluk görevlilerinin kanunilik ilkesine mutlak surette riayet etmesi gerekmektedir. Yaptıkları her eylem ve işlem, yürürlükteki yasalara ve yönetmeliklere uygun olmalıdır. Kanunda açıkça belirtilmeyen bir yetki kullanılamaz, kanunun öngörmediği bir sınırlama getirilemez. Bu ilke, keyfiliği önlemenin en önemli güvencesidir. İkinci olarak, orantılılık ilkesi, kolluğun müdahalelerinin meşru amaca ulaşmak için gerekli olan en hafif araçla yapılması gerektiğini vurgular. Örneğin, bir suç şüphesi nedeniyle arama yapılırken, kişinin özel hayatına en az müdahale edecek şekilde hareket edilmeli veya bir direnişi kırmak için kullanılan güç, direnişin derecesiyle orantılı olmalıdır. Ölçülülük ilkesi de bu bağlamda devreye girer ve müdahalenin ölçülü, yani amaca uygun ve gereklilik arz etmesi gerektiğini ifade eder. Üçüncü olarak, insan haklarına saygı ve ayrımcılık yasağı, kolluk faaliyetlerinin temelini oluşturur. Kolluk görevlileri, görevlerini yerine getirirken ırk, dil, din, cinsiyet, siyasi düşünce, felsefi inanç, mezhep ve benzeri sebeplerle ayrımcılık yapamaz. Uluslararası insan hakları sözleşmeleri, özellikle Avrupa İnsan Hakları Sözleşmesi (AİHS), kolluğun yetkilerinin kullanımında rehber niteliğindedir ve Türk Hukuku'nda Anayasa'nın 90. maddesi uyarınca kanun hükmündedir. Dördüncü olarak, hesap verebilirlik mekanizmaları büyük önem taşır. Kolluk görevlilerinin hukuka aykırı davranışları karşısında idari, hukuki ve cezai sorumlulukları bulunmaktadır. Mağdur olan bireylerin şikayet etme, dava açma ve tazminat talep etme hakları vardır. İdari yargı, kolluğun idari işlemlerini; ceza yargısı ise suç teşkil eden eylemlerini denetler. Ayrıca, Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) ve Kamu Denetçiliği Kurumu (Ombudsmanlık) gibi bağımsız kurumlar da denetim ve şikayet mekanizmaları sunar. Bu mekanizmalar, kolluğun şeffaflığını ve hesap verebilirliğini artırarak, kamu güvenini pekiştirir ve hukuk devleti ilkesinin uygulanmasını sağlar. Kolluk, gücünü kanundan ve halktan alan bir kurum olarak, her zaman hukukun üstünlüğüne bağlı kalmak zorundadır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders boyunca Türk Hukuku'nda 'kolluk' kavramını tüm yönleriyle ele aldık. Kolluk, kamu düzenini ve güvenliğini sağlama misyonuyla hareket eden, ancak yetkileri anayasal sınırlar ve yasal düzenlemelerle sıkı bir şekilde belirlenmiş bir devlet gücüdür. Dersimizin temelini oluşturan ayrım, idari kolluk ve adli kolluk kavramlarıydı. İdari kolluk, önleyici nitelikte olup kamu düzenini bozucu eylemleri engellemeyi hedeflerken; adli kolluk, işlenmiş suçları aydınlatma ve failleri adalete teslim etme sürecinde görev alır. Polis, Jandarma ve Sahil Güvenlik Komutanlığı gibi genel kolluk kuvvetlerimiz, bu iki görevi de eş zamanlı olarak yürütme yeteneğine sahiptir. Kolluk faaliyetlerinin yasal çerçevesini incelediğimizde, Anayasa'nın temel hak ve özgürlüklere ilişkin maddeleri ile Polis Vazife ve Salâhiyet Kanunu, Ceza Muhakemesi Kanunu gibi özel yasaların belirleyici rolünü gördük. Özellikle kanunilik, orantılılık ve ölçülülük ilkeleri, kolluğun yetki kullanımında vazgeçilmez kılavuzlardır. Bu ilkeler, bireyin hak ve özgürlükleri ile kamu yararı arasında hassas bir denge kurulmasını sağlamaktadır. Pratik uygulamalar başlığı altında, kimlik sorma, arama, gözaltına alma ve zor kullanma gibi yetkilerin nasıl ve hangi koşullarda kullanılabileceğini somut örneklerle açıkladık. Her bir yetkinin kullanımı, hukuki güvencelerle çevrelenmiş olup, keyfi uygulamalara karşı bireyleri korumayı amaçlar. Son olarak, 'Dikkat Edilmesi Gerekenler' bölümünde, insan haklarına saygı, ayrımcılık yasağı ve hesap verebilirlik mekanizmalarının önemini vurguladık. Kolluğun hukuka aykırı fiilleri karşısında bireylerin yargı yoluna başvurma ve hak arama özgürlükleri, hukuk devleti ilkesinin temel bir yansımasıdır. Unutmayalım ki, hukuk devleti, gücü sınırlı ve hesap verebilir olan bir idarenin varlığıyla mümkündür. Kolluk kuvvetleri de bu ilkenin en önemli uygulama alanlarından birini teşkil etmektedir. Bu ders, kolluğun karmaşık yapısını ve Türk Hukuku'ndaki yerini anlamanız için sağlam bir temel oluşturmuştur. Konunun daha iyi pekişmesi için pratik soruları dikkatle çözmenizi tavsiye ederim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, Türk Hukuku'nda kolluğun 'idari kolluk' fonksiyonu kapsamında değerlendirilemez?",
+      "options": {
+        "A": "Kamu düzenini bozucu nitelikteki eylemleri önlemek.",
+        "B": "Trafik düzenini sağlamak ve denetlemek.",
+        "C": "Halka açık alanlarda suç işlenmesini engellemek amacıyla devriye gezmek.",
+        "D": "İşlenmiş bir suçun şüphelisini yakalamak ve delilleri toplamak.",
+        "E": "Gürültü kirliliğine karşı tedbirler almak."
+      },
+      "correctAnswer": "D",
+      "explanation": "İşlenmiş bir suçun şüphelisini yakalamak ve delilleri toplamak, Ceza Muhakemesi Kanunu kapsamında adli kolluğun görevidir. Diğer seçenekler, idari kolluğun önleyici ve düzenleyici fonksiyonlarına örnektir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Anayasası'na göre, kolluğun bireylerin temel hak ve özgürlüklerine müdahale yetkisi hangi ilke çerçevesinde kullanılmak zorundadır?",
+      "options": {
+        "A": "Mutlakiyet ilkesi",
+        "B": "Keyfilik ilkesi",
+        "C": "Kanunilik ilkesi",
+        "D": "Yerindelik ilkesi",
+        "E": "Taktir yetkisi ilkesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Anayasası ve hukuk devleti ilkesi gereği, kolluğun bireylerin temel hak ve özgürlüklerine müdahale yetkisi, ancak kanunda açıkça belirtilmiş usul ve esaslara uygun olarak, yani 'kanunilik ilkesi' çerçevesinde kullanılabilir. Bu, keyfi uygulamaların önüne geçmek için temel bir güvencedir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Polis Vazife ve Salâhiyet Kanunu'na (PVSK) göre bir polisin zor kullanma yetkisini kullanmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Zor kullanma, direnişi kırmak veya kanunsuz emirleri uygulamayanları etkisiz hale getirmek amacıyla yapılabilir.",
+        "B": "Kullanılan zorun derecesi, direnişin veya tehdidin niteliğiyle orantılı olmak zorundadır.",
+        "C": "Polis, duruma göre ateşli silah kullanma yetkisini her zaman ve ön uyarı olmaksızın kullanabilir.",
+        "D": "Zor kullanma öncesinde, duruma göre direnişin mahiyetine ve derecesine göre kişiye uyarıda bulunulması esastır.",
+        "E": "Zor kullanma yetkisinin kullanımı, hukuk devleti ilkeleri ve insan haklarına saygı çerçevesinde olmalıdır."
+      },
+      "correctAnswer": "C",
+      "explanation": "PVSK'ya göre ateşli silah kullanma yetkisi, ancak belirli ağır ve acil durumlar ile hayatı veya vücut bütünlüğünü tehdit eden durumlar gibi istisnai hallerde ve son çare olarak kullanılır. Her zaman ve ön uyarı olmaksızın kullanılamaz. Orantılılık ve gereklilik ilkeleri burada da geçerlidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki yargı mercilerinden hangisi, kolluk kuvvetlerinin 'idari eylem ve işlemleri' sonucunda mağdur olan bir kişinin, kolluğun hukuka aykırı işleminin iptali veya sebep olduğu zararın tazmini amacıyla başvurabileceği temel yargı yoludur?",
+      "options": {
+        "A": "Ceza Mahkemeleri",
+        "B": "İdare Mahkemeleri",
+        "C": "Asliye Hukuk Mahkemeleri",
+        "D": "Anayasa Mahkemesi",
+        "E": "Sulh Hukuk Mahkemeleri"
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk İdari Yargılama Usulü Kanunu (İYUK) ve Anayasa'nın 125. maddesi uyarınca, idarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır. Kolluk kuvvetleri de idarenin bir parçası olduğu için, onların idari eylem ve işlemleri sonucunda doğan uyuşmazlıklar İdare Mahkemelerinde çözümlenir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir suç işlendiği iddiasıyla cumhuriyet savcısının talimatıyla harekete geçen kolluk kuvveti, hangi kolluk türüne girer ve temel olarak hangi kanun hükümlerine göre hareket eder?",
+      "options": {
+        "A": "İdari kolluk - Polis Vazife ve Salâhiyet Kanunu (PVSK)",
+        "B": "Özel kolluk - Orman Kanunu",
+        "C": "Adli kolluk - Ceza Muhakemesi Kanunu (CMK)",
+        "D": "Genel kolluk - Kabahatler Kanunu",
+        "E": "İdari kolluk - İl İdaresi Kanunu"
+      },
+      "correctAnswer": "C",
+      "explanation": "Suç işlendiği iddiasıyla cumhuriyet savcısının talimatıyla harekete geçen kolluk kuvveti, 'adli kolluk' görevi yürütür. Bu görevler, 'Ceza Muhakemesi Kanunu (CMK)' hükümleri doğrultusunda yerine getirilir. CMK, soruşturma evresindeki kolluk yetkilerini ve usullerini düzenler."
+    }
+  ]
+}

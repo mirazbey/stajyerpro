@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kanunlar İhtilafı (Conflict of Laws):** Birden fazla devletin hukuk sisteminin bir olayla bağlantısı olduğu durumlarda, hangi devletin hukukunun uygulanacağını belirleme ihtiyacını ifade eden hukuk dalıdır. Milletlerarası özel hukukun temel konusunu oluşturur.\n•   **Milletlerarası Özel Hukuk (MÖHUK):** Yabancı unsur taşıyan özel hukuk ilişkilerine uygulanacak hukukun tespitiyle ve bu ilişkilerden doğan uyuşmazlıkların çözümünde hangi devlet mahkemesinin yetkili olduğuyla (milletlerarası yetki) ilgilenen hukuk dalıdır.\n•   **Bağlama Kuralları:** Yabancılık unsuru taşıyan bir hukuki ilişkiye hangi devlet hukukunun uygulanacağını gösteren normlardır. Örneğin, 'Miras, mirasbırakanın millî hukukuna tabidir.' gibi.\n•   **Bağlama Noktası:** Bağlama kurallarının uygulanmasında esas alınan ve hukuki ilişkiyi belirli bir hukuk düzenine bağlayan ölçüttür. Örnek: Milliyet, ikametgâh, fiilin işlendiği yer, sözleşmenin yapıldığı yer.\n•   **Sıralama (Tavsif):** Yabancılık unsuru taşıyan bir olayın veya hukuki ilişkinin, kanunlar ihtilafı kurallarının uygulanabilmesi için hangi hukuk kategorisine (örneğin, evlenme, boşanma, miras, sözleşme) girdiğinin belirlenmesi işlemidir.\n•   **Kamu Düzeni (Public Policy):** Uygulanması gereken yabancı hukukun belirli bir hükmünün Türk hukukunun temel değerlerine, ilkelerine veya Anayasal düzenine açıkça aykırı olması durumunda yabancı hukukun uygulanmasını engelleyen istisnai bir mekanizmadır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun (MÖHUK) (Kanun No: 5718):** Türkiye'de kanunlar ihtilafı kurallarını ve milletlerarası usul hukukunu düzenleyen temel mevzuattır. 2007 yılında yürürlüğe girmiştir.\n•   **MÖHUK'un Amacı (MÖHUK md. 1):** Kanunun amacı, yabancı unsur taşıyan özel hukuk ilişkilerinde uygulanacak hukuku ve milletlerarası yetki kurallarını belirlemektir. Ayrıca yabancı kararların tanınması ve tenfizi de kanun kapsamında düzenlenir.\n•   **Vatandaşlık (MÖHUK md. 2, 3, 4):** Kişilerin hukuku (ehliyet, aile hukuku, miras hukuku gibi) genellikle millî hukuklarına (vatandaşlık hukukuna) göre belirlenir. Bu, Türk kanunlar ihtilafının temel bağlama noktalarından biridir.\n•   **Sözleşmeler (MÖHUK md. 9):** Sözleşmelerden doğan ilişkilerde taraflar genellikle uygulanacak hukuku serbestçe seçebilirler (hukuk seçimi serbestisi). Bir hukuk seçimi yapılmamışsa, sözleşmeyle en sıkı ilişkili hukukun uygulanması esastır.\n•   **Haksız Fiiller (MÖHUK md. 10):** Haksız fiillerden doğan alacaklar, genellikle fiilin işlendiği yer hukukuna tabidir (lex loci delicti commissi). Ancak bazı durumlarda zarar görenin veya zarara neden olanın ikametgah hukuku gibi istisnalar da uygulanabilir.\n•   **Kamu Düzeni İstisnası (MÖHUK md. 5):** Türk hukukunun temel değerlerine açıkça aykırı olan yabancı hukuk hükümlerinin uygulanmayacağını ve bu durumda Türk hukukunun uygulanacağını öngörür. Bu istisna, dar yorumlanmalı ve sadece temel ilkelerin ihlalinde kullanılmalıdır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Uluslararası Evlilik ve Boşanma:** Türk vatandaşı A ile Alman vatandaşı B'nin Almanya'da evlenip Türkiye'de boşanma davası açması durumunda, evliliğin geçerliliği Türk hukukuna göre (MÖHUK md. 13), boşanma ise tarafların ortak milli hukukuna veya mutat mesken hukukuna göre (MÖHUK md. 14) belirlenir.\n•   **Farklı Uyruklara Sahip Taraflar Arasındaki Sözleşme:** Türkiye'de mukim bir Fransız şirketi ile ABD'de mukim bir Türk şirketi arasında yapılan bir satış sözleşmesinde taraflar uygulanacak hukuku belirlememişse, sözleşmeyle en sıkı ilişkili hukukun (genellikle satıcının hukuku) uygulanması gündeme gelir (MÖHUK md. 9).\n•   **Yabancı Ülkede Gerçekleşen Haksız Fiil:** Türkiye'de yaşayan bir İngiliz turist, İtalya'da bir trafik kazasında zarar görmüşse ve Türkiye'de tazminat davası açmak isterse, genellikle haksız fiilin gerçekleştiği yer olan İtalya hukuku uygulanır (MÖHUK md. 10).\n•   **Yabancı Bir Mirasçının Türkiye'deki Miras Hakkı:** Almanya'da vefat eden bir Alman vatandaşının Türkiye'deki malları için miras davası açıldığında, mirasın tamamına mirasbırakanın millî hukuku olan Alman hukuku uygulanır (MÖHUK md. 20).\n•   **Uluslararası Evlat Edinme:** Bir Türk vatandaşı çiftin, Azerbaycan vatandaşı bir çocuğu evlat edinmesi durumunda, evlat edinmenin şartları ve sonuçları hem evlat edinenlerin millî hukuku (Türk hukuku) hem de evlat edinilenin millî hukuku (Azerbaycan hukuku) dikkate alınarak (MÖHUK md. 17) belirlenir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Bağlama Noktasının Doğru Tespiti:** Kanunlar ihtilafı kurallarının doğru uygulanabilmesi için, hukuki ilişkideki yabancılık unsurunun ve bu unsuru ilgili hukuka bağlayacak noktanın (milliyet, ikametgâh, yer vb.) hatasız belirlenmesi kritik öneme sahiptir.\n•   **Kamu Düzeni İstisnasının Sınırları:** Kamu düzeni istisnası, yabancı hukukun uygulanmasını engelleyen son çare niteliğinde istisnai bir durumdur. Geniş yorumlanması, MÖHUK'un amacına aykırı düşer ve uluslararası özel hukukun işleyişini bozar. Yalnızca Türk toplumunun temel değerlerine 'açıkça' aykırılık halinde uygulanır.\n•   **Gönderme (Renvoi):** Yetkili kılınan yabancı hukukun kendi kanunlar ihtilafı kurallarıyla olayı başka bir hukuka göndermesi durumudur. MÖHUK md. 4, göndermeyi 'geri gönderme' (Türk hukukuna) ve 'ileri gönderme' (üçüncü bir devlete) ayrımı yapmadan kabul eder. Bu durum, karmaşık sonuçlara yol açabilir ve dikkatli analiz gerektirir.\n•   **Yetkili Hukukun İçeriğinin Tespiti (Yabancı Hukukun İspatı):** Uygulanacak yabancı hukukun içeriğinin mahkemece kendiliğinden araştırılması esastır (MÖHUK md. 2/son). Tarafların yabancı hukuku ispat etme yükümlülüğü olmasa da, mahkemeye yardımcı olmaları beklenir. Yabancı hukukun tespit edilememesi halinde Türk hukuku uygulanır.\n•   **Hileli Bağlama (Fraude à la loi):** Tarafların, kendileri için daha avantajlı bir hukukun uygulanmasını sağlamak amacıyla kasten bağlama noktasını değiştirmesi durumudur (örn. boşanmak için vatandaşlık değiştirmek). MÖHUK'ta açıkça düzenlenmemekle birlikte, doktrin ve yargı kararlarıyla engellenmektedir.\n•   **Sıralama (Tavsif) Sorunları:** Bir hukuki olayın, farklı hukuk sistemlerinde farklı kategorilere sokulabilmesi (örn. nişanlanmanın bir ülkede sözleşme, diğerinde aile hukuku olarak görülmesi) bağlama kurallarının uygulanmasında sorunlara yol açabilir. MÖHUK'ta sıralama konusunda açık bir hüküm olmamakla birlikte, Türk hukuku kurallarına göre sıralama yapılması gerektiği genel kabul görür."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **MÖHUK Metnine Hakimiyet:** Sınavda başarılı olmak için MÖHUK'un temel maddelerini (özellikle ilk 25 madde) ve bunların uygulanma alanlarını çok iyi bilmek gerekir. Kanun metni sürekli tekrar edilmelidir.\n•   **Temel Kavramların Tanımı ve Farkları:** Kanunlar ihtilafı, bağlama kuralı, bağlama noktası, sıralama, kamu düzeni, gönderme gibi temel kavramların tanımlarını, özelliklerini ve birbirlerinden farklarını net bir şekilde anlamak önemlidir.\n•   **Örnek Olay Çözme Becerisi:** Farklı senaryolar içeren pratik örnekler üzerinden bağlama kurallarını (evlilik, boşanma, miras, sözleşme, haksız fiil vb.) doğru bir şekilde uygulayabilme yeteneği geliştirilmelidir.\n•   **İstisnai Haller ve Uygulanma Şartları:** Kamu düzeni istisnası, gönderme ve hileli bağlama gibi istisnai durumların hangi şartlarda ortaya çıktığını, nasıl uygulandığını ve sonuçlarını detaylıca öğrenmek gereklidir.\n•   **Uluslararası Unsurun Tespiti:** Bir olayın ne zaman yabancılık unsuru taşıdığını ve bu unsurun kanunlar ihtilafı kurallarını harekete geçirme yeteneğini iyi analiz edebilmek, sorunun çözümünde ilk adımdır.\n•   **Sistematik Yaklaşım:** Sınav sorularını çözerken (1) yabancılık unsurunu tespit etme, (2) hukuki ilişkiyi sıralama, (3) ilgili bağlama kuralını bulma, (4) bağlama noktasını uygulama, (5) yetkili hukukun içeriğini belirleme ve (6) istisnai durumları göz önünde bulundurma şeklinde sistematik bir yaklaşım benimsenmelidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi MÖHUK'un amaçlarından biri **değildir**?",
+      "options": {
+        "A": "Yabancı unsur taşıyan özel hukuk ilişkilerine uygulanacak hukuku belirlemek.",
+        "B": "Milletlerarası yetki kurallarını tespit etmek.",
+        "C": "Yabancı mahkeme kararlarının tanınması ve tenfizi usulünü düzenlemek.",
+        "D": "Devletler arasındaki kamu hukuku uyuşmazlıklarını çözmek."
+      },
+      "correctAnswer": "D",
+      "explanation": "Milletlerarası Özel Hukuk (MÖHUK), adı üzerinde 'özel hukuk' ilişkileriyle ilgilenir. Devletler arasındaki kamu hukuku uyuşmazlıkları (örn. sınır anlaşmazlıkları) milletlerarası kamu hukuku kapsamındadır, MÖHUK'un alanı dışındadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk kanunlar ihtilafı hukukunda (MÖHUK'a göre) bir sözleşmeye uygulanacak hukuk konusunda taraflar hukuk seçimi yapmamışlarsa, genellikle hangi hukuk uygulanır?",
+      "options": {
+        "A": "Davalının ikametgah hukuku.",
+        "B": "Davacının millî hukuku.",
+        "C": "Sözleşmeyle en sıkı ilişkili hukuk.",
+        "D": "Sözleşmenin yapıldığı yer hukuku."
+      },
+      "correctAnswer": "C",
+      "explanation": "MÖHUK md. 9/2'ye göre, tarafların hukuk seçimi yapmamaları halinde sözleşmeyle en sıkı ilişkili hukukun uygulanması esastır. Bu, tarafların iradesine uygun bir yedek bağlama kuralıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Uygulanması gereken yabancı hukukun bir hükmünün Türk kamu düzenine açıkça aykırı olması durumunda ne olur?",
+      "options": {
+        "A": "Yabancı hukuk hükmü tamamen uygulanmaz ve yerine o ülkenin diğer hükmü uygulanır.",
+        "B": "Yabancı hukuk hükmü tamamen uygulanmaz ve yerine Türk hukuku uygulanır.",
+        "C": "Mahkeme, yabancı hukuk hükmünü yorumlayarak uygulamaya çalışır.",
+        "D": "Mahkeme, davayı reddeder."
+      },
+      "correctAnswer": "B",
+      "explanation": "MÖHUK md. 5'e göre, uygulanması gereken yabancı hukukun belirli bir hükmü Türk kamu düzenine açıkça aykırı olması halinde, bu hüküm uygulanmaz; gereken hallerde Türk hukuku uygulanır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Yabancılık unsuru taşıyan bir hukuki ilişkinin, kanunlar ihtilafı kurallarının uygulanabilmesi için hangi hukuk kategorisine girdiğinin belirlenmesi işlemine ne ad verilir?",
+      "options": {
+        "A": "Gönderme (Renvoi)",
+        "B": "Kamu düzeni istisnası",
+        "C": "Bağlama noktası",
+        "D": "Sıralama (Tavsif)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bir olayın veya hukuki ilişkinin, evlenme, boşanma, miras gibi hangi hukuk kategorisine girdiğinin belirlenmesi işlemine sıralama (tavsif) denir. Bu, doğru bağlama kuralını bulmak için ilk adımdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "MÖHUK'a göre, yabancı hukukun içeriğinin mahkeme tarafından tespiti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Mahkeme, yabancı hukukun içeriğini taraflardan talep etmelidir.",
+        "B": "Yabancı hukukun içeriği, taraflarca ispat edilmelidir.",
+        "C": "Mahkeme, yabancı hukukun içeriğini kendiliğinden araştırır.",
+        "D": "Yabancı hukukun içeriği ispat edilemezse dava düşer."
+      },
+      "correctAnswer": "C",
+      "explanation": "MÖHUK md. 2/son hükmüne göre, 'Uygulanacak yabancı hukukun içeriğinin tespitinde Türk Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun hükümleri kıyasen uygulanır.' Bu madde, mahkemenin yabancı hukuku resen (kendiliğinden) araştırma yükümlülüğünü ifade eder. Taraflar yardımcı olabilir ancak ispat yükü mahkemede değildir."
+    }
+  ]
+}

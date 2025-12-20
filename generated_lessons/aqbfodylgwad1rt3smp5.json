@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Merhaba değerli öğrenciler, Türk İdari Yargı Hukuku'nun temel taşlarından biri olan 'Tam Yargı Davası' konusuna hoş geldiniz. Bu ders içeriği, idare hukuku alanındaki en kritik başlıklar arasında yer alan tam yargı davasını tüm yönleriyle ele almayı amaçlamaktadır. Öncelikle, bu davanın ne anlama geldiğini, amacını ve idari yargıdaki yerini kavramakla başlayalım. Tam yargı davası, idarenin eylem ve işlemlerinden dolayı kişilerin uğradığı maddi ve/veya manevi zararların tazminini talep etmek amacıyla açılan bir dava türüdür. Amacı, idarenin hukuka aykırı veya hizmet kusuruna dayalı sorumluluğu nedeniyle oluşan zararları gidermek suretiyle, bireyin haklarını idare karşısında korumak ve idarenin hukuka uygun hareket etmesini sağlamaktır. Anayasa Hukuku'nun temel esaslarına baktığımızda, Anayasa'nın 125. maddesi, 'İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır.' hükmüyle, idarenin yargı denetimine tabi olduğunu ve 'İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.' ifadesiyle de idarenin mali sorumluluğunu açıkça düzenleyerek tam yargı davasının anayasal dayanağını oluşturmaktadır. Bu madde, idari yargı denetiminin kapsamını ve idarenin tazminat sorumluluğunun temelini atmaktadır. Tam yargı davası, idarenin hukuka aykırı bir işlemiyle veya eylemiyle ya da bazen hukuka uygun ancak kişilere özel ve olağan dışı yükler getiren bir eylemiyle ortaya çıkan zararların giderilmesi için başvurulan bir yoldur. İptal davalarından temel farkı, iptal davaları bir idari işlemin hukuka aykırılığını tespit ederek o işlemi ortadan kaldırmayı hedeflerken, tam yargı davaları, idari işlemler veya eylemler neticesinde oluşan zararların tazminini doğrudan talep etmesidir. Dolayısıyla, tam yargı davası, idari işlemin iptali talebini içerebildiği gibi, müstakil olarak sadece tazminat talebiyle de açılabilir. Bu ders boyunca, bu temel farkları, davanın açılma şartlarını, sürelerini ve uygulama örneklerini detaylıca inceleyeceğiz."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Türk Hukuku'nda tam yargı davasının yasal çerçevesini ağırlıklı olarak 2577 sayılı İdari Yargılama Usulü Kanunu (İYUK) belirlemektedir. İYUK'un 12. ve 13. maddeleri, tam yargı davasının açılma usulü ve süreleri bakımından temel hükümleri içermektedir. Anayasa'nın 125. maddesindeki genel ilkenin yansıması olarak, İYUK m. 12, idari işlemlerin iptali davası ile birlikte tazminat isteminin ileri sürülebileceğini belirtirken, İYUK m. 13 ise idari eylemlerden kaynaklanan zararların tazmini için doğrudan tam yargı davası açılması usulünü düzenlemektedir. İdari işlemlerden doğan zararların tazmini için tam yargı davası açılabilmesi genellikle iki farklı senaryoda karşımıza çıkar: Birincisi, idari işlemin iptali istemiyle birlikte aynı dilekçede tazminat talebinin de ileri sürülmesidir. Bu durumda, iptal davası ile tam yargı davası arasında bir bağlantı kurulur ve mahkeme, idari işlemin hukuka aykırılığını tespit etmesi halinde zararın tazminine de hükmedebilir. İkincisi ise, bir idari işlemden zarar görüldüğü hallerde, öncelikle ilgili idareye başvurularak zararın giderilmesi talebinde bulunulmasıdır. İdare, bu başvuruya 60 gün içinde cevap vermezse zımni ret kabul edilir veya talebi açıkça reddederse, ret tarihinden itibaren 60 gün içinde tam yargı davası açılabilir. Bu ön başvuru şartı, İYUK m. 13'te idari eylemlerden doğan zararlar için de öngörülmüştür. İdari eylemlerden doğan zararlarda, eylemin öğrenildiği tarihten itibaren 1 yıl ve her halükarda eylem tarihinden itibaren 5 yıl içinde ilgili idareye başvuru yapılması zorunludur. İdareye yapılan bu başvuruya 60 gün içinde cevap verilmezse veya ret cevabı alınırsa, bu tarihten itibaren 60 gün içinde tam yargı davası açılması gerekir. Bu süreler hak düşürücü nitelikte olup, titizlikle takip edilmelidir. Sürelerin kaçırılması halinde, dava açma hakkı kaybedilir. Ayrıca, idarenin sorumluluğu kusur sorumluluğu (hizmet kusuru) veya kusursuz sorumluluk ilkesine dayanabilir. Hizmet kusuru, idarenin teşkilat yapısında, personelinde veya hizmetin yürütülmesinde ortaya çıkan eksiklik, gecikme veya düzensizlik gibi kusurlu hallerden kaynaklanan sorumluluktur. Kusursuz sorumluluk ise, idarenin tehlike ilkesi, fedakarlığın denkleştirilmesi ilkesi veya kamu külfetleri karşısında eşitlik ilkesi gibi nedenlerle, kusuru olmasa dahi meydana gelen zararları tazmin etme yükümlülüğüdür. Güncel mevzuat kapsamında, idari yargının etkinliği ve idari işlemden veya eylemden kaynaklanan zararların daha hızlı giderilmesi amacıyla çeşitli düzenlemeler yapılmıştır. Özellikle Anayasa Mahkemesi ve Danıştay içtihatları, tam yargı davasının kapsamını ve uygulama esaslarını şekillendirmede önemli bir role sahiptir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Tam yargı davaları, günlük hayatta pek çok farklı senaryoda karşımıza çıkabilir ve idarenin sorumluluğunu somut olaylar üzerinden değerlendirmemizi gerektirir. Örneğin, bir kamu görevlisinin hukuka aykırı şekilde görevden alınması veya atanmaması durumunda, kişi maddi (alamadığı maaşlar, özlük hakları) ve manevi (kişilik haklarına saldırı, itibar kaybı) zararlarının tazminini talep edebilir. Bu durumda, öncelikle iptal davası açılabilir ve iptal kararı kesinleştikten sonra veya iptal davası ile birlikte tam yargı davası açılması düşünülebilir. Başka bir örnek olarak, bir yol yapım çalışması sırasında müteahhit firmanın veya ilgili idarenin ihmali sonucu bir vatandaşın özel mülküne zarar gelmesi veya bedensel bir yaralanma meydana gelmesi durumunda, zarar gören kişi, idarenin hizmet kusuruna dayanarak tam yargı davası açabilir. Burada zararın tespiti, illiyet bağı (zarar ile idari eylem/işlem arasındaki sebep-sonuç ilişkisi) ve kusur tespiti önemli rol oynar. İdarenin yürüttüğü kamu hizmetlerinde, örneğin sağlık hizmetlerinde yaşanan doktor hatası (tıbbi malpraktis) sonucu bir hastanın zarar görmesi durumunda da, idarenin hizmet kusuru ilkesine dayanarak tam yargı davası açılabilir. Bu tür davalarda, zararın boyutu, tazminat miktarı ve illiyet bağı genellikle bilirkişi incelemesi ile tespit edilir. Yine, idarenin çevre kirliliği gibi konularda görevini yapmaması veya geç yapması nedeniyle ortaya çıkan zararlarda da tam yargı davası yoluyla tazminat talep edilebilir. Kusursuz sorumluluğa örnek olarak ise, idarenin yürüttüğü tehlikeli faaliyetler (nükleer enerji santrali işletilmesi gibi) veya fedakarlığın denkleştirilmesi ilkesi çerçevesinde (kamu yararı için yapılan ancak belirli kişilere aşırı ve olağandışı yük getiren eylemler, örneğin kamulaştırma bedelinin geç ödenmesi) meydana gelen zararlar gösterilebilir. Bu tür durumlarda idarenin kusuru olmasa dahi sorumluluğu doğabilir. Pratik uygulamada dikkat edilmesi gereken en önemli hususlardan biri, davayı açmadan önce İYUK'ta belirtilen ön başvuru şartlarının ve sürelerinin eksiksiz yerine getirilmesidir. Aksi takdirde, dava usulden reddedilebilir. Ayrıca, zararın niteliği, miktarı ve idareye düşen kusurun ispatı, davanın başarıya ulaşması için kritik öneme sahiptir. Mahkemeler, tazminat miktarını belirlerken olayın tüm koşullarını, zararın kapsamını, idarenin kusurunu ve davacının varsa müterafik kusurunu dikkate almaktadır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Tam yargı davası sürecinde başarıya ulaşmak ve hak kayıplarını önlemek için dikkat edilmesi gereken kritik noktalar bulunmaktadır. Öncelikle, davanın türünü doğru belirlemek çok önemlidir. İptal davası mı, tam yargı davası mı, yoksa her ikisi birden mi açılacak? İdari işlemin hukuka aykırılığının giderilmesi amaçlanıyorsa iptal davası, zararın tazmini amaçlanıyorsa tam yargı davası öncelikli olacaktır. Eğer idari işlem hem hukuka aykırı hem de zarara yol açmışsa, genellikle iptal davası ile birlikte tam yargı davası açmak veya iptal davası kesinleştikten sonra ayrı bir tam yargı davası açmak tercih edilebilir. Ancak unutulmamalıdır ki, iptal davası açmak, tam yargı davası açma süresini kendiliğinden uzatmaz; ilgili süreler ayrı ayrı işleyebilir. İkinci önemli nokta, İYUK'ta öngörülen başvuru ve dava açma sürelerine riayet edilmesidir. İdari eylemlerden doğan zararlarda eylemin öğrenildiği tarihten itibaren 1 yıl ve her halde eylem tarihinden itibaren 5 yıl içinde idareye başvuru, idarenin zımni veya açık ret cevabından itibaren ise 60 gün içinde dava açma süresi hak düşürücüdür. Bu sürelerin kaçırılması, davanın esastan incelenmesine engel teşkil edecektir. Üçüncü olarak, davalı idarenin doğru bir şekilde tespit edilmesi gerekmektedir. Zarara neden olan eylem veya işlemi gerçekleştiren kamu tüzel kişiliğinin (örneğin, Bakanlık, Belediye, Üniversite) davalı sıfatıyla gösterilmesi elzemdir. Davalı idarenin yanlış belirlenmesi, davanın husumet yokluğundan reddine yol açabilir. Dördüncü olarak, zararın niteliği ve miktarının somut ve ispat edilebilir olması büyük önem taşır. Maddi zararların belgelerle (faturalar, raporlar, gelir kaybı hesaplamaları) desteklenmesi, manevi zararların ise hukukun genel prensipleri ve somut olayın özellikleri çerçevesinde talep edilmesi gerekmektedir. Yargılama sırasında zarar miktarı konusunda bilirkişi incelemesine sıklıkla başvurulmaktadır. Beşinci olarak, idarenin sorumluluğunu doğuran kusurlu veya kusursuz hal ile zarar arasında 'illiyet bağı'nın (sebep-sonuç ilişkisinin) varlığı net bir şekilde ortaya konulmalıdır. İlliyet bağının kesilmesi (mücbir sebep, üçüncü kişinin ağır kusuru, zarar görenin ağır kusuru gibi nedenlerle) idarenin sorumluluğunu ortadan kaldırabilir veya azaltabilir. Son olarak, İdari Yargılama Usulü Kanunu'nun yanı sıra, Borçlar Kanunu'nun ilgili hükümleri ve Medeni Kanun'un genel ilkeleri de tam yargı davalarında kıyasen uygulanabilir hükümler içerebilir. Bu nedenle, genel hukuk bilgilerinin de bu davaların yürütülmesinde etkin bir şekilde kullanılması gerekmektedir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu derste 'Tam Yargı Davası' konusunu Anayasal temellerinden başlayarak, yasal çerçevesini, pratik uygulamalarını ve dikkat edilmesi gereken kritik noktalarını kapsamlı bir şekilde inceledik. Özetle, tam yargı davası, idarenin eylem ve işlemlerinden kaynaklanan maddi ve manevi zararların giderilmesi amacıyla açılan, bireyin idare karşısında hak arama özgürlüğünün en önemli araçlarından biridir. Anayasa'nın 125. maddesi ile güvence altına alınan idarenin mali sorumluluğu ilkesi, İdari Yargılama Usulü Kanunu'nun 12. ve 13. maddeleri ile somutlaştırılmaktadır. Tam yargı davaları, idari işlemlerin iptaliyle birlikte açılabileceği gibi, idari eylemlerden kaynaklanan zararlar için müstakil olarak da açılabilmektedir. Ancak her iki durumda da, dava açmadan önce ilgili idareye başvuru yapılması ve bu başvurunun İYUK'ta belirtilen hak düşürücü süreler içinde gerçekleştirilmesi zorunludur. Zararın ispatı, illiyet bağının tespiti, davalı idarenin doğru belirlenmesi ve dava dilekçesinin eksiksiz hazırlanması, davanın başarılı olmasında kilit rol oynamaktadır. İdari sorumluluk, hizmet kusuruna dayalı olabileceği gibi, kusursuz sorumluluk ilkesi çerçevesinde de ortaya çıkabilir. Bu davalar, idarenin hukuka uygunluğunu sağlamanın yanı sıra, vatandaşların uğradığı zararların telafi edilmesi ve kamu hizmetlerinin kalitesinin artırılması açısından hayati bir işlev görür. Unutmayınız ki, Türk hukukunda idarenin sorumluluğu geniş yorumlanmakta ve bireylerin hakları azami düzeyde korunmaya çalışılmaktadır. Bu bilgileri pekiştirmek amacıyla, şimdi pratik sorularla bilgilerinizi sınayalım. Herhangi bir dava açma sürecinde mutlaka hukuki yardım almanız gerektiğini de hatırlatmak isterim. Başarılar dilerim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, tam yargı davasının iptal davasından temel farklarından biridir?",
+      "options": {
+        "A": "İptal davası idari işlemin hukuka uygunluğunu denetlerken, tam yargı davası idari eylem veya işlemden doğan zararın tazminini amaçlar.",
+        "B": "İptal davası idari işlemlere karşı açılırken, tam yargı davası sadece idari eylemlere karşı açılabilir.",
+        "C": "Tam yargı davası için idareye ön başvuru zorunlu iken, iptal davası için böyle bir şart yoktur.",
+        "D": "İptal davasında dava açma süresi 60 gün iken, tam yargı davasında bu süre 30 gündür."
+      },
+      "correctAnswer": "A",
+      "explanation": "İptal davası, bir idari işlemin hukuka aykırılığını tespit ederek o işlemi yürürlükten kaldırmayı hedefler. Tam yargı davası ise, idarenin eylem veya işlemlerinden kaynaklanan maddi ve/veya manevi zararların tazminini talep etmek amacıyla açılır. Bu, iki dava türünün temel amacı arasındaki en önemli farktır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, idari bir eylemden dolayı zarara uğrayan bir kişi, ilgili idareye başvurarak zararın giderilmesini talep etmiştir. İdare, bu başvuruya 70 gün içinde cevap vermemiştir. Bu durumda zarar gören kişinin tam yargı davası açma süresi ne zaman başlar ve ne kadar süre devam eder?",
+      "options": {
+        "A": "Başvuru tarihinden itibaren 60 gün sonra başlar ve 60 gün devam eder.",
+        "B": "Başvuru tarihinden itibaren 70 gün sonra başlar ve 30 gün devam eder.",
+        "C": "Başvuru tarihinden itibaren 60 gün sonra, zımni ret kabul edildiği tarihten itibaren başlar ve 60 gün devam eder.",
+        "D": "İdarenin cevapsız kalma süresi önemli değildir, eylemin öğrenildiği tarihten itibaren 1 yıl içinde dava açılabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK m. 13'e göre, idareye yapılan başvuruya 60 gün içinde cevap verilmezse bu durum zımni ret kabul edilir. Bu 60 günlük sürenin bittiği tarihten itibaren dava açma süresi başlar ve bu süre de 60 gündür. Soruda idarenin 70 gün içinde cevap vermemesi, 60 günlük zımni ret süresinin dolduğunu ve devamındaki 60 günlük dava açma süresinin başladığını gösterir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir kamu hastanesinde görevli doktorun teşhis hatası nedeniyle hastanın sağlığında kalıcı bir bozukluk meydana gelmiştir. Bu durum karşısında hastanın idareye karşı başvurabileceği hukuki yol ve sorumluluk ilkesi aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+      "options": {
+        "A": "İptal Davası - Kusursuz Sorumluluk",
+        "B": "Tam Yargı Davası - Hizmet Kusuru",
+        "C": "Uyuşmazlık Mahkemesi Başvurusu - Risk Sorumluluğu",
+        "D": "Adli Yargıda Tazminat Davası - Objektif Sorumluluk"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kamu hizmeti yürüten hastanedeki doktorun teşhis hatası, idarenin hizmeti kötü veya eksik işlemesinden kaynaklanan bir durum olup, 'hizmet kusuru' ilkesi kapsamında değerlendirilir. Bu tür zararların tazmini için idari yargıda 'tam yargı davası' açılır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Anayasa'nın 125. maddesinde yer alan 'İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.' hükmü, Türk İdare Hukuku açısından hangi temel ilkenin anayasal dayanağını oluşturmaktadır?",
+      "options": {
+        "A": "İdari Yargının Bağımsızlığı İlkesi",
+        "B": "İdarenin Hukuka Bağlılığı İlkesi",
+        "C": "İdarenin Mali Sorumluluğu İlkesi",
+        "D": "Kanunsuz Emir İlkesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa'nın 125. maddesinin ilgili hükmü, idarenin kendi eylem ve işlemlerinden dolayı meydana gelen zararları tazmin etme yükümlülüğünü açıkça ifade ederek, 'İdarenin Mali Sorumluluğu İlkesi'nin anayasal dayanağını oluşturur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Tam yargı davasında tazminat talebinde bulunulurken, aşağıdakilerden hangisinin varlığı davanın kabulü için esaslı bir şart DEĞİLDİR?",
+      "options": {
+        "A": "Zarar görenin kusursuz olması",
+        "B": "Zararın meydana gelmesi",
+        "C": "İdarenin kusurunun veya kusursuz sorumluluğunun bulunması",
+        "D": "Zarar ile idarenin eylem veya işlemi arasında illiyet bağının bulunması"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tam yargı davasında, zararın tazmin edilebilmesi için zararın meydana gelmiş olması, idarenin kusurunun (hizmet kusuru) veya kusursuz sorumluluğunun bulunması ve zarar ile idari eylem/işlem arasında illiyet bağının varlığı esaslı şartlardır. Ancak zarar görenin mutlak surette kusursuz olması gerekmez. Zarar görenin müterafik kusuru (ortak kusuru) varsa, bu durum tazminat miktarında indirime neden olabilir, ancak davanın kabulü için esaslı bir şart değildir."
+    }
+  ]
+}

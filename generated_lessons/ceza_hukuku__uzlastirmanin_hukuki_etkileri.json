@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "• **Uzlaştırma Tanımı:** Suçtan zarar gören veya mağdur ile şüphelinin/sanığın, bağımsız ve tarafsız bir uzlaştırmacı aracılığıyla, suçtan doğan uyuşmazlığın çözümü için bir araya gelmeleri ve anlaşmaları esasına dayanan, ceza muhakemesi hukuku kurumu. Amacı, mağduriyetin giderilmesi ve toplumsal barışın sağlanmasıdır.\n• **Taraflar:** Şüpheli/Sanık (fail) ile Mağdur/Suçtan Zarar Gören (müdahil). Tarafların rızası ve aktif katılımı esastır.\n• **Uzlaştırmacı:** Hukuk eğitimi almış veya Adalet Bakanlığı tarafından uzlaştırmacı olarak yetkilendirilmiş, bağımsız ve tarafsız kişidir. Görevi, taraflar arasında sağlıklı iletişimi sağlayarak adil bir anlaşmaya varmalarına yardımcı olmaktır.\n• **Uzlaştırmaya Tabi Suçlar:** Kural olarak takibi şikâyete bağlı suçlar ile şikâyete bağlı olmasa bile kanunda açıkça uzlaştırma kapsamına alındığı belirtilen bazı suçlar. Bu suçlar genellikle daha az ağırlıklı ve kişisel nitelikteki suçlardır (örneğin, basit kasten yaralama, hakaret, tehdit, hırsızlık ve dolandırıcılığın basit halleri).\n• **Amacı:** Ceza adalet sisteminin iş yükünü azaltmak, mağdurun zararını etkin ve hızlı bir şekilde gidermek, failin topluma yeniden kazandırılmasını sağlamak ve taraflar arasında barışçıl bir çözüm oluşturmaktır. Mağdur odaklı bir yaklaşımdır.\n• **Niteliği:** Uzlaştırma, bir ceza muhakemesi kurumu olup, dava şartı veya etkin pişmanlık gibi ceza hukuku kurumlarıyla karıştırılmamalıdır. Ancak sonuçları, kamu davasının açılmasının ertelenmesi veya davanın düşmesi gibi doğrudan ceza hukuku etkileri doğurur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "• **5271 Sayılı Ceza Muhakemesi Kanunu (CMK) m. 253:** Uzlaştırma kurumunun genel düzenlemesini, kapsamını, usulünü, uzlaştırma teklifinin yapılması, uzlaştırmacının atanması, uzlaştırma raporu ve sonuçlarını detaylandırır. Uzlaştırmaya tabi suçların ve uzlaştırma yapılamayacak hallerin belirlenmesinde temel maddedir.\n• **CMK m. 254:** Uzlaştırmanın sonuçlarını düzenler. Uzlaşmanın gerçekleşmesi halinde soruşturma aşamasında kovuşturmaya yer olmadığı kararı (takipsizlik), kamu davası açılmışsa düşme kararı verileceğini açıkça belirtir.\n• **CMK m. 255:** Uzlaştırma bürolarının kurulması ve uzlaştırma işlemlerinin yürütülmesine dair usul ve esasların çıkarılacağı yönetmeliğe atıf yapar. Bu yönetmelik, uygulamanın detaylarını belirler.\n• **5237 Sayılı Türk Ceza Kanunu (TCK):** TCK doğrudan uzlaştırmayı düzenlememekle birlikte, uzlaştırmaya tabi suçları belirlemede CMK ile birlikte anılır. Uzlaştırma sonucunda verilecek düşme kararı, TCK'da öngörülen suç ve ceza ilişkisinin sona ermesi hallerinden biridir.\n• **Uzlaştırma Yönetmeliği:** Uzlaştırmanın somut uygulama usullerini, uzlaştırmacıların niteliklerini, eğitimlerini, ücretlerini ve büroların işleyişini düzenleyen tali mevzuattır. CMK'nın genel hükümlerini somutlaştırarak uygulamaya yön verir.\n• **Uzlaştırma Teklifi:** Soruşturma veya kovuşturma evresinde, uzlaştırma kapsamındaki bir suçun varlığı halinde Cumhuriyet savcısı veya mahkeme tarafından resen yapılır. Tarafların uzlaştırma teklifini kabul etmeleri halinde uzlaştırma sürecine geçilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "• **Örnek 1 (Soruşturma Aşaması):** Şüpheli A, mağdur B'ye karşı basit kasten yaralama suçunu işlemiştir. Savcılık, uzlaştırma bürosuna gönderir. Uzlaştırmacı eşliğinde A, B'nin hastane masraflarını karşılamayı ve özür dilemeyi kabul eder. Uzlaşma raporu savcılığa sunulur ve savcılık, kovuşturmaya yer olmadığına (takipsizlik) karar verir.\n• **Örnek 2 (Kovuşturma Aşaması):** Sanık C, mağdur D'ye karşı hakaret suçundan yargılanmaktadır. Mahkeme, dosyayı uzlaştırma bürosuna gönderir. Taraflar, C'nin sosyal bir kuruma bağış yapması karşılığında D'nin şikâyetinden vazgeçmesi konusunda anlaşırlar. Mahkeme, uzlaşma raporunu inceleyerek kamu davasının düşmesine karar verir.\n• **Örnek 3 (Edimin İnfaz Edilmemesi):** Şüpheli E ile mağdur F, uzlaşma sonucunda E'nin F'ye belirli bir miktar parayı ödemesi konusunda anlaşmıştır. Ancak E, uzlaşma raporunda belirtilen sürede bu ödemeyi yapmaz. Bu durumda uzlaşma başarısız kabul edilir ve soruşturma veya kovuşturmaya genel hükümlere göre devam edilir.\n• **Örnek 4 (Kısmi Uzlaşma):** Şüpheli G, mağdur H'ye yönelik tehdit ve konut dokunulmazlığının ihlali suçlarını işlemiştir. Uzlaştırma görüşmelerinde tehdit suçundan uzlaşılırken, konut dokunulmazlığının ihlali suçundan uzlaşılamaz. Bu durumda tehdit suçu bakımından uzlaştırma sağlanmış kabul edilir ve bu suçla ilgili takipsizlik kararı verilirken, diğer suç için yargılamaya devam edilir.\n• **Örnek 5 (Uzlaşmanın Bağlayıcılığı):** Bir hırsızlık suçu nedeniyle şüpheli J ile mağdur K arasında uzlaşma sağlanmış ve J, K'nın zararını gidermiştir. Uzlaşma raporunun imzalanması ve edimin yerine getirilmesi üzerine takipsizlik kararı verilmiştir. Aynı olayla ilgili olarak K daha sonra tekrar şikâyetçi olsa bile, uzlaşma bağlayıcı olduğu için kamu davası açılamaz veya açılmışsa düşer."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "• **Uzlaştırma Teklifinin Reddi:** Taraflardan herhangi birinin uzlaştırma teklifini reddetmesi veya süresi içinde cevap vermemesi durumunda uzlaştırma süreci sona erer ve soruşturma/kovuşturma genel hükümlere göre devam eder. Teklif reddedilse bile, bu durum failin aleyhine delil olarak kullanılamaz.\n• **Uzlaştırmanın Hukuki Niteliği:** Uzlaştırma, kural olarak bir \"dava şartı\" değildir, yani yokluğu davanın açılmasına engel teşkil etmez (ancak uzlaştırma girişiminin yapılmaması CMK 253/1 uyarınca dava açılmasının önünde bir engeldir). Başarısızlıkla sonuçlanması davanın esasına etkilemez. Önleyici ve uzlaştırıcı bir mekanizmadır.\n• **Uzlaşma Ediminin Yerine Getirilmemesi:** Uzlaşma sonucunda tarafların anlaştığı edim (tazminat ödeme, onarım, özür dileme vb.) süresi içinde yerine getirilmezse, uzlaşma raporu hükmü kalmaz. Bu durumda, soruşturma veya kovuşturmaya devam edilir ve daha sonra uzlaşmadan vazgeçilemez. Edim, ilam niteliğinde belge olarak icra edilebilir.\n• **Uzlaştırmaya Tabi Olmayan Suçlar:** Anayasal düzene, devlet sırlarına karşı suçlar, terör suçları ve cinsel dokunulmazlığa karşı suçlar gibi nitelikli suçlar ile özel kanunlarda belirtilen bazı suçlar uzlaştırma kapsamı dışındadır. Birden fazla kişinin aynı anda suç işlemesi (iştirak) durumunda da uzlaştırma özel hükümlere tabidir.\n• **Uzlaşma Beyanının Geri Alınması:** Uzlaşma raporu imzalandıktan ve edim yerine getirildikten sonra uzlaşma beyanı kural olarak geri alınamaz. Ancak uzlaşma anlaşmasının iradeyi sakatlayan bir hal ile yapıldığı (cebir, tehdit, hile gibi) iddia edilirse, bu durum yargılamada değerlendirilebilir.\n• **Yabancılık Unsuru:** Uzlaştırma süreci, taraflardan birinin yabancı olması durumunda da uygulanabilir. Ancak, dil bariyeri ve kültürel farklılıklar gibi etmenler uzlaştırma sürecini etkileyebilir ve bu durumda tercüman hizmeti sağlanması zorunlu olabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "• **Kavramsal Anlayış:** Uzlaştırmanın tanımını, amacını, taraflarını ve uzlaştırmacının rolünü net bir şekilde öğrenin. Ceza muhakemesindeki yerini ve diğer kurumlarla (etkin pişmanlık, önödeme, dava şartı) farkını iyi kavrayın.\n• **Yasal Dayanaklar:** CMK m. 253 ve 254'ü madde metinleriyle birlikte ezberlemek yerine, içeriklerini ve ana hükümlerini anlamaya çalışın. Özellikle uzlaştırmaya tabi suçların belirlenmesi, sürecin nasıl işlediği ve sonuçları kritik öneme sahiptir.\n• **Uzlaştırmanın Sonuçları:** Soruşturma ve kovuşturma aşamalarındaki farklı sonuçları (kovuşturmaya yer olmadığı kararı, düşme kararı) birbirinden ayırın. Uzlaşma ediminin yerine getirilmemesi halinde ne olacağını ve bunun hukuki etkilerini iyi bilin.\n• **Uygulama Alanı ve İstisnalar:** Hangi suçların uzlaştırmaya tabi olduğunu ve hangi durumlarda uzlaştırma yapılamayacağını (örneğin, nitelikli suçlar, cinsel suçlar, uzlaşma teklifinin reddi, birden fazla suçun birlikte işlenmesi) iyi bilin. Uygulama örnekleri üzerinden konuyu pekiştirin.\n• **Karşılaştırmalı Bilgi:** Uzlaştırmanın ceza hukuku ve ceza muhakemesi hukuku içindeki diğer kurumlarla (örneğin, önödeme, etkin pişmanlık, hükmün açıklanmasının geri bırakılması) benzerliklerini ve farklılıklarını değerlendirerek daha derinlemesine bir anlayış geliştirin. Özellikle bu kurumların hangi aşamada devreye girdiği ve hukuki sonuçları önemlidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Uzlaştırma, Türk Ceza Muhakemesi Hukuku'nda temel olarak hangi kanunda düzenlenmiştir?",
+      "options": {
+        "A": "Türk Ceza Kanunu (TCK)",
+        "B": "Ceza Muhakemesi Kanunu (CMK)",
+        "C": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun",
+        "D": "Borçlar Kanunu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Uzlaştırma kurumu, esasen 5271 sayılı Ceza Muhakemesi Kanunu'nun 253 ve 254. maddelerinde düzenlenmiştir. TCK, suçları ve cezaları belirlerken, uzlaştırma gibi muhakeme usullerini CMK düzenler."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi uzlaştırmanın başarısız kabul edildiği durumlardan biri değildir?",
+      "options": {
+        "A": "Uzlaştırma teklifinin taraflardan biri tarafından reddedilmesi.",
+        "B": "Uzlaştırma görüşmeleri sonucunda tarafların anlaşmaya varması.",
+        "C": "Uzlaşma ediminin, raporun imzalanmasından sonra belirlenen sürede yerine getirilmemesi.",
+        "D": "Uzlaştırmacının raporu belirlenen ek süre içinde düzenlememesi."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tarafların uzlaştırma görüşmeleri sonucunda anlaşmaya varması, uzlaştırmanın başarılı bir şekilde sonuçlandığı anlamına gelir. Diğer şıklar ise uzlaştırmanın başarısız sayılması veya sürecin aksaması durumlarını ifade eder."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Uzlaştırma sonucunda soruşturma aşamasında, uzlaşma gerçekleştiğinde Cumhuriyet savcısı tarafından verilen karar aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Beraat Kararı",
+        "B": "Hükmün Açıklanmasının Geri Bırakılması Kararı",
+        "C": "Kovuşturmaya Yer Olmadığı Kararı (Takipsizlik)",
+        "D": "Ceza Verilmesine Yer Olmadığı Kararı"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ceza Muhakemesi Kanunu'nun 253/19. maddesine göre, uzlaşmanın gerçekleşmesi halinde soruşturma aşamasında Cumhuriyet savcısı tarafından kovuşturmaya yer olmadığına (takipsizlik) karar verilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki suçlardan hangisi kural olarak uzlaştırma kapsamına girmez?",
+      "options": {
+        "A": "Kasten Yaralama (Basit Hali)",
+        "B": "Hakaret",
+        "C": "Nitelikli Hırsızlık",
+        "D": "Tehdit"
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 253'e göre kural olarak sadece takibi şikâyete bağlı suçlar ile kanunda açıkça belirtilen bazı suçlar uzlaştırma kapsamındadır. Hırsızlık suçunun basit hali uzlaştırmaya tabi iken, nitelikli halleri genellikle uzlaştırma kapsamı dışındadır. Kasten yaralamanın basit hali, hakaret ve tehdit genellikle uzlaştırmaya tabidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Uzlaşma teklifi, uzlaştırma kapsamına giren bir suç için soruşturma aşamasında kim tarafından yapılır?",
+      "options": {
+        "A": "Sadece mağdur veya şikayetçi",
+        "B": "Sadece şüpheli veya sanık",
+        "C": "Cumhuriyet savcısı",
+        "D": "Kolluk kuvvetleri"
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 253/3 uyarınca, uzlaştırma kapsamına giren bir suçta, soruşturma evresinde uzlaştırma teklifi Cumhuriyet savcısı tarafından yapılır. Kovuşturma evresinde ise mahkeme tarafından yapılır."
+    }
+  ]
+}

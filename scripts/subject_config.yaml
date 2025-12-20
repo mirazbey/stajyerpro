@@ -1,0 +1,130 @@
+# HMGS Ders Bazlı PDF Konfigürasyonu
+# Her ders için hangi PDF'leri işleyeceğini tanımlar
+
+subjects:
+  medeni_hukuk:
+    name: "Medeni Hukuk"
+    subjectId: "medeni_hukuk"
+    pdfs:
+      - "medeni hukuk ders notları.pdf"
+      - "türk medeni kanunu.pdf"
+      - "Anayasa Hukukunun Temel Esasları - Kemal Gözler.pdf"
+    target_questions: 200
+    priority_topics:
+      - "aile_hukuku"
+      - "miras_hukuku"
+      - "kişiler_hukuku"
+    
+  borclar_hukuku:
+    name: "Borçlar Hukuku"
+    subjectId: "borclar_hukuku"
+    pdfs:
+      - "borçlar hukuku ders notları.pdf"
+      - "türk borçlar kanunu.pdf"
+    target_questions: 150
+    priority_topics:
+      - "sözleşmeler"
+      - "haksız_fiil"
+  
+  ceza_hukuku:
+    name: "Ceza Hukuku"
+    subjectId: "ceza_hukuku"
+    pdfs:
+      - "ceza hukuku genel hükümler ders notları.pdf"
+      - "ceza hukuku özel hükümler ders notları.pdf"
+      - "türk ceza kanunu.pdf"
+      - "ceza muhakemesi kanunu.pdf"
+    target_questions: 150
+    priority_topics:
+      - "genel_hükümler"
+      - "özel_hükümler"
+      - "ceza_muhakemesi"
+  
+  ticaret_hukuku:
+    name: "Ticaret Hukuku"
+    subjectId: "ticaret_hukuku"
+    pdfs:
+      - "ticaret hukuku ders notları.pdf"
+      - "türk ticaret kanunu.pdf"
+    target_questions: 120
+  
+  hukuk_muhakemeleri:
+    name: "Hukuk Muhakemeleri Kanunu"
+    subjectId: "hukuk_muhakemeleri"
+    pdfs:
+      - "hukuk muhakemeleri kanunu.pdf"
+    target_questions: 100
+  
+  icra_iflas:
+    name: "İcra ve İflas Hukuku"
+    subjectId: "icra_iflas"
+    pdfs:
+      - "icra ve iflas hukuku ders notları.pdf"
+      - "icra ve iflas kanunu.pdf"
+    target_questions: 80
+  
+  idare_hukuku:
+    name: "İdare Hukuku"
+    subjectId: "idare_hukuku"
+    pdfs:
+      - "idari yargı ve anayasa yargısı.pdf"
+      - "idari yargılama usülü kanunu.pdf"
+      - "genel kamu hukuku ders notları.pdf"
+    target_questions: 100
+  
+  is_hukuku:
+    name: "İş Hukuku"
+    subjectId: "is_hukuku"
+    pdfs:
+      - "iş kanunu.pdf"
+      - "iş mahkemeleri kanunu.pdf"
+      - "sosyal sigortalar ve genel sağlık sigortası kanunu.pdf"
+    target_questions: 80
+  
+  vergi_hukuku:
+    name: "Vergi Hukuku"
+    subjectId: "vergi_hukuku"
+    pdfs:
+      - "vergi usul kanunu.pdf"
+      - "Turk Vergi Sistemi (2019 Guncel).pdf"
+    target_questions: 60
+  
+  avukatlik_hukuku:
+    name: "Avukatlık Hukuku"
+    subjectId: "avukatlik_hukuku"
+    pdfs:
+      - "avukatlık hukuku.pdf"
+      - "avukatlık kanunu.pdf"
+    target_questions: 50
+  
+  hukuk_felsefesi:
+    name: "Hukuk Felsefesi"
+    subjectId: "hukuk_felsefesi"
+    pdfs:
+      - "hukuk felsefesi ders notları.pdf"
+    target_questions: 40
+  
+  turk_hukuk_tarihi:
+    name: "Türk Hukuk Tarihi"
+    subjectId: "turk_hukuk_tarihi"
+    pdfs:
+      - "türk tarihi hukuku.pdf"
+    target_questions: 40
+  
+  milletlerarasi_hukuk:
+    name: "Milletlerarası Hukuk"
+    subjectId: "milletlerarasi_hukuk"
+    pdfs:
+      - "Milletlerarası Hukuk ders notları.pdf"
+      - "MİLLETLERARASI ÖZEL HUKUK VE USUL HUKUKU.pdf"
+    target_questions: 60
+
+# Genel ayarlar
+settings:
+  docs_directory: "docs/"
+  output_directory: "generated_questions/"
+  max_pages_per_pdf: 300  # Her PDF'den kaç sayfa işlensin
+  questions_per_chunk: 8
+  chunk_size: 8000
+  enable_deduplication: true
+  similarity_threshold: 0.85  # %85 benzerlik varsa tekrar sayılır

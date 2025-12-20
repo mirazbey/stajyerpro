@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•  **Tacir Tanımı:** Ticaret Kanunu'na göre, ticari bir işletmeyi kendi adına işleten gerçek veya tüzel kişiye tacir denir. Tacir sıfatı, kişiye özgü hak ve yükümlülükler doğurur.\n•  **Gerçek Kişi Tacir:** Bir ticari işletmeyi kısmen de olsa kendi adına işleten kişidir. Burada önemli olan, faaliyetin esnaf faaliyeti sınırlarını aşmasıdır. Fiil ehliyeti olmayan (küçük veya kısıtlı) kişiler adına ticari işletme işleten veli veya vasi de tacir sayılır.\n•  **Tüzel Kişi Tacir:** Ticaret şirketleri (Anonim, Limited, Kooperatif vb.) kuruluşları itibarıyla tacirdir. Ayrıca, amacına varmak için ticari işletme işleten dernek ve vakıflar ile kamu tüzel kişileri ve kamu kuruluşları da ticari faaliyetleri dolayısıyla tacir sayılırlar.\n•  **Ticari İşletme:** Tacir olmanın temelini oluşturan, esnaf faaliyeti sınırlarını aşan, sürekli ve bağımsız bir şekilde gelir sağlamayı hedefleyen işletmelerdir. Ticari işletme unsurları (devamlılık, bağımsızlık, gelir sağlama amacı) tacir sıfatının kazanılmasında belirleyicidir.\n•  **Esnaf Ayrımı:** Tacir ile esnaf arasındaki temel fark, işletmenin esnaf faaliyeti sınırlarını aşıp aşmamasıdır. Esnaf, ekonomik faaliyeti sermayesinden çok bedeni çalışmasına dayanan ve geliri Ticaret Bakanlığı'nca çıkarılacak kararnamede gösterilen sınırı aşmayan kişidir.\n•  **Tacir Olmanın Hukuki Sonuçları:** Tacir sıfatını kazanmak, kişiye birtakım özel haklar tanırken (örneğin ticari faiz isteyebilme), aynı zamanda iflasa tabi olma, ticaret unvanı kullanma, defter tutma gibi önemli yükümlülükler de getirir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•  **Gerçek Kişi Tacir (TTK m. 12):** Türk Ticaret Kanunu'nun 12. maddesine göre, \"Bir ticari işletmeyi, kısmen dahi olsa kendi adına işleten kişiye tacir denir.\" Bu madde, gerçek kişilerin tacir sıfatını kazanmasının temelini oluşturur. Aynı maddenin ikinci fıkrası esnaf faaliyeti sınırını aşma ölçütünü getirir.\n•  **Fiil Ehliyeti Olmayanların Tacir Sıfatı (TTK m. 14):** Kanunun 14. maddesi, \"Küçük ve kısıtlılara ait ticari işletmeyi bunların adına işleten yasal temsilcileri, tacir sayılmaz. Tacir sıfatı, temsil edilene aittir.\" hükmüyle, veli veya vasinin değil, küçük veya kısıtlının tacir olacağını belirtir. Ancak bu kişiler, kendi adlarına ticari işletme işletiyorlarsa tacir sayılmazlar.\n•  **Tüzel Kişi Tacir (TTK m. 16):** TTK'nın 16. maddesi, ticaret şirketlerini (Anonim şirketler, limited şirketler, kooperatifler vb.) \"ticaret şirketleri ve amaçlarına varmak için ticari işletme işleten vakıflar, dernekler ve kendi kuruluş kanunları gereğince özel hukuk hükümlerine göre yönetilmek veya ticari şekilde işletilmek üzere kamu tüzel kişileri tarafından kurulan kurum ve kuruluşlar tacir sayılır\" şeklinde tanımlar.\n•  **Ticari İş Karinesi (TTK m. 19):** Kanunun 19. maddesi, \"Bir tacirin borçlarının ticari olması asıldır.\" hükmüyle tacirin yaptığı tüm işlerin, aksine bir durum ispatlanmadıkça ticari iş sayılacağını belirtir. Bu karine, ticari hayattaki işlemlerin hızını ve güvenliğini sağlamaya yöneliktir.\n•  **Tacirin Yükümlülükleri (TTK m. 18, 37 vd., 64 vd.):** TTK m. 18, tacirler için özel hükümlerin uygulanacağını belirtir. Tacirler iflasa tabidirler. Ayrıca ticaret siciline tescil (TTK m. 37 vd.), ticaret unvanı kullanma (TTK m. 39 vd.), defter tutma (TTK m. 64 vd.), fatura verme ve teyit mektubu gönderme (TTK m. 21, 22) gibi özel yükümlülüklere sahiptirler.\n•  **Ticari Örf ve Adet (TTK m. 2):** Ticari hükümler arasında yer alan ticari örf ve adetler, tacirler arasındaki uyuşmazlıklarda uygulanır. TTK m. 2'ye göre, bir ticari örf veya adetin uygulanabilmesi için \"bir ticari işin taraflarınca bilindiği veya bilinmesi gerektiği ispatlanmadıkça uygulanmaz.\""
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•  **Bakkal İşleten Ali Bey:** Ali Bey, kendisine ait dükkanında bakkaliye ürünleri satarak sürekli gelir elde etmektedir. İşletmesi, sermayesi ve iş hacmi itibarıyla esnaf faaliyeti sınırlarını aşıyorsa, Ali Bey gerçek kişi tacirdir ve Türk Ticaret Kanunu hükümlerine tabidir.\n•  **Avukatlık Bürosu İşleten Ayşe Hanım:** Ayşe Hanım, hukuk bürosunda serbest meslek faaliyeti yürütmektedir. Hukuk bürosu bir ticari işletme sayılmadığından, Ayşe Hanım tacir değildir. Onun borçları ve işlemleri Ticaret Hukuku'na değil, Borçlar Hukuku ve ilgili özel kanunlara tabidir.\n•  **A.Ş. statüsündeki bir inşaat firması:** Bir anonim şirket (A.Ş.) olarak faaliyet gösteren bir inşaat firması, ticaret şirketlerinin türlerinden biri olduğu için doğrudan tüzel kişi tacirdir. Kurulduğu andan itibaren tüm ticari yükümlülüklere tabidir ve tüm işlemleri ticari iş karinesine göre değerlendirilir.\n•  **Vakıf veya Derneğin İşletmesi:** Bir üniversiteyi destekleme vakfı, gelir elde etmek amacıyla bir öğrenci yurdu işletiyorsa ve bu yurt ticari işletme niteliğindeyse, vakıf bu faaliyetleri dolayısıyla tacir sıfatı kazanır. Vakfın ana amacı eğitim olsa bile, ticari işletme işletme faaliyeti onu tacir yapar.\n•  **Kamu Kuruluşunun Ticari Faaliyeti:** Bir belediyenin kurduğu ve özel hukuk hükümlerine göre işletilen bir otel işletmesi, ticari işletme niteliği taşıdığı için bu kamu kuruluşu (belediyenin o birimi) tacir sıfatı kazanır. O otelin işletmeciliği, kamu hukuku değil, ticaret hukuku kurallarına tabi olur.\n•  **Küçük Yaştaki Mirasçının İşletmesi:** Vefat eden babasından büyük bir ticari işletme miras kalan 15 yaşındaki bir çocuk, yasal temsilcisi (annesi veya vasisi) tarafından işletilen bu işletme dolayısıyla tacir sıfatı kazanır. İşletmeyi fiilen işleten yasal temsilci tacir olmaz, tacir sıfatı küçük mirasçıya aittir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•  **Esnaf-Tacir Sınırı:** Bir faaliyetin tacir mi yoksa esnaf faaliyeti mi olduğunun tespiti çok önemlidir. Sınır, Ticaret Bakanlığı tarafından belirlenen ekonomik ölçütlere (iş hacmi, sermaye, gelir, çalışan sayısı vb.) göre belirlenir. Bu ayrım, uygulanacak hükümler (iflas, ticaret sicili, unvan vb.) açısından kritik öneme sahiptir.\n•  **Ticari İşletmenin Varlığı:** Gerçek kişilerin tacir olabilmesi için mutlaka bir ticari işletme işletmesi gerekir. Ticari işletme niteliği taşımayan serbest meslek faaliyetleri (doktor, avukat, mali müşavir) veya zanaatkarlık faaliyetleri (terzi, ayakkabıcı) kişiyi tacir yapmaz.\n•  **Ticari İş Karinesinin Önemi:** TTK m. 19'daki ticari iş karinesi, tacirin tüm borç ve taahhütlerinin ticari nitelikte olduğunu varsayar. Bu, özellikle faiz oranı, zamanaşımı, müteselsil sorumluluk gibi konularda tacirler için özel hukuki sonuçlar doğurur. Tacir, bir işin ticari olmadığını iddia ediyorsa bunu ispatlamakla yükümlüdür.\n•  **Tek Taraflı Ticari İş:** Bir işin yalnızca bir taraf için ticari sayılması mümkündür (TTK m. 19/2). Bu durumda, o işin ticari nitelikteki hükümlerinin, işin her iki tarafına da uygulanacağı kabul edilir. Bu, özellikle tacirlerle tüketici veya esnaf arasındaki işlemlerde önem kazanır.\n•  **Tacir Olmanın Yükümlülükleri:** Tacir sıfatı, kişiye önemli avantajlar sunsa da (örneğin ticari faiz talep edebilme), aynı zamanda ağır yükümlülükler de getirir. Ticaret siciline tescil, ticaret unvanı seçme ve kullanma, ticari defter tutma, iflasa tabi olma bu yükümlülüklerin başında gelir. Bu yükümlülüklere uyulmaması hukuki ve cezai sorumluluklar doğurabilir.\n•  **Tacir Sıfatının Kaybı:** Tacir sıfatı, ticari işletmenin faaliyetine son verilmesiyle veya ticari işletme niteliğinin kaybedilmesiyle sona erer. Tüzel kişilerde ise ticaret sicilinden silinme veya feshin tescili ile tacir sıfatı kaybedilir. Bu durum, tacirliğin getirdiği hak ve yükümlülüklerin de son bulması anlamına gelir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•  **Tanımları ve Ayrımı Bilin:** Gerçek ve tüzel kişi tacir tanımlarını, özellikle TTK m. 12 ve 16 ışığında iyi öğrenin. Tacir ile esnaf arasındaki farkları ve bu ayrımın neden önemli olduğunu kavrayın.\n•  **Tacir Olmanın Şartları:** Bir kişinin veya kuruluşun ne zaman tacir sıfatı kazandığını belirleyen temel şartları (ticari işletme işletme, kendi adına işletme, esnaf faaliyetini aşma vb.) ezberleyin.\n•  **Yasal Temsilciler ve Kamu Kuruluşları:** Küçük ve kısıtlıların tacir sıfatı kazanması durumunu (temsilcinin değil, temsil edilenin tacir olması) ve kamu tüzel kişileri ile dernek/vakıfların hangi durumlarda tacir sayıldığını dikkatlice inceleyin.\n•  **Tacirliğin Sonuçları/Yükümlülükleri:** Tacir olmanın getirdiği başlıca hukuki sonuçları ve yükümlülükleri (iflasa tabi olma, ticaret siciline kayıt, ticaret unvanı kullanma, ticari iş karinesi, defter tutma vb.) maddeler halinde sıralayabilmelisiniz. TTK m. 19 (ticari iş karinesi) ve m. 18 (iflas) özellikle önemlidir.\n•  **Ticari İş Karinesi (TTK m. 19):** Bu karinenin ne anlama geldiğini, kapsamını ve ticari hayattaki önemini çok iyi anlayın. Tek taraflı ticari iş kavramını da gözden geçirin.\n•  **Sınav Tarzı:** Tanımları, kanun maddelerini ve pratik senaryoları içeren çoktan seçmeli sorulara hazırlıklı olun. Tacir sıfatının kazanılması ve kaybedilmesi süreçlerine dair sorular gelebilir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk Ticaret Kanunu'na göre gerçek kişi tacir sıfatını kazanmak için temel şartlardan biridir?",
+      "options": {
+        "A": "Bir ticari işletmeyi kısmen dahi olsa kendi adına işletmek.",
+        "B": "Yalnızca hukuki danışmanlık hizmeti vermek.",
+        "C": "Sadece el emeğine dayalı küçük bir dükkan işletmek.",
+        "D": "Bir derneğin yönetim kurulu üyesi olmak."
+      },
+      "correctAnswer": "A",
+      "explanation": "TTK m. 12/1'e göre, bir ticari işletmeyi kendi adına işleten kişi gerçek kişi tacirdir. B şıkkı (hukuki danışmanlık) serbest meslek faaliyetidir, tacir yapmaz. C şıkkı (küçük dükkan) esnaf faaliyeti sınırında kalabilir. D şıkkı ise tacir sıfatı kazandırmaz."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi tüzel kişi tacir sayılmaz?",
+      "options": {
+        "A": "Anonim şirket.",
+        "B": "Amacına varmak için ticari işletme işleten bir vakıf.",
+        "C": "Bir kamu tüzel kişisi tarafından özel hukuk hükümlerine göre işletilen bir otel.",
+        "D": "Sadece spor faaliyetleri düzenleyen ve ticari işletmesi olmayan bir spor derneği."
+      },
+      "correctAnswer": "D",
+      "explanation": "TTK m. 16'ya göre ticaret şirketleri (A), ticari işletme işleten vakıflar (B) ve kamu tüzel kişilerinin ticari işletmeleri (C) tacir sayılır. Ancak sadece spor faaliyeti düzenleyen ve ticari işletmesi olmayan bir dernek, tacir sıfatı taşımaz."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir tacirin yaptığı bir işin ticari nitelikte olmadığına dair kanunî karine hangi kanun maddesinde düzenlenmiştir?",
+      "options": {
+        "A": "TTK m. 12",
+        "B": "TTK m. 16",
+        "C": "TTK m. 19/1",
+        "D": "Böyle bir karine mevcut değildir; tacirin borçları her zaman ticari kabul edilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "TTK m. 19/1'e göre, 'Bir tacirin borçlarının ticari olması asıldır.' Bu madde, tacirin yaptığı tüm işlerin ticari iş karinesine tabi olduğunu belirtir ve aksini ispat yükünü tacire bırakır, yani tacirin borçlarının ticari olmadığına dair bir karine değil, tam tersi ticari olduğuna dair bir karine mevcuttur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi tacir olmanın getirdiği hukuki sonuçlardan biri değildir?",
+      "options": {
+        "A": "Ticaret siciline kaydolma yükümlülüğü.",
+        "B": "İflasa tabi olma.",
+        "C": "Ticari defter tutma yükümlülüğü.",
+        "D": "Mali müşavir olma zorunluluğu."
+      },
+      "correctAnswer": "D",
+      "explanation": "Tacirler, ticaret siciline kaydolma, iflasa tabi olma ve ticari defter tutma gibi yükümlülüklere sahiptir. Ancak mali müşavir tutma zorunluluğu, tacir olmanın doğrudan ve genel bir hukuki sonucu değildir, işletmenin büyüklüğüne ve türüne göre değişen bir muhasebe yükümlülüğüdür."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Küçük ve kısıtlılara ait ticari işletmeyi onların adına işleten yasal temsilcileri (veli veya vasi) hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Yasal temsilciler, bu işletmeden dolayı tacir sayılırlar.",
+        "B": "Tacir sıfatı, temsil edilen küçük veya kısıtlıya aittir.",
+        "C": "Hem yasal temsilci hem de küçük/kısıtlı tacir sayılır.",
+        "D": "Bu durumda hiç kimse tacir sıfatı kazanmaz."
+      },
+      "correctAnswer": "B",
+      "explanation": "TTK m. 14'e göre, küçük ve kısıtlılara ait ticari işletmeyi bunların adına işleten yasal temsilcileri tacir sayılmaz; tacir sıfatı, temsil edilen küçük veya kısıtlıya aittir."
+    }
+  ]
+}

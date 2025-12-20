@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Rehinli malların satış usulü, Türk İcra ve İflas Hukuku'nun önemli ve sıklıkla karşılaşılan konularından biridir. Bu süreç, alacaklının, borçlunun borcunu ödememesi halinde, alacağını rehinle teminat altına alınmış bir malın satış bedelinden öncelikli ve güvenceli olarak tahsil etmesini sağlayan hukuki mekanizmayı ifade eder. Temelinde, alacaklının alacağını garanti altına alma ve borçlunun temerrüdü durumunda hızlı bir çözüm bulma amacı yatar. Rehin hakkı, Türk Medeni Kanunu'nda (TMK) düzenlenen sınırlı ayni haklardan biridir ve malın mülkiyeti el değiştirse dahi rehin hakkının devam etmesi (takip ilkesi) ve herkese karşı ileri sürülebilmesi (mutlaklık ilkesi) gibi özelliklere sahiptir. Rehinler genellikle taşınmaz rehinleri (ipotek gibi) ve taşınır rehinleri (teslimi mecburi rehin, ticari işletme rehni gibi) olmak üzere iki ana kategoriye ayrılır. Her rehin türünün kendine özgü kuruluş ve paraya çevrilme usulleri bulunsa da, genel prensipler icra hukukunda birleşir. Önemli bir hukuki ilke olarak, alacaklı rehinli malı doğrudan doğruya mülkiyetine geçiremez (pactum commissorium yasağı). Bunun yerine, malın yasal yollarla (cebri icra yoluyla) satılarak paraya çevrilmesi ve alacağın satış bedelinden tahsil edilmesi esastır. Bu ders kapsamında, rehinli bir malın borç ödenmediğinde hangi yasal süreçler izlenerek paraya çevrildiği, yani icra yoluyla satışının nasıl yapıldığı detaylı bir şekilde incelenecektir. Sürecin her aşamasında yer alan aktörler (icra dairesi, alacaklı, borçlu, üçüncü kişiler) ve onların hak ve yükümlülükleri üzerinde durularak, hukuki sürecin adımları ve dikkat edilmesi gereken noktalar açıklanacaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Rehinli malların satış usulü, esas itibarıyla 2004 sayılı İcra ve İflas Kanunu (İİK) hükümleri çerçevesinde düzenlenmektedir. İİK'nın özellikle \"Rehnin Paraya Çevrilmesi Yoluyla Takip\" başlıklı Üçüncü Babı (m. 145-153/a) ve ilgili genel satış hükümleri (m. 114 ve devamı), bu sürecin temel yasal dayanaklarını oluşturur. İİK m. 45 uyarınca, rehinle temin edilmiş bir alacak için, kural olarak, önce rehnin paraya çevrilmesi yoluyla takip yapılması zorunludur. Bu, alacaklıya rehin hakkının sağladığı önceliğin bir gereğidir. Ayrıca, rehin hakkının kurulması, kapsamı, sona ermesi gibi maddi hukuk kuralları 4721 sayılı Türk Medeni Kanunu (TMK) hükümleriyle belirlenir. TMK'nın 850 ve devamı maddeleri, rehin hakkının doğuşu ve esaslarını düzenlerken, icra hukukundaki satış süreci, bu ayni hakkın icra alanındaki somutlaşmış halidir. Yasal çerçevenin diğer önemli unsurları arasında, İcra ve İflas Kanunu Yönetmeliği yer alır. Bu yönetmelik, kanunun uygulanmasına ilişkin usuli detayları açıklamakta ve özellikle satış işlemlerine dair ayrıntılı düzenlemeler içermektedir. Son yıllardaki en önemli gelişmelerden biri, Elektronik Ortamda Yapılan Satışların Yönetmeliği'dir. Bu yönetmelik sayesinde, icra ve iflas daireleri tarafından yapılan açık artırma usulüyle satışlar büyük ölçüde elektronik ortama taşınmış, e-satış portalı üzerinden gerçekleştirilmeye başlanmıştır. Bu durum, satış süreçlerini daha şeffaf, hızlı ve erişilebilir hale getirmiştir. Özel rehin türleri için (örneğin gemi rehni, ticari işletme rehni gibi) ilgili özel kanunlarda da hükümler bulunabilir. Tüm bu mevzuat, rehinli malların satış usulünün hukuk devleti ilkesine uygun, şeffaf ve adil bir şekilde yürütülmesini güvence altına almayı hedefler."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Rehinli malların paraya çevrilmesi yoluyla takip süreci, birden fazla aşamadan oluşur ve her aşamada belirli usuli kurallara uyulması zorunludur. İlk olarak, **takip talebi** ile başlanır. Alacaklı, rehinli alacağının tahsili için yetkili icra dairesine başvurarak bir takip talebinde bulunur. Bu talepte, borçlu ve alacaklının kimlik bilgileri, alacak miktarı, faiz oranları, rehin hakkının niteliği, rehinli malın tanımı ve varsa rehin belgesi gibi bilgiler eksiksiz bir şekilde belirtilmelidir. Takip, taşınmaz rehinlerinde (ipotek gibi) genellikle ilamlı takip şeklinde, taşınır rehinlerinde ise ilamsız takip şeklinde başlatılabilir. İlamlı takipte icra dairesi borçluya **icra emri**, ilamsız takipte ise **ödeme emri** gönderir. Borçlunun icra emrine itiraz hakları sınırlıyken (borcun ödendiği, zamanaşımı gibi), ödeme emrine hem borca hem de rehine itiraz edebilir. İtiraz süresi, tebliğden itibaren genellikle yedi gündür. İtirazın takibi durdurması halinde, alacaklının itirazın kaldırılması veya iptali davası açması gerekir. Takip kesinleştikten ve borçluya ödeme veya icra emri tebliğ edilip yasal süreler geçtikten sonra, alacaklı rehinli malın **satışını talep** edebilir. Bu satış talebi için süreler çok önemlidir ve hak düşürücü niteliktedir: taşınmaz rehinlerinde icra emrinin tebliğinden itibaren **bir yıl**, taşınır rehinlerinde ise ödeme emrinin tebliğinden itibaren **altı ay** içinde satış istenmelidir (İİK m. 150/e, İİK m.106'daki genel süreden ayrılır). Süresinde satış istenmezse takip düşer. Satış talebi üzerine icra dairesi, rehinli malın değerini belirlemek üzere **kıymet takdiri** yaptırır. Bu işlem, genellikle bir veya birden fazla bilirkişi aracılığıyla gerçekleştirilir. Kıymet takdir raporu, ilgililere tebliğ edilir ve tebliğden itibaren yedi gün içinde icra hukuk mahkemesinde itiraz edilebilir. Kıymet takdiri kesinleştikten sonra icra dairesi, **satış ilanlarını** hazırlar. Satış ilanı, malın özellikleri, muhammen bedeli, satış tarihi, saati, yeri ve artırma şartları gibi bilgileri içermelidir. Güncel mevzuat uyarınca, satış ilanları öncelikli olarak elektronik satış portalı (e-satış) üzerinden yayınlanır. **Satış**, genellikle iki aşamalı açık artırma usulüyle yapılır ve günümüzde büyük ölçüde elektronik ortamda, e-satış portalı üzerinden gerçekleştirilir. Birinci artırmada muhammen bedelin %50'si ile satış giderlerini karşılayacak miktarda teklif gelmesi ve en yüksek teklifin uygun bulunması halinde ihale yapılır. Birinci artırmada sonuç alınamazsa, belirli bir süre sonra ikinci artırma yapılır. **İhale**, en yüksek teklifi veren ve şartları yerine getiren kişiye yapılır. Taşınmazlarda ihale kesinleştikten sonra tapu siciline tescil için müzekkere yazılır ve tapu devri tamamlanır. Son aşama olan **paranın paylaştırılması**nda, satış bedelinden öncelikle satış giderleri, ardından rehinli alacaklının alacağı, faizleri ve takip masrafları ödenir. Birden fazla alacaklı olması halinde, İİK m. 206 uyarınca bir sıra cetveli düzenlenir; rehinli alacaklılar, rehinli malın satış bedelinden diğer adi alacaklılardan önce ve imtiyazlı olarak alacaklarını tahsil ederler."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Rehinli malların satış usulünde, birçok kritik nokta bulunmaktadır ki bunlara dikkat edilmesi, sürecin sağlıklı ve hukuka uygun bir şekilde ilerlemesi için elzemdir. Öncelikle, **süreler ve hak düşürücü nitelikleri** büyük önem taşır. Satış isteme süreleri (taşınmaz için bir yıl, taşınır için altı ay), kıymet takdirine itiraz süresi, ihale feshi talep süresi gibi kanunda belirtilen süreler kesin olup, bu sürelere riayet edilmemesi telafisi mümkün olmayan hak kayıplarına yol açabilir. Bu nedenle, ilgili kişilerin (alacaklı, borçlu, avukatlar) bu süreleri çok iyi takip etmeleri gerekir. Bir diğer önemli konu **ihalenin feshi**dir. İhale, İcra ve İflas Kanunu'nun 134. maddesinde sayılan nedenlerden biriyle (örneğin ihaleye fesat karıştırılması, usulüne uygun ilan yapılmaması, malın değerinin çok altında satılması ve bunun usulüne aykırı bir satışla birleşmesi gibi) icra hukuk mahkemesinde açılan dava ile feshedilebilir. İhalenin feshi talebi, ihale tarihinden itibaren yedi gün içinde yapılmalıdır. İhalenin feshedilmesi durumunda, tüm satış işlemleri iptal edilir ve mal yeniden satışa çıkarılır, bu da zaman ve maliyet kaybına yol açar. **Hukuki güvenlik ve şeffaflık** ilkesi, rehinli mal satışlarında daima gözetilmelidir. Satış ilanlarının eksiksiz ve usulüne uygun yapılması, artırmanın herkese açık olması ve özellikle elektronik satış portalının sağladığı imkanlarla katılımcıların eşit şartlarda rekabet edebilmesi, sürecin adil ve hukuka uygun olmasını sağlar. Bu durum, hem alacaklı hem de borçlu açısından hukuki güvenliği temin eder. **Elektronik satış portalının (e-satış)** etkin ve doğru kullanımı, güncel mevzuatın getirdiği bir zorunluluktur. İcra daireleri tarafından yapılan açık artırmaların büyük çoğunluğu bu portal üzerinden yürütülmekte olup, bu platformun işleyişine vakıf olmak gereklidir. Son olarak, **sıra cetveli ve alacaklıların sırası** konusu dikkatle incelenmelidir. Rehinli malın satışından elde edilen bedel, tüm alacaklıların alacaklarını karşılamaya yetmediğinde, icra dairesi tarafından bir sıra cetveli düzenlenir. Rehinli alacaklılar, rehinli malın satış bedelinden, diğer adi alacaklılardan önce ve imtiyazlı olarak alacaklarını tahsil etme hakkına sahiptir. Ancak, rehinli alacaklılar arasında da kanunla belirlenen öncelik sıralamaları veya varsa rüçhan hakları göz önünde bulundurulmalıdır. Tüm bu detaylar, rehinli malların satış usulünde karşılaşılması muhtemel sorunları minimize etmek ve adil bir sonuç elde etmek için hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Rehinli malların satış usulü, alacaklının rehinle temin edilmiş alacağını cebri icra yoluyla tahsil etmesini sağlayan, İcra ve İflas Kanunu başta olmak üzere çeşitli mevzuat hükümlerine tabi, kompleks ancak sistemli bir hukuki süreçtir. Bu süreç, alacaklının icra dairesine yapacağı takip talebi ile başlar, icra/ödeme emrinin tebliği, takibin kesinleşmesi, rehinli malın kıymet takdiri, satış ilanlarının yapılması, elektronik ortamda veya fiziken gerçekleştirilen açık artırma ile satışın tamamlanması ve son olarak elde edilen paranın kanundaki öncelik sıralamasına göre paylaştırılması adımlarını içerir. Temel amacı, alacaklının rehin hakkından kaynaklanan öncelikli tahsilat hakkını güvence altına alırken, borçlunun ve diğer ilgililerin haklarını da adil bir biçimde korumaktır. Bu ders kapsamında ele alınan anahtar kavramlar; rehin hakkı, icra/ödeme emri, satış talebi, kıymet takdiri, açık artırma, ihale, ihalenin feshi ve sıra cetveli gibi terimlerdir. Bu kavramların her birinin icra hukuku içindeki yerini ve işlevini doğru bir şekilde anlamak, sürecin bütüncül bir şekilde kavranması için kritik öneme sahiptir. Uygulamada, bu süreçlerin titizlikle yürütülmesi, özellikle kanunda belirtilen hak düşürücü nitelikteki sürelere sıkı sıkıya uyulması, olası hukuki uyuşmazlıkları ve zaman kayıplarını önlemek adına büyük önem arz eder. Elektronik satış portalının yaygınlaşmasıyla birlikte, satış süreçleri daha modern, şeffaf ve erişilebilir bir boyut kazanmıştır. Bu, hukuk uygulayıcılarının ve ilgililerin bu yeni sisteme adaptasyonunu ve etkin kullanımını gerektirmektedir. Öğrencilerin bu konuda yetkinlik kazanabilmeleri için, İcra ve İflas Kanunu'nun ilgili maddelerini (özellikle m. 145-153/a, 114 ve devamı, 134, 206) dikkatlice incelemeleri, güncel Yargıtay içtihatlarını takip etmeleri ve konuyla ilgili pratik olay çözümleri üzerinde çalışmaları, teorik bilginin yanı sıra pratik uygulama becerilerini de geliştirmelerine yardımcı olacaktır. Bu alan, Türk hukuk sistemi içinde hem akademik hem de mesleki yaşamda büyük bir yer tutmaktadır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Rehinli bir alacağın paraya çevrilmesi yoluyla takipte, alacaklının rehinli malın satışını talep etme süresi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Taşınmaz rehinlerinde icra emrinin tebliğinden itibaren bir yıl, taşınır rehinlerinde ise ödeme emrinin tebliğinden itibaren altı aydır.",
+        "B": "Taşınmaz ve taşınır rehinlerinde takibin kesinleşmesinden itibaren her iki durumda da altı aydır.",
+        "C": "Taşınmaz rehinlerinde takibin kesinleşmesinden itibaren iki yıl, taşınır rehinlerinde ise bir yıldır.",
+        "D": "İcra takibi başlatıldıktan sonra herhangi bir süre kısıtlaması olmaksızın satış istenebilir."
+      },
+      "correctAnswer": "A",
+      "explanation": "İcra ve İflas Kanunu (İİK) m. 150/e uyarınca, 'Alacaklı, ipotekli taşınmazın satışını icra emrinin tebliğinden itibaren bir sene içinde istemeye mecburdur.' Taşınır rehinlerinde ise doktrin ve yerleşmiş uygulamaya göre ödeme emrinin tebliğinden itibaren altı ay içinde satış istenmesi gerekmektedir. Dolayısıyla A seçeneği en doğru ifadeyi sunmaktadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Rehinli malın satış sürecinde yapılan kıymet takdirine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Kıymet takdiri, icra dairesince atanacak bilirkişi veya bilirkişiler marifetiyle yapılır.",
+        "B": "Kıymet takdir raporu, ilgililere tebliğ edilerek itiraz etme imkanı tanınır.",
+        "C": "Kıymet takdirine itiraz, raporun tebliğinden itibaren yedi gün içinde icra hukuk mahkemesine yapılır.",
+        "D": "Kıymet takdirine süresinde itiraz edilmemesi halinde, daha sonraki aşamalarda ihale feshi sebebi olarak ileri sürülemez."
+      },
+      "correctAnswer": "D",
+      "explanation": "Kıymet takdiri, icra ve iflas daireleri tarafından bilirkişi marifetiyle yapılır ve ilgililere tebliğ edilir. Tebliğden itibaren 7 gün içinde icra hukuk mahkemesinde itiraz edilebilir. Süresinde itiraz edilmemesi veya itirazın reddedilmesi halinde kıymet takdiri kesinleşir. Ancak, kıymet takdirinin usulüne uygun yapılmaması veya fahiş yanlışlıklar içermesi gibi ciddi ihlaller, süresinde itiraz edilmemiş olsa bile, ihale feshi davası sebebi olarak ileri sürülebilir. Dolayısıyla D seçeneği yanlıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İcra yoluyla rehinli mal satışında ihalenin feshi talebine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "İhalenin feshi talebi, ihale tarihinden itibaren yedi gün içinde icra hukuk mahkemesine yapılır.",
+        "B": "İhalenin feshi nedenleri İcra ve İflas Kanunu'nda sınırlı sayıda sayılmıştır.",
+        "C": "İhale bedelinin malın gerçek değerinin çok altında olması, tek başına ihalenin feshi nedeni sayılabilir.",
+        "D": "İhaleye fesat karıştırılması, ihalenin feshi nedenlerinden biridir."
+      },
+      "correctAnswer": "C",
+      "explanation": "İhalenin feshi talebi, İİK m. 134'te düzenlenmiştir ve ihale tarihinden itibaren 7 gün içinde icra hukuk mahkemesine yapılır (A doğru). İhaleye fesat karıştırılması açıkça bir fesih nedenidir (D doğru). Ancak ihale bedelinin malın gerçek değerinin çok altında olması, tek başına ihalenin feshi nedeni değildir. Bu durum, genellikle satış şartlarındaki bir usulsüzlükle (örn. yeterli ilan yapılmaması) birlikte değerlendirildiğinde fesih nedeni olabilir. Dolayısıyla C seçeneği yanlıştır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Güncel mevzuat kapsamında rehinli malların icra yoluyla satışında, açık artırmanın yapıldığı platforma ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Satışlar, sadece icra dairesinin fiziki ortamında, belirli bir günde ve saatte gerçekleştirilir.",
+        "B": "Satışlar, öncelikli olarak elektronik satış portalı üzerinden açık artırma yöntemiyle yapılır.",
+        "C": "Elektronik satış portalı, sadece taşınır malların satışında kullanılır, taşınmazlarda eski usul devam eder.",
+        "D": "Elektronik satış portalında yapılan teklifler, manuel tekliflerden daha az geçerlidir."
+      },
+      "correctAnswer": "B",
+      "explanation": "2018 yılında yürürlüğe giren İcra ve İflas Kanunu Yönetmeliği değişiklikleri ve ilgili diğer düzenlemelerle birlikte, icra daireleri tarafından yapılan açık artırmalar artık ağırlıklı olarak UYAP sistemi üzerinden erişilen elektronik satış portalı aracılığıyla gerçekleştirilmektedir. Bu portal, hem taşınır hem de taşınmaz malların satışında kullanılmaktadır ve hukuki geçerliliği fiziki artırmalarla aynıdır. Dolayısıyla B seçeneği doğrudur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir rehinli malın icra yoluyla satışı sonucunda elde edilen bedel, birden fazla alacaklının alacağını karşılamaya yetmediği durumda, İcra ve İflas Kanunu'na göre aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Tüm alacaklılar, alacaklarının oranına bakılmaksızın satış bedelini eşit olarak paylaşır.",
+        "B": "Rehinli alacaklılar, rehinli malın satış bedelinden diğer (adi) alacaklılardan önce ve imtiyazlı olarak alacaklarını tahsil ederler.",
+        "C": "En eski tarihli alacaklı, diğer tüm alacaklılardan önce alacağını tahsil eder.",
+        "D": "Alacaklılar arasında herhangi bir öncelik sıralaması yoktur; icra dairesi tamamen takdirine göre bir dağıtım yapar."
+      },
+      "correctAnswer": "B",
+      "explanation": "İcra ve İflas Kanunu (İİK) m. 206 uyarınca, borçlunun mallarının satışından elde edilen bedel, alacaklıların alacaklarını tamamen karşılamaya yetmezse, icra dairesi bir sıra cetveli düzenler. Bu sıra cetvelinde, rehinli alacaklılar, rehinli malın satış bedelinden, diğer adi alacaklılardan önce ve imtiyazlı olarak alacaklarını tahsil etme hakkına sahiptir. Bu, rehin hakkının sağladığı en temel güvencelerden biridir. Dolayısıyla B seçeneği doğrudur."
+    }
+  ]
+}

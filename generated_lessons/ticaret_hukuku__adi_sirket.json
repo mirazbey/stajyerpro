@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tanım:** Türk Borçlar Kanunu (TBK) madde 620'ye göre adi şirket, iki veya daha fazla kişinin ortak bir amacı gerçekleştirmek için emeklerini ve/veya mallarını bir araya getirmeyi üstlendikleri, tüzel kişiliği bulunmayan sözleşme temelli bir ortaklıktır.\n•   **Tüzel Kişilik Yokluğu:** Adi şirketlerin en temel özelliği, ayrı bir tüzel kişiliğe sahip olmamalarıdır. Bu durum, ortaklığın kendi adına haklara sahip olamaması ve borç altına girememesi anlamına gelir; işlemler ortaklar adına yapılır.\n•   **Sözleşmesel Temel:** Adi şirket, kanunda belirtilen şekil şartına tabi değildir (ancak ispat kolaylığı açısından yazılı yapılması tavsiye edilir). Ortaklar arasında yapılan bir sözleşme ile kurulur.\n•   **Sınırsız ve Müteselsil Sorumluluk:** Ortaklar, şirket borçlarından dolayı üçüncü kişilere karşı tüm mal varlıklarıyla sınırsız ve müteselsilen (zincirleme) sorumludurlar.\n•   **Ortak Amaç (Affectio Societatis):** Ortakların, şirketin amacına ulaşmak için birlikte çalışma ve katkıda bulunma iradesi adi şirketin varlığı için zorunludur. Ortak bir amacı gerçekleştirmek üzere irade birliği esastır.\n•   **Sermaye Katkısı:** Ortaklar, şirket amacına uygun olarak para, mal, alacak, emek, itibar gibi çeşitli değerleri sermaye olarak taahhüt edebilirler."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Borçlar Kanunu (TBK) Uygulaması:** Adi şirketler, öncelikli olarak Türk Borçlar Kanunu'nun 620 ilâ 645. maddeleri arasında düzenlenmiştir. Türk Ticaret Kanunu (TTK), adi şirketleri doğrudan şirket türleri arasında saymamıştır; ancak ticari işletme işleten adi ortaklıklar dolaylı olarak TTK hükümlerine tabi olabilir.\n•   **Şirket Sözleşmesi (TBK m. 621):** Adi şirket sözleşmesinin şekil şartı yoktur. Ancak ispat kolaylığı açısından yazılı yapılması tavsiye edilir. Sözleşmede ortakların taahhütleri, kâr ve zarar paylaşımı, yönetim ve temsil gibi hususlar düzenlenmelidir.\n•   **Kâr ve Zarar Paylaşımı (TBK m. 623):** Kanun aksini öngörmedikçe veya sözleşmede farklı bir düzenleme bulunmadıkça, kâr ve zararın ortaklar arasında eşit olarak paylaşılacağı esastır. Emek ve sermaye oranına göre de belirlenebilir.\n•   **Yönetim ve Temsil (TBK m. 625, 629):** Aksine bir hüküm yoksa tüm ortaklar şirketi yönetme hakkına sahiptir. Ortakların her biri, olağan yönetim işlerinde tek başına hareket edebilir. Şirketi üçüncü kişilere karşı temsil yetkisi de aksi kararlaştırılmadıkça tüm ortaklara aittir.\n•   **Ortakların Sorumluluğu (TBK m. 638):** Adi şirketlerde ortaklar, şirket borçlarından dolayı tüm mal varlıklarıyla, sınırsız ve müteselsil olarak sorumludurlar. Bu, alacaklının borcun tamamını herhangi bir ortaktan talep edebileceği anlamına gelir.\n•   **Şirketin Sona Ermesi (TBK m. 639-645):** Şirket sözleşmesinde belirlenen sürenin dolması, şirketin amacının gerçekleşmesi veya gerçekleşmesinin imkânsız hale gelmesi, ortaklardan birinin ölümü, kısıtlanması, iflası veya bir ortağın haklı sebeple fesih istemesi gibi durumlar şirketin sona erme sebepleridir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Serbest Meslek Ortaklıkları:** İki veya daha fazla avukatın, doktorun, mimarın veya mali müşavirin aynı ofisi veya muayenehaneyi ortak kullanarak gelirlerini ve giderlerini paylaşmaları, ayrı bir tüzel kişilik kurmadan yaptıkları işbirliği adi şirket niteliğindedir.\n•   **Küçük Ölçekli Ticari İşletmeler:** Bir mahalle bakkalı, kasap, terzi gibi küçük esnaf işletmelerinin, birden fazla kişi tarafından sermaye ve/veya emek birleştirilerek işletilmesi durumunda, genellikle adi şirket şeklinde faaliyet gösterilir. (Ticari işletme işletmeleri halinde TTK hükümleri de uygulanabilir).\n•   **İnşaat ve Taahhüt İşleri için Ortak Girişimler (Joint Venture):** Büyük ölçekli bir proje için (örneğin bir köprü inşaatı) farklı uzmanlıklara sahip inşaat şirketlerinin veya kişilerin, projenin tamamlanması amacıyla geçici olarak bir araya gelmesi ve ayrı bir tüzel kişilik oluşturmaması hali adi şirket örneğidir.\n•   **Gayrimenkul Yatırım Ortaklıkları:** İki arkadaşın ortaklaşa bir arsa alıp üzerine ev inşa ederek satma veya kiraya verme amacıyla sermaye birleştirmeleri ve bu işi bir kerelik veya belirli bir süre için yapmaları adi şirket olarak kabul edilebilir.\n•   **Miras Ortaklığı:** Mirasçıların, murisin ölümüyle birlikte mirasın paylaşımına kadar geçen süreçte, miras malvarlığını birlikte yönetmeleri ve işletmeleri (örneğin bir apartmanı kiraya verip gelirini paylaşmaları) kanun gereği oluşan bir adi şirket ilişkisidir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Tüzel Kişiliğin Yokluğunun Sonuçları:** Adi şirketin tüzel kişiliği olmadığı için, şirket adına yapılan tüm işlemler aslında ortakların kendi adlarına yapılmış sayılır. Sözleşmeler ortaklar adına imzalanır, davalar ortaklar adına açılır ve ortaklara karşı açılır. Bu durum, şirket malvarlığının ortakların elbirliği mülkiyetinde olmasına yol açar.\n•   **Sorumluluk Riskleri:** Ortakların sınırsız ve müteselsil sorumluluğu, her bir ortağın şirketin tüm borçlarından kişisel malvarlığıyla sorumlu olması anlamına gelir. Bu nedenle, adi şirket kuracak kişilerin birbirlerine güven duymaları ve mali güçlerini iyi değerlendirmeleri çok önemlidir.\n•   **Yazılı Sözleşmenin Önemi:** Kanunen şekle bağlı olmasa da, ortaklık sözleşmesinin yazılı olarak yapılması, ortaklar arasındaki hak ve yükümlülükleri, kâr-zarar paylaşımını, yönetim ve temsil yetkilerini açıkça belirleyerek ileride doğabilecek anlaşmazlıkları önlemede kritik rol oynar.\n•   **Ticari İşletme İşletme Durumu:** Bir adi şirket, bir ticari işletme işletiyorsa, bu adi şirket ortaklarının her biri tacir sıfatını kazanır ve Türk Ticaret Kanunu'nun tacirlere ilişkin hükümlerine tabi olurlar (ticaret unvanı seçme, ticari defter tutma, iflasa tabi olma vb.).\n•   **Vergilendirme:** Adi şirketler, kurumlar vergisi mükellefi değildir. Elde edilen kâr, ortakların payları oranında doğrudan ortakların gelirine eklenerek Gelir Vergisi Kanunu hükümlerine göre vergilendirilir. KDV ve diğer vergi yükümlülükleri ise şirket adına yerine getirilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kilit Kavramlar:** 'Tüzel kişilik yokluğu', 'sınırsız ve müteselsil sorumluluk', 'ortak amaç (affectio societatis)', 'TBK'nın asli düzenleyici olması' kavramlarını mutlaka içselleştirin.\n•   **Kanun Maddeleri:** Özellikle TBK m. 620 (tanım), m. 623 (kâr-zarar paylaşımı), m. 625/629 (yönetim ve temsil) ve m. 638 (sorumluluk) maddelerine odaklanın. Bu maddelerin içeriğini ve doğurduğu sonuçları iyi anlamak önemlidir.\n•   **Ayırt Edici Özellikler:** Adi şirketin, sermaye şirketleri (A.Ş., Ltd. Şti.) ve şahıs şirketleri (Kollektif, Komandit) gibi tüzel kişiliği olan diğer şirket türlerinden farklarını, özellikle tüzel kişilik ve sorumluluk açısından karşılaştırmalı olarak öğrenin.\n•   **Kuruluş ve Sona Erme:** Adi şirketin nasıl kurulduğunu (sözleşme serbestisi, şekil şartı yokluğu) ve hangi hallerde sona erdiğini (sürenin dolması, amacın gerçekleşmesi, fesih nedenleri) iyi kavrayın.\n•   **Ticari Nitelik:** Adi şirketin bir ticari işletme işletmesi halinde tacir sıfatının kazanılması ve TTK hükümlerine tabi olmasının sonuçlarını (ticaret sicili, ticaret unvanı, ticari defterler) gözden geçirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi adi şirketin temel özelliklerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Tüzel kişiliğe sahip olması",
+        "B": "Ortakların sınırsız sorumluluğu",
+        "C": "Sözleşme temelli bir yapıya sahip olması",
+        "D": "Ortak amacın bulunması"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adi şirketlerin en belirgin özelliği tüzel kişiliğe sahip olmamalarıdır. Bu durum, ortakların şirket borçlarından doğrudan ve sınırsız sorumlu olmalarına yol açar."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Adi şirketler hukuken esas olarak hangi kanun hükümlerine tabidir?",
+      "options": {
+        "A": "Türk Ticaret Kanunu",
+        "B": "Türk Medeni Kanunu",
+        "C": "Türk Borçlar Kanunu",
+        "D": "Türk Ceza Kanunu"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adi şirket, Türk Borçlar Kanunu'nun 620 ila 645. maddeleri arasında düzenlenmiştir. Türk Ticaret Kanunu ise tüzel kişiliği olan ticaret şirketlerini düzenler."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Adi şirket ortaklarının şirket borçlarından sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Sadece şirkete getirdikleri sermaye miktarıyla sınırlıdır.",
+        "B": "Sadece yöneticilik yapan ortakların sorumluluğu vardır.",
+        "C": "Tüm ortaklar, tüm mal varlıklarıyla sınırsız ve müteselsilen sorumludur.",
+        "D": "Hiçbir ortak şirket borçlarından sorumlu değildir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Adi şirketlerde ortaklar, şirket borçlarından dolayı üçüncü kişilere karşı tüm mal varlıklarıyla sınırsız ve müteselsil (zincirleme) olarak sorumludurlar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir adi şirketin sona erme nedenlerinden biri aşağıdakilerden hangisi olamaz?",
+      "options": {
+        "A": "Şirket sözleşmesinde belirlenen sürenin dolması",
+        "B": "Şirketin amacının gerçekleşmesi",
+        "C": "Ortaklardan birinin şirket hissesini üçüncü bir kişiye devretmesiyle şirketin devam etmesi",
+        "D": "Ortaklardan birinin iflas etmesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ortaklardan birinin şirket hissesini üçüncü bir kişiye devretmesi, adi şirketlerde genellikle mevcut ortaklık sözleşmesinin sona ermesine ve yeni bir ortaklık ilişkisinin doğmasına yol açabilir veya diğer ortakların onayıyla devam edebilir, ancak tek başına bir sona erme nedeni değildir. Aksine, ortaklardan birinin ölümü, iflası veya kısıtlanması TBK'ya göre sona erme nedenlerindendir. (C seçeneğindeki ifade, şirketin devamı yönünde olduğu için sona erme nedeni olamaz.)"
+    },
+    {
+      "questionNumber": 5,
+      "question": "Adi şirket sözleşmesinin geçerliliği için kanunda öngörülen şekil şartı nedir?",
+      "options": {
+        "A": "Yazılı şekilde yapılması ve noterde onaylanması zorunludur.",
+        "B": "Resmi şekilde (resmi senetle) yapılması zorunludur.",
+        "C": "Yazılı şekilde yapılması zorunludur.",
+        "D": "Herhangi bir şekil şartına tabi değildir."
+      },
+      "correctAnswer": "D",
+      "explanation": "Türk Borçlar Kanunu'na göre adi şirket sözleşmesi, herhangi bir şekil şartına tabi değildir. Sözlü olarak dahi kurulabilir; ancak ispat kolaylığı açısından yazılı yapılması önem arz eder."
+    }
+  ]
+}

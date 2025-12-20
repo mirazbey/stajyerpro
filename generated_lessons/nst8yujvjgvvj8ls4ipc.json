@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk Anayasa Hukuku dersimizin bu bölümünde, modern anayasacılığın ve demokratik hukuk devletinin vazgeçilmez unsurlarından biri olan 'Sosyal ve Ekonomik Haklar' konusunu derinlemesine ele alacağız. Sosyal ve ekonomik haklar, bireyin insanlık onuruna yakışır bir yaşam sürdürebilmesi, toplumsal yaşama tam katılım sağlayabilmesi ve maddi yoksunluktan korunarak maddi ve manevi varlığını geliştirebilmesi için devletten aktif bir müdahale ve edim talep etmesini sağlayan haklar bütünüdür. Bu haklar, klasik özgürlük haklarından (negatif statü hakları) farklı olarak, devlete pasif bir 'yapmama' ödevi yüklemek yerine, aktif bir 'yapma' veya 'sağlama' ödevi yüklerler ve bu nedenle 'pozitif statü hakları' olarak da adlandırılırlar. Tarihsel gelişimine bakıldığında, ilk kuşak haklar olan siyasi ve medeni hakların ardından, sanayi devrimi ve işçi hareketlerinin etkisiyle 19. yüzyıl sonu ve 20. yüzyıl başlarında ortaya çıkmış, Weimar Anayasası gibi belgelerle anayasalara girmiş ve refah devleti anlayışının temelini oluşturmuştur. Türkiye Cumhuriyeti Anayasası'nda da önemli bir yer tutan bu haklar, bireylerin iş, eğitim, sağlık, sosyal güvenlik, konut gibi temel ihtiyaçlarının karşılanmasına yönelik devlet garantilerini içerir. Bu ders kapsamında, sosyal ve ekonomik hakların felsefi ve teorik temelleri, uluslararası hukuk belgelerindeki yeri, Türk Anayasası'ndaki düzenlenişi, uygulama alanları ve bu hakların kullanılmasında karşılaşılan zorluklar ile yargısal denetim mekanizmaları üzerinde durulacaktır. Amacımız, bu hakların yalnızca teorik bir çerçevesini sunmakla kalmayıp, aynı zamanda günlük yaşamımızdaki pratik yansımalarını ve toplumsal önemini de kavramanızdır. Bu hakların kapsamı ve sınırları, devletin imkanları ve ekonomik koşullarla yakından ilişkili olup, anayasal güvenceye sahip olmalarına rağmen, uygulama süreçleri dinamik ve tartışmaya açık olabilmektedir. Bu nedenle, ders boyunca hem hukuki metinlere hem de güncel içtihatlara göndermeler yaparak konuyu zenginleştireceğiz."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Sosyal ve ekonomik hakların yasal çerçevesini incelediğimizde, uluslararası hukuktan başlayarak Türk Anayasası ve ilgili mevzuata uzanan çok katmanlı bir yapı karşımıza çıkar. Uluslararası düzeyde, Birleşmiş Milletler İnsan Hakları Evrensel Bildirgesi (İHEB) birçok sosyal ve ekonomik hakkı tanımlamış, ancak bağlayıcı niteliği daha güçlü olan, 1966 tarihli Ekonomik, Sosyal ve Kültürel Haklara İlişkin Uluslararası Sözleşme (ESKHS) bu alanda temel belge niteliğindedir. Türkiye, bu sözleşmeye taraftır ve dolayısıyla sözleşme hükümleri iç hukukun bir parçası haline gelmiştir. Avrupa Konseyi bünyesinde ise Avrupa Sosyal Şartı, sosyal hakların korunması ve geliştirilmesi amacıyla önemli bir mekanizma sunar. Türk Anayasası'nda sosyal ve ekonomik haklar, 'Sosyal ve Ekonomik Haklar ve Ödevler' başlığı altında, Anayasa'nın Üçüncü Kısmı'nın Üçüncü Bölümü'nde, 49. maddeden 65. maddeye kadar uzanan geniş bir yelpazede düzenlenmiştir. Bu bölümde yer alan temel haklar arasında çalışma hakkı ve ödevi (m. 49), çalışma şartları ve dinlenme hakkı (m. 50), sendika kurma hakkı (m. 51), toplu iş sözleşmesi ve grev hakkı (m. 53, 54), ücrette adalet (m. 55), sosyal güvenlik hakkı (m. 60), sağlık hakkı (m. 56), konut hakkı (m. 57), gençliğin korunması (m. 58), sporun geliştirilmesi (m. 59), sanatın ve sanatçının korunması (m. 64), çevrenin korunması (m. 56), ailenin korunması ve çocuk hakları (m. 41) gibi önemli düzenlemeler yer almaktadır. Anayasa'nın 65. maddesi, 'Devlet, sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, bu görevlerin amaçlarına uygun öncelikleri gözeterek malî kaynaklarının yeterliliği ölçüsünde yerine getirir.' hükmü ile bu hakların uygulanmasında devletin imkanları ölçüsünde bir yükümlülük taşıdığını belirtir ki bu madde, yargısal denetim ve uygulama açısından kritik bir öneme sahiptir. Bu anayasal hükümlerin yanı sıra, 4857 sayılı İş Kanunu, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, 2828 sayılı Sosyal Hizmetler Kanunu gibi kanunlar ve bunlara dayalı ikincil mevzuat, bu hakların somutlaştırılmasında ve pratik uygulamasında merkezi bir rol oynar. Bu düzenlemeler, devletin sosyal adalet ve refah devleti ilkesini hayata geçirme çabasının hukuki altyapısını oluşturmaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Sosyal ve ekonomik hakların pratik uygulamaları, Türk hukuk sisteminde geniş bir alanı kapsar ve bireylerin günlük yaşamlarına doğrudan etki eder. Örneğin, Anayasa'nın 49. maddesinde güvence altına alınan çalışma hakkı, 4857 sayılı İş Kanunu ile somutlaşır. Bu kanun, iş sözleşmelerinin kurulmasından feshine, çalışma sürelerinden ücretin ödenmesine, iş sağlığı ve güvenliği önlemlerinden sendikal haklara kadar geniş bir alanda işçi-işveren ilişkilerini düzenler. Asgari ücret tespiti, ücrette adaletin sağlanmasına yönelik önemli bir uygulamadır ve her yıl Asgari Ücret Tespit Komisyonu tarafından belirlenir. Anayasa'nın 60. maddesindeki sosyal güvenlik hakkı ise 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile hayata geçirilir. Sosyal Güvenlik Kurumu (SGK) aracılığıyla çalışanlara, emeklilere, işsizlere ve sağlık hizmeti ihtiyacı olan vatandaşlara çeşitli sosyal sigorta ve genel sağlık sigortası hizmetleri sunulur. İşsizlik sigortası, emeklilik maaşları, sağlık hizmetlerine erişim gibi mekanizmalar bu hakkın somut örnekleridir. Anayasa'nın 56. maddesindeki sağlık hakkı, 3359 sayılı Sağlık Hizmetleri Temel Kanunu ve ilgili diğer mevzuatla düzenlenir. Kamu hastaneleri, Aile Sağlığı Merkezleri, acil sağlık hizmetleri bu hakkın devlet tarafından sağlandığı başlıca yöntemlerdir. Benzer şekilde, eğitim hakkı (m. 42) Milli Eğitim Bakanlığı eliyle ücretsiz ve zorunlu temel eğitimden yükseköğretime kadar geniş bir yelpazede sunulurken, konut hakkı (m. 57) Toplu Konut İdaresi Başkanlığı (TOKİ) eliyle yürütülen sosyal konut projeleriyle kısmen hayata geçirilmeye çalışılmaktadır. Çevrenin korunması hakkı (m. 56), 2872 sayılı Çevre Kanunu ve ilgili yönetmeliklerle desteklenmekte, çevre denetimleri ve koruma projeleriyle uygulanmaktadır. Bu uygulamaların etkinliği, devletin ekonomik kapasitesi, politika tercihleri ve hukuki denetim mekanizmalarının gücü ile doğrudan ilişkilidir. Özellikle dezavantajlı gruplar için pozitif ayrımcılık ilkesi çerçevesinde sağlanan sosyal yardımlar ve hizmetler (engellilere yönelik haklar, kadınlara ve çocuklara yönelik koruma tedbirleri) de bu hakların pratik uygulamaları arasında yer alır. Ancak tüm bu uygulamaların, Anayasa'nın 65. maddesindeki 'devletin imkanları ölçüsünde' hükmü nedeniyle, her zaman tam ve eksiksiz bir şekilde yerine getirilemediği yönünde eleştiriler de mevcuttur. Bu durum, sosyal ve ekonomik hakların yargısal yolla talep edilebilirliği konusunda önemli tartışmaları beraberinde getirmektedir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Sosyal ve ekonomik haklar konusu incelenirken birkaç önemli noktaya dikkat etmek gerekmektedir. Öncelikle, bu hakların doğası gereği 'devletten pozitif edim' talep etmesi, klasik özgürlük haklarından ayrıldığı en temel özelliktir. Devlet, bu hakları sağlamak için mali ve idari kaynaklarını harekete geçirmek zorundadır. Bu durum, devletin ekonomik kapasitesiyle doğrudan ilişkilidir ve Anayasa'nın 65. maddesinde yer alan 'malî kaynaklarının yeterliliği ölçüsünde' ifadesi, bu bağlantıyı açıkça ortaya koyar. Bu hüküm, sosyal ve ekonomik hakların 'programatik' niteliğini vurgulayarak, bu hakların devletin mali imkanlarına bağlı olarak aşamalı bir şekilde gerçekleştirilebileceğini gösterir. Ancak bu, devletin bu hakları tamamen göz ardı edebileceği anlamına gelmez; aksine, devletin bu hakları gerçekleştirmek için sürekli bir çaba ve ilerleme gösterme yükümlülüğünü doğurur (progressive realization ilkesi). İkinci olarak, sosyal ve ekonomik hakların yargısal denetimi ve dava edilebilirliği, klasik özgürlük haklarına göre daha karmaşıktır. Bireyin 'sağlık hizmeti almak' ya da 'eğitim hakkını kullanmak' için dava açması mümkün olsa da, devletin belirli bir seviyede konut sağlaması veya istihdam yaratması gibi daha geniş kapsamlı görevler için yargısal denetimin sınırları konusunda farklı görüşler bulunmaktadır. Anayasa Mahkemesi içtihatları, bu hakların bireysel başvuru yoluyla korunmasında önemli bir rol oynamaktadır; ancak Mahkeme, genellikle doğrudan pozitif edim yerine, hakkın ihlalini oluşturan idari eylem veya ihmalleri denetleme eğilimindedir. Üçüncü olarak, bu hakların uygulanmasında 'eşitlik ilkesi' ve 'sosyal devlet' prensibi vazgeçilmezdir. Devlet, imkanları ölçüsünde bu hakları sağlarken, hiçbir ayrımcılık yapmadan tüm vatandaşlara eşit fırsatlar sunmak zorundadır. Sosyal adalet ve hakkaniyet ilkeleri, bu hakların dağıtımında ve kullanımında rehber olmalıdır. Son olarak, sosyal ve ekonomik haklar ile diğer temel hak ve özgürlükler arasındaki ilişkiyi göz ardı etmemek önemlidir. Örneğin, sendika kurma hakkı, hem bir örgütlenme özgürlüğü (siyasi hak) hem de çalışma hayatına ilişkin bir sosyal hak niteliği taşır. Bu haklar birbiriyle iç içe geçmiş olup, birinin ihlali diğerini de olumsuz etkileyebilir. Dolayısıyla, bu hakların bütüncül bir yaklaşımla ele alınması, bireyin insan onuruna yaraşır bir yaşam sürmesi için hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu ders kapsamında sosyal ve ekonomik haklar konusunu detaylı bir şekilde inceledik. Özetle, sosyal ve ekonomik haklar, bireyin insan onuruna yaraşır bir yaşam sürdürmesi için devletten aktif edimler talep etmesini sağlayan pozitif statü haklarıdır. Bu haklar, refah devleti anlayışının temelini oluşturur ve bireylerin çalışma, eğitim, sağlık, sosyal güvenlik, konut gibi temel ihtiyaçlarının karşılanmasını güvence altına almayı hedefler. Türk Anayasası'nda 49. maddeden 65. maddeye kadar geniş bir alanda düzenlenen bu haklar, uluslararası sözleşmelerle de desteklenmekte ve 4857 sayılı İş Kanunu, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gibi özel yasalarla somutlaştırılmaktadır. Pratik uygulamalar, asgari ücretin belirlenmesi, SGK hizmetleri, kamu sağlık ve eğitim hizmetleri, sosyal konut projeleri ve çeşitli sosyal yardımlar şeklinde karşımıza çıkmaktadır. Ancak bu hakların uygulanmasında, özellikle Anayasa'nın 65. maddesinde belirtilen 'devletin imkanları ölçüsünde' ilkesi nedeniyle birtakım zorluklarla karşılaşılmaktadır. Bu durum, hakların 'programatik' niteliğini ve yargısal denetiminin sınırlarını gündeme getirir. Buna rağmen, devletin bu hakları gerçekleştirmek için sürekli çaba gösterme yükümlülüğü (progressive realization) devam etmekte olup, Anayasa Mahkemesi'nin bireysel başvuru yoluyla bu hakların ihlallerine yönelik içtihatları önemli bir güvence sağlamaktadır. Sosyal ve ekonomik haklar, eşitlik ilkesi ve sosyal devlet anlayışıyla ayrılmaz bir bütünlük içindedir ve bireylerin maddi ve manevi varlığını geliştirmesi için kritik bir öneme sahiptir. Bu haklar, modern demokratik toplumların temelini oluşturan adalet, eşitlik ve insanlık onuru değerlerinin somut birer göstergesidir. Konuyu pekiştirmek adına, öğrenilen bilgilerin pratiğe nasıl yansıdığını düşünmek ve güncel ekonomik ve sosyal politikaların bu hakları ne ölçüde gerçekleştirdiğini analiz etmek faydalı olacaktır. Anayasa Mahkemesi kararları ve Yargıtay içtihatları, bu hakların somut uyuşmazlıklardaki yorum ve uygulama biçimleri hakkında değerli bilgiler sunar. Unutulmamalıdır ki, sosyal ve ekonomik hakların tam anlamıyla güvence altına alınması ve hayata geçirilmesi, dinamik bir süreç olup, sürekli hukuki ve politik çaba gerektirmektedir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, Türk Anayasası'nda düzenlenen sosyal ve ekonomik hakların karakteristik özelliklerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Devlete, bireyler lehine aktif bir edim yükümlülüğü getirirler.",
+        "B": "Genellikle pozitif statü hakları olarak nitelendirilirler.",
+        "C": "Devletin mali kaynaklarının yeterliliği ölçüsünde gerçekleştirilirler.",
+        "D": "Bireylerin devlet müdahalesinden korunmasını esas alırlar.",
+        "E": "Anayasa'nın Üçüncü Kısmı'nın Üçüncü Bölümü'nde düzenlenmişlerdir."
+      },
+      "correctAnswer": "D",
+      "explanation": "Sosyal ve ekonomik haklar, bireylerin devlet müdahalesinden korunmasını (negatif statü hakları) değil, tam aksine devletten aktif bir müdahale ve edim talep etmesini esas alır. Diğer seçenekler bu hakların doğru karakteristik özelliklerini yansıtmaktadır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi 'Sosyal ve Ekonomik Haklar ve Ödevler' bölümünde doğrudan güvence altına alınan haklardan biri DEĞİLDİR?",
+      "options": {
+        "A": "Sağlık hakkı",
+        "B": "Sosyal güvenlik hakkı",
+        "C": "Çalışma hakkı ve ödevi",
+        "D": "Konut hakkı",
+        "E": "Özel hayatın gizliliği"
+      },
+      "correctAnswer": "E",
+      "explanation": "Özel hayatın gizliliği hakkı, Anayasa'nın İkinci Kısmı'nın İkinci Bölümü'nde 'Kişinin Hakları ve Ödevleri' başlığı altında yer alan bir kişisel haktır (m. 20). Diğer seçeneklerde yer alan haklar ise Anayasa'nın Üçüncü Kısmı'nın Üçüncü Bölümü'nde 'Sosyal ve Ekonomik Haklar ve Ödevler' başlığı altında düzenlenmiştir (Sağlık m. 56, Sosyal Güvenlik m. 60, Çalışma m. 49, Konut m. 57)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Türk Anayasası'nın sosyal ve ekonomik haklara ilişkin temel ilkelerinden biri olan 'Devlet, sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, bu görevlerin amaçlarına uygun öncelikleri gözeterek malî kaynaklarının yeterliliği ölçüsünde yerine getirir.' hükmü (m. 65) hangi ilkeye işaret etmektedir?",
+      "options": {
+        "A": "Sınırsız devlet müdahalesi ilkesi",
+        "B": "Sosyal hakların mutlak ve derhal uygulanabilirliği",
+        "C": "Sosyal hakların programatik niteliği ve aşamalı gerçekleştirilmesi",
+        "D": "Devletin sosyal ve ekonomik haklara ilişkin hiçbir yükümlülüğünün olmaması",
+        "E": "Sosyal hakların sadece mahkeme kararıyla sağlanması"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa'nın 65. maddesi, devletin sosyal ve ekonomik görevlerini yerine getirirken mali kaynaklarının sınırlılığına işaret ederek, bu hakların programatik niteliğini ve devletin imkanları ölçüsünde, yani aşamalı olarak gerçekleştirileceğini vurgular. Bu durum 'progressive realization' ilkesi olarak da bilinir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki uluslararası belgelerden hangisi, ekonomik, sosyal ve kültürel hakların korunmasına yönelik bağlayıcı nitelikte temel bir metindir ve Türkiye de bu belgeye taraftır?",
+      "options": {
+        "A": "Birleşmiş Milletler İnsan Hakları Evrensel Bildirgesi",
+        "B": "İşkence ve Diğer Zalimane, İnsanlık Dışı veya Onur Kırıcı Muamele veya Cezayı Önleme Sözleşmesi",
+        "C": "Ekonomik, Sosyal ve Kültürel Haklara İlişkin Uluslararası Sözleşme",
+        "D": "Medeni ve Siyasi Haklara İlişkin Uluslararası Sözleşme",
+        "E": "Çocuk Haklarına Dair Sözleşme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ekonomik, Sosyal ve Kültürel Haklara İlişkin Uluslararası Sözleşme (ESKHS), ekonomik, sosyal ve kültürel hakların korunmasına yönelik temel ve bağlayıcı bir uluslararası belgedir ve Türkiye bu sözleşmeye taraftır. İHEB, bağlayıcı olmasa da bu hakları tanımlayan ilk belgedir. Medeni ve Siyasi Haklara İlişkin Uluslararası Sözleşme ise daha çok kişisel ve siyasi haklara odaklanır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Anayasa'nın 4857 sayılı İş Kanunu ile somutlaşan ve işçi-işveren ilişkilerini düzenleyen temel sosyal hakkı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sağlık hakkı",
+        "B": "Çalışma hakkı ve ödevi",
+        "C": "Eğitim hakkı",
+        "D": "Konut hakkı",
+        "E": "Sendika kurma hakkı"
+      },
+      "correctAnswer": "B",
+      "explanation": "4857 sayılı İş Kanunu, doğrudan Anayasa'nın 49. maddesinde yer alan 'Çalışma hakkı ve ödevi'ni somutlaştırır ve bu hakkın uygulanmasına ilişkin detaylı düzenlemeler içerir. Sendika kurma hakkı (m. 51) da çalışma hayatıyla ilgili olmakla birlikte, İş Kanunu'nun ana konusu değildir ve ayrı kanunlarla düzenlenir."
+    }
+  ]
+}

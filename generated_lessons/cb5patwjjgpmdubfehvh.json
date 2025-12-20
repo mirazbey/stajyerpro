@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Türk Hukuku'nda 'tazminat', bir kimsenin hukuka aykırı bir fiille bir başkasına verdiği zararın giderilmesi amacını taşıyan parasal veya bazen ayni nitelikteki edimdir. Bu ilk dersimizde, tazminatın geniş yelpazesini anlamak adına temel kavramlar üzerinde duracağız. Tazminatın en temel işlevi, zarar görenin malvarlığında veya kişilik değerlerinde meydana gelen azalmayı veya ihlali telafi etmektir. Türk Borçlar Kanunu (TBK), Medeni Kanun (TMK), İdari Yargılama Usulü Kanunu (İYUK) ve hatta Anayasa Hukuku gibi birçok alanda karşımıza çıkan bu kavram, mağdurun eski hâle iadesi prensibine dayanır. Tazminat, yalnızca maddi kayıpları değil, aynı zamanda kişinin yaşadığı elem, üzüntü ve şerefinin zedelenmesi gibi manevi boyutları da kapsar. Bu ayrım, hukukumuzda maddi tazminat ve manevi tazminat olarak iki ana kategoriye ayrılır. Maddi tazminat, somut olarak hesaplanabilen, malvarlığındaki azalmayı hedefleyen bir telafi iken; manevi tazminat, ölçülmesi zor olan, fakat kişinin ruhsal bütünlüğüne verilen zararı bir nebze olsun hafifletmeyi amaçlayan, sembolik bir tatmin aracıdır. Tazminatın doğuşuna yol açan sebepler ise çeşitlilik gösterir: haksız fiiller, sözleşmeye aykırılıklar, sebepsiz zenginleşme ve hatta kamu gücünün kullanımı sırasında idarenin kusurlu veya kusursuz sorumluluğu. Hukuka aykırı fiil, zarar, illiyet bağı ve kusur (bazı durumlarda kusursuz sorumluluk) tazminat sorumluluğunun temel unsurlarıdır. Zarar, malvarlığında veya kişilik haklarında meydana gelen eksilme veya ihlal iken; illiyet bağı, fiil ile zarar arasındaki nedensellik ilişkisini ifade eder. Kusur ise, hukuken kınanabilen bir davranış biçimidir ve genellikle haksız fiil sorumluluğunun olmazsa olmaz şartıdır. Ancak bazı özel hallerde kusursuz sorumluluk ilkesi de devreye girebilmektedir. Bu dersin temel amacı, Türk Hukuku'nun tazminat kavramına ilişkin genel çerçevesini çizmek, ana hatlarını belirlemek ve sonraki derslerde bu çerçeveyi daha detaylı bir şekilde doldurmak için sağlam bir zemin oluşturmaktır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Tazminatlar konusunda Türk Hukuku'nda geniş bir yasal çerçeve mevcuttur ve bu çerçeve, farklı hukuk dallarında farklı sorumluluk rejimlerini ve tazminat türlerini barındırır. Bu adımda, tazminat hukukunun temelini oluşturan başlıca kanun ve düzenlemelere odaklanacağız. Öncelikle, **Türk Borçlar Kanunu (TBK)**, özel hukukta tazminatın ana kaynağını oluşturur. Özellikle TBK madde 49 ve devamı maddeleri, haksız fiilden doğan sorumluluğu ve tazminat koşullarını düzenler. Haksız fiil sorumluluğu, bir kimsenin hukuka aykırı ve kusurlu bir fiiliyle başkasına zarar vermesi durumunda ortaya çıkar. TBK madde 112 ve devamı ise, sözleşmeden doğan sorumluluğu, yani sözleşmenin ihlali nedeniyle meydana gelen zararların tazminini ele alır. Bu iki ayrım, tazminat hukukunun temelini teşkil eder. **Türk Medeni Kanunu (TMK)** ise özellikle kişilik haklarına saldırı (TMK m. 24, 25) nedeniyle uğranılan manevi zararların tazmini konusunda önemli bir kaynaktır. Kişilik haklarının ihlali durumunda manevi tazminat talep etme hakkı, TMK tarafından güvence altına alınmıştır. Kamu hukuku alanında ise **Anayasa Hukuku** ve **İdare Hukuku** tazminat konusunda kritik rol oynar. Anayasa'nın 125. maddesi, idarenin her türlü eylem ve işleminden doğan zararı tazminle yükümlü olduğunu açıkça belirtir. Bu hüküm, idare hukukundaki tam yargı davalarının temelini oluşturur ve idarenin kusurlu veya kusursuz sorumluluğunu düzenler. Bu bağlamda, idarenin hizmet kusuru veya risk ilkesine dayalı sorumluluğu söz konusu olabilir. **İdari Yargılama Usulü Kanunu (İYUK)** ise tam yargı davalarının açılması, yürütülmesi ve sonuçlanmasına ilişkin usul kurallarını belirler. Kemal Gözler'in 'Anayasa Hukukunun Temel Esasları' adlı eserinde de belirtildiği üzere, Anayasa, devletin bireysel hak ve özgürlüklere müdahalesi sonucu oluşan zararların tazmini mekanizmasını dolaylı yoldan güvence altına almaktadır. Anayasa Mahkemesi'ne bireysel başvuru yolu da, hak ihlali tespit edildiğinde, başvurucunun tazminat talebinde bulunmasına zemin hazırlayabilir. Ayrıca, **Karayolları Trafik Kanunu (KTK)** gibi özel kanunlar da trafik kazalarından doğan sorumluluk ve tazminat hükümlerini içerir ki bu, kusursuz sorumluluğun önemli bir örneğidir. **İş Kanunu** ise işçinin uğradığı iş kazaları ve meslek hastalıkları gibi durumlarda işverenin sorumluluğunu ve tazminat yükümlülüklerini düzenler. Görüldüğü üzere, tazminat hukuku disiplinler arası bir niteliğe sahiptir ve her bir alanın kendine özgü sorumluluk ve tazminat rejimleri bulunmaktadır. Bu yasal çerçeve, tazminat davalarının hangi mahkemelerde görüleceğini, hangi yasalara tabi olacağını ve hangi ilkelere göre karara bağlanacağını belirler."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Teorik bilgileri somutlaştırmak ve tazminatın Türk Hukuku'nda nasıl uygulandığını göstermek amacıyla bu adımda çeşitli pratik uygulama örnekleri üzerinde duracağız. Öncelikle, **haksız fiilden doğan maddi tazminat** davaları en sık karşılaşılan örneklerdendir. Bir trafik kazasında yaralanan kişinin tedavi giderleri, kazanç kaybı, çalışma gücü kaybı gibi zararları maddi tazminat kapsamında değerlendirilir. Kazada bir kişinin ölümü halinde ise, ölenin desteğinden yoksun kalanların (eş, çocuklar, anne-baba) destekten yoksun kalma tazminatı talepleri gündeme gelir. Bu tür zararların hesaplanmasında bilirkişi incelemesi büyük önem taşır ve genellikle Yargıtay'ın yerleşik içtihatları doğrultusunda, aktüerya hesaplamaları ile belirlenir. Örneğin, bir inşaat alanında güvenlik önlemlerinin yetersizliği nedeniyle düşerek yaralanan bir işçinin, işverene karşı TBK kapsamında açacağı maddi tazminat davası bu kategoriye girer. **Manevi tazminat** ise, haksız bir fiil sonucunda kişinin fiziksel ve ruhsal bütünlüğünde, şeref ve haysiyetinde, özel hayatında meydana gelen elem, keder, üzüntü gibi manevi zararların giderilmesini amaçlar. Örneğin, bir basın organının gerçeğe aykırı haberle bir kişinin itibarını zedelemesi durumunda, kişilik haklarına saldırı nedeniyle manevi tazminat davası açılabilir (TMK m. 24, 25). Mahkeme, manevi tazminat miktarını belirlerken tarafların sosyal ve ekonomik durumları, olayın niteliği, kusurun ağırlığı gibi unsurları dikkate alarak hakkaniyet ilkesine göre takdir yetkisini kullanır. **Sözleşmeye aykırılıktan doğan tazminat** da günlük hayatta sıkça karşılaştığımız bir durumdur. Örneğin, bir inşaat firmasının sözleşmede taahhüt ettiği tarihte projeyi bitirememesi veya ayıplı eser teslim etmesi durumunda, alıcının uğradığı 'müspet zarar' (sözleşme ifa edilmiş olsaydı elde edilecek kar) veya 'menfi zarar' (sözleşmeye güvenerek yapılan giderler) tazminat konusu olabilir. **İdari yargıda tazminat (Tam Yargı Davaları)**, Anayasa'nın 125. maddesi ve İYUK kapsamında idarenin eylem ve işlemlerinden doğan zararların tazmini için açılır. Örneğin, kamulaştırmasız el atma nedeniyle mülkiyet hakkı ihlal edilen bir vatandaşın idareye karşı açtığı dava veya idarenin haksız bir işlemi (örneğin haksız atama, haksız ruhsat iptali) nedeniyle uğranılan zararın tazmini bu kapsamdadır. Bu davalarda idarenin kusurlu (hizmet kusuru) ya da kusursuz (risk sorumluluğu, fedakarlığın denkleştirilmesi) sorumluluğu söz konusu olabilir. Her bir pratik uygulamada, zararın ispatı, illiyet bağının tespiti, kusur değerlendirmesi ve tazminat miktarının hesaplanması kritik aşamalardır. Hakim, somut olayın özelliklerine göre kanun hükümleri ve Yargıtay içtihatları doğrultusunda karar verir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Tazminat davaları sürecinde ve hukuki danışmanlık hizmeti verilirken göz önünde bulundurulması gereken pek çok önemli detay bulunmaktadır. Bu adımda, başarılı bir tazminat davası yürütmek veya potansiyel riskleri minimize etmek için hayati öneme sahip hususlara değineceğiz. İlk olarak, **zamanaşımı süreleri** tazminat hukukunun en kritik unsurlarından biridir. Türk Borçlar Kanunu'nda haksız fiiller için genel zamanaşımı süresi, zararı ve faili öğrenme tarihinden itibaren iki yıl ve her halükarda fiilin işlendiği tarihten itibaren on yıldır (TBK m. 72). Sözleşmeye aykırılıktan doğan tazminat davaları için ise genellikle on yıllık genel zamanaşımı süresi uygulanır (TBK m. 146). İdari yargıda tam yargı davaları için ise, idari eylem veya işlemin öğrenilmesinden itibaren bir yıl ve her halükarda idari eylemin yapıldığı tarihten itibaren beş yıl içinde dava açılmalıdır (İYUK m. 13). Bu sürelerin kaçırılması, dava hakkının düşmesine yol açar. İkinci olarak, **görevli ve yetkili mahkemeler**in doğru tespiti büyük önem taşır. Özel hukuktan doğan tazminat davaları (haksız fiil, sözleşmeye aykırılık, kişilik haklarına saldırı) genellikle Asliye Hukuk Mahkemeleri'nde veya İş Mahkemeleri, Tüketici Mahkemeleri gibi özel yetkili mahkemelerde görülür. İdari işlemlerden doğan tazminat davaları ise İdare Mahkemeleri'nin görev alanına girer. Yetkili mahkeme ise genellikle davalının yerleşim yeri veya zararın meydana geldiği yer mahkemesidir (HMK). Üçüncü olarak, **ispat yükü** tazminat hukukunda önemli bir yere sahiptir. Genel kural olarak, zarar gören, zararının varlığını, miktarını, hukuka aykırı fiili ve fiil ile zarar arasındaki illiyet bağını ispatlamakla yükümlüdür. Bazı durumlarda ise (örneğin trafik kazalarında işletenin kusursuz sorumluluğunda), kusurun ispatı değil, zararın ve illiyet bağının ispatı yeterli olabilir. Dördüncü olarak, **tazminat miktarının belirlenmesi ve indirim/artırım sebepleri** yargılamanın en karmaşık kısımlarındandır. Hakim, bilirkişi raporları ve hakkaniyet ilkeleri çerçevesinde bir miktar belirler. Zarar görenin kusuru, tazminatın indirilmesi sebebi olabilir (müterafik kusur). Ayrıca, tazminatın belirlenmesinde ekonomik koşullar, tarafların sosyal ve ekonomik durumları gibi unsurlar da göz önünde bulundurulur. Faiz başlangıcı (temerrüt tarihi veya dava tarihi) ve yargılama giderleri de dava sonucunu etkileyen maliyetlerdir. Son olarak, Türk Hukuku'nda **yargı yolu ayrımı** ilkesi gereği, bir davanın idari yargıda mı yoksa adli yargıda mı görüleceğinin doğru tespiti esastır; aksi takdirde görevsizlik kararıyla karşılaşılabilir. Bu hususlara dikkat etmek, hukuki süreçlerin sağlıklı işlemesi ve hak kayıplarının önlenmesi açısından elzemdir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu kapsamlı ders boyunca, Türk Hukuku'nda tazminatlar konusunu derinlemesine inceledik ve temelden pratiğe doğru bir yolculuk yaptık. Dersimizin başında tazminatın tanımını yaparak, onun bir başkasına hukuka aykırı bir fiille verilen zararın giderilmesi amacını taşıdığını vurguladık. Maddi ve manevi tazminat ayrımını net bir şekilde ortaya koyarak, maddi tazminatın somut ekonomik kayıpları, manevi tazminatın ise kişilik değerlerine verilen zararları telafi etme işlevini üstlendiğini öğrendik. Tazminat sorumluluğunun doğması için gereken hukuka aykırı fiil, zarar, illiyet bağı ve kusur (veya kusursuz sorumluluk halleri) gibi temel unsurları detaylandırdık. Dersin ikinci adımında, tazminatın geniş yasal çerçevesini ele aldık. Türk Borçlar Kanunu'nun haksız fiil ve sözleşmeden doğan sorumluluk hükümleriyle özel hukuktaki temelini oluşturduğunu, Türk Medeni Kanunu'nun kişilik haklarının korunmasındaki rolünü, Anayasa'nın 125. maddesinin idarenin sorumluluğu ve tam yargı davalarındaki temelini, İdari Yargılama Usulü Kanunu'nun ise usulî çerçeveyi belirlediğini gördük. Bu bağlamda, Anayasa Hukuku'nun, bireysel hak ve özgürlüklerin ihlali durumunda devlete tazminat sorumluluğu yüklemesindeki kritik rolünü de Kemal Gözler'in eserinden hareketle vurgulamış olduk. Üçüncü adımda, edindiğimiz teorik bilgileri pratik uygulamalarla pekiştirdik. Trafik kazaları, basın yoluyla kişilik haklarına saldırı, sözleşme ihlali ve idarenin kusurlu eylemleri gibi çeşitli senaryolar üzerinden maddi ve manevi tazminat davalarının nasıl şekillendiğini, zararın nasıl hesaplandığını ve mahkemelerin hangi prensiplere göre karar verdiğini örneklerle açıkladık. Son olarak, dördüncü adımda, tazminat davalarında dikkat edilmesi gereken hayati öneme sahip hususları ele aldık. Zamanaşımı sürelerinin, görevli ve yetkili mahkemelerin, ispat yükünün ve tazminat miktarının belirlenmesindeki indirim/artırım sebeplerinin hukuki sürecin başarısı üzerindeki etkisini detaylandırdık. Bu dersin tamamında, tazminat hukukunun sadece özel hukukla sınırlı kalmayıp, kamu hukuku başta olmak üzere pek çok hukuk dalıyla iç içe geçmiş, disiplinler arası bir alan olduğunu gördük. Öğrendiğimiz bu bilgiler ışığında, tazminat kavramının Türk Hukuku'ndaki yerini ve önemini kavramış, karşılaşabileceğiniz hukuki sorunlara daha bilinçli bir yaklaşım sergileme yeteneği kazanmış olmanız hedeflenmektedir. Konunun dinamik yapısı göz önüne alındığında, güncel mevzuat değişiklikleri ve Yargıtay içtihatlarının takip edilmesi, bilginin güncel tutulması açısından büyük önem taşımaktadır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Türk Borçlar Kanunu'nda düzenlenen haksız fiil sorumluluğunun temel unsurlarından biri değildir?",
+      "options": {
+        "A": "Hukuka Aykırı Fiil",
+        "B": "Zarar",
+        "C": "Kusur",
+        "D": "Sözleşmenin İhlali"
+      },
+      "correctAnswer": "D",
+      "explanation": "Türk Borçlar Kanunu'nda düzenlenen haksız fiil sorumluluğunun temel unsurları hukuka aykırı fiil, zarar, illiyet bağı ve kusurdur. Sözleşmenin ihlali, sözleşmeden doğan sorumluluğun (TBK m. 112 vd.) bir unsurudur, haksız fiil sorumluluğunun değil."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Anayasa'nın 125. maddesine göre idarenin her türlü eylem ve işlemlerinden doğan zararları tazmin yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "İdare sadece kusurlu eylemlerinden doğan zararlardan sorumludur.",
+        "B": "İdarenin sorumluluğu ancak yargısal denetim sonucu Anayasa Mahkemesi tarafından belirlenir.",
+        "C": "İdare, eylem ve işlemlerinden doğan zararları tazminle yükümlüdür ve bu sorumluluk genel bir ilkedir.",
+        "D": "İdarenin tazminat sorumluluğu yalnızca özel hukuk tüzel kişileri için geçerlidir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anayasa'nın 125. maddesi, 'İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır.' hükmünü taşır ve 'İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.' ifadesiyle idarenin genel ve objektif sorumluluğunu düzenler. Bu sorumluluk hem kusurlu hem de bazı durumlarda kusursuz sorumluluğu (risk sorumluluğu gibi) kapsar."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir kişinin haksız bir fiil sonucunda yaşadığı elem, keder ve üzüntünün giderilmesi amacıyla talep edilebilecek tazminat türü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Maddi Tazminat",
+        "B": "Manevi Tazminat",
+        "C": "Cezai Şart",
+        "D": "Kazanç Kaybı Tazminatı"
+      },
+      "correctAnswer": "B",
+      "explanation": "Manevi tazminat, haksız bir fiil sonucunda kişinin fiziksel ve ruhsal bütünlüğünde, şeref ve haysiyetinde, özel hayatında meydana gelen elem, keder, üzüntü gibi manevi zararların giderilmesini amaçlar. Maddi tazminat somut ekonomik kayıpları, kazanç kaybı tazminatı maddi tazminatın bir türünü ifade ederken, cezai şart sözleşmeye aykırılık halinde öngörülen bir yaptırımdır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Türk Borçlar Kanunu'na göre haksız fiilden doğan tazminat taleplerinde zamanaşımı süresi, zarar ve failin öğrenildiği tarihten itibaren ne kadardır?",
+      "options": {
+        "A": "Bir yıl",
+        "B": "İki yıl",
+        "C": "Beş yıl",
+        "D": "On yıl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk Borçlar Kanunu madde 72'ye göre, tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir inşaat firmasının sözleşmede anlaşılan tarihte konutları teslim etmemesi nedeniyle alıcının uğradığı kar kaybı hangi tür tazminat kapsamında değerlendirilir?",
+      "options": {
+        "A": "Manevi Tazminat",
+        "B": "Destekten Yoksun Kalma Tazminatı",
+        "C": "Müspet Zarar (Maddi Tazminat)",
+        "D": "Menfi Zarar (Maddi Tazminat)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sözleşmenin hiç veya gereği gibi ifa edilmemesi nedeniyle, sözleşme ifa edilmiş olsaydı elde edilecek kâr kaybı gibi zararlar 'müspet zarar' olarak adlandırılır ve maddi tazminat kapsamında talep edilir. Menfi zarar, sözleşmeye güvenilerek yapılan ve boşa giden masrafları ifade eder. Manevi tazminat kişilik haklarına saldırı, destekten yoksun kalma tazminatı ise ölüm halinde destek kaybı içindir."
+    }
+  ]
+}

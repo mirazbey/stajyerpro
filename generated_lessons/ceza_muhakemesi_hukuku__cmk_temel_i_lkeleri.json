@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "• **Ceza Muhakemesinin Tanımı ve Amacı:** Ceza muhakemesi, bir suç işlendiği şüphesiyle başlayan ve failin cezalandırılması veya masumiyetinin tespit edilmesiyle sonuçlanan, kamu gücü kullanılarak yürütülen bir dizi hukuki faaliyettir. Temel amacı, maddi gerçeği ortaya çıkarmak, suçluların cezalandırılmasını sağlamak ve masum kişileri koruyarak adaleti temin etmektir.\n• **Muhakeme Süjeleri:** Ceza muhakemesinde yer alan başlıca aktörler; Cumhuriyet Savcısı (kamu davasını açan ve yürüten), Şüpheli/Sanık (suç işlediği iddia edilen kişi), Müdafi (sanığın/şüphelinin hukuki temsilcisi), Mağdur (suçtan zarar gören kişi) ve Katılan (mağdurun veya suçtan zarar görenin davaya katılma talebi kabul edilen kişi) olarak sıralanabilir. Her süjenin kendine özgü hak ve yükümlülükleri bulunmaktadır.\n• **Ceza Muhakemesinin Temel Fonksiyonları:** Ceza muhakemesi, üç ana fonksiyonu dengelemeyi hedefler: Devletin kamu düzenini sağlama ve suçla mücadele etme ihtiyacı, kişinin temel hak ve özgürlüklerini güvence altına alma ve adil yargılanma hakkını temin etme.\n• **Soruşturma ve Kovuşturma Evreleri Arasındaki Fark:** Ceza muhakemesi iki ana evreden oluşur. **Soruşturma evresi**, suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen süreyi kapsar ve amacı maddi gerçeği araştırmak, delilleri toplamak ve kamu davası açmaya yeterli şüphenin bulunup bulunmadığını belirlemektir. **Kovuşturma evresi** ise iddianamenin kabulüyle başlar ve hükmün kesinleşmesine kadar devam eden, duruşmaların yapıldığı, delillerin tartışıldığı ve hükmün kurulduğu aşamadır.\n• **Delil Kavramı ve Hukuka Aykırı Delillerin Yasaklığı:** Delil, bir olayın ispatlanmasına veya şüphenin giderilmesine yarayan her türlü veridir. Türk Ceza Muhakemesi Hukukunda, hukuka aykırı yöntemlerle elde edilen deliller (örneğin, işkence, kötü muamele, kanunsuz arama sonucu elde edilenler) kesinlikle yargılamada kullanılamaz ve hükme esas alınamaz. Bu ilke, adil yargılanma hakkının ve hukukun üstünlüğünün bir gereğidir.\n• **Masumiyet Karinesi:** Bir kişinin suçu mahkeme kararıyla kesinleşmedikçe suçlu sayılamayacağını ifade eden evrensel bir hukuk ilkesidir. Bu ilke gereği, şüpheli veya sanık, aksini ispat yükümlülüğü olmaksızın masum kabul edilir ve suçluluğu şüpheye yer bırakmayacak şekilde ispat edilmelidir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "• **5271 Sayılı Ceza Muhakemesi Kanunu (CMK) m. 2 – Tanımlar:** Kanun, soruşturma, kovuşturma, şüpheli, sanık, müdafi, vekil gibi temel kavramların hukuki tanımlarını yaparak, muhakemenin her aşamasındaki aktörlerin statülerini ve yürütülecek işlemleri netleştirir. Bu tanımlar, uygulamanın yeknesaklığı açısından hayati öneme sahiptir.\n• **CMK m. 2/A – Adil Yargılanma İlkesi:** Türk hukukuna 2013 yılında eklenen bu madde, Avrupa İnsan Hakları Sözleşmesi'nin 6. maddesiyle güvence altına alınan adil yargılanma hakkını doğrudan CMK'ya taşımıştır. Bu ilke, yargılamanın makul sürede, bağımsız ve tarafsız mahkemelerce, aleni ve hakkaniyete uygun şekilde yapılmasını gerektirir.\n• **CMK m. 6 – Suçtan Zarar Görenin Hakları:** Mağdurun ve suçtan zarar görenin, muhakeme sürecinde bilgilendirilme, şikayette bulunma, davaya katılma, delil sunma ve temsil edilme gibi haklarını düzenler. Bu madde, mağdurun ceza muhakemesindeki konumunu güçlendirerek onun haklarını korumayı amaçlar.\n• **CMK m. 160 – Soruşturma Mecburiyeti İlkesi (Re'sen Araştırma):** Cumhuriyet savcısı, bir suçun işlendiği izlenimini veren bir hali öğrendiğinde, kamu davası açmaya yer olup olmadığına karar vermek üzere derhal maddi gerçeği araştırmakla yükümlüdür. Bu ilke, savcının hem şüphelinin lehine hem de aleyhine olan tüm delilleri toplamasını gerektirir ve 'tarafsızlık' ilkesinin bir yansımasıdır.\n• **CMK m. 170 – İddianame ve Unsurları:** Soruşturma sonunda kamu davası açılması için yeterli şüpheye ulaşıldığında Cumhuriyet savcısı tarafından hazırlanan belgedir. İddianamede, şüphelinin kimliği, isnat edilen suç, uygulanan kanun maddeleri, şüphelinin lehine ve aleyhine olan deliller ve talep gibi zorunlu unsurların bulunması gerekir. Hatalı veya eksik iddianame mahkemece iade edilebilir.\n• **Anayasa m. 36 – Hak Arama Hürriyeti ve Adil Yargılanma Hakkı:** Türkiye Cumhuriyeti Anayasası'nın bu maddesi, herkesin meşru vasıta ve yollardan faydalanarak yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahip olduğunu güvence altına alır. CMK'daki birçok hüküm, bu anayasal ilkenin somutlaştırılmasıdır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "• **Şüphelinin İlk İfadesi Alınmadan Müdafi Haklarından Haberdar Edilmemesi:** Bir kolluk birimi, gözaltına aldığı bir şüpheliye susma hakkını, müdafi isteme hakkını ve yakınlarına haber verme hakkını bildirmeden ifade almıştır. Bu durum, anayasal bir hak olan savunma hakkının ve adil yargılanma ilkesinin açıkça ihlali olup, bu şekilde alınan ifade delil olarak kullanılamaz.\n• **Hukuka Aykırı Yöntemlerle Elde Edilen Delilin Yargılamada Kullanılması:** Polis, hakim kararı olmaksızın bir şüphelinin evinde arama yapmış ve suçla ilgili delilleri bulmuştur. Bu deliller hukuka aykırı yollarla elde edildiği için mahkeme tarafından yargılamada kullanılamaz ve hükme esas alınamaz. (CMK m. 217/2).\n• **Mağdurun, Şikayet Hakkı Olmasına Rağmen Bu Hakkın Kullanılmasına Engel Olunması:** Bir cinsel taciz mağdurunun, şikayette bulunmak istemesine rağmen kolluk kuvvetleri veya savcılık tarafından caydırılması veya şikayet dilekçesinin kabul edilmemesi. Bu durum, mağdurun 'suçtan zarar görenin hakları' kapsamında yer alan şikayet hakkının ihlalidir.\n• **Gözaltı Sürelerinin Yasal Sınırları Aşılması Durumu:** Terör suçları hariç, bir şüphelinin en fazla 24 saat gözaltında tutulabilmesine rağmen, bu sürenin herhangi bir yasal gerekçe olmaksızın 48 saate çıkarılması. Bu durum, Anayasa'nın ve CMK'nın 'kişi özgürlüğü ve güvenliği hakkı'na ilişkin hükümlerinin ihlalidir ve hukuki sorumluluk doğurur.\n• **Sanığın Lehine ve Aleyhine Olan Delillerin Eşit Toplanmaması:** Cumhuriyet savcısının soruşturma evresinde sadece sanığın suçlu olduğunu gösteren delilleri toplaması, ancak sanığın masumiyetini veya suçsuzluğunu gösteren delilleri (örneğin tanık ifadeleri, alibi) araştırmaması. Bu durum, 're'sen araştırma' ilkesinin ve 'adil yargılanma hakkı'nın ihlalidir.\n• **Yabancı Dil Bilen Sanığa Tercüman Temin Edilmemesi:** Yabancı uyruklu bir sanığın, yargılama sürecinde ifade vermesi veya beyanda bulunması gerektiğinde, ana dilinde veya anladığı dilde tercüman sağlanmaması. Bu durum, savunma hakkının ve adil yargılanma hakkının temel bir gereği olan 'anlama ve anlaşılma' hakkının ihlalidir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "• **Soruşturma ve Kovuşturma Evrelerinin Fonksiyonel Farklılıklarının Karıştırılması:** Öğrencilerin ve bazen uygulayıcıların en sık yaptığı hatalardan biri, soruşturma evresindeki delil toplama ve değerlendirme kuralları ile kovuşturma evresindeki duruşma ve hüküm kurma aşamalarının birbirinden ayrımını yapmakta zorlanmalarıdır. Soruşturma 'şüphe'ye, kovuşturma ise 'kesinliğe' ulaşmayı hedefler.\n• **Hukuka Aykırı Delillerin 'Mutlak Delil' Olduğu Yanılgısı:** Bazı kişiler, suçla ilgili bir delil bulunduğunda, bu delilin nasıl elde edildiğine bakılmaksızın suçluluğu ispatladığını düşünebilir. Ancak CMK'da hukuka aykırı delillerin kullanılamayacağı açıkça belirtilmiştir. Bu durum, hukukun üstünlüğü ilkesinin bir gereğidir ve maddi gerçeğe ulaşmada dahi hukuka aykırılığa izin verilmez.\n• **İddianamenin Hukuki Niteliği ve Fonksiyonunun Gözden Kaçırılması:** İddianame, sadece bir suçlama belgesi değil, aynı zamanda kovuşturma evresinin sınırlarını çizen, sanığın neyle suçlandığını net bir şekilde ortaya koyan ve mahkemenin inceleme yetkisini belirleyen hukuki bir belgedir. İddianamedeki eksiklik veya hatalar, yargılamanın seyrini ciddi şekilde etkileyebilir.\n• **Savunma Hakkının Kısıtlanmasının Yargılama Üzerindeki Etkileri:** Savunma hakkı, adil yargılanmanın temelidir. Bu hakkın herhangi bir aşamada kısıtlanması (örneğin müdafi atanmaması, delil sunma hakkının engellenmesi), yargılamanın yenilenmesi veya bozma sebebi olabilecek mutlak hukuka aykırılık teşkil eder.\n• **Mağdur ve Şikayetçinin Hukuki Statülerinin Farklılıkları:** Her mağdur aynı zamanda şikayetçi olmayabilir ve her şikayetçi mağdur sıfatını taşımayabilir. Bu iki kavramın hukuki statüleri, hakları ve muhakeme üzerindeki etkileri farklıdır. Özellikle belirli suçlarda şikayetin dava şartı olması bu ayrımı daha da önemli kılar.\n• **CMK Uygulamasında Anayasal İlkelerle Bağlantının Kurulamaması:** CMK'nın birçok hükmü, doğrudan Anayasa'da güvence altına alınan temel hak ve özgürlüklerin (örneğin, kişi hürriyeti ve güvenliği, adil yargılanma hakkı, masumiyet karinesi) birer yansımasıdır. Uygulamada, CMK hükümlerini Anayasal ilkelerle birlikte yorumlayarak bütüncül bir yaklaşım sergilemek, doğru hukuki sonuca ulaşmada kritiktir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "• **CMK'nın Temel İlkelerini Anayasa Hukuku ve İnsan Hakları Hukuku Bağlamında Değerlendirme:** Sınavda başarılı olmak için CMK ilkelerini ezberlemek yerine, bunların Anayasa'daki yerini (özellikle Anayasa m. 36, 38) ve AİHS (özellikle AİHS m. 5, 6) ile olan bağlantısını kavramak önemlidir. Bu, yorum gücünüzü artıracaktır.\n• **Soruşturma ve Kovuşturma Evrelerine İlişkin Anahtar Kavramları ve İşlemleri Özümseme:** Her iki evrenin amaçlarını, yetkili makamlarını, temel işlemlerini (örneğin arama, el koyma, gözaltı, tutuklama, ifade alma, sorgu, iddianame, duruşma) ve bunların hukuki sınırlarını net bir şekilde öğrenin. Örnek olaylarda bu ayrımları yapabilmek önemlidir.\n• **Özellikle Delil Yasakları ve Savunma Haklarına İlişkin İçtihatları Takip Etme:** Hukuka aykırı delil yasağı (CMK m. 206, 217) ve savunma hakkının kapsamı (müdafi atanması, susma hakkı vb.) sınavlarda sıkça sorulan konulardır. Yargıtay ve Anayasa Mahkemesi'nin bu konulardaki güncel içtihatlarına göz atmak, doğru cevap verme şansınızı artırır.\n• **Örnek Olay Çözümleri Yaparak Bilgiyi Pekiştirme:** Teorik bilgiyi pratik olaylara uygulama becerisi, özellikle çoktan seçmeli sorularda başarı için elzemdir. Verilen bir senaryoda hangi ilkenin ihlal edildiğini veya hangi CMK maddesinin uygulanacağını tespit etmeye yönelik bolca pratik yapın.\n• **Sık Yapılan Hatalar Üzerinden Kavram Yanılgılarını Giderme:** Daha önceki sınavlarda veya deneme sınavlarında karşılaşılan hatalı düşünce kalıplarını veya kavram yanılgılarını belirleyerek, bu noktalara özel dikkat gösterin. Örneğin, 'tutuklama' ile 'gözaltı' arasındaki farkı veya 'şüpheli' ile 'sanık' kavramlarının ne zaman kullanıldığını iyi öğrenin.\n• **CMK'nın Geneline Hakim Olmanın Yanı Sıra, Önemli Madde Numaralarını ve İçeriklerini Bilme:** Kanunun tamamını ezberlemek yerine, adil yargılanma, savunma, delil yasakları, soruşturma, kovuşturma ve kanun yolları gibi temel konulara ilişkin kritik madde numaralarını ve özet içeriklerini bilmek, sınavda zaman kazandırır ve doğru bilgiye erişimi kolaylaştırır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "CMK'ya göre 'soruşturma' evresinin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sanığın kesin suçluluğunu mahkeme kararıyla ispatlamak.",
+        "B": "Kamu davası açmaya yeterli şüphenin bulunup bulunmadığını belirlemek ve maddi gerçeği araştırmak.",
+        "C": "Hükmün kesinleşmesi için gerekli kanun yolu başvurularını yapmak.",
+        "D": "Mahkemede duruşmaları yönetmek ve karar vermek."
+      },
+      "correctAnswer": "B",
+      "explanation": "Soruşturma evresi, suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen süreci kapsar. Bu evrenin amacı, suçun işlenip işlenmediğini, kim tarafından işlendiğini, delilleri toplayarak kamu davası açmaya yeterli şüphenin bulunup bulunmadığını belirlemek ve maddi gerçeği ortaya çıkarmaktır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Türk Ceza Muhakemesi Hukuku'nda 'hukuka aykırı delil' yasağının bir sonucu değildir?",
+      "options": {
+        "A": "Kanuna aykırı arama sonucu elde edilen delillerin hükme esas alınmaması.",
+        "B": "Şüphelinin rızası dışında işkence ile elde edilen itirafın kullanılamaması.",
+        "C": "Bir tanığın, yalan söylediği tespit edilse dahi ifadesinin yargılamada değerlendirilmesi.",
+        "D": "Hukuka aykırı dinleme sonucu elde edilen ses kayıtlarının delil olarak kabul edilmemesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK m. 217/2'ye göre, hukuka aykırı yöntemlerle elde edilen deliller yargılamada kullanılamaz. A, B ve D şıkları hukuka aykırı delil yasağının doğrudan sonuçlarıdır. Ancak bir tanığın yalan söylemesi, ifadesinin hukuka aykırı bir yöntemle elde edildiği anlamına gelmez; tanığın beyanları mahkeme tarafından serbestçe değerlendirilir ve yalancı tanıklık ayrı bir suç teşkil eder."
+    },
+    {
+      "questionNumber": 3,
+      "question": "CMK m. 160 uyarınca 'soruşturma mecburiyeti ilkesi' ne anlama gelmektedir?",
+      "options": {
+        "A": "Her suç ihbarının derhal mahkemeye sevk edilmesi gerektiği.",
+        "B": "Cumhuriyet savcısının, bir suçun işlendiği izlenimini veren bir hali öğrendiğinde hemen maddi gerçeği araştırmaya başlamakla yükümlü olduğu.",
+        "C": "Kolluğun, savcılıktan emir almaksızın tüm suçlarla ilgili re'sen dava açma yetkisine sahip olduğu.",
+        "D": "Şüphelinin avukat tutmasının zorunlu olduğu ve aksi halde soruşturmanın başlatılamayacağı."
+      },
+      "correctAnswer": "B",
+      "explanation": "CMK m. 160, Cumhuriyet savcısının bir suçun işlendiği izlenimini veren bir hali öğrendiğinde, kamu davası açmaya yer olup olmadığına karar vermek üzere hemen işin gerçeğini araştırmaya başlamakla yükümlü olduğunu belirtir. Bu, savcının re'sen (kendiliğinden) soruşturma başlatma mecburiyetidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisi, ceza muhakemesinde sanığın 'savunma hakkının ihlali'ne örnek teşkil etmez?",
+      "options": {
+        "A": "Sanığa, duruşma esnasında kendi lehine delil göstermesi için makul süre verilmesi.",
+        "B": "Şüphelinin müdafi seçme hakkı hatırlatılmadan ve müdafi isteme imkanı tanınmadan ifadesinin alınması.",
+        "C": "Suça sürüklenen çocuğa zorunlu müdafi atanmamış olması.",
+        "D": "Sanığın, kendisini savunmak için yeterli düzeyde Türkçe bilmediği halde tercüman sağlanmaması."
+      },
+      "correctAnswer": "A",
+      "explanation": "A şıkkı, sanığın savunma hakkının bir gereğidir ve bu hakkın etkin şekilde kullanılmasına olanak tanır. Diğer şıklar (B, C, D) ise savunma hakkının kısıtlanması veya ihlali anlamına gelir. Savunma hakkı, adil yargılanmanın temel unsurlarındandır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ceza Muhakemesi Hukuku'nda 'masumiyet karinesi' ilkesinin temel anlamı nedir?",
+      "options": {
+        "A": "Her şüphelinin mutlak surette masum olduğunun kabul edilmesi.",
+        "B": "Bir kişinin suçu kesinleşmiş bir mahkeme kararıyla sabit oluncaya kadar suçlu sayılamayacağı.",
+        "C": "Cumhuriyet savcısının, iddia makamı olarak sanığın masumiyetini ispatlamakla yükümlü olduğu.",
+        "D": "Mahkemelerin, dava açılmadan önce sanığın suçsuzluğuna karar vermesi gerektiği."
+      },
+      "correctAnswer": "B",
+      "explanation": "Masumiyet karinesi, Anayasa'nın 38. maddesi ve AİHS'nin 6. maddesinde güvence altına alınan evrensel bir hukuk ilkesidir. Bu ilkeye göre, bir kişinin suçu, yasalarca belirlenen usullere uygun olarak yürütülen bir yargılama sonucunda kesinleşmiş bir mahkeme kararıyla sabit oluncaya kadar masum kabul edilir. İspat yükü iddia makamına aittir."
+    }
+  ]
+}

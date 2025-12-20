@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Tebliğ Tanımı:** Vergi Usul Kanunu'na (VUK) göre tebliğ, vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların yetkili makamlar tarafından mükellefe veya ceza muhatabına yazılı olarak bildirilmesidir. Amacı, ilgili kişiyi resmi bir işlem hakkında bilgilendirmek ve kendisine tanınan hakları (itiraz, dava açma süresi vb.) kullanmasına imkan tanımaktır.\n•   **Amacı ve Önemi:** Tebliğ, vergi idaresinin işlemlerinin hukuki sonuç doğurabilmesi için zorunlu bir şekil şartıdır. Vergi borcunun kesinleşmesi, cezanın tatbiki, hak düşürücü sürelerin başlaması gibi önemli hukuki sonuçlar tebliğ ile başlar. Tebliğ edilmeyen bir işlem hukuken geçersiz sayılır.\n•   **Tebliğ Makamı:** Vergi dairesi veya vergi ile ilgili işlemleri yürütmekle görevli diğer idari birimlerdir. VUK'a göre vergi dairesi müdürü veya yetkili kıldığı memurlar tebliğ yapmaya yetkilidir.\n•   **Tebliğ Muhatabı:** Mükellef, vergi sorumlusu, vergi cezası muhatabı, bunların kanuni temsilcileri (velayet, vesayet altındakiler için) veya tüzel kişilerde kanuni temsilcileridir. Vekil aracılığıyla takip edilen işlerde vekile de tebliğ yapılabilir.\n•   **Tebliğe Konu Belgeler:** Vergi/ceza ihbarnameleri, takdir komisyonu kararları, ödeme emirleri, vergi inceleme raporları, yoklama fişleri, mühür fekki tutanakları ve VUK kapsamında hüküm ifade eden diğer tüm belgeler tebliğe tabidir.\n•   **Tebliğ Çeşitleri:** VUK'ta memur vasıtasıyla tebliğ, posta yoluyla tebliğ, ilan yoluyla tebliğ, elektronik tebligat ve özel kanunlarda belirtilen diğer tebliğ usulleri düzenlenmiştir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Vergi Usul Kanunu (VUK) Madde 93 - Tebliğin Esası:** Vergilendirme ile ilgili olup hüküm ifade eden bilumum evrak ve yazıların adresleri bilinen gerçek ve tüzel kişilere tebliğ edilmesidir. Tebliğ, vergi alacağının doğması, tahakkuku ve tahsili sürecindeki her türlü yazışma ve bildirimi kapsar.\n•   **VUK Madde 94 - Tebliğin Yapılacağı Kimseler:** Tebliğ, mükelleflere, vergi sorumlularına, ceza muhataplarına veya bunların kanuni temsilcilerine yapılır. Tüzel kişilerde, kanuni temsilcilere; tüzel kişiliğin tasfiyesi halinde ise tasfiye memurlarına yapılır. Gerçek kişilerde küçüklere ve kısıtlılara kanuni temsilcilerine tebliğ edilir.\n•   **VUK Madde 97 ve Devamı - Tebliğ Usulleri:**\n    •   **Memur Eliyle Tebliğ (Md. 97, 98):** Vergi dairesi memurları veya özel kanunlarla yetkili kılınan kişiler aracılığıyla tebliğ yapılabilir. Bu durumda tebliğ mazbatası düzenlenir.\n    •   **Posta Yoluyla Tebliğ (Md. 99, 100):** Adi veya iadeli taahhütlü posta yoluyla yapılır. İadeli taahhütlü gönderilerde tebliğ tarihi, postacı tarafından tebliğ mazbatasına yazılır. Muhatap adreste bulunmazsa, ihbarname muhtarlığa bırakılır ve kapısına şerh düşülür. Bu durumda tebliğ tarihi, ihbarnamenin muhtarlığa bırakıldığı tarihten itibaren 15 gün sonra sayılır.\n    •   **İlanen Tebliğ (Md. 103, 104):** Muhatabın adresi hiç bilinmiyorsa, bilinen adresi yanlış veya eksikse, yurtdışında bulunan ve Türkiye'de tebligat yapmaya yetkili vekili yoksa veya posta yoluyla tebliğ mümkün olmazsa, gazete veya internet sitesi aracılığıyla ilan suretiyle tebliğ yapılır. İlan tarihinden itibaren bir ay sonra tebliğ yapılmış sayılır.\n•   **VUK Madde 107/A - Elektronik Tebligat:** Gelir İdaresi Başkanlığı'nca oluşturulan sistem üzerinden elektronik ortamda yapılan tebligattır. Kanunen tebligat yapılması zorunlu olan veya isteğe bağlı olarak e-tebligat sistemine dahil olan mükellefler için geçerlidir. E-tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.\n•   **VUK Madde 109 - Tebliğin Süreleri:** Tebliğ işlemleri, kanunda belirtilen süreler içinde tamamlanmalıdır. Özellikle temyiz ve dava açma süreleri, tebliğin usulüne uygun yapıldığı tarihten itibaren başlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Adreste Bulunmama Durumu:** Ahmet Bey'e gönderilen vergi ihbarnamesi, ikametgah adresine iadeli taahhütlü posta ile gönderilmiştir. Ancak Ahmet Bey'in adreste bulunmaması nedeniyle posta görevlisi tarafından muhtara teslim edilmiş ve kapısına haber kağıdı yapıştırılmıştır. Bu durumda tebliğ, ihbarnamenin muhtara teslim edildiği tarihten itibaren 15 gün sonra yapılmış sayılır.\n•   **Örnek 2: Elektronik Tebligat:** Bir limited şirket, VUK kapsamında e-tebligat sistemine zorunlu olarak kayıtlıdır. Şirkete kesilen vergi cezası ihbarnamesi elektronik ortamda tebliğ edilmiştir. İhbarname, şirketin e-tebligat adresine 10 Ekim Pazartesi günü ulaşmıştır. Bu durumda tebligat, 10 Ekim'i izleyen beşinci günün sonunda, yani 15 Ekim Cumartesi günü (resmi tatil olsa bile) yapılmış sayılır ve yasal süreler 16 Ekim Pazar gününden itibaren işlemeye başlar.\n•   **Örnek 3: İlanen Tebliğ:** Bir gerçek kişinin bilinen tüm adres araştırmalarına rağmen tebligat yapılacak adresi tespit edilememiştir. Vergi dairesi, bu kişiye ait vergi borcunu içeren ödeme emrini Resmi Gazete veya belirlenen bir gazetede ilan yoluyla tebliğ etmiştir. İlanın yapıldığı tarihten itibaren bir ay sonra tebligat yapılmış sayılır.\n•   **Örnek 4: Tüzel Kişiye Tebliğ:** Bir anonim şirkete kesilen vergi cezası, şirketin kanuni temsilcisi olan Yönetim Kurulu Başkanı'na tebliğ edilmek istenmiştir. Ancak Başkan, tebliğ anında ofisinde bulunmamaktadır. Bu durumda, VUK gereği şirketin büro memurlarından veya sürekli görevli çalışanlarından birine tebliğ yapılabilir ve durum tebliğ mazbatasında belirtilir.\n•   **Örnek 5: Mirasçılara Tebliğ:** Vefat eden bir mükellefe ait vergi borcu, mirasçılarına tebliğ edilecektir. Mirasçıların birden fazla olması durumunda, her bir mirasçıya ayrı ayrı tebligat yapılması esastır. Eğer mirasçılar arasında ortak bir temsilci tayin edilmişse, tebligat bu temsilciye yapılabilir.\n•   **Örnek 6: Vekil Aracılığıyla Tebliğ:** Bir mükellef, avukatını vekil tayin ederek vergi uyuşmazlığına ilişkin işlemlerini yürütmektedir. Vergi dairesi, bu uyuşmazlıkla ilgili bir kararı mükellefin vekili olan avukatına tebliğ edebilir. Bu durumda tebligat, avukata yapıldığı tarihte hukuken geçerlilik kazanır ve süreler başlar."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Tebliğin Geçerliliği ve Şekil Şartları:** Tebliğin usulüne uygun yapılması hayati önem taşır. Tebligat kanununda belirtilen şekil şartlarına uyulmaması, tebliğin geçersizliğine ve dolayısıyla vergi idaresi işleminin hukuki sonuç doğurmamasına neden olabilir. Örneğin, tebliğ mazbatasında eksik bilgi olması veya yanlış kişiye tebliğ yapılması tebliği sakatlar.\n•   **Adres Beyanının Önemi:** Mükelleflerin doğru ve güncel adres beyan etme yükümlülüğü vardır. Adres değişikliğini bildirmeyen mükelleflere eski adreslerine yapılan tebligatlar dahi geçerli kabul edilebilir (VUK md. 102). Bu durum, mükelleflerin hak kaybına uğramaması için dikkat edilmesi gereken önemli bir noktadır.\n•   **Elektronik Tebligatın Geri Dönüşsüzlüğü:** E-tebligat sistemine dahil olan mükellefler için fiziki tebligat usulü ortadan kalkar. E-tebligat, sisteme düşüldüğü tarihi izleyen beşinci günün sonunda yapılmış sayıldığından, mükelleflerin e-tebligat adreslerini düzenli kontrol etmeleri büyük önem taşır. Aksi halde, tebligattan haberdar olunmasa bile yasal süreler işlemeye başlar.\n•   **Tebliğ Mazbatasının İspat Gücü:** Tebliğ mazbatası (veya e-tebligat sistem kayıtları), tebligatın yapıldığına dair en önemli yazılı delildir. Üzerinde tebliğ tarihi, tebliğ alanın adı soyadı/unvanı, imzası, tebligatın içeriği ve tebliğ yapan memurun bilgileri gibi hususlar eksiksiz bulunmalıdır. Hatalı veya eksik mazbata, tebligatın ispatını zorlaştırır.\n•   **Tebliğin Sonuçları ve Sürelerin Başlaması:** Tebliğ, itiraz, dava açma, ödeme gibi yasal sürelerin başlangıç tarihini belirler. Süreler genellikle tebliğ tarihini izleyen günden itibaren başlar. Bu süreler çoğu zaman hak düşürücü nitelikte olduğundan, tebliğ tarihinin doğru tespiti ve sürelerin hesaplanması kritik öneme sahiptir.\n•   **Vekil veya Kanuni Temsilciye Tebliğ:** Mükellefin kanuni temsilcisi veya vekili varken tebligatın doğrudan mükellefe yapılması bazı durumlarda geçersiz sayılabilirken, bazı durumlarda da geçerli olabilir. Özellikle vekil aracılığıyla yürütülen işlerde, tebligatın vekile yapılması gerekir. Ancak vergi cezalarında ceza muhatabına tebliğ asıldır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Tebliğin Tanımı ve Hukuki Niteliği:** Tebliğin ne anlama geldiğini, vergi hukukundaki yerini ve hukuki sonuçlarını (sürelerin başlaması, kesinleşme vb.) iyi kavrayın. Özellikle VUK'un 93. maddesi temel tanımdır.\n•   **Tebliğ Usulleri ve Şartları:** Memur eliyle, posta yoluyla (iadeli taahhütlü, muhtara bırakma), ilanen ve elektronik tebligatın hangi durumlarda ve nasıl yapıldığını, bu usullerin her birinin kendine özgü şartlarını ve tebliğ tarihlerinin nasıl hesaplandığını (15 gün, 1 ay, 5 gün kuralı) detaylıca öğrenin.\n•   **Elektronik Tebligat (E-Tebligat):** VUK Madde 107/A'yı ve ilgili tebliğleri çok iyi anlayın. Kimlerin zorunlu olduğunu, isteğe bağlı girişi, e-tebligatın ne zaman yapılmış sayıldığını ve hukuki sonuçlarını bilmek önemlidir. Günümüz uygulamalarında en sık karşılaşılan tebligat yöntemidir.\n•   **Tebliğ Muhatapları:** Tebligatın kimlere yapılabileceğini (mükellef, sorumlu, kanuni temsilci, vekil, mirasçı, tüzel kişideki temsilci vb.) ve her bir durumdaki özel kuralları (örneğin adreste bulunmayanlara, küçük ve kısıtlılara) iyi bilin.\n•   **Tebliğin Hukuki Sonuçları ve Geçersizlik Halleri:** Usulüne uygun yapılmayan bir tebligatın hukuken hangi sonuçları doğurduğunu (işlemin kesinleşmemesi, sürelerin başlamaması) ve tebliğin hangi hallerde geçersiz sayılabileceğini öğrenin. Yargı kararlarında tebliğin geçerliliği konusundaki içtihatlara da dikkat edin.\n•   **Sürelerin Hesaplanması:** Tebligat sonrası başlayan dava açma, itiraz veya ödeme sürelerinin başlangıç tarihini ve bu sürelerin nasıl hesaplandığını (tebliğ tarihini izleyen gün, iş günü, tatil günleri) pratik örneklerle pekiştirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Vergi Usul Kanunu'na (VUK) göre tebliğin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Mükellefin vergi beyannamesini kontrol etmek.",
+        "B": "Vergi borçlarının banka aracılığıyla tahsil edilmesini sağlamak.",
+        "C": "Vergilendirmeyi ilgilendiren hususları yetkili makamlarca yazılı olarak bildirmek ve hukuki sonuç doğurmasını sağlamak.",
+        "D": "Vergi dairesi çalışanlarının performansını ölçmek."
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK'a göre tebliğ, vergilendirmeyi ilgilendiren ve hüküm ifade eden bilumum evrak ve yazıların mükellefe veya ceza muhatabına yazılı olarak bildirilmesidir. Bu bildirim, işlemin hukuki sonuç doğurması ve yasal sürelerin başlaması için esastır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Vergi Usul Kanunu'nda düzenlenen tebliğ usullerinden biri DEĞİLDİR?",
+      "options": {
+        "A": "Memur eliyle tebliğ",
+        "B": "Faks yoluyla tebliğ",
+        "C": "Posta yoluyla tebliğ",
+        "D": "Elektronik tebligat"
+      },
+      "correctAnswer": "B",
+      "explanation": "VUK'ta memur eliyle, posta yoluyla (iadeli taahhütlü), ilan yoluyla ve elektronik tebligat usulleri düzenlenmiştir. Faks yoluyla tebliğ VUK kapsamında genel bir tebliğ usulü olarak kabul edilmemektedir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "VUK Madde 107/A'ya göre elektronik ortamda yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen kaçıncı günün sonunda yapılmış sayılır?",
+      "options": {
+        "A": "İkinci günün sonunda",
+        "B": "Üçüncü günün sonunda",
+        "C": "Beşinci günün sonunda",
+        "D": "Onuncu günün sonunda"
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK Madde 107/A açıkça belirtmektedir ki, elektronik tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Gerçek kişiye gönderilen iadeli taahhütlü bir vergi ihbarnamesinin, muhatabın adreste bulunmaması nedeniyle muhtara teslim edildiği ve kapısına haber kağıdı yapıştırıldığı durumda tebligat ne zaman yapılmış sayılır?",
+      "options": {
+        "A": "İhbarname muhtara teslim edildiği gün.",
+        "B": "İhbarname muhtara teslim edildiği tarihi izleyen 7 gün sonra.",
+        "C": "İhbarname muhtara teslim edildiği tarihi izleyen 15 gün sonra.",
+        "D": "Muhatabın ihbarnameyi muhtarlıktan aldığı gün."
+      },
+      "correctAnswer": "C",
+      "explanation": "VUK hükümlerine göre, muhatap adreste bulunmadığında ihbarnamenin muhtara bırakılması ve kapısına haber kağıdı yapıştırılması durumunda tebligat, ihbarnamenin muhtara teslim edildiği tarihi izleyen 15 gün sonra yapılmış sayılır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir anonim şirkete kesilen vergi cezası ihbarnamesinin tebliği ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "Tebligat, şirketin kanuni temsilcisi olan Yönetim Kurulu Başkanı'na yapılmalıdır.",
+        "B": "Yönetim Kurulu Başkanı adreste bulunmuyorsa, şirketin büro memurlarından birine tebliğ yapılabilir.",
+        "C": "Şirket e-tebligat sistemine kayıtlı ise, tebligat öncelikle elektronik ortamda yapılmalıdır.",
+        "D": "Tebligat, şirketin herhangi bir çalışanına, görevi ne olursa olsun yapılabilir."
+      },
+      "correctAnswer": "D",
+      "explanation": "Tüzel kişilere yapılan tebligatta, kanuni temsilcilere veya bunların adreste bulunmaması halinde şirketin iş yerinde bulunan ve sürekli görev yapan müdür, sekreter, memur gibi çalışanlara yapılabilir. Ancak 'herhangi bir çalışanına, görevi ne olursa olsun' ifadesi yanlıştır, tebligatın yapıldığı kişinin yetkinliği ve görevi önem taşır. VUK Md. 99/2'ye göre, tüzel kişi adresi açık adresine yapılan tebligatta, ilgili adreste tüzel kişi adına tebligatı almaya yetkili bir kişi bulunmazsa, orada çalışanlardan birine yapılabilir; ancak bu kişinin yetkisiz veya vasıfsız olması tebligatı geçersiz kılabilir. 'Görevli kimseler' ifadesi burada önemlidir. Cevap D seçeneğidir çünkü şirket içindeki herkes tebligat almaya yetkili değildir, belirli görevdeki kişilere yapılabilir."
+    }
+  ]
+}

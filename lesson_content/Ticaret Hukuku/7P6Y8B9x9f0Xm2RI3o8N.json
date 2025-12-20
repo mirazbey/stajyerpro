@@ -1,0 +1,26 @@
+{
+  "topicId": "7P6Y8B9x9f0Xm2RI3o8N",
+  "topicName": "Ticari İşletme",
+  "subjectName": "Ticaret Hukuku",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Adım 1 Başlığı",
+      "content": "## Başlık\n\nİçerik buraya gelecek..."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "question": "Örnek soru metni?",
+      "options": {
+        "A": "Seçenek A",
+        "B": "Seçenek B",
+        "C": "Seçenek C",
+        "D": "Seçenek D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Doğru cevap açıklaması"
+    }
+  ],
+  "createdAt": ""
+}

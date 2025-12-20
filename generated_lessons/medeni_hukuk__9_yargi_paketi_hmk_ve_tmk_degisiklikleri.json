@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **9. Yargı Paketi:** Türkiye'de yargı sisteminin işleyişini hızlandırmak, etkinliğini artırmak ve adalete erişimi kolaylaştırmak amacıyla çeşitli kanunlarda yapılan veya yapılması planlanan değişiklikleri içeren genel bir yasal düzenlemeler bütünüdür. Bu paketler genellikle Hukuk Muhakemeleri Kanunu (HMK) ve Türk Medeni Kanunu (TMK) gibi temel kanunlarda önemli değişiklikler içerir.\n•   **Hukuk Muhakemeleri Kanunu (HMK):** Özel hukuk ilişkilerinden doğan uyuşmazlıkların mahkemeler önünde nasıl çözüleceğini düzenleyen, yargılama usulünü belirleyen kanundur. Yargı paketleri genellikle HMK'da usul ekonomisi, hızlandırma ve basitleştirme odaklı değişiklikler yapar.\n•   **Türk Medeni Kanunu (TMK):** Kişilerin doğumundan ölümüne kadar olan süreçteki hukuki durumlarını (kişi hukuku), aile ilişkilerini (aile hukuku), miras ve eşya hukukunu düzenleyen temel kanundur. Yargı paketlerindeki değişiklikler, TMK'nın uygulanmasına yönelik usul kurallarını veya belirli maddelerin yorumunu dolaylı yoldan etkileyebilir.\n•   **Usul Ekonomisi:** Yargılamanın mümkün olan en kısa sürede, en az masrafla ve en verimli şekilde sonuçlandırılmasını ifade eden ilkedir. Yargı paketlerindeki HMK değişikliklerinin temel amaçlarından biridir.\n•   **Kesin Süre:** Yargılama sırasında mahkemece veya kanunla belirlenen, uzatılamayan ve uyulmaması halinde belirli hukuki sonuçları (hak kaybı gibi) doğuran sürelerdir. Yeni düzenlemelerle kesin sürelerin uygulanma alanları ve sonuçları daha belirgin hale gelmiştir.\n•   **İstinaf ve Temyiz Kanun Yolları:** Mahkeme kararlarının bir üst mahkeme tarafından denetlenmesini sağlayan kanun yollarıdır. İstinaf bölge adliye mahkemelerince, temyiz ise Yargıtay tarafından incelenir. Yargı paketleri bu kanun yollarına başvuru süreleri ve şartlarında değişiklikler içerebilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve (HMK ve TMK Değişiklikleri)",
+      "content": "•   **HMK m. 119/2 ve 129/2 (Dava/Cevap Dilekçesindeki Eksikliklerin Giderilmesi):** 7251 sayılı Kanun ile yapılan değişikliklerle, dava dilekçesi (m. 119/2) ve cevap dilekçesi (m. 129/2) içeriğinde eksiklik bulunması halinde, hâkimin eksikliğin giderilmesi için iki haftalık kesin süre vermesi ve bu süre içinde eksikliğin giderilmemesi halinde davanın açılmamış sayılması veya cevap dilekçesinin verilmemiş sayılması esası getirilmiştir. Bu, yargılamanın başında usuli eksikliklerin giderilmesini hızlandırmayı amaçlar.\n•   **HMK m. 341 ve m. 362 (İstinaf ve Temyiz Süreleri):** Yine 7251 sayılı Kanun ile istinaf (m. 341) ve temyiz (m. 362) kanun yollarına başvuru süreleri iki hafta olarak netleştirilmiştir. Kararın tebliğinden itibaren başlayan bu süreler, 'süre tutum' dilekçesi uygulamasını ortadan kaldırmıştır. Bu düzenleme, kanun yolları sürecini sadeleştirmeyi ve hızlandırmayı hedeflemektedir.\n•   **HMK m. 316 ve m. 320 (Basit Yargılama Usulünün Kapsamının Genişletilmesi):** 7251 sayılı Kanun ile basit yargılama usulünün uygulama alanı genişletilmiş, bazı dava türleri (örneğin, kira ilişkisinden doğan davalar, ortaklığın giderilmesi davaları vb.) bu usule tabi kılınmıştır. Bu sayede, daha az karmaşık davaların daha hızlı ve basit bir süreçle çözümlenmesi amaçlanmıştır.\n•   **HMK m. 149/A (E-Duruşma İmkanı):** Pandemi dönemiyle yaygınlaşan ve 7251 sayılı Kanun ile yasal zemine oturtulan e-duruşma uygulaması, avukatların talebi üzerine veya re'sen mahkemece uygun görülmesi halinde, bulundukları yerden SEGBİS (Ses ve Görüntü Bilişim Sistemi) aracılığıyla duruşmaya katılabilmelerini sağlar. Bu, yargılamaya erişimi kolaylaştırır ve usul ekonomisine katkıda bulunur.\n•   **TMK m. 175-176 (Nafaka Düzenlemelerinin HMK Bağlamında Yorumu ve Uygulaması):** 9. Yargı Paketi doğrudan TMK nafaka maddelerinde köklü bir değişiklik yapmasa da, HMK'daki usul değişiklikleri nafaka davalarının (yoksulluk, iştirak nafakası) yargılama süreçlerini dolaylı olarak etkilemektedir. Özellikle basit yargılama usulünün uygulanabileceği haller ve kesin süreler, bu davaların daha hızlı sonuçlanmasına zemin hazırlayabilir. Ayrıca, Yargıtay'ın süresiz nafaka konusundaki içtihatları ve buna ilişkin kamuoyu tartışmaları da Medeni Hukuk'un bu alanındaki uygulamayı şekillendirmektedir.\n•   **TMK m. 202 vd. (Mal Rejimleri) ve TMK m. 336 vd. (Velayet):** Medeni Hukuk'un bu alanlarındaki uyuşmazlıklar (mal rejimi tasfiyesi, velayet veya kişisel ilişki kurulması davaları), HMK'daki bilirkişilik müessesesi, delil toplama ve yargılama süreleri gibi usul değişikliklerinden doğrudan etkilenir. Örneğin, mal rejimi davalarındaki değer tespiti için bilirkişi raporlarının hazırlanma süresi ve niteliği, yeni HMK düzenlemeleriyle daha disiplinli bir yapıya kavuşmuştur."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Dava Dilekçesi Eksikliği):** Bir avukat, Medeni Hukuk'tan doğan bir alacak davası açarken dava dilekçesinde davacı adresini eksik bırakır. Mahkeme, HMK m. 119/2 uyarınca avukata iki haftalık kesin süre verir. Bu süre içinde adres eksikliği giderilmezse, dava açılmamış sayılır ve davacının hakları kaybolur.\n•   **Örnek 2 (İstinaf Başvurusu):** Boşanma davasında yerel mahkemenin verdiği kararın taraflardan birine tebliğ edilmesinin ardından, bu taraf karara itiraz etmek ister. 7251 sayılı Kanun değişiklikleriyle, kararın tebliğinden itibaren iki hafta içinde istinaf dilekçesini sunmalıdır. Eskiden uygulanan 'süre tutum' dilekçesi artık geçerli değildir, bu nedenle doğrudan gerekçeli istinaf dilekçesi sunulmalıdır.\n•   **Örnek 3 (E-Duruşma Kullanımı):** Başka bir şehirde ikamet eden bir avukatın takip ettiği, basit yargılama usulüne tabi bir nafaka artırım davası bulunmaktadır. Avukat, duruşmaya fiziken katılmak yerine, HMK m. 149/A kapsamında mahkemeden e-duruşma talep edebilir. Mahkeme uygun gördüğü takdirde, avukat ofisinden SEGBİS aracılığıyla duruşmaya katılır ve usul ekonomisine katkı sağlanır.\n•   **Örnek 4 (Basit Yargılama Usulü):** Kiracının tahliyesi istemiyle açılan bir dava, 7251 sayılı Kanun ile basit yargılama usulüne tabi hale getirilmiştir. Bu durumda, dava ve cevap dilekçeleri verildikten sonra mahkeme genellikle tek celsede duruşma yapar veya duruşmasız inceleme yoluna giderek daha hızlı bir şekilde karar verir.\n•   **Örnek 5 (Bilirkişilik Müessesesi):** Mal rejimi tasfiyesi davasında, eşlerden birinin edinilmiş mallara katkı payının hesaplanması için bilirkişi raporu alınması gerekir. HMK'daki yeni düzenlemeler, bilirkişinin atanması, raporun sunulma süresi ve tarafların rapora itiraz süreçlerini daha belirli hale getirerek, sürecin daha şeffaf ve hızlı ilerlemesini sağlar.\n•   **Örnek 6 (Velayet Davasında Çocukla İletişim):** Boşanma sonrası velayet davasında çocuk dinlenmesi gereken bir durum ortaya çıktığında, HMK'daki duruşma yönetimine ve usul ekonomisine ilişkin ilkeler, çocuğun üstün yararı gözetilerek ve travma yaşamayacağı bir ortamda, mümkün olan en kısa sürede dinlenmesini sağlamaya yöneliktir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Kesin Sürelere Uygunluk:** Özellikle HMK m. 119/2 ve 129/2'deki iki haftalık kesin süreler ve istinaf/temyiz süreleri hayati öneme sahiptir. Bu sürelere riayet etmemek, hak kaybına veya davanın reddedilmesine neden olabilir. Zamanında ve eksiksiz işlem yapmak çok kritiktir.\n•   **'Süre Tutum' Dilekçesinin Kalkması:** Kanun yollarına başvuru sürelerinin netleşmesiyle 'süre tutum' dilekçesi kurumu ortadan kalkmıştır. Artık doğrudan gerekçeli istinaf veya temyiz dilekçesi hazırlanmalı ve süresi içinde sunulmalıdır. Bu değişikliğin göz ardı edilmesi, kanun yoluna başvuru hakkının kaybedilmesine yol açar.\n•   **Basit Yargılama Usulünün Uygulanma Alanı:** Hangi davaların basit yargılama usulüne tabi olduğunu doğru tespit etmek önemlidir. Farklı usul kurallarına tabi olan davalarda yanlış usul uygulamak, yargılamanın uzamasına veya usul hatalarına neden olabilir. Dava türüne göre usul seçimi iyi yapılmalıdır.\n•   **E-Duruşma ve Teknolojik Yeterlilik:** E-duruşma imkanının kullanılması, avukatların teknik altyapı yeterliliğine ve internet bağlantısına sahip olmasını gerektirir. Teknik aksaklıklar duruşmanın aksamasına veya katılımın sağlanamamasına yol açabilir. Bu nedenle teknik hazırlık önemlidir.\n•   **TMK ve HMK Arasındaki Etkileşim:** Yargı paketleri genellikle usul hukukunda değişiklikler yapsa da, Medeni Hukuk hükümlerinin uygulanma biçimini, delil toplama sürecini ve yargılamanın hızını doğrudan etkiler. Bu nedenle Medeni Hukuk uyuşmazlıklarında HMK değişikliklerinin iyi anlaşılması ve uygulanması gerekir.\n•   **Yargıtay İçtihatlarının Takibi:** Özellikle nafaka gibi konularda Yargıtay'ın güncel içtihatları, kanun maddelerinde doğrudan değişiklik olmasa bile, uygulamanın yönünü belirleyici niteliktedir. Medeni Hukuk alanındaki yeni Yargıtay kararlarının düzenli takibi, sınav ve pratik açısından önem arz eder."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kavramsal Temeli Sağlamlaştırın:** 9. Yargı Paketi'nin temel amacı olan 'usul ekonomisi', 'hızlandırma' ve 'basitleştirme' ilkelerini iyi anlayın. HMK ve TMK'nın Medeni Hukuk davalarındaki rolünü kavrayın.\n•   **Önemli HMK Maddelerini Ezberleyin/Anlayın:** Özellikle dava/cevap dilekçesindeki eksikliklerin giderilmesi (m. 119/2, 129/2), istinaf/temyiz süreleri (m. 341, 362) ve basit yargılama usulü (m. 316, 320) gibi kritik maddelerdeki değişiklikleri madde numaralarıyla birlikte öğrenin.\n•   **'Süre Tutum'un Kalktığını Unutmayın:** En sık yapılan hatalardan biri, 'süre tutum' dilekçesinin hala geçerli olduğunu düşünmektir. Bu değişikliği ve kanun yollarına başvuru sürelerinin başlangıcını (kararın tebliği) kesinlikle aklınızda tutun.\n•   **HMK Değişikliklerinin TMK Davalarına Etkisini Kavrayın:** Doğrudan TMK'da değişiklik olmasa bile, HMK'daki usul değişikliklerinin nafaka, velayet, mal rejimi gibi Medeni Hukuk davalarının yargılama süreçlerini nasıl etkilediğini örneklerle öğrenin.\n•   **Uygulama Örnekleri Üzerinden Çalışın:** Verilen pratik örnekler üzerinden veya kendi oluşturduğunuz senaryolarla HMK ve TMK değişikliklerinin gerçek hayattaki yansımalarını analiz edin. Bu, bilgiyi kalıcı hale getirmenizi sağlar.\n•   **Deneme Sınavları ve Çıkmış Soruları Çözün:** Konuya ilişkin deneme soruları ve varsa çıkmış sınav sorularını çözerek bilginizi pekiştirin ve eksiklerinizi tespit edin. Özellikle çoktan seçmeli sorularda yanlış şıkların neden yanlış olduğunu analiz edin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "9. Yargı Paketi kapsamında HMK'da yapılan değişikliklerden biri olan dava dilekçesindeki eksikliklerin giderilmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Hâkim, dava dilekçesindeki eksikliği tespit ettiğinde derhal davayı reddeder.",
+        "B": "Hâkim, eksikliğin giderilmesi için dava açıldıktan sonra sınırsız süre verebilir.",
+        "C": "Hâkim, eksikliğin giderilmesi için iki haftalık kesin süre verir; bu süre içinde giderilmezse dava açılmamış sayılır.",
+        "D": "Dava dilekçesindeki eksiklikler yargılamanın her aşamasında giderilebilir.",
+        "E": "Dava dilekçesindeki eksikliklerin giderilmesi tamamen tarafların inisiyatifindedir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 119/2 uyarınca, dava dilekçesindeki eksikliklerin hâkim tarafından belirlenecek iki haftalık kesin süre içinde giderilmemesi halinde davanın açılmamış sayılacağı düzenlenmiştir. Bu düzenleme, yargılamanın başında usuli eksikliklerin hızla giderilmesini amaçlar."
+    },
+    {
+      "questionNumber": 2,
+      "question": "7251 sayılı Kanun ile HMK'da yapılan kanun yolu başvuru sürelerine ilişkin değişikliklerden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İstinaf ve temyiz başvuru süreleri üç haftaya çıkarılmıştır.",
+        "B": "İstinaf ve temyiz başvuru süreleri kararın tebliğinden itibaren iki hafta olarak belirlenmiştir.",
+        "C": "Süre tutum dilekçesi uygulaması devam etmektedir ancak süresi bir haftaya indirilmiştir.",
+        "D": "Kanun yollarına başvuru süreleri duruşma zaptının yazılmasından itibaren başlar.",
+        "E": "Temyiz süresi bir ay olarak sabitlenmiştir, istinaf ise iki haftadır."
+      },
+      "correctAnswer": "B",
+      "explanation": "7251 sayılı Kanun ile HMK m. 341 ve m. 362'de yapılan değişikliklerle istinaf ve temyiz kanun yollarına başvuru süreleri, kararın tebliğinden itibaren iki hafta olarak netleştirilmiştir. Bu değişiklikle birlikte 'süre tutum' dilekçesi uygulaması da kaldırılmıştır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi 9. Yargı Paketi'nin HMK'daki değişikliklerinin temel amaçlarından biri değildir?",
+      "options": {
+        "A": "Yargılamayı hızlandırmak.",
+        "B": "Usul ekonomisini sağlamak.",
+        "C": "Avukatların çalışma koşullarını tamamen değiştirmek.",
+        "D": "Adalete erişimi kolaylaştırmak.",
+        "E": "Yargılama süreçlerini sadeleştirmek."
+      },
+      "correctAnswer": "C",
+      "explanation": "9. Yargı Paketi ve benzeri reformların temel amaçları yargılamayı hızlandırmak, usul ekonomisini sağlamak, adalete erişimi kolaylaştırmak ve süreçleri sadeleştirmektir. Avukatların çalışma koşullarında değişiklikler olsa da bu, paketin doğrudan temel amacı değildir; daha çok yargılamanın genel etkinliğini artırmanın bir sonucudur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Yeni HMK düzenlemeleri kapsamında bir avukatın, takip ettiği bir davada uzakta olması nedeniyle duruşmaya fiziksel olarak katılamaması durumunda başvurabileceği imkan aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Davayı erteleyerek daha uygun bir zamanda gelmesini talep edebilir.",
+        "B": "Davayı vekalet verdiği başka bir avukata devretmek zorundadır.",
+        "C": "Mahkemeden HMK m. 149/A kapsamında e-duruşma talep edebilir.",
+        "D": "Duruşmaya katılmaması durumunda dava düşer.",
+        "E": "Mahkeme, avukatın mazeretini kabul ederek duruşmayı süresiz erteler."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 149/A ile getirilen e-duruşma imkanı sayesinde, avukatlar teknik altyapısı uygun olmak kaydıyla bulundukları yerden SEGBİS aracılığıyla duruşmalara katılabilirler. Bu, özellikle farklı şehirlerdeki duruşmalar için büyük kolaylık sağlar."
+    },
+    {
+      "questionNumber": 5,
+      "question": "9. Yargı Paketi doğrudan TMK'da büyük çaplı bir değişiklik yapmasa da, HMK'daki usul değişiklikleri Medeni Hukuk'un hangi alanındaki davaların yargılama süreçlerini dolaylı olarak etkilemektedir?",
+      "options": {
+        "A": "Sadece Miras Hukuku davalarını.",
+        "B": "Sadece Eşya Hukuku davalarını.",
+        "C": "Nafaka, velayet ve mal rejimlerinin tasfiyesi gibi Aile Hukuku ile ilgili davaları.",
+        "D": "Yalnızca Ticaret Hukuku ile ilgili davaları.",
+        "E": "Ceza Muhakemesi Hukuku davalarını."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK'daki usul değişiklikleri, özellikle nafaka, velayet ve mal rejimlerinin tasfiyesi gibi Aile Hukuku'ndan kaynaklanan davaların yargılama sürelerini, delil toplama yöntemlerini ve genel işleyişini dolaylı olarak etkilemektedir. Usul ekonomisi ve hızlandırma ilkeleri bu tür davaların daha etkin çözülmesine yardımcı olur."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İstinaf Kanun Yolu:** İlk derece mahkemeleri tarafından verilen nihai kararlara karşı başvurulan, hem maddi vakıa denetimi hem de hukuki denetim sağlayan bir olağan kanun yoludur. Amacı, ilk derece mahkemesi kararının doğru ve adil olup olmadığını kapsamlı bir şekilde incelemektir.\n•   **Bölge Adliye Mahkemeleri (BAM):** İstinaf incelemesini yapmakla görevli, illerde bulunan üst derece mahkemeleridir. İlk derece mahkemesi kararlarını hukuki ve gerektiğinde maddi vakıa yönünden denetlerler.\n•   **Maddi Vakıa Denetimi:** İstinaf mahkemesinin, ilk derece mahkemesince yapılan delil değerlendirmesinin, tespit edilen olayların ve bunlara bağlanan sonuçların yerindeliğini kontrol etmesidir. Bu yönüyle temyiz denetiminden ayrılır.\n•   **Hukuki Denetim:** İlk derece mahkemesinin maddi vakıalara uyguladığı hukuk kurallarının doğru olup olmadığını, yani hukukun doğru yorumlanıp uygulanmadığını incelemesidir.\n•   **Usul Ekonomisi İlkesi:** Yargılamanın olabildiğince hızlı, az masraflı ve basit bir şekilde sonuçlandırılması amacını taşıyan ilkedir. İstinaf mahkemesi, bu ilke gereği, mümkün olduğunca dosyayı geri göndermeyerek kendisi esas hakkında karar verme eğilimindedir.\n•   **Davanın Yeniden Görülmesi:** İstinaf mahkemesi, ilk derece mahkemesinin kararını kaldırarak davanın yeniden görülmesine karar verebilir. Bu, ya dosyanın ilk derece mahkemesine geri gönderilmesi ya da istinaf mahkemesinin kendisinin esas hakkında karar vermesi şeklinde gerçekleşir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Hukuk Muhakemeleri Kanunu (HMK):** İstinaf kanun yolu ve bu aşamada verilecek kararların temel yasal çerçevesi Hukuk Muhakemeleri Kanunu'nun (HMK) 341. ve devamı maddelerinde düzenlenmiştir. Özellikle HMK m. 353, istinaf incelemesi sonucunda verilebilecek karar türlerini ayrıntılı olarak belirtir.\n•   **HMK m. 353 – İstinaf İncelemesinin Sonuçları:** Bu madde, Bölge Adliye Mahkemesinin istinaf başvurusunu inceledikten sonra verebileceği kararları iki ana başlık altında toplar: Usulden Verilen Kararlar (HMK m. 353/1-a) ve Esastan Verilen Kararlar (HMK m. 353/1-b).\n•   **Usulden Ret Kararları (HMK m. 353/1-a):** İstinaf mahkemesi, istinaf başvurusunun kanun tarafından belirlenen şartları taşımadığını tespit ettiğinde başvuruyu incelenmeksizin usulden reddeder (örneğin, süre aşımı, vekaletname eksikliği gibi hallerde).\n•   **Kaldırma ve Dosyayı Geri Gönderme Kararları (HMK m. 353/1-a.1-4):** İstinaf mahkemesi, ilk derece mahkemesi kararında görevsizlik, yetkisizlik, dava şartı eksikliği gibi kamu düzenine ilişkin önemli usul hataları veya davanın yeniden görülmesini gerektiren ağır usul eksiklikleri tespit ettiğinde (örneğin, savunma hakkının kısıtlanması) kararı kaldırır ve dosyayı ilgili mahkemeye veya ilk derece mahkemesine geri gönderir.\n•   **Esastan Ret Kararları (HMK m. 353/1-b.1):** İlk derece mahkemesi kararının usul ve esasa uygun bulunması, yani hukuka aykırı herhangi bir yönünün olmaması durumunda istinaf mahkemesi, istinaf başvurusunu esastan reddederek ilk derece mahkemesi kararını onar.\n•   **Düzeltilerek Esastan Ret (Onama) Kararları (HMK m. 353/1-b.2):** İstinaf mahkemesi, ilk derece mahkemesi kararında esas yönünden düzeltilebilecek nitelikte maddi bir hata (örneğin, hesap hatası, faiz başlangıç tarihi hatası, yazım hatası) tespit ettiğinde, bu hatayı düzelterek kararı onar (esastan reddeder).\n•   **Kaldırma ve Yeniden Esas Hakkında Karar Verme Kararları (HMK m. 353/1-b.3):** İstinaf mahkemesi, ilk derece mahkemesinin kararını maddi vakıaların hatalı tespiti veya hukukun yanlış uygulanması nedeniyle kaldırdığında ve davanın yeniden görülmesi için duruşma açılmasına gerek kalmadığında, yani eksikliklerin giderilmesi için duruşma açılmasına veya delil toplanmasına lüzum bulunmadığında, kendisi esas hakkında yeni bir karar verir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Esastan Ret Kararı:** Bir taşınmazın tapu iptali ve tescili davasında, ilk derece mahkemesi yapılan keşif ve bilirkişi incelemesi sonucunda davanın reddine karar vermiştir. İstinaf başvurusu üzerine Bölge Adliye Mahkemesi, ilk derece mahkemesinin delil değerlendirmesinde ve uyguladığı hukuk kurallarında herhangi bir isabetsizlik görmemiş ve başvuruyu esastan reddederek kararı onamıştır.\n•   **Örnek 2: Düzeltilerek Esastan Ret Kararı:** Bir maddi ve manevi tazminat davasında, ilk derece mahkemesi kararında hükmedilen faizin başlangıç tarihini sehven yanlış belirlemiştir. İstinaf mahkemesi, bu yazım hatasını düzelterek (faiz başlangıç tarihini doğru tarihe çekerek) ilk derece mahkemesi kararını onamıştır.\n•   **Örnek 3: Kaldırma ve Dosyayı Geri Gönderme (Usulden) Kararı:** Bir alacak davasında, ilk derece mahkemesi davalıya usulüne uygun tebligat yapmadan yargılamayı tamamlamış ve karar vermiştir. Davalının istinaf başvurusu üzerine Bölge Adliye Mahkemesi, davalının savunma hakkının kısıtlandığı bu ağır usul hatasını tespit ederek ilk derece mahkemesi kararını kaldırmış ve davanın yeniden görülmesi ve usul eksikliğinin giderilmesi için dosyayı ilk derece mahkemesine geri göndermiştir (HMK m. 353/1-a.4).\n•   **Örnek 4: Kaldırma ve Dosyayı Geri Gönderme (Görevsizlik) Kararı:** Asliye Hukuk Mahkemesi, tüketici sıfatıyla açılması gereken bir davada yargılama yaparak karar vermiştir. Davalının istinaf başvurusu üzerine Bölge Adliye Mahkemesi, davanın Tüketici Mahkemesinin görevine girdiğini belirleyerek ilk derece mahkemesi kararını kaldırmış ve dosyayı görevli Tüketici Mahkemesine gönderilmek üzere ilk derece mahkemesine iade etmiştir (HMK m. 353/1-a.1).\n•   **Örnek 5: Kaldırma ve Yeniden Esas Hakkında Karar Verme Kararı:** Bir miras davasında, ilk derece mahkemesi mirasçılık belgesinin iptali talebini kabul ederken, olaya uygulanması gereken Türk Medeni Kanunu hükmünü yanlış yorumlamıştır. Bölge Adliye Mahkemesi, olaydaki maddi vakıaların tam ve yeterli olduğunu, ek bir delil toplama veya duruşma açma ihtiyacı olmadığını görmüş; hukukun doğru yorumunu yaparak ilk derece mahkemesi kararını kaldırıp kendisi esas hakkında (mirasçılık belgesinin iptali talebinin reddine şeklinde) yeni bir karar vermiştir (HMK m. 353/1-b.3)."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Re'sen İnceleme Alanı:** İstinaf mahkemesi kural olarak, tarafların ileri sürdüğü istinaf sebepleriyle bağlıdır. Ancak, kamu düzenine ilişkin usul kurallarına aykırılıkları (örneğin görev, yetki, dava şartları, derdestlik) istinaf dilekçesinde belirtilmemiş olsa bile kendiliğinden (re'sen) inceler (HMK m. 355).\n•   **Yeni İddia ve Savunma Yasağı:** İstinaf yargılamasında, kural olarak ilk derece mahkemesinde ileri sürülmemiş yeni iddia ve savunmalar ileri sürülemez, yeni deliller sunulamaz. İstinaf, ilk derece yargılamasının bir tekrarı değil, bir denetim mekanizmasıdır (HMK m. 357).\n•   **Kaldırma ve Geri Gönderme ile Kendisi Karar Verme Ayrımı:** Bölge Adliye Mahkemesi, ilk derece mahkemesi kararını kaldırdığında, davanın niteliğine ve hatanın ağırlığına göre ya dosyayı ilk derece mahkemesine geri gönderir ya da kendisi esas hakkında karar verir. Dosyanın geri gönderilmesi genellikle ağır usul hatalarında (savunma hakkının kısıtlanması gibi) veya görev/yetki gibi kamu düzenini ilgilendiren eksikliklerde söz konusu olur. Eğer maddi vakıalar yeterli ve yeniden duruşma açmaya gerek yoksa, BAM usul ekonomisi gereği kendisi karar verir.\n•   **Davanın Kabul Edilmesi Kararı Yoktur:** İstinaf mahkemesi, istinaf başvurusunu 'kabul' etme gibi bir karar vermez. Başvuruyu yerinde görürse ilk derece mahkemesi kararını kaldırıp yeni bir karar verir ya da düzelterek onarır. Yerinde görmezse esastan veya usulden reddeder.\n•   **Temyiz Yolu Açık Olan Kararlar:** Bölge Adliye Mahkemesinin istinaf başvurusu üzerine verdiği her karar temyize açık değildir. Kanunda belirtilen belirli parasal değerin üzerindeki davalara ilişkin BAM kararları ile kanunen temyiz yolu açık olduğu belirtilen diğer kararlar Yargıtay'a temyiz edilebilir. Bu değer her yıl güncellenir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **HMK m. 353'ü Kavrayın:** İstinaf mahkemesinin verebileceği tüm karar türlerini (usulden ret, esastan ret, düzeltilerek onama, kaldırma ve geri gönderme, kaldırma ve esas hakkında karar verme) HMK'nın ilgili maddesiyle birlikte çok iyi öğrenin. Her bir karar türünün hangi hallerde verildiğini ve sonuçlarını bilin.\n•   **İstinaf ve Temyiz Arasındaki Farklara Odaklanın:** İstinafın hem maddi hem hukuki denetim yapması, temyizin ise yalnızca hukuki denetim yapması temel bir ayrımdır. Bu fark, her iki kanun yolunun verebileceği kararları ve yetki sınırlarını doğrudan etkiler. Sınavda bu farklılıklar üzerinden sorular gelebilir.\n•   **Usul ve Esas Ayrımını İyi Anlayın:** Bir mahkeme kararındaki hatanın usulden mi yoksa esastan mı kaynaklandığını tespit edebilmek çok önemlidir. Görevsizlik, yetkisizlik, dava şartı eksikliği, tebligat hatası usul hatası; delil değerlendirmesi, hukuk kuralının yanlış yorumlanması ise esas hatasıdır. Bu ayrım, BAM'ın hangi kararı vereceğini belirler.\n•   **Vaka Analizi Yapın:** Farklı senaryolar üzerinde çalışarak, bir olaya ilişkin ilk derece mahkemesi kararının hangi tür bir hukuka aykırılık içerdiğini ve bu hukuka aykırılığa karşı istinaf mahkemesinin hangi kararı vermesi gerektiğini analiz etme becerisi geliştirin.\n•   **Usul Ekonomisi ve Duruşma Açma Şartlarını Bilin:** BAM'ın ne zaman duruşma açmadan kendisinin esas hakkında karar verebileceği (vakıaların tam olması ve delil toplamaya gerek olmaması) ve ne zaman duruşma açarak karar vermesi gerektiği hallere dikkat edin. Bu durumlar HMK'nın ilgili maddelerinde açıklanmıştır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Bir alacak davasında ilk derece mahkemesi, davalıya tebligatları usulüne uygun yapmadan, davalının savunma hakkını kısıtlayacak şekilde hüküm vermiştir. Bu karara karşı yapılan istinaf başvurusu üzerine Bölge Adliye Mahkemesi, HMK hükümlerine göre hangi kararı vermelidir?",
+      "options": {
+        "A": "İstinaf başvurusunu esastan reddederek ilk derece mahkemesi kararını onar.",
+        "B": "İlk derece mahkemesi kararını düzelterek onar.",
+        "C": "İlk derece mahkemesi kararını kaldırır ve dosyayı görevli mahkemeye gönderir.",
+        "D": "İlk derece mahkemesi kararını kaldırır ve davayı yeniden görmek üzere dosyayı ilk derece mahkemesine geri gönderir."
+      },
+      "correctAnswer": "D",
+      "explanation": "Davalının savunma hakkının kısıtlanması, HMK m. 353/1-a.4 uyarınca davanın yeniden görülmesini gerektiren önemli bir usul hatasıdır. Bu durumda Bölge Adliye Mahkemesi, ilk derece mahkemesi kararını kaldırarak dosyayı ilk derece mahkemesine geri göndermelidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Bölge Adliye Mahkemesinin istinaf incelemesi sonucunda verebileceği bir karar türü DEĞİLDİR?",
+      "options": {
+        "A": "İstinaf başvurusunun esastan reddi.",
+        "B": "İlk derece mahkemesi kararının düzeltilerek onanması.",
+        "C": "İlk derece mahkemesi kararının bozulması ve dosyanın Yargıtay'a gönderilmesi.",
+        "D": "İlk derece mahkemesi kararının kaldırılması ve Bölge Adliye Mahkemesince yeniden esas hakkında karar verilmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "Bölge Adliye Mahkemesi, temyiz mahkemesi olan Yargıtay'ın görevini yapmaz. 'Bozma' kararı Yargıtay'a aittir ve dosyanın Yargıtay'a gönderilmesi BAM'ın vereceği bir karar değildir. BAM, ya kararı onar (esastan ret/düzeltilerek onama) ya da kaldırır (geri gönderme/yeniden karar verme)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bölge Adliye Mahkemesi, bir istinaf başvurusunu incelerken, ilk derece mahkemesi kararında bir yazım hatası olduğunu tespit etmiştir. Bu yazım hatası, kararın esasını etkilemeyen, basit bir düzeltme ile giderilebilecek niteliktedir. Bu durumda BAM'ın vereceği en uygun karar nedir?",
+      "options": {
+        "A": "İstinaf başvurusunu usulden reddeder.",
+        "B": "İlk derece mahkemesi kararını kaldırır ve dosyayı yeniden görülmek üzere geri gönderir.",
+        "C": "İlk derece mahkemesi kararını düzelterek onar (esastan reddeder).",
+        "D": "İlk derece mahkemesi kararını kaldırır ve kendisi esas hakkında yeni bir karar verir."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 353/1-b.2 uyarınca, ilk derece mahkemesi kararındaki esas yönünden düzeltilebilecek nitelikteki hatalar (yazım hatası gibi) Bölge Adliye Mahkemesi tarafından düzeltilerek ilk derece mahkemesi kararı onanır (esastan reddedilir)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki ifadelerden hangisi istinaf yargılamasında 'yeni iddia ve savunma yasağı' ilkesi ile ilgili doğru bir açıklamadır?",
+      "options": {
+        "A": "Taraflar, istinaf dilekçelerinde ilk defa yeni vakıalar ileri sürebilir ve yeni deliller sunabilir.",
+        "B": "Bölge Adliye Mahkemesi, kamu düzenine ilişkin olsa bile, ilk derece mahkemesinde ileri sürülmemiş hiçbir hususu re'sen inceleyemez.",
+        "C": "Kural olarak, ilk derece mahkemesinde ileri sürülmemiş yeni iddia ve savunmalar istinaf aşamasında dinlenemez, yeni deliller sunulamaz.",
+        "D": "İstinaf mahkemesi, her durumda ilk derece mahkemesinin kararını kaldırarak yeniden duruşma açar ve yeni delilleri toplar."
+      },
+      "correctAnswer": "C",
+      "explanation": "HMK m. 357 uyarınca, istinaf yargılamasında kural olarak yeni iddia ve savunmalar ileri sürülemez ve yeni deliller sunulamaz. Bu, istinafın bir denetim mekanizması olduğu ve ilk derece yargılamasının tekrarı niteliğinde olmadığı prensibine dayanır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Bir kira alacağı davasında, ilk derece mahkemesi maddi vakıaları doğru tespit etmiş ancak olaya uygulanması gereken Türk Borçlar Kanunu hükmünü yanlış yorumlamıştır. Bölge Adliye Mahkemesi, yaptığı inceleme sonucunda maddi vakıaların tam olduğunu ve ek bir delil toplama ihtiyacı olmadığını belirlemiştir. Bu durumda BAM hangi kararı vermelidir?",
+      "options": {
+        "A": "İstinaf başvurusunu usulden reddeder.",
+        "B": "İlk derece mahkemesi kararını kaldırır ve davanın yeniden görülmesi için dosyayı geri gönderir.",
+        "C": "İlk derece mahkemesi kararını düzelterek onar (esastan reddeder).",
+        "D": "İlk derece mahkemesi kararını kaldırır ve kendisi esas hakkında yeni bir karar verir."
+      },
+      "correctAnswer": "D",
+      "explanation": "HMK m. 353/1-b.3 hükmüne göre, istinaf mahkemesi maddi vakıaların tam olarak tespit edildiğini ve eksikliklerin giderilmesi için duruşma açılmasına, delil toplanmasına ihtiyaç duyulmadığını anlarsa, ilk derece mahkemesinin kararını kaldırarak kendisi esas hakkında yeni bir karar verir. Burada hukukun yanlış yorumlanması söz konusudur ve BAM bunu düzelterek kendisi karar verebilir."
+    }
+  ]
+}

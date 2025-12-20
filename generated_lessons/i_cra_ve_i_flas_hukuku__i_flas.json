@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İflas:** Ticari işletme sahibi gerçek veya tüzel kişilerin (tacirlerin) borçlarını ödeyemez duruma gelmesi halinde, tüm malvarlığının yasalara uygun bir şekilde tasfiye edilerek alacaklılara paylaştırılması amacını güden toplu takip yoludur. Amacı, borçlunun tüm alacaklılarını tatmin etmektir.\n•   **Müflis:** İflasına karar verilmiş olan borçludur. İflas kararı ile müflisin malvarlığı üzerindeki tasarruf yetkisi kısıtlanır ve bu yetki iflas masasına geçer.\n•   **İflas Masası:** Müflisin iflasın açıldığı andaki bütün mal ve haklarından oluşan hukuki ve ekonomik bütündür. İflasın amacı doğrultusunda, müflisin alacaklılarına paylaştırılacak değerleri içerir.\n•   **Sıra Cetveli:** İflas idaresi tarafından hazırlanan ve iflas masasına kaydedilmiş alacakların hangi sıraya göre ödeneceğini gösteren belgedir. Alacaklılar kanunda belirtilen gruplara (rehinli alacaklar, imtiyazlı alacaklar, adi alacaklar) ayrılır.\n•   **İflas Yoluyla Takip:** Yalnızca belirli kişiler (tacirler ve İİK m. 43'te sayılan diğer kişiler) hakkında uygulanabilen özel bir cebri icra yoludur. Amacı, borçlunun tüm malvarlığını tasfiye etmektir.\n•   **İflas Sebepleri:** Borçlunun ödeme aczine düşmesi (genel iflas sebebi) veya doğrudan iflas hallerinin varlığı (örneğin borçlunun kaçması, adresini terk etmesi, bazı özel kanun hükümleri)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İcra ve İflas Kanunu (İİK):** İflas hukuku, 2004 sayılı İcra ve İflas Kanunu'nun İkinci Kısmı (İflas Hukuku) ile düzenlenmektedir. Bu kısım, iflasa ilişkin temel prensipleri, usulleri ve sonuçları belirler.\n•   **İİK m. 43:** Kimler hakkında iflas yoluyla takip yapılacağını belirler. Temel olarak tacirler, tacir gibi sorumlu olanlar ve özel kanunlarda iflasa tabi tutulan kişiler iflasa tabidir.\n•   **İİK m. 154 (İflas Kararı):** İflas davasının açılması ve iflasa karar verilmesi sürecini düzenler. İflas kararı, iflas dairesi tarafından ilan edilir ve iflasın hukuken açıldığını gösterir.\n•   **İİK m. 166 (Alacaklının İflas Yoluyla Takip Talebi):** Alacaklının borçlu aleyhine iflas talebinde bulunma şartlarını ve usulünü açıklar. Borçlunun ödeme aczine düştüğünü ispat etmesi veya doğrudan iflas hallerinin varlığı gereklidir.\n•   **İİK m. 184 (İflasın Hukuki Sonuçları):** İflasın açılmasıyla müflisin malvarlığı üzerindeki tasarruf yetkisinin kısıtlanması, alacaklıların tek tek takip yapma yetkisinin sona ermesi ve iflas masasının oluşumu gibi önemli sonuçları düzenler.\n•   **İİK m. 206 (Sıra Cetveli ve Alacakların Dereceleri):** İflas masasına kaydedilen alacakların hangi sıralamayla ödeneceğini belirleyen hükümleri içerir. Bu madde, alacaklıların haklarının korunması açısından hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1: Adi İflas Yoluyla Takip:** X Ticaret A.Ş., bankaya olan kredi borcunu uzun süredir ödeyememektedir. Banka, İİK m. 166 uyarınca borçlunun ödeme aczine düştüğünü ileri sürerek iflas davası açar ve mahkeme X A.Ş.'nin iflasına karar verir. Bu, alacaklı tarafından başlatılan bir iflas sürecidir.\n•   **Örnek 2: Borçlunun Kendi İflasını Talep Etmesi:** Bir limited şirket olan Y Ltd. Şti.'nin yöneticileri, şirketin borçlarını ödeyemez duruma geldiğini ve iflasın kaçınılmaz olduğunu görerek, alacaklılardan önce kendileri İİK m. 177 uyarınca iflas davası açarak şirketin iflasını talep ederler. Bu, borçlunun kendi isteğiyle iflas başvurusudur.\n•   **Örnek 3: İflas Masasının Oluşumu ve Tasarruf Yetkisi:** Z Tacirinin iflasına karar verildiğinde, iflas kararı anında Z'nin tüm malvarlığı (taşınır, taşınmaz, alacaklar vb.) iflas masasına dahil olur. Z artık bu mallar üzerinde serbestçe tasarruf edemez; bu yetki iflas idaresine geçer ve masanın tasfiyesi için kullanılır.\n•   **Örnek 4: Sıra Cetveli ve Alacaklıların Tatmini:** Bir iflas masasından elde edilen gelir, iflas idaresi tarafından hazırlanan sıra cetveline göre dağıtılır. Örneğin, masanın rehinli alacaklıları varsa önce onların alacakları rehinli malın satış bedelinden karşılanır, ardından kanunda belirtilen imtiyazlı alacaklılar (işçi alacakları gibi) ve son olarak adi alacaklılar tatmin edilir.\n•   **Örnek 5: İptal Davası:** Müflis M, iflas kararından kısa bir süre önce, malvarlığının bir kısmını düşük bir bedelle yakınına satmıştır. İflas idaresi, bu işlemin alacaklılardan mal kaçırma amacı taşıdığını düşünerek İİK m. 277 ve devamı maddeleri uyarınca iptal davası açarak bu işlemin iflas masasına geri dönmesini sağlayabilir.\n•   **Örnek 6: İflasın Kaldırılması:** İflas kararı verilmiş olan N şirketi, iflas tasfiye süreci devam ederken tüm alacaklılarıyla anlaşma yoluna giderek borçlarının tamamını öder veya tasdik edilmiş bir konkordato ile borçlarını yeniden yapılandırır. Bu durumda mahkeme, İİK m. 182 uyarınca iflasın kaldırılmasına karar verebilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Tacir Olma Şartı:** İflas yoluyla takip, yalnızca tacirler ve kanunen tacir hükmünde sayılan kişiler hakkında uygulanabilir. Adi borçlular hakkında iflas yoluyla takip yapılamaz, onlar hakkında genel haciz yoluyla takip veya rehinli malların paraya çevrilmesi yoluyla takip uygulanır.\n•   **Tasarruf Yetkisinin Kısıtlanması:** İflasın açılmasıyla müflisin malvarlığı üzerindeki tasarruf yetkisi iflas idaresine geçer. Müflis bu tarihten sonra yaptığı işlemlerde iflas masasına karşı sorumludur ve bazı işlemler butlanla sakatlanabilir.\n•   **Takip Hukuku Birliği İlkesi:** İflasın açılmasıyla birlikte, iflas masasına dahil olan alacaklar için münferit takip yapılamaz; tüm alacaklılar toplu takip yolu olan iflas sürecine katılmak zorundadır.\n•   **İflas Masasının Aktif ve Pasifi:** İflas masası, müflisin tüm malvarlığını (aktif) içerir ancak sadece iflasın açılmasından önceki borçları (pasif) karşılamakla yükümlüdür. İflastan sonra doğan borçlar kural olarak masadan ödenmez.\n•   **İflasın Ertelenmesi Kalkmıştır:** 2016 yılında yapılan değişikliklerle iflasın ertelenmesi kurumu yürürlükten kaldırılmıştır. Günümüzde, borçlu şirketlerin mali durumlarını düzeltmeleri için **konkordato** kurumu önem kazanmıştır.\n•   **Sıra Cetveline İtiraz:** Alacaklılar veya borçlu, iflas idaresinin hazırladığı sıra cetveline ilan tarihinden itibaren yedi gün içinde iflas mahkemesine itiraz edebilirler. Bu, hak kaybını önlemek için önemlidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımlar:** İflas, müflis, iflas masası, sıra cetveli, iflas dairesi, iflas idaresi gibi ana kavramların eksiksiz bilinmesi önemlidir.\n•   **İflasa Tabi Şahıslar:** Kimlerin iflas yoluyla takibe tabi olduğu (tacirler ve İİK m. 43'te belirtilen diğer kişiler) ve kimlerin tabi olmadığı arasındaki fark iyi anlaşılmalıdır.\n•   **İflasın Açılma Şekilleri:** Alacaklının talebiyle (adi iflas yoluyla takip) ve borçlunun kendi iflasını talep etmesi (doğrudan iflas) arasındaki farkları ve bu durumların şartlarını öğrenmek gereklidir.\n•   **İflasın Hukuki Sonuçları:** İflas kararının müflis ve alacaklılar üzerindeki en önemli etkileri (tasarruf yetkisi kısıtlaması, toplu takip prensibi vb.) kritik bir sınav konusudur.\n•   **İflas Masası ve Sıra Cetveli:** İflas masasının neleri kapsadığı, masadan hangi borçların ödeneceği ve özellikle alacakların hangi sıraya göre tatmin edileceği (İİK m. 206) dikkatle çalışılmalıdır.\n•   **İflas Sürecinin Aşamaları:** İflasın talep edilmesinden tasfiyenin kapanmasına kadar olan genel sürecin ana hatlarıyla bilinmesi, olay bazlı soruları çözmede yardımcı olacaktır. Konkordato ile ilişkisi de gözden geçirilmelidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi iflas yoluyla takibe tabi kişiler arasında yer almaz?",
+      "options": {
+        "A": "Ticaret şirketleri",
+        "B": "Ticari işletme işleten esnaflar",
+        "C": "Bir anonim şirketin yönetim kurulu üyeleri (şirketin iflası halinde şahsen sorumlu oldukları ölçüde)",
+        "D": "Tüketici kredisi borçlusu olan bir gerçek kişi"
+      },
+      "correctAnswer": "D",
+      "explanation": "İflas yoluyla takip, kural olarak tacirler ve özel kanunlarla iflasa tabi tutulan kişiler hakkında uygulanır. Ticari şirketler, tacir sayılırken, esnaflar ticari işletme işletmeleri halinde tacir hükmündedir. Yönetim kurulu üyeleri belirli şartlarda şirketin iflasında sorumlu tutulabilir. Ancak tüketici kredisi borçlusu olan gerçek kişiler (eğer tacir değillerse) adi borçlu olup iflasa tabi değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İflasın açıldığı anda müflisin malvarlığına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Müflisin iflas kararından önceki tüm malvarlığı iflas masasına dahil olmaz, sadece ticari faaliyetleriyle ilgili mallar dahildir.",
+        "B": "İflasın açılmasıyla müflisin tüm malvarlığı (mal, hak ve alacakları) iflas masasını oluşturur ve müflisin tasarruf yetkisi kısıtlanır.",
+        "C": "Müflis iflas masasına giren mallar üzerinde serbestçe tasarruf etmeye devam eder, sadece iflas idaresinin onayına tabidir.",
+        "D": "İflas masası sadece müflisin taşınmaz mallarını kapsar, taşınır mallar müfliste kalır."
+      },
+      "correctAnswer": "B",
+      "explanation": "İİK m. 184 uyarınca iflasın açılmasıyla müflisin haczedilebilen tüm mal ve hakları iflas masasını oluşturur ve müflis bu mallar üzerindeki tasarruf yetkisini kaybeder. Yetki iflas idaresine geçer."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İİK'ya göre iflas masasına kaydedilen alacakların ödenmesinde uygulanan sıra cetveli ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": {
+        "A": "Sıra cetveli iflas idaresi tarafından düzenlenir.",
+        "B": "Rehinli alacaklar, rehin konusu malın satış bedelinden öncelikli olarak karşılanır.",
+        "C": "Birinci sıradaki alacaklılar tamamen tatmin edilmeden ikinci sıradaki alacaklılara ödeme yapılamaz.",
+        "D": "Tüm alacaklar, öncelik farkı gözetmeksizin iflas masasının eldeki parası oranında eşit şekilde paylaştırılır."
+      },
+      "correctAnswer": "D",
+      "explanation": "İİK m. 206 uyarınca alacakların dereceleri (sıraları) açıkça belirtilmiştir. Rehinli alacaklar, imtiyazlı alacaklar ve adi alacaklar olmak üzere farklı sıralar bulunur. 'Tüm alacaklar eşit şekilde paylaştırılır' ifadesi yanlıştır; kanun koyucu belirli alacaklara öncelik tanımıştır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi iflasın kaldırılması (İİK m. 182) sebeplerinden biridir?",
+      "options": {
+        "A": "İflas tasfiyesi tamamlandıktan sonra tüm alacaklıların alacaklarının ödenmesi.",
+        "B": "Müflisin iflastan sonra yeni bir şirket kurması.",
+        "C": "Müflisin iflas idaresiyle işbirliği yapmayı reddetmesi.",
+        "D": "İflas tasfiye sürecinde konkordato teklif edilip tasdik edilmesi."
+      },
+      "correctAnswer": "D",
+      "explanation": "İİK m. 182'ye göre, iflasın açılmasından sonra konkordato teklif edilip tasdik edilmiş veya bütün alacaklılar alacaklarından feragat etmiş ya da alacakların tamamen ödendiği ispat edilmişse iflas mahkemesi iflasın kaldırılmasına karar verebilir. A şıkkı, iflasın kapanması (nihai tasfiyenin sonu) ile ilgilidir, kaldırılması ile değil."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İflasın ertelenmesi kurumu ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": {
+        "A": "İflasın ertelenmesi, borçlu tacirlere mahkeme kararıyla verilen 1 yıllık bir süredir.",
+        "B": "İflasın ertelenmesi, şirketin mali durumunu düzeltmesi için tanınan bir yoldur ve 2016 yılında kaldırılmıştır.",
+        "C": "İflasın ertelenmesi kararı verilirse, şirket aleyhine hiçbir takip yapılamaz.",
+        "D": "İflasın ertelenmesi kurumunun yerini günümüzde iflas tasfiyesi almıştır."
+      },
+      "correctAnswer": "B",
+      "explanation": "İflasın ertelenmesi kurumu, şirketlerin mali durumlarını düzeltebilmeleri için tanınan bir imkan olup, 15/03/2016 tarihli ve 669 sayılı KHK ile İcra ve İflas Kanunu'ndan çıkarılarak yürürlükten kaldırılmıştır. Günümüzde bu ihtiyacı konkordato kurumu karşılamaktadır."
+    }
+  ]
+}

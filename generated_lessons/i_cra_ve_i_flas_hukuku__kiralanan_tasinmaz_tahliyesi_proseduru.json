@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kiralanan Taşınmaz:** Konut, işyeri veya diğer taşınmazların kira sözleşmesi ile belirli bir bedel karşılığında kullandırıldığı maldır.\n•   **Tahliye:** Kiracının, kira sözleşmesinin sona ermesi veya başka bir haklı sebeple kiralanan taşınmazı boşaltarak malike teslim etmesi işlemidir. Hukuki terim olarak 'kiralananın boşaltılması' anlamına gelir.\n•   **Kira Sözleşmesi:** Türk Borçlar Kanunu (TBK) kapsamında düzenlenen, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte semerelerinden yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.\n•   **İcra Takibi:** Alacaklının, alacağını devlet gücüyle elde etmek için başvurduğu hukuki yoldur. Tahliye prosedüründe, özellikle kira bedelinin ödenmemesi veya tahliye taahhütnamesine dayanarak taşınmazın boşaltılması amacıyla uygulanır.\n•   **Tahliye Taahhütnamesi:** Kiracının, kiralananı belirli bir tarihte boşaltmayı yazılı olarak taahhüt ettiği belgedir. Kira sözleşmesinin başlangıcından sonraki bir tarihte ve kiracı tarafından özgür iradesiyle verilmiş olması geçerlilik şartıdır.\n•   **İhtarname:** Bir kişinin diğer bir kişiye hukuki bir durumu veya iradesini resmi olarak bildirdiği, genellikle noter aracılığıyla gönderilen yazılı belgedir. Tahliye prosedürlerinde, kira bedelinin ödenmesi için veya sözleşme feshini bildirmek amacıyla kullanılır."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Türk Borçlar Kanunu (TBK):** Kira sözleşmelerinin genel hükümlerini (TBK m. 299-378), sözleşmenin kurulması, sona ermesi, tarafların hak ve yükümlülüklerini düzenler. Kiraya verenin veya kiracının fesih hakları, bildirim süreleri ve tahliye nedenleri (örneğin, kiracının temerrüdü, kiralananın yeniden inşası veya imarı) bu kanunda yer alır.\n•   **İcra ve İflas Kanunu (İİK):** Kiralanan taşınmazın tahliyesi prosedürünün icra yoluyla nasıl yürütüleceğini belirler.\n    •   **Kira bedelinin ödenmemesi nedeniyle tahliye (İİK m. 269-271):** Kiraya veren, kiracının kira bedelini ödememesi halinde, ödenmeyen kira bedellerinin tahsili ile birlikte tahliyesini de isteyebilir. Kiracıya gönderilen ödeme emrinde 7 gün içinde itiraz etmesi, 30 gün içinde borcu ödemesi veya itirazında kira sözleşmesini veya borcu inkar etmesi gerektiği belirtilir. İtiraz edilmez veya borç ödenmezse icra mahkemesinden tahliye talep edilebilir.\n    •   **Tahliye taahhütnamesine dayalı tahliye (İİK m. 272-275):** Kiracının geçerli bir tahliye taahhütnamesi vermesi halinde, taahhüt edilen tarihten itibaren bir ay içinde icra dairesine başvurularak tahliye emri gönderilmesi istenebilir. Kiracıya tebliğ edilen tahliye emrine 7 gün içinde itiraz edebilir.\n•   **Hukuk Muhakemeleri Kanunu (HMK):** Tahliye davaları için genel yargılama usullerini, görevli ve yetkili mahkemeleri (Sulh Hukuk Mahkemeleri) düzenler. İcra mahkemelerinde görülen tahliye davaları dışında, kira sözleşmesinin feshine veya tahliye nedenlerine dayalı olarak açılan tahliye davaları (örneğin, iki haklı ihtar, kiraya verenin ihtiyacı) HMK hükümlerine göre Sulh Hukuk Mahkemelerinde görülür.\n•   **Tapu Kanunu:** Taşınmazların sicil kayıtları ve mülkiyet bilgilerine ilişkin esasları içerir. Kiralanan taşınmazın tapu kayıtları, mülkiyetin tespiti açısından önemlidir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Kira Bedelini Ödemeyen Kiracı:** Kiracı A, üç aydır kira bedelini ödememektedir. Kiraya veren B, A'ya noterden ihtarname çekerek ödenmeyen kira bedellerinin 30 gün içinde ödenmesini, aksi takdirde tahliye davası açılacağını bildirdi. A, bu süre içinde de ödeme yapmayınca B, icra dairesine başvurarak kira bedellerinin tahsili ve taşınmazın tahliyesi talepli icra takibi başlattı. A’ya gönderilen ödeme emrine itiraz etmemesi veya borcu ödememesi durumunda, B icra mahkemesinden tahliye isteyecektir.\n•   **Geçerli Tahliye Taahhütnamesi:** Kiracı C, 1 Ocak 2023 tarihinde imzalanan kira sözleşmesinden 6 ay sonra (1 Temmuz 2023 tarihinde) bir tahliye taahhütnamesi imzalayarak, kiralananı 1 Ocak 2024 tarihinde boşaltmayı taahhüt etti. C, 1 Ocak 2024 tarihinde taşınmazı boşaltmayınca, kiraya veren D, bu taahhütnameye dayanarak bir ay içinde icra dairesine başvurarak tahliye takibi başlattı.\n•   **İki Haklı İhtar Nedeniyle Tahliye Davası:** Kiracı E, bir yıl içinde iki farklı ayda kira bedelini geç ödemesi nedeniyle kiraya veren F tarafından iki ayrı noter ihtarı ile temerrüde düşürüldü. Kira sözleşmesi süresinin sonunda F, bu iki haklı ihtara dayanarak Sulh Hukuk Mahkemesi'nde tahliye davası açtı.\n•   **Kiraya Verenin İhtiyacı Nedeniyle Tahliye:** Kiraya veren G, üniversite eğitimi için başka bir şehirde yaşayan oğlu H'nin kendi şehrine dönerek kiralanan evde oturacağını ve bu eve ihtiyacı olduğunu iddia etti. Kira sözleşmesi süresinin sonunda G, HMK hükümlerine göre Sulh Hukuk Mahkemesi'nde ihtiyacına dayalı tahliye davası açtı.\n•   **Yeni Malik Tarafından Tahliye:** Kiralanan konutun eski sahibi J, konutu K'ya sattı. Yeni malik K, taşınmazı edindiği tarihten itibaren bir ay içinde kiracı L'ye ihtarname göndererek konuta ihtiyacı olduğunu bildirdi. K, L'nin konutu boşaltmaması üzerine altı ay geçtikten sonra Sulh Hukuk Mahkemesi'nde tahliye davası açtı.\n•   **Sözleşmenin Sona Ermesi Nedeniyle Tahliye:** Kiracı M ile kiraya veren N arasında belirli süreli bir kira sözleşmesi yapıldı ve sözleşme süresinin sonunda taraflardan hiçbiri uzatma iradesi göstermedi. N, sürenin bitimine en az 15 gün kala M'ye sözleşmeyi yenilemeyeceğini bildiren bir ihtarname gönderdi ve süre sonunda taşınmazın boşaltılmasını talep etti. M'nin boşaltmaması üzerine tahliye davası açılabilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Süreler:** Tahliye prosedürlerinde süreler hayati öneme sahiptir. Özellikle kira bedelinin ödenmemesi nedeniyle tahliyede ödeme emrine itiraz süresi (7 gün), ödeme süresi (30 gün) ve tahliye taahhütnamesine dayalı tahliyede icra takibi başlatma süresi (taahhüt tarihinden itibaren 1 ay) ve tahliye emrine itiraz süresi (7 gün) kaçırılmamalıdır.\n•   **Tahliye Taahhütnamesinin Geçerliliği:** Tahliye taahhütnamesi, kira sözleşmesi kurulduktan sonraki bir tarihte, kiracı tarafından serbest iradesiyle ve yazılı olarak verilmiş olmalıdır. Kira sözleşmesi ile aynı tarihte veya sözleşmeden önce verilen taahhütnameler geçerli değildir.\n•   **İhtarname Şekli ve İçeriği:** Tahliye nedenine göre ihtarname içeriği ve şekli değişir. Örneğin, kira bedelinin ödenmemesi durumunda ödenecek miktar, ödeme süresi ve ödeme yapılmazsa tahliye davası açılacağı açıkça belirtilmelidir. İhtarnamelerin noter aracılığıyla gönderilmesi ispat açısından önemlidir.\n•   **Görevli ve Yetkili Mahkeme:** Kira alacaklarının tahsili ve tahliye talepleri birlikte yapıldığında yetkili icra dairesi, borçlunun yerleşim yeri veya kira sözleşmesinin ifa yeri icra dairesidir. Tahliye davaları için görevli mahkeme Sulh Hukuk Mahkemeleri, yetkili mahkeme ise taşınmazın bulunduğu yer mahkemesidir. İcra hukuk mahkemeleri ise icra takibine itirazın kaldırılması ve tahliye taleplerini inceler.\n•   **İcra Takibi ve Dava Ayrımı:** Tahliye, hem icra takibi yoluyla (örneğin, ödenmeyen kira, tahliye taahhütnamesi) hem de dava yoluyla (örneğin, iki haklı ihtar, ihtiyaca dayalı tahliye) talep edilebilir. Hangi yolun izleneceği, tahliye nedenine ve hukuki duruma göre farklılık gösterir. Doğru yolun seçilmesi, sürecin etkinliği açısından kritiktir.\n•   **Kötü Niyetli Uygulamalar:** Kiraya verenlerin ihtiyaca dayalı tahliye talepleri sonrasında kiralananı 3 yıl boyunca başka birine kiralaması yasaktır. Aksi takdirde, tazminat sorumluluğu doğar. Bu durum, tahliye nedenlerinin dürüstlük kuralına uygun kullanılması gerektiğini gösterir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Kanun Maddeleri:** TBK’nın kira sözleşmesine ilişkin hükümleri (m. 299 vd.), İİK’nın icra yoluyla tahliyeye ilişkin maddeleri (m. 269 vd., m. 272 vd.) ve HMK’nın tahliye davalarıyla ilgili genel hükümleri iyi bilinmelidir.\n•   **Tahliye Nedenleri:** Kira bedelinin ödenmemesi, tahliye taahhütnamesi, iki haklı ihtar, kiraya verenin ihtiyacı, yeni malikin ihtiyacı, kiracının veya eşinin oturmaya elverişli konutunun bulunması gibi temel tahliye nedenleri ve bu nedenlerin şartları detaylıca öğrenilmelidir.\n•   **Prosedürel Süreçler:** İcra takibi yoluyla tahliye ve dava yoluyla tahliye süreçlerinin adımları, bu adımlardaki süreler ve tarafların hakları/yükümlülükleri (örneğin, itiraz, ödeme, ispat yükü) arasındaki farklar kavranmalıdır.\n•   **Sürelere Dikkat:** Özellikle kanuni sürelerin başlangıcı, bitimi ve sonuçları (hak düşürücü süre, zamanaşımı) titizlikle incelenmeli, örnek olaylar üzerinden süre hesaplamaları yapılmalıdır.\n•   **Görev ve Yetki:** Tahliye davaları ve icra takipleri için görevli ve yetkili mahkeme/icra dairesi bilgisi kesinlikle öğrenilmelidir. Özellikle Sulh Hukuk Mahkemeleri ile İcra Hukuk Mahkemelerinin görev ayrımı önemlidir.\n•   **Geçerlilik Şartları:** Tahliye taahhütnamesinin geçerlilik şartları (yazılılık, kira sözleşmesinden sonraki tarih) ve ihtarname şekli gibi hukuki işlemlerin geçerlilik şartları özel olarak çalışılmalıdır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, tahliye taahhütnamesinin geçerlilik şartlarından biri DEĞİLDİR?",
+      "options": {
+        "A": "Yazılı şekilde yapılması",
+        "B": "Kiracı tarafından özgür iradesiyle verilmiş olması",
+        "C": "Kira sözleşmesi ile aynı tarihte imzalanmış olması",
+        "D": "Taahhüt edilen tahliye tarihinin belirli olması"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tahliye taahhütnamesinin geçerli olabilmesi için kira sözleşmesi kurulduktan sonraki bir tarihte verilmesi gerekir. Kira sözleşmesi ile aynı tarihte veya sözleşmeden önce verilen taahhütnameler geçerli kabul edilmez."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Kira bedelini ödemeyen kiracıya karşı icra takibi yoluyla tahliye talep edildiğinde, kiracıya tebliğ edilen ödeme emrine itiraz süresi kaç gündür?",
+      "options": {
+        "A": "3 gün",
+        "B": "5 gün",
+        "C": "7 gün",
+        "D": "15 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İcra ve İflas Kanunu'na göre, kira bedelinin ödenmemesi nedeniyle tahliye takibinde, kiracının ödeme emrine itiraz süresi 7 gündür. Bu süre içinde itiraz edilmezse takip kesinleşir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdaki tahliye nedenlerinden hangisi genellikle doğrudan Sulh Hukuk Mahkemesi'nde dava yoluyla talep edilir?",
+      "options": {
+        "A": "Geçerli bir tahliye taahhütnamesine dayanarak tahliye",
+        "B": "Kira bedelinin ödenmemesi nedeniyle tahliye",
+        "C": "Kiraya verenin kendisinin veya yakınının ihtiyacı nedeniyle tahliye",
+        "D": "Kira sözleşmesinin yenilenmemesi nedeniyle tahliye (İİK m. 272)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kiraya verenin veya yakınının ihtiyacı nedeniyle tahliye, Türk Borçlar Kanunu kapsamında düzenlenmiş olup, icra takibi yoluyla değil, Sulh Hukuk Mahkemesi'nde açılacak bir tahliye davası ile talep edilir. A ve B seçenekleri genellikle icra yoluyla, D seçeneği ise belirli koşullarda dava veya icra yoluyla mümkündür ancak 'sözleşmenin yenilenmemesi nedeniyle tahliye' ifadesi İİK m. 272 ile doğrudan ilişkili değildir, o madde tahliye taahhütnamesi içindir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Yeni malik, kiralanan taşınmazı satın aldıktan sonra kiracının tahliyesini hangi şartlarla talep edebilir?",
+      "options": {
+        "A": "Tapu devrinden itibaren 6 ay içinde ihtarname göndermeli ve 1 yıl sonra dava açmalıdır.",
+        "B": "Tapu devrinden itibaren 1 ay içinde ihtarname göndermeli ve 6 ay sonra dava açmalıdır.",
+        "C": "Tapu devrinden itibaren 3 ay içinde ihtarname göndermeli ve 6 ay sonra dava açmalıdır.",
+        "D": "Tapu devrinden hemen sonra tahliye davası açabilir, ihtarname şart değildir."
+      },
+      "correctAnswer": "B",
+      "explanation": "Yeni malik, taşınmazı edindiği tarihten itibaren bir ay içinde kiracıya ihtarname göndererek tahliye talebini bildirmeli ve bu ihtarname tarihinden itibaren altı ay geçtikten sonra Sulh Hukuk Mahkemesi'nde tahliye davası açabilir (TBK m. 351)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İcra ve İflas Kanunu'na göre, tahliye taahhütnamesine dayalı tahliye takibinde, taahhüt edilen tahliye tarihinden itibaren icra dairesine başvuru süresi kaç aydır?",
+      "options": {
+        "A": "1 ay",
+        "B": "3 ay",
+        "C": "6 ay",
+        "D": "1 yıl"
+      },
+      "correctAnswer": "A",
+      "explanation": "İİK m. 272'ye göre, tahliye taahhütnamesine dayalı tahliye takibi, taahhüt edilen tahliye tarihinden itibaren bir ay içinde icra dairesine başvurularak başlatılmalıdır. Bu süre hak düşürücü bir süredir."
+    }
+  ]
+}

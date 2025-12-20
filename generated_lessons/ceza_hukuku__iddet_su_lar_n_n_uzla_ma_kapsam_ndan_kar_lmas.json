@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Uzlaşma (Conciliation):** Ceza muhakemesi hukukunda, şüpheli veya sanık ile mağdur veya suçtan zarar görenin uzlaştırmacı aracılığıyla bir araya gelerek, suçun yol açtığı anlaşmazlığı gidermek üzere belirli yükümlülükler çerçevesinde anlaşmaları ve bu yolla kamu davasının açılmaması veya davanın düşmesi sonucunu doğuran alternatif uyuşmazlık çözüm yöntemidir.\n•   **Şiddet Suçu (Violent Crime):** Fiziksel güç, tehdit veya mağdurun bedensel ya da ruhsal bütünlüğüne ağır zarar verme potansiyeli taşıyan eylemleri içeren suçlardır. Türk Ceza Kanunu'nda (TCK) kasten öldürme, kasten yaralama, yağma, cinsel saldırı gibi suçlar bu kategoriye girer.\n•   **Mağdur (Victim):** Suçun doğrudan doğruya zarar gören veya üzerinde olumsuz etki bıraktığı kişidir. Şiddet suçlarında mağdurun korunması özel bir önem taşır.\n•   **Kamu Düzeni ve Kamu Yararı:** Devletin, toplumun huzur ve güvenliğini sağlamakla yükümlü olması nedeniyle, özellikle şiddet içeren ve toplumsal barışı derinden sarsan suçların soruşturulması ve kovuşturulmasında kamu yararı ön plandadır. Uzlaşma, kamu düzenini ilgilendiren ağır suçlarda kamu yararına aykırı görülebilir.\n•   **Adaletçi ve Faydacı Ceza Teorileri:** Ceza hukukunun amaçlarını belirleyen bu teoriler, cezanın salt adalet sağlaması (mutlak teoriler) veya gelecekteki suçları önlemesi (nispi teoriler) gerektiğini savunur. Şiddet suçlarının uzlaşma dışı bırakılması, hem adaletin tecellisi hem de genel ve özel önleme amaçları açısından önemlidir.\n•   **Hukuk Devleti İlkesi:** Anayasamızda da yer alan hukuk devleti ilkesi, devletin suçların önlenmesi, işlendiğinde soruşturulması ve suçluların adil yargılanması görevini esas alır. Bu, keyfiliği önler ve birey haklarını korurken, kamu düzenini de gözetir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Ceza Muhakemesi Kanunu (CMK) m. 253:** Uzlaşma kurumunu düzenleyen temel maddedir. Hangi suçların uzlaşma kapsamında olduğu bu maddede açıkça belirtilir. Genellikle üst sınırı belirli bir yılın altında kalan ve şikâyete bağlı suçlar uzlaşmaya tabidir.\n•   **Şiddet Suçlarının Uzlaşma Dışı Bırakılması:** CMK m. 253/3 (ve ilgili fıkralar) gereğince, 'cinsel dokunulmazlığa karşı suçlar' başta olmak üzere, katalogda yer alan bazı suçların uzlaşma kapsamı dışında olduğu açıkça düzenlenmiştir. Bu düzenleme, şiddet içeren suçların önemli bir kısmını da dolaylı olarak veya doğrudan dışlar.\n•   **Türk Ceza Kanunu (TCK) ve Şiddet Suçları:** TCK'nın 'Hayata Karşı Suçlar' (m. 81-83 Kasten Öldürme), 'Vücut Dokunulmazlığına Karşı Suçlar' (m. 86 Kasten Yaralama), 'Malvarlığına Karşı Suçlar' içindeki 'Yağma' (m. 148), 'Cinsel Dokunulmazlığa Karşı Suçlar' (m. 102 Cinsel Saldırı, m. 103 Çocukların Cinsel İstismarı) gibi başlıklar altında düzenlenen suçlar, şiddet içermeleri nedeniyle uzlaşmaya elverişli değildir.\n•   **Uzlaşma Kapsamının Belirlenmesi:** Kanun koyucu, suçun niteliğini, ağırlığını, mağdur üzerindeki etkisini ve toplumsal yansımasını dikkate alarak hangi suçların uzlaşmaya tabi olacağını veya olmayacağını belirler. Şiddet suçlarının yol açtığı zarar ve toplumsal infial, onların uzlaşma dışı bırakılmasının temel nedenidir.\n•   **Nitelikli Haller ve Uzlaşma:** Bazı suçların basit halleri uzlaşmaya tabi olabilirken (örn. basit kasten yaralama TCK m. 86/1'in şikâyete bağlı halleri), suçun nitelikli halleri (örn. kemik kırığına neden olan kasten yaralama, TCK m. 86/3-e) şiddetin artması veya zararın büyümesi nedeniyle uzlaşma kapsamından çıkarılmıştır.\n•   **Uluslararası Sözleşmeler ve İlkeler:** Türkiye'nin taraf olduğu Avrupa İnsan Hakları Sözleşmesi gibi uluslararası metinler ve insan hakları ilkeleri, devletin insan yaşamına ve bedensel/ruhsal bütünlüğüne yönelik ağır saldırıları etkin bir şekilde soruşturma ve cezalandırma yükümlülüğünü vurgular. Bu durum, şiddet suçlarının uzlaşma dışı bırakılmasına yasal ve ahlaki bir zemin hazırlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Kasten Öldürme Suçu (TCK m. 81):** Hayata kasteden bu suç, en ağır şiddet suçlarından biridir ve doğrudan doğruya kamu düzenini ihlal eder. Bu nedenle, hiçbir surette uzlaşma kapsamına dâhil edilemez.\n•   **Kasten Yaralama Suçunun Nitelikli Halleri (TCK m. 86/3):** Basit kasten yaralama (şikâyete bağlı ise) bazı durumlarda uzlaşmaya tabi olabilirken; mağdurun duyularından veya organlarından birinin işlevini yitirmesi, yüzde sabit iz kalması, yaşamını tehlikeye sokan bir durum oluşması veya kemik kırığına neden olunması gibi nitelikli halleri uzlaşma dışıdır. Zira bu haller ağır şiddet ve kalıcı zarar içerir.\n•   **Yağma Suçu (TCK m. 148):** Hırsızlık ile cebir veya tehdidin birleştiği bir suçtur. Mağdurun malvarlığına yönelik saldırının yanı sıra, iradesini sakatlayıcı şiddet veya tehdit içermesi sebebiyle uzlaşmaya tabi değildir.\n•   **Cinsel Saldırı Suçu (TCK m. 102) ve Çocukların Cinsel İstismarı Suçu (TCK m. 103):** Cinsel dokunulmazlığa karşı işlenen bu suçlar, mağdurun bedensel ve ruhsal bütünlüğüne yönelik ağır saldırılar olup, yasa gereği açıkça uzlaşma kapsamı dışındadır. Bu suçlarda uzlaşma, mağdurun ikincil mağduriyetine yol açma riski taşır.\n•   **İşkence (TCK m. 94) ve Eziyet (TCK m. 96) Suçları:** Bu suçlar, mağdurun beden veya ruh sağlığını derinden etkileyen, insanlık onuruna aykırı, sistematik ve sürekli şiddet eylemlerini içerir. Dolayısıyla, kesinlikle uzlaşma dışındadır.\n•   **Terör Suçları ve Örgütlü Suçlar:** Doğrudan şiddet içeren veya şiddeti araç olarak kullanan terör suçları ile kamu düzenini bozan örgütlü suçlar da uzlaşma kapsamı dışındadır. Bu tür suçlar, bireysel anlaşmalarla çözülemeyecek kadar ciddi toplumsal tehditler barındırır."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Mağdurun İkincil Mağduriyetinin Önlenmesi:** Şiddet suçlarında uzlaşma, mağdurun yeniden travma yaşamasına, şüpheli/sanık ile yüzleşmek zorunda kalmasına veya baskı altında anlaşma yapmasına neden olabilir. Bu durum, özellikle cinsel suçlar ve aile içi şiddet suçları için büyük önem taşır.\n•   **Devletin Cezalandırma Yetkisinin Vazgeçilmezliği:** Ağır şiddet suçlarında, devletin cezalandırma (ius puniendi) yetkisi ve sorumluluğu, bireylerin özel anlaşmalarına bırakılamaz. Bu suçlar sadece bireyi değil, tüm toplumu hedef alır ve kamu düzenini bozar.\n•   **Caydırıcılık ve Genel/Özel Önleme Amacı:** Uzlaşma, genellikle cezasızlıkla sonuçlandığı için, şiddet suçlarında suçluyu caydırma ve potansiyel suçlulara mesaj verme işlevini tam olarak yerine getiremez. Bu suçlarda cezanın genel ve özel önleme amaçları öne çıkar.\n•   **Toplumsal Güven ve Adalet Algısı:** Şiddet suçlarının uzlaşma ile çözülmesi, toplumda adalete olan inancı sarsabilir ve suçluların yeterince cezalandırılmadığı algısını yaratabilir. Kamu vicdanının rahatlatılması önemlidir.\n•   **Suçun Öznel ve Nesnel Şiddet Boyutu:** Bir suçun şiddet suçu olup olmadığı belirlenirken, fiilin nesnel ağırlığı (mağdura verilen zarar) kadar, failin öznel niyeti (kasten işlenmiş olması, canavarca his gibi) de dikkate alınır. TCK’da yer alan nitelikli haller bu boyutları yansıtır.\n•   **Yasada Açıkça Belirtilmeyen Durumlar:** Bazı suçlar doğrudan şiddet suçu olarak tanımlanmasa da, işleniş biçimi veya sonuçları itibarıyla şiddet unsuru taşıyabilir. Bu durumlarda da mahkemeler, suçun niteliğine göre uzlaşma hükümlerinin uygulanıp uygulanamayacağını değerlendirirken kamu düzenini ve mağdurun korunmasını göz önünde bulundurur."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Uzlaşma Kurumunun Tanımı ve Amaçları:** Uzlaşmanın ceza muhakemesi içindeki yerini, hedeflerini ve sınırlarını iyi anlayın. Uzlaşmanın bir 'alternatif çözüm' olduğunu ve her suça uygulanamadığını unutmayın.\n•   **Şiddet Suçlarının Tespiti ve Örnekleri:** TCK'daki hangi suçların şiddet suçu kapsamına girdiğini ve bunların genel özelliklerini bilin. Kasten öldürme, kasten yaralamanın nitelikli halleri, yağma, cinsel suçlar gibi temel örnekleri ve neden uzlaşma dışı olduklarını kavramak önemlidir.\n•   **Yasal Dayanaklar:** CMK m. 253'ün uzlaşmanın kapsamını nasıl belirlediğini ve hangi suçları açıkça dışladığını öğrenin. TCK'daki şiddet suçlarının maddelerini ve nitelikli hallerini genel hatlarıyla bilin.\n•   **Uzlaşma Dışı Bırakılma Gerekçeleri:** Kamu düzeni, mağdurun korunması (ikincil mağduriyet), caydırıcılık, adalet algısı gibi temel gerekçeleri içselleştirin. Bu gerekçelerin hukuk devleti ve insan hakları ilkeleriyle bağlantısını kurun.\n•   **Şikâyet ve Uzlaşma İlişkisi:** Uzlaşmanın genellikle şikâyete bağlı suçlarda uygulandığını, ancak her şikâyete bağlı suçun uzlaşmaya tabi olmadığını, özellikle şiddet içerenlerin uzlaşma dışı kaldığını ayırt edin.\n•   **Vaka Analizi:** Verilen bir vaka olayında hangi suçun işlendiğini tespit edebilme, bu suçun şiddet suçu olup olmadığını ve dolayısıyla uzlaşmaya tabi olup olmadığını yorumlayabilme becerisi kazanın."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, Türk Ceza Hukuku'nda uzlaşma kurumunun temel amaçlarından biri DEĞİLDİR?",
+      "options": {
+        "A": "Mağdurun zararının giderilmesini sağlamak.",
+        "B": "Yargı sisteminin iş yükünü azaltmak.",
+        "C": "Şüpheli veya sanığın ıslahına katkıda bulunmak.",
+        "D": "Şiddet suçlarının failine adli sicil kaydı olmaksızın cezasızlık sağlamak."
+      },
+      "correctAnswer": "D",
+      "explanation": "Uzlaşma, yargı yükünü azaltma, mağdurun zararını giderme ve failin ıslahına katkıda bulunma gibi amaçlar taşır. Ancak şiddet suçlarında cezasızlık sağlamak uzlaşmanın amacı ve kapsamı dışında olup, bu tür suçlar genellikle uzlaşmaya tabi değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Ceza Muhakemesi Kanunu'na (CMK) göre, şiddet suçlarının uzlaşma kapsamından çıkarılmasının temel gerekçesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Soruşturma makamlarının iş yükünü artırmak.",
+        "B": "Suçluların daha uzun süre hapiste kalmasını sağlamak.",
+        "C": "Kamu düzenini ve toplumsal güveni koruma ile mağdurun ikincil mağduriyetini önleme.",
+        "D": "Uzlaşma sürecinin çok karmaşık ve maliyetli olması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Şiddet suçlarının uzlaşma dışı bırakılmasında temel gerekçe, devletin kamu düzenini, toplumsal güvenliği ve adalet algısını koruma sorumluluğu ile mağdurun olası bir ikincil mağduriyetini önleme amacıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Prof. Dr. Adem Sözüer'in 'Ceza Hukuku Özel Hükümler' kitabında yer alan ve şiddet suçu niteliği taşıması nedeniyle uzlaşma kapsamı dışında kalan suçlara örnek olarak aşağıdakilerden hangisi verilemez?",
+      "options": {
+        "A": "Kasten Öldürme Suçu (TCK m. 81)",
+        "B": "Yağma Suçu (TCK m. 148)",
+        "C": "Cinsel Saldırı Suçu (TCK m. 102)",
+        "D": "Basit Mala Zarar Verme Suçu (TCK m. 151/1)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kasten öldürme, yağma ve cinsel saldırı suçları ağır şiddet suçları olup uzlaşma dışıdır. Basit mala zarar verme suçu (TCK m. 151/1) ise genellikle uzlaşmaya tabi olabilen, şiddet içermeyen bir malvarlığı suçudur. Kaynakta Mala Zarar Verme suçu belirtilmiştir ve bu suçun basit hali genelde uzlaşmaya tabi olabilir, şiddet suçu olarak nitelendirilmez."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki kasten yaralama suçunun nitelikli hallerinden hangisi, CMK'ya göre uzlaşma kapsamı dışındadır?",
+      "options": {
+        "A": "Mağdurun şikâyeti üzerine başlatılan basit kasten yaralama.",
+        "B": "Mağdurun hayatını tehlikeye sokan kasten yaralama (TCK m. 86/3-a).",
+        "C": "Failin ilk kez suç işlemesiyle meydana gelen basit kasten yaralama.",
+        "D": "Uzlaşmacı tayin edilerek çözümlenen basit kasten yaralama."
+      },
+      "correctAnswer": "B",
+      "explanation": "Basit kasten yaralama şikâyete bağlı olması halinde uzlaşmaya tabi olabilirken, mağdurun hayatını tehlikeye sokan kasten yaralama gibi nitelikli halleri, içerdiği ağır şiddet nedeniyle uzlaşma kapsamı dışındadır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Prof. Dr. Adem Sözüer'in 'Ceza Hukuku Genel Hükümler' Önsözünde belirtildiği üzere, hukuk devletinin suçlara ilişkin temel görev ve yükümlülükleri arasında aşağıdakilerden hangisi vurgulanmıştır?",
+      "options": {
+        "A": "Sadece hafif suçlarda yargılamayı hızlandırmak.",
+        "B": "Toplumsal düzenin devamlılığı için suçları önlemek, soruşturmak, sanıkları adil yargılamak ve cezalarını infaz etmek.",
+        "C": "Suç mağdurlarının her durumda kendi aralarında uzlaşmasını sağlamak.",
+        "D": "Suçluları ekonomik olarak tazmin etmek."
+      },
+      "correctAnswer": "B",
+      "explanation": "Önsözde 'Hukuk devleti, toplumsal düzeninin barış içinde bir arada devamlılığı için, suçların önlenmesi, işlendiğinde soruşturulması, sanıkların adil biçimde yargılanması ve suçlu bulunarak mahkûm edilenlerin cezalarının infaz edilmesi görev ve yükümlülüğü altındadır.' ifadesi yer almaktadır. Bu ifade, devletin suçlara ilişkin kapsamlı görevini vurgular ve şiddet suçlarının uzlaşma dışı bırakılmasının temelindeki kamu yararı ilkesini destekler."
+    }
+  ]
+}

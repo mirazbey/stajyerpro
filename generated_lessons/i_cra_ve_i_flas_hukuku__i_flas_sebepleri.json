@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **İflas:** Bir tacirin (veya İcra ve İflas Kanunu'nda iflasa tabi olduğu belirtilen diğer kişilerin/kurumların) vadesi gelmiş borçlarını ödeyememesi veya ödeme güçlüğüne düşmesi üzerine, mahkeme kararıyla tüm malvarlığının tasfiyesine yönelik başlatılan külli icra yoludur. Amacı, borçlunun tüm malvarlığını paraya çevirerek alacaklılar arasında eşit oranda paylaştırmaktır.\n•   **İflas Sebebi:** Borçlunun iflasına karar verilmesini gerektiren hukuki durum veya olaylardır. İflas kararı verilmesi için bu sebeplerin varlığı şarttır.\n•   **Borçlunun Aczi:** Borçlunun vadesi gelmiş borçlarını ödeme güçlüğüne düşmesidir. Bu durum, borçlunun aktiflerinin pasiflerini karşılayamaması veya ödeme kabiliyetinin kaybolması şeklinde ortaya çıkabilir.\n•   **Pasif İflas:** Borçlunun kendi isteğiyle iflas talebinde bulunmasıdır. Borçlunun konkordato talebinin reddedilmesi veya borca batıklık durumu gibi hallerde ortaya çıkar.\n•   **Aktif İflas:** Alacaklının borçlu hakkında iflas talebinde bulunmasıdır. Borçlunun ödemeleri tatil etmesi veya haciz yoluyla yapılan takibin sonuçsuz kalması gibi durumlarda alacaklılar iflas talebinde bulunabilir.\n•   **İflas Ertelemesi:** (Not: Bu kurum 6728 sayılı Kanun ile kaldırılmıştır.) Geçmişte, borca batık durumda olan sermaye şirketlerinin veya kooperatiflerin, iyileştirme projelerini sunarak iflas kararının ertelenmesini talep etme imkanıydı. Artık yerine konkordato kurumu geçmiştir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **Genel İflas Sebepleri (Alacaklının Talebi Üzerine İflas):**\n    •   **İİK m. 177 (Ödemelerin Tatili):** Borçlunun ödemelerini tatil etmesi, yani vadesi gelmiş borçlarını ödemeyeceğini açıkça beyan etmesi veya fiilen ödememesi. Bu durum, alacaklılar için bir iflas karinesi teşkil eder.\n    •   **İİK m. 178 (Doğrudan İflas):** Alacaklı, borçlu hakkında başlattığı haciz yoluyla takibin kesinleşmesine rağmen borçlunun borcunu ödememesi ve yeterli malının bulunmaması durumunda doğrudan iflas talebinde bulunabilir. Burada, borçlunun malvarlığının borcu karşılamaya yetmediği sabit hale gelmelidir.\n•   **Özel İflas Sebepleri (Doğrudan İflas Halleri):**\n    •   **İİK m. 179 (Sermaye Şirketlerinin Borca Batıklığı):** Sermaye şirketleri (Anonim ve Limited Şirketler) ile kooperatiflerin aktiflerinin pasiflerini karşılayamaması, yani teknik anlamda borca batık olması durumunda, şirket yöneticileri veya alacaklılar iflas davası açabilir. Bu durum, şirketin mali tablolarından anlaşılan bir acizlik halidir.\n    •   **İİK m. 179/a (Konkordato Talebinin Reddi veya Tasdik Edilmemesi):** Borçlunun konkordato talebinin mahkemece reddedilmesi veya konkordatonun tasdik edilmemesi durumunda, borçlunun iflasına resen karar verilir.\n    •   **İİK m. 180 (Mirası Ret Süresi İçinde Mirasçıların İflas Talebi):** Bir mirasçı, mirası ret süresi içinde mirasbırakanın borca batık olduğunu öğrenirse iflas talebinde bulunabilir.\n•   **Borçlunun Kendi İflas Talebi:**\n    •   **İİK m. 178/a (Borçlunun Kendi Talebi):** İflasa tabi bir borçlu, borçlarını ödeyemediğini beyan ederek ve tüm aktif ve pasiflerini gösterir bir bilanço ekleyerek kendi iflasını isteyebilir. Bu durumda mahkeme, gerekli incelemeyi yaparak iflas kararı verir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Ödemelerin Tatili):** X A.Ş., son altı aydır vadesi gelen banka kredilerini, tedarikçi faturalarını ve çalışan maaşlarını düzenli olarak ödeyememektedir. Bir banka alacaklısı, X A.Ş.'nin bu durumunu ödemeleri tatil etme olarak değerlendirerek İİK m. 177 uyarınca iflas davası açmıştır. Mahkeme, X A.Ş.'nin fiilen ödemeleri tatil ettiğine kanaat getirirse iflas kararı verebilir.\n•   **Örnek 2 (Haciz Yoluyla Takibin Sonuçsuz Kalması):** Y Ticaret Ltd. Şti.'ye karşı başlatılan bir icra takibi kesinleşmiş ve haciz işlemleri sırasında şirketin taşınır veya taşınmaz hiçbir malvarlığı tespit edilememiştir. Alacaklı, bu durum üzerine İİK m. 178 kapsamında Y Ticaret Ltd. Şti.'nin iflasını talep etmiştir. Mahkeme, yapılan araştırmalar sonucunda borçlunun malvarlığının borcu karşılamadığını tespit ederse iflas kararı verebilir.\n•   **Örnek 3 (Borca Batıklık):** Z Holding A.Ş.'nin denetim raporları ve mali tabloları incelendiğinde, şirketin aktiflerinin toplam değeri (gayrimenkuller, makine, nakit vb.) 50 milyon TL iken, vadesi gelmiş ve gelmemiş tüm borçlarının (pasiflerinin) 75 milyon TL olduğu ortaya çıkmıştır. Şirket yönetim kurulu, İİK m. 179 uyarınca Z Holding'in borca batık olduğunu tespit ederek iflas davası açmıştır.\n•   **Örnek 4 (Konkordato Talebinin Reddi):** K Tekstil A.Ş., mali sıkıntılar nedeniyle konkordato ilan etmiş ancak sunduğu konkordato projesi mahkemece reddedilmiş veya tasdik şartları oluşmadığı için tasdik edilmemiştir. İİK m. 179/a uyarınca, bu durumda mahkeme K Tekstil A.Ş.'nin iflasına re'sen karar verecektir.\n•   **Örnek 5 (Borçlunun Kendi İflas Talebi):** Bir serbest meslek erbabı olan tacir L, işlerinin kötüye gitmesi ve vadesi gelmiş önemli miktardaki borçlarını artık ödeyemeyeceğini anlamıştır. Tüm malvarlığını ve borçlarını gösteren bir bilanço hazırlayarak, İİK m. 178/a uyarınca kendi iflasının açılmasını talep etmiştir. Mahkeme, talebi ve ekli belgeleri inceleyerek iflas kararı verebilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İflas Şartları ve İflas Sebepleri Ayrımı:** İflas kararı verilebilmesi için hem iflasa tabi olma (tacir olma veya özel kanunla iflasa tabi tutulma) gibi genel şartların hem de iflas sebebinin (ödemeleri tatil etme, borca batıklık vb.) bir arada bulunması gerekir. İflas sebepleri, iflasa karar verilmesini doğrudan tetikleyen olaylardır.\n•   **İflas Ertelemesinin Kaldırılması ve Konkordatoya Geçiş:** 2016 yılında yapılan yasa değişikliği ile 'iflas ertelemesi' kurumu kaldırılmıştır. Bu durum, borca batık durumdaki şirketler için tek çözüm yolunun 'konkordato' veya 'iflas' olarak kalmasına neden olmuştur. Sınavda bu değişikliğe dikkat edilmelidir.\n•   **Tacir Olma Şartı:** Kural olarak iflasa tabi olanlar tacirlerdir. Tacir olmayan kişiler hakkında iflas yoluyla takip yapılamaz, bunlar hakkında sadece haciz yoluyla takip yapılabilir. Ancak, özel kanunlarla bazı tacir olmayan kişiler veya kurumlar da iflasa tabi tutulabilir (örn. bankalar, sigorta şirketleri).\n•   **Yetkili ve Görevli Mahkeme:** İflas davalarında görevli mahkeme Asliye Ticaret Mahkemesi'dir. Yetkili mahkeme ise borçlunun muamele merkezinin (ticaret sicilindeki adresi) bulunduğu yer Asliye Ticaret Mahkemesi'dir.\n•   **Hukuki İnceleme Zorunluluğu:** İflas sebepleri, mahkeme tarafından titizlikle incelenir. Özellikle ödemelerin tatili ve borca batıklık gibi sebeplerde mali tablolar, defterler ve diğer deliller göz önünde bulundurulur. Alacaklıların iflas taleplerinde kötü niyetli olup olmadıkları da değerlendirilebilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Kanun Maddelerine Hakimiyet:** İcra ve İflas Kanunu (İİK) madde 177, 178, 179, 179/a ve 178/a'daki iflas sebeplerini ezberlemekten ziyade, hangi durumda hangi sebep uyarınca iflas talep edilebileceğini mantığıyla kavramaya çalışın.\n•   **İflas Türleri Arasındaki Farklar:** Borçlunun kendi iflas talebi ile alacaklının iflas talebi arasındaki farkları, özellikle talep ve ispat yükü açısından iyi anlayın. Ayrıca borca batıklık ve ödemeleri tatil etme gibi genel iflas sebepleri arasındaki nüanslara dikkat edin.\n•   **Terim Bilgisi:** 'Aciz', 'borca batıklık', 'ödemelerin tatili', 'konkordato' gibi temel terimlerin hukuki anlamlarını ve birbirleriyle ilişkilerini iyi bilmek, soruları doğru yorumlamak için kritiktir.\n•   **Vaka Bazlı Sorulara Hazırlık:** Pratik örneklerde olduğu gibi, belirli bir senaryo verilerek iflas sebebi veya iflasa başvurulabilecek yolun sorulduğu sorulara karşı hazırlıklı olun. Hangi durumda hangi İİK maddesinin uygulanacağını tespit edebilme becerisi önemlidir.\n•   **Güncel Yasal Değişiklikler:** İflas ertelemesinin kaldırılması ve konkordato kurumunun önemi gibi son yasal değişikliklerin sınav sorularına yansıma ihtimali yüksektir. Bu konulara özel önem verin.\n•   **İflasın Sonuçları ile Karıştırmayın:** İflas sebepleri, iflasa yol açan hallerdir. İflasın açılmasıyla ortaya çıkan hukuki sonuçlar (müflisin ehliyetine etkisi, masanın oluşumu vb.) ayrı bir konu olup, sınavda karışıklık olmaması için iyi ayırt edilmelidir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi, İcra ve İflas Kanunu'na göre sermaye şirketleri için özel bir iflas sebebi olarak kabul edilir?",
+      "options": {
+        "A": "Borçlunun ödemelerini tatil etmesi",
+        "B": "Haciz yoluyla takibin sonuçsuz kalması",
+        "C": "Borca batıklık durumu",
+        "D": "Borçlunun kendi iflasını talep etmesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "İİK m. 179 uyarınca sermaye şirketleri ve kooperatifler için aktiflerinin pasiflerini karşılayamaması, yani borca batıklık durumu özel bir iflas sebebidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir alacaklının, borçlusu hakkında başlattığı haciz yoluyla takibin kesinleşmesine rağmen borcun ödenmemesi ve borçlunun yeterli malvarlığının bulunmaması halinde talep edebileceği iflas sebebi hangi kanun maddesinde düzenlenmiştir?",
+      "options": {
+        "A": "İİK m. 177",
+        "B": "İİK m. 178",
+        "C": "İİK m. 179",
+        "D": "İİK m. 178/a"
+      },
+      "correctAnswer": "B",
+      "explanation": "İİK m. 178, alacaklının, borçlusu hakkında haciz yoluyla başlattığı takibin kesinleşmesine rağmen borcun ödenmemesi ve borçlunun yeterli malvarlığının bulunmaması halinde iflas talebinde bulunabileceği durumu düzenler."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "İflas ertelemesi kurumu güncel Türk hukukunda halen yürürlüktedir.",
+        "B": "Kural olarak iflasa tabi olan kişiler tacirlerdir.",
+        "C": "Borçlunun kendi iflasını talep etmesi mümkündür.",
+        "D": "Konkordato talebinin reddedilmesi iflas sebebi sayılır."
+      },
+      "correctAnswer": "A",
+      "explanation": "İflas ertelemesi kurumu, 2016 yılında 6728 sayılı Kanun ile Türk hukukundan kaldırılmıştır. Günümüzde bu durum için konkordato kurumu mevcuttur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir borçlunun, vadesi gelmiş borçlarını ödeyemeyeceğini açıkça beyan etmesi veya fiilen ödememesi durumu, İİK kapsamında hangi iflas sebebini oluşturur?",
+      "options": {
+        "A": "Borca batıklık",
+        "B": "Konkordato talebinin reddi",
+        "C": "Ödemelerin tatili",
+        "D": "Mirasçıların iflas talebi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Borçlunun ödemelerini tatil etmesi (İİK m. 177), vadesi gelmiş borçlarını ödememesi veya ödeyemeyeceğini beyan etmesi durumudur ve genel bir iflas sebebidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İflas davalarında görevli ve yetkili mahkeme aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Asliye Hukuk Mahkemesi, davalının yerleşim yeri",
+        "B": "Ticaret Mahkemesi (Asliye Ticaret Mahkemesi sıfatıyla), borçlunun muamele merkezi",
+        "C": "Sulh Hukuk Mahkemesi, borçlunun yerleşim yeri",
+        "D": "İdare Mahkemesi, borçlunun faaliyet merkezi"
+      },
+      "correctAnswer": "B",
+      "explanation": "İflas davalarında görevli mahkeme Asliye Ticaret Mahkemesi'dir. Yetkili mahkeme ise borçlunun muamele merkezinin (ticaret sicilindeki adresinin) bulunduğu yer Asliye Ticaret Mahkemesi'dir."
+    }
+  ]
+}

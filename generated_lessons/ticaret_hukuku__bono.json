@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Bono (Emre Yazılı Senet):** Belirli bir meblağı, belirli bir tarihte, belirli bir kişiye kayıtsız şartsız ödeme taahhüdünü içeren, kanunen emre yazılı olarak düzenlenen bir kambiyo senedidir.\n•   **Keşideci (Borçlu/Düzenleyen):** Bonoyu düzenleyen, yani ödeme taahhüdünde bulunan asıl borçludur.\n•   **Lehtar (Alacaklı):** Bono bedelinin kendisine veya emrine ödenmesini talep etme hakkına sahip olan kişidir.\n•   **Avalist (Kefil):** Bono bedelinin ödenmesini garanti eden, borçlunun borcuna kefil olan üçüncü kişidir. Kambiyo taahhüdü altındaki herhangi bir kimse için verilebilir.\n•   **Ciro (Endorsement):** Bononun üzerindeki hakkın devrini sağlayan, yazılı bir beyandır. Bonoyu devreden kişiye 'ciranta', devralan kişiye 'cirohamili' denir.\n•   **Kambiyo Senedi Niteliği:** Bono, poliçe ve çek gibi kambiyo senetlerinden biri olup, mücerretlik (sebepten soyutluk), sıkı şekil şartları, kamu güveni ilkesi ve def’i sınırlamaları gibi kendine özgü niteliklere sahiptir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **TTK Madde 776 - Bononun Zorunlu Unsurları:**\n    1.  Senet metninde 'bono' veya 'emre yazılı senet' kelimesini içermesi.\n    2.  Kayıtsız şartsız belirli bir bedeli ödeme vaadi.\n    3.  Vade (belirli bir vade ya da 'görüldüğünde vadeli' ibaresi).\n    4.  Ödeme yeri.\n    5.  Kime veya kimin emrine ödenecekse onun adı ve soyadı.\n    6.  Senedin düzenlendiği tarih ve yer.\n    7.  Senedi düzenleyenin (keşidecinin) imzası.\n•   **TTK Madde 777 - Zorunlu Olmayan Unsurların Etkisi:** Zorunlu unsurlardan birinin eksikliği senedi geçersiz kılar. Ancak, vade belirtilmemişse görüldüğünde vadeli sayılır; ödeme yeri belirtilmemişse keşide yeri ödeme yeri sayılır; keşide yeri belirtilmemişse keşidecinin adının yanında yazılı yer keşide yeri sayılır.\n•   **TTK Madde 778 - Poliçe Hükümlerine Atıf:** Bono hakkında, niteliğine aykırı düşmedikçe, poliçeye ilişkin ciro, aval, ödeme, zamanaşımı, müracaat hakkı gibi hükümler uygulanır.\n•   **TTK Madde 779 - Vade ve Faiz Yasağı:** Bono, belirli bir günde, keşide gününden belirli bir süre sonra, görüldüğünde veya görüldüğünden belirli bir süre sonra ödenmek üzere düzenlenebilir. Bono üzerine faiz şartı yazılamaz; yazılsa dahi geçersiz sayılır (TTK m. 779/2).\n•   **TTK Madde 780 - Ödeme Yeri:** Vade ve ödeme yeri konusunda özel düzenlemeler içerir.\n•   **TTK Madde 784 - Müracaat Hakkı:** Vadesinde ödenmeyen bonodan dolayı, bono hamili, protesto çekmek suretiyle önceki cirantalar ve avalistler ile keşideciye karşı müracaat hakkını kullanabilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Eksik Bono):** Bir kişi, alacaklısına ödeme vaadi içeren, ancak üzerinde 'bono' kelimesi veya vade tarihi bulunmayan bir senet verir. Bu senet, TTK m. 776'daki zorunlu unsurları taşımadığından bono vasfını kazanamaz ve adi senet hükümlerine tabi olur.\n•   **Örnek 2 (Aval Verme):** Bir tacir, ticari borcu için düzenlediği bonoya, banka hesabındaki parası üzerinde tasarruf yetkisi olan bir arkadaşından 'aval' talep eder. Arkadaşı bononun ön yüzüne 'Aval için' yazıp imzasını atarak borcun ödenmesini garanti eder. Bu durumda arkadaşı, tacirin borcundan tıpkı tacir gibi sorumlu olur.\n•   **Örnek 3 (Ciro Zinciri ve Müracaat):** Bir bono, A tarafından B'ye, B tarafından da C'ye ciro edilmiştir. Vade tarihinde keşideci A bonoyu ödemez. C, süresinde protesto çekerek hem B'ye hem de A'ya karşı müracaat hakkını kullanabilir. B, ödemeyi yaptıktan sonra A'ya rücu edebilir.\n•   **Örnek 4 (Faiz Şartı):** Bir bono düzenlenirken, borçlunun 'aylık %2 faiz ile ödenecektir' şeklinde bir ibare eklediği varsayılsın. TTK m. 779/2 gereği, bu faiz şartı bononun geçerliliğini etkilemez ancak yazılmamış sayılır ve talep edilemez.\n•   **Örnek 5 (Zamanaşımı):** Vadesi 01.01.2023 olan bir bono, keşideci tarafından ödenmemiştir. Bono hamilinin keşideciye karşı müracaat hakkı, vade tarihinden itibaren 3 yıl içinde zamanaşımına uğrar (TTK m. 749 atfı ile 778). Eğer hamil protesto çekmezse, cirantalar ve avalistlere karşı müracaat hakkı daha kısa olan 1 yıl içinde zamanaşımına uğrar (TTK m. 749 atfı ile 778)."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Şekil Şartlarına Uygunluk:** Bononun geçerliliği, TTK m. 776'da sayılan zorunlu unsurların eksiksiz bir şekilde bulunmasına bağlıdır. Herhangi bir unsurun eksikliği, senedi bono vasfından çıkarır ve onu adi bir borç senedi haline getirebilir.\n•   **Faiz Yasağı:** Bono üzerinde yazılan faiz şartı geçersizdir (TTK m. 779/2). Bu kural, bononun ödenme anına kadar geçen süre için faiz işletilmesini engeller. Ancak vadesi gelen ve ödenmeyen bono için temerrüt faizi işleyebilir.\n•   **Mücerretlik İlkesi:** Bono, düzenlenmesine sebep olan temel hukuki ilişkiden soyut bir senettir. Yani, bonoyu elinde bulunduran hamil, borçludan senedin bedelini talep ettiğinde, borçlu genellikle senedin düzenlenmesine yol açan temel ilişkiden kaynaklanan itirazları (def’ileri) hamile karşı ileri süremez.\n•   **Avalist'in Sorumluluğu:** Aval veren kişi, lehine aval verdiği kimsenin borcundan aynen onun gibi sorumludur. Avalist, lehine aval verdiği kişinin ileri sürebileceği def’ileri ödeme güçsüzlüğü hariç ileri süremez.\n•   **Protesto ve Müracaat Hakkı:** Vadesinde ödenmeyen bono için hamilin cirantalara ve avalistlere karşı müracaat hakkını kullanabilmesi için süresinde protesto çekmesi (ödememe protestosu) veya protestodan muafiyet kaydı (protestosuz, masrafsız vb.) bulunması gerekmektedir. Protesto çekilmezse, cirantalara ve avalistlere karşı müracaat hakkı kaybedilir; sadece keşideciye karşı hak korunur."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Bononun Tanımı ve Hukuki Niteliği:** Kambiyo senetlerinin genel özellikleri (mücerretlik, sıkı şekilcilik, kamu güveni, def’i sınırlamaları) ile bononun kendine özgü tanımını ve ayırt edici niteliklerini iyi anlayın.\n•   **Zorunlu Unsurlar:** TTK m. 776'da sayılan yedi zorunlu unsuru ezberleyin ve her birinin önemini kavrayın. Bir veya birden fazla unsurun eksikliğinin senedin hukuki niteliğine etkilerini bilin.\n•   **Taraflar ve Sorumlulukları:** Keşideci, lehtar, ciranta, avalist gibi tarafların kimler olduğunu, senet üzerindeki rollerini ve hukuki sorumluluklarını detaylı olarak öğrenin. Kimin kime karşı hangi durumlarda sorumlu olduğunu anlayın.\n•   **Ciro ve Aval İşlemleri:** Cironun türleri (tam ciro, beyaz ciro), cironun bononun devrindeki rolü ve aval verme işleminin hukuki sonuçları hakkında bilgi sahibi olun.\n•   **Vade, Ödeme ve Müracaat Hakkı:** Bono vadelerinin türlerini, faiz yasağını, bononun vadesinde ödenmemesi halinde hamilin başvurabileceği yolları (protesto, müracaat hakkı) ve zamanaşımı sürelerini öğrenin. Özellikle protestonun müracaat hakkı için önemi kritik bir konudur."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi bir bononun Türk Ticaret Kanunu'na göre zorunlu unsurlarından biri değildir?",
+      "options": {
+        "A": "Senet metninde 'bono' veya 'emre yazılı senet' kelimesi",
+        "B": "Kayıtsız şartsız belirli bir bedeli ödeme vaadi",
+        "C": "Faiz şartı",
+        "D": "Senedi düzenleyenin (keşidecinin) imzası"
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Ticaret Kanunu'nun 779/2. maddesine göre, bono üzerine faiz şartı yazılamaz; yazılsa dahi geçersiz sayılır. Bu nedenle faiz şartı, bononun zorunlu bir unsuru değildir ve bononun geçerliliğini sağlamaz."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir bono üzerinde vade tarihi belirtilmemişse, Türk Ticaret Kanunu'na göre bu durum bononun geçerliliğini nasıl etkiler?",
+      "options": {
+        "A": "Bono geçersiz hale gelir.",
+        "B": "Bono görüldüğünde vadeli sayılır.",
+        "C": "Bono düzenlendiği tarihte vadeli sayılır.",
+        "D": "Bono hamilinin talebi üzerine mahkeme vadeyi belirler."
+      },
+      "correctAnswer": "B",
+      "explanation": "TTK m. 777/1'e göre, 'Vadesi gösterilmemiş bir bono görüldüğünde ödenmesi şart bonolar hükmündedir.' Bu durum bononun geçerliliğini etkilemez; yalnızca vadesinin ne şekilde belirleneceğini açıklar."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bono borcundan dolayı 'aval' veren bir kişinin sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Avalist, sadece lehine aval verdiği kişiden sonra ikincil derecede sorumludur.",
+        "B": "Avalist, lehine aval verdiği kişinin borcundan tıpkı onun gibi sorumlu olur.",
+        "C": "Avalist, bonoyu düzenleyenden daha az sorumluluğa sahiptir.",
+        "D": "Avalist, bononun ödenmemesi durumunda sadece kendi imzasının bulunduğu kısma kadar sorumludur."
+      },
+      "correctAnswer": "B",
+      "explanation": "Aval veren kişi, lehine aval verdiği kimsenin borcundan aynen onun gibi sorumlu olur (TTK m. 702 atfı ile 778). Avalist, kambiyo senedi üzerindeki borcun ödenmesini garanti eder ve asıl borçlu ile birlikte müteselsil borçlu durumundadır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Vadesinde ödenmeyen bir bono için hamilin, cirantalara ve avalistlere karşı müracaat hakkını kullanabilmesi için genellikle hangi işlemi yapması gerekir?",
+      "options": {
+        "A": "Bonoyu noterden tescil ettirmesi",
+        "B": "Ödememe protestosu çekmesi",
+        "C": "Bonoyu bankaya rehin vermesi",
+        "D": "Keşideci hakkında icra takibi başlatması yeterlidir"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bono vadesinde ödenmediği takdirde, hamilin cirantalara ve avalistlere karşı müracaat hakkını kullanabilmesi için süresinde ödememe protestosu çekmesi şarttır (TTK m. 713 atfı ile 778). Protesto, kambiyo senetleri hukukunda hakkın korunması için kritik bir işlemdir. Keşideciye karşı protesto çekmek zorunlu değildir, ancak diğer sorumlu taraflar için gereklidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "A tarafından düzenlenip B'ye verilen ve B tarafından C'ye ciro edilen bir bononun vadesi 01.03.2023'tür. Bono vadesinde ödenmemiş ve C tarafından süresinde protesto çekilmiştir. Bu durumda C'nin keşideci A'ya karşı müracaat hakkı hangi sürede zamanaşımına uğrar?",
+      "options": {
+        "A": "Vade tarihinden itibaren 6 ay",
+        "B": "Protesto tarihinden itibaren 1 yıl",
+        "C": "Vade tarihinden itibaren 3 yıl",
+        "D": "Vade tarihinden itibaren 10 yıl"
+      },
+      "correctAnswer": "C",
+      "explanation": "TTK m. 749/1'e (TTK m. 778 atfı ile) göre, 'Bono hamilinin düzenleyene karşı müracaat hakları, vadenin geldiği tarihten itibaren üç yıl geçmekle zamanaşımına uğrar.' Bu süre keşideciye karşı ileri sürülen müracaat hakkı için geçerlidir."
+    }
+  ]
+}

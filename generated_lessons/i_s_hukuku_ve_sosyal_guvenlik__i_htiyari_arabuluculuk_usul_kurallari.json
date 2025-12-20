@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Arabuluculuk:** Taraflar arasındaki hukuki uyuşmazlıkların, arabulucu adı verilen bağımsız ve tarafsız üçüncü bir kişinin katılımıyla, mahkeme dışında, daha hızlı ve dostane bir şekilde çözülmesini amaçlayan alternatif bir uyuşmazlık çözüm yöntemidir. Arabulucu karar vermez, tarafların kendi çözümlerini bulmalarına yardımcı olur.\n•   **İhtiyari Arabuluculuk:** Tarafların bir uyuşmazlık çıktığında arabulucuya başvurma konusunda kendi iradeleriyle karar verdikleri arabuluculuk türüdür. Yani, herhangi bir kanuni zorunluluk olmaksızın, taraflar tamamen kendi istekleriyle arabuluculuk sürecine dahil olurlar. İş uyuşmazlıklarında alacak ve tazminat talepleri için zorunlu arabuluculuk varken, zorunlu arabuluculuk kapsamı dışındaki iş uyuşmazlıkları veya zorunlu arabuluculuk aşamasından sonra ortaya çıkan uyuşmazlıklar ihtiyari arabuluculukla çözülebilir.\n•   **Arabulucu:** Arabuluculuk faaliyetini yürüten, Adalet Bakanlığı Arabulucular Siciline kayıtlı, tarafsız ve bağımsız kişidir. Arabulucular, hukuki bilgiye, iletişim ve müzakere becerilerine sahip olmalıdır.\n•   **Arabuluculuğun Temel İlkeleri:**\n    *   **Gönüllülük:** Taraflar, arabuluculuk sürecine kendi istekleriyle katılır ve süreci istedikleri zaman sonlandırabilirler.\n    *   **Gizlilik:** Arabuluculuk süreci boyunca yapılan tüm açıklamalar, sunulan belgeler ve varılan anlaşmalar gizlidir. Bu bilgiler mahkemede delil olarak kullanılamaz.\n    *   **Tarafsızlık ve Bağımsızlık:** Arabulucu, taraflar arasında ayrım yapmaz, hiçbir tarafa avantaj sağlamaz ve süreci objektif bir şekilde yönetir.\n    *   **Eşitlik:** Taraflar, süreçte eşit haklara sahiptir ve arabulucu tarafından eşit muamele görürler.\n•   **Arabuluculuğun Faydaları:** Yargılama sürecine göre daha hızlı, daha az maliyetli, daha esnek bir süreç sunar. Tarafların ilişkilerini koruyarak veya onararak dostane çözümler üretme potansiyeline sahiptir.\n•   **İş Uyuşmazlıklarında Kapsamı:** İşçi ile işveren arasındaki iş sözleşmesinden veya İş Kanunundan kaynaklanan alacak ve tazminat taleplerinin bir kısmı (örn. kıdem, ihbar, fazla mesai, UBGT ücreti alacakları) için zorunlu arabuluculuk getirilirken, işe iade talepleri için de zorunlu arabuluculuk mevcuttur. Bunlar dışındaki (örn. mobbing, iş kazası tazminatı gibi) veya zorunlu arabuluculuk sonrası ortaya çıkan uyuşmazlıklar ihtiyari arabuluculuk yoluyla çözüme kavuşturulabilir."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (HUAK):** Arabuluculuk kurumunun genel esaslarını, arabulucunun niteliklerini, arabuluculuk sürecinin işleyişini, gizlilik ve gönüllülük gibi temel ilkeleri düzenleyen ana kanundur.\n•   **7036 Sayılı İş Mahkemeleri Kanunu (İMİK):** İşçi ve işveren arasındaki alacak ve tazminat taleplerinin (kıdem tazminatı, ihbar tazminatı, fazla mesai ücreti, yıllık izin ücreti alacakları vb.) ile işe iade taleplerinin dava şartı olarak arabuluculuğa tabi olmasını getirmiştir. Bu kanun, iş uyuşmazlıkları özelinde zorunlu arabuluculuğu düzenlese de, ihtiyari arabuluculuk için de genel çerçeveyi korur.\n•   **Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği:** 6325 sayılı Kanunun uygulanmasına ilişkin usul ve esasları, arabulucuların sicile kaydı, eğitimleri, etik kuralları ve arabuluculuk süreci adımlarını detaylandıran ikincil mevzuattır.\n•   **Türk Borçlar Kanunu (TBK):** Özellikle sulh sözleşmesi (Madde 530 vd.) hükümleri, arabuluculuk sürecinde varılan anlaşmaların hukuki niteliği ve bağlayıcılığı açısından referans noktası oluşturur. Arabuluculuk anlaşma belgesi, bir sulh sözleşmesi niteliğinde olabilir.\n•   **4857 Sayılı İş Kanunu:** İş ilişkisinden kaynaklanan temel hak ve yükümlülükleri, işçi ve işveren arasındaki uyuşmazlıkların niteliğini belirler. Arabuluculuğun konusunu oluşturan alacak ve tazminat taleplerinin hukuki dayanağını oluşturur.\n•   **Arabuluculuk Asgari Ücret Tarifesi:** Arabuluculuk faaliyetlerinin karşılığı olan ücretin asgari miktarını belirler. İhtiyari arabuluculukta ücret, tarafların serbestçe belirleyebileceği bir anlaşmaya tabidir; ancak bu tarifenin altında olamaz. Aksi kararlaştırılmadıkça ücret taraflarca eşit ödenir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Kıdem ve İhbar Tazminatı Uyuşmazlığı:** İş sözleşmesi sona eren bir işçi, kıdem ve ihbar tazminatının eksik ödendiğini iddia ediyor. İşveren ise fesih nedeninin haklı olduğunu savunuyor. Taraflar, mahkemeye gitmeden önce, arabulucu huzurunda bir araya gelerek anlaşmaya çalışabilirler. Bu, zorunlu arabuluculuk sonrası da ihtiyari olarak devam edebilir veya zorunlu arabuluculuk kapsamına girmeyen farklı tazminat kalemleri için olabilir.\n•   **Fazla Çalışma ve UBGT Alacakları Uyuşmazlığı:** Bir işçi, uzun yıllar boyunca çalıştığı işyerinde hak ettiği fazla çalışma ve Ulusal Bayram ve Genel Tatil (UBGT) ücretlerinin kendisine ödenmediğini öne sürüyor. İşveren ise kayıtlarının aksini gösterdiğini iddia ediyor. Bu konuda açılacak davadan önce zorunlu arabuluculuk söz konusu iken, anlaşma sağlanamazsa yargılama aşamasında dahi tarafların talebi üzerine ihtiyari arabuluculuğa başvurulabilir.\n•   **İşe İade Talepli Uyuşmazlık Sonrası İhtiyari Arabuluculuk:** İşveren tarafından işten çıkarılan bir işçi, işe iade talebiyle zorunlu arabuluculuğa başvurmuş ve burada anlaşma sağlanamamıştır. İşçi işe iade davasını kazanmasına rağmen işveren işçiyi işe başlatmamıştır. Bu durumda işe başlatmama tazminatı ve boşta geçen süre ücreti için yeniden zorunlu arabuluculuk süreci başlar. Bu ikinci zorunlu arabuluculuk süreci de başarısız olursa, taraflar mahkeme sürecinin yükünü azaltmak amacıyla bu alacaklar için tekrar ihtiyari arabuluculuğa başvurabilirler.\n•   **İş Kazası veya Meslek Hastalığı Kaynaklı Maddi/Manevi Tazminat Talepleri:** Bir iş kazası sonucu yaralanan veya meslek hastalığına yakalanan bir işçi, işverenden maddi ve manevi tazminat talep ediyor. Bu tür tazminat talepleri, 7036 sayılı Kanun'un dava şartı arabuluculuk kapsamı dışındadır. Bu nedenle taraflar, doğrudan mahkemeye gitmek yerine, kendi iradeleriyle bir arabulucuya başvurarak dostane bir çözüm bulmaya çalışabilirler.\n•   **İşyerinde Mobbing veya Ayrımcılık İddiaları:** Bir işçi, işyerinde mobbinge (psikolojik taciz) veya cinsiyet ayrımcılığına uğradığını iddia ederek işverene karşı tazminat talebinde bulunmak istiyor. Bu tür uyuşmazlıklar da dava şartı arabuluculuk kapsamında değildir. Taraflar, sürecin gizliliğinden faydalanarak ve itibar zedelenmesinin önüne geçmek amacıyla ihtiyari arabuluculuk yolunu tercih edebilirler."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Sürecin Gönüllülük Esası:** İhtiyari arabuluculukta tarafların sürece katılması ve süreç boyunca kalması tamamen kendi iradelerine bağlıdır. Zorlama veya baskı kabul edilemez. Bu ilke, sürecin etkinliği ve tarafların tatmini açısından kritik öneme sahiptir.\n•   **Anlaşma Belgesinin Hukuki Niteliği:** Arabuluculuk sonucunda imzalanan anlaşma belgesi, taraflar ve avukatları ile arabulucunun imzasıyla geçerli olur. Bu belge, icra edilebilirlik şerhi alınarak mahkeme kararı (ilam) niteliği kazanabilir ve doğrudan icraya konulabilir. Bu durum, yargılama süresince verilen bir kararın sonuçlarına eşdeğerdir.\n•   **Hak Düşürücü Süreler ve Zamanaşımı:** İhtiyari arabuluculuğa başvurmak, dava açma sürelerini veya zamanaşımı sürelerini kendiliğinden durdurmaz veya kesmez. Tarafların, arabuluculuk sürecinde dahi bu süreleri yakından takip etmeleri ve hak kaybına uğramamak için gerekli yasal adımları atmaları önemlidir.\n•   **Arabuluculuk Ücreti ve Masrafların Paylaşımı:** İhtiyari arabuluculukta arabuluculuk ücreti ve süreçle ilgili diğer masraflar (örn. bilirkişi ücreti), taraflarca aksine anlaşma yapılmadıkça eşit olarak paylaşılır. Taraflar, ücreti ve paylaşım oranını arabuluculuk süreci başlamadan önce serbestçe kararlaştırabilirler.\n•   **Arabulucunun Rolü ve Sınırları:** Arabulucu, tarafların kendi çözümlerini bulmalarına yardımcı olan bir kolaylaştırıcıdır. Taraflara hukuki tavsiye veremez veya bir tarafın lehine/aleyhine hareket edemez. Karar verme yetkisi tamamen taraflara aittir.\n•   **Gizlilik İlkesinin Önemi:** Arabuluculuk sürecinde paylaşılan tüm bilgiler ve teklifler gizlidir. Bu durum, tarafların çekinmeden açıkça konuşmalarını ve samimi çözümler üretmelerini teşvik eder. Gizliliğin ihlali, hukuki sorumluluk doğurabilir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temel Tanımlara Hakim Olma:** Arabuluculuk, ihtiyari arabuluculuk, zorunlu arabuluculuk, arabulucu, anlaşma belgesi gibi temel kavramların tanımlarını ve farklılıklarını iyi bilmek.\n•   **Yasal Dayanakları ve Kapsamı Anlama:** 6325 sayılı HUAK ve 7036 sayılı İMİK'in genel hükümlerini ve iş uyuşmazlıklarında arabuluculuğun hangi durumlarda zorunlu, hangi durumlarda ihtiyari olduğunu ayırt edebilmek. Hangi alacak ve tazminat türlerinin hangi kapsamda olduğunu öğrenmek.\n•   **Arabuluculuğun Temel İlke ve Faydalarını Kavrama:** Gönüllülük, gizlilik, tarafsızlık, eşitlik gibi ilkelerin ne anlama geldiğini ve arabuluculuğun yargılamaya göre sunduğu avantajları (hız, maliyet, dostane çözüm vb.) bilmek.\n•   **Arabuluculuk Anlaşma Belgesinin Hukuki Sonuçları:** İmzalanan anlaşma belgesinin hukuki niteliğini, icra edilebilirlik şerhi almanın önemini ve bu belgenin mahkeme kararı yerine geçme özelliğini anlamak.\n•   **Süreler ve Diğer Önemli Noktalar:** Hak düşürücü süreler ve zamanaşımı süreleri üzerindeki etkileri, arabuluculuk ücretinin paylaşımı gibi pratik detayları gözden geçirmek.\n•   **Vaka Analizi Yeteneği:** Verilen bir olayı ihtiyari arabuluculuk kapsamında değerlendirebilme, hangi aşamada hangi kuralın uygulanacağını öngörebilme becerisini geliştirmek."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi ihtiyari arabuluculuğun temel özelliklerinden biri değildir?",
+      "options": {
+        "A": "Tarafların sürece kendi iradeleriyle katılması",
+        "B": "Arabulucunun taraflara bağlayıcı bir karar vermesi",
+        "C": "Süreçte elde edilen bilgilerin gizli tutulması",
+        "D": "Tarafların süreci istedikleri zaman sonlandırabilmesi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arabulucunun görevi, taraflar arasında uzlaşmayı sağlamak üzere kolaylaştırıcılık yapmaktır; ancak taraflara bağlayıcı bir karar verme yetkisi bulunmamaktadır. Kararı taraflar verir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İş uyuşmazlıklarında ihtiyari arabuluculuğun yasal çerçevesini belirleyen temel kanunlar arasında aşağıdakilerden hangisi en kapsayıcıdır?",
+      "options": {
+        "A": "4857 Sayılı İş Kanunu",
+        "B": "6098 Sayılı Türk Borçlar Kanunu",
+        "C": "6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+        "D": "7036 Sayılı İş Mahkemeleri Kanunu"
+      },
+      "correctAnswer": "C",
+      "explanation": "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, arabuluculuk kurumunun genel esaslarını, ilkelerini ve işleyişini düzenleyen ana kanundur. Diğer kanunlar ise iş uyuşmazlıkları özelindeki zorunlu arabuluculuk veya genel borçlar hukuku ilişkilerini düzenler."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Bir işçi ve işveren arasındaki iş kazası kaynaklı maddi ve manevi tazminat talepleri için arabuluculuğa başvurulması durumunda, bu arabuluculuk türü aşağıdakilerden hangisine girer?",
+      "options": {
+        "A": "Dava Şartı Arabuluculuk",
+        "B": "Zorunlu Arabuluculuk",
+        "C": "İhtiyari Arabuluculuk",
+        "D": "Yargısal Arabuluculuk"
+      },
+      "correctAnswer": "C",
+      "explanation": "İş kazası veya meslek hastalığı kaynaklı maddi ve manevi tazminat talepleri, 7036 sayılı İş Mahkemeleri Kanunu kapsamında dava şartı arabuluculuk kapsamına girmemektedir. Bu nedenle, tarafların kendi iradeleriyle başvurdukları bu arabuluculuk, ihtiyari arabuluculuktur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İhtiyari arabuluculuk süreci sonunda taraflarca imzalanan ve içeriği itibarıyla anlaşılan bir belge hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Her durumda mahkeme onayına ihtiyaç duymadan doğrudan icra edilebilir.",
+        "B": "Sadece tarafları bağlar, üçüncü kişiler üzerinde hiçbir etkisi yoktur.",
+        "C": "İcra edilebilirlik şerhi alınmasıyla mahkeme kararı (ilam) niteliği kazanabilir.",
+        "D": "Yalnızca hukuki tavsiye niteliğindedir ve bağlayıcılığı yoktur."
+      },
+      "correctAnswer": "C",
+      "explanation": "Arabuluculuk anlaşma belgesi, icra edilebilirlik şerhi alınması halinde mahkeme kararı (ilam) niteliği kazanır ve doğrudan icraya konulabilir. Aksi takdirde, taraflar arasında bir sözleşme niteliğindedir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İş hukukunda ihtiyari arabuluculuk sürecinde, arabuluculuk ücretinin ve diğer masrafların paylaşımı konusunda genel kural nedir?",
+      "options": {
+        "A": "Tüm masrafları davayı kaybeden taraf öder.",
+        "B": "Tüm masrafları her zaman işveren öder.",
+        "C": "Aksi kararlaştırılmadıkça, masraflar taraflarca eşit olarak paylaşılır.",
+        "D": "Masrafları sadece arabuluculuğa başvuran taraf öder."
+      },
+      "correctAnswer": "C",
+      "explanation": "İhtiyari arabuluculukta, taraflar aksini kararlaştırmadıkça, arabuluculuk ücreti ve süreçle ilgili diğer masraflar taraflarca eşit olarak paylaşılır."
+    }
+  ]
+}

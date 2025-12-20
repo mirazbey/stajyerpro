@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler, Türk İflas Hukuku, ticaret hayatının dinamikleri içerisinde şirketlerin ve kişilerin ekonomik yaşamlarını sürdürmekte güçlük çektiği anlarda devreye giren, alacaklıların alacaklarını mümkün olan en eşit ve adil şekilde tahsil etmesini sağlayan, borçluların ise ticari yaşamdan tasfiyesini ya da yeniden yapılandırılmasını düzenleyen temel bir hukuk dalıdır. Bu ders kapsamında, özellikle 'İflas Karar Süreçlerinde Değişiklikler' konusuna odaklanacak, Türk İcra ve İflas Kanunu (İİK) çerçevesinde meydana gelen son yenilikleri ve bunların pratik sonuçlarını derinlemesine inceleyeceğiz. İflas, bir borçlunun ödeme aczi içerisinde bulunması ve bu durumun mahkeme kararıyla tespitiyle açılan, tüm mal varlığının tasfiyesini hedefleyen toplu bir takip yoludur. Amacı, borçlunun tüm mal varlığını tasfiye ederek, elde edilen değerin alacaklılara kanunda belirtilen sıra ve oranlarda paylaştırılmasıdır. İflasın temel prensipleri arasında alacaklılar arasında eşitlik (garantiler hariç), hızlı ve etkin tasfiye, şeffaflık ve adil yargılanma hakkı yer almaktadır. Dersin temelini oluşturan İİK, Türk hukuk sisteminde icra ve iflas süreçlerinin ana düzenleyicisidir. Bu kanun, tarihsel süreç içerisinde birçok değişikliğe uğramış, özellikle ekonomik kriz dönemlerinde veya AB müktesebatına uyum süreçlerinde önemli adaptasyonlar geçirmiştir. Yakın geçmişteki en kritik değişikliklerden biri, iflasın ertelenmesi kurumunun kaldırılması ve yerine konkordato müessesesinin daha etkin hale getirilmesidir. Anayasa Hukuku'nun temel esasları ise, tüm bu yasal düzenlemelere ışık tutan, hukuk devletinin, adil yargılanma hakkının, mülkiyet hakkının ve hukuki güvenlik ilkesinin iflas süreçlerinde de eksiksiz uygulanmasını gerektiren bir çerçeve sunar. Bu bağlamda, iflas karar süreçlerindeki her değişiklik, Anayasal güvencelerle uyumlu olmak zorundadır. Dersimizin bu giriş bölümünde iflasın tanımını, amacını, hukuki niteliğini ve Türk İcra ve İflas Kanunu'nun bu alandaki merkezi rolünü kavramsal düzeyde ele alarak, sonraki adımlarda derinlemesine inceleyeceğimiz değişikliklerin zeminini oluşturmuş olacağız. Ayrıca, iflas ve konkordato arasındaki temel farkları da ana hatlarıyla belirterek, bu iki kurumun karar süreçlerindeki etkileşimini anlamaya başlayacağız."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Son Değişiklikler",
+      "content": "Türk İflas Hukuku'nun yasal çerçevesini büyük ölçüde İcra ve İflas Kanunu (İİK) belirlemektedir. Ancak bu çerçeve zaman zaman önemli değişikliklere uğramış, özellikle son yıllarda konkordato ve iflas süreçlerine ilişkin köklü reformlar yapılmıştır. Bu bölümde, iflas karar süreçlerini doğrudan etkileyen bu önemli değişiklikleri detaylı bir şekilde inceleyeceğiz. En önemli değişikliklerden biri, 6102 sayılı Türk Ticaret Kanunu ile getirilen ve 2018 yılında 7101 sayılı kanun ile tamamen kaldırılan 'iflasın ertelenmesi' kurumudur. Bu kurum, borçlu şirketlerin mali durumlarını düzeltmeleri için bir süre tanıyor, ancak uygulamada genellikle kötü niyetli kullanımlara ve alacaklıların zararına yol açıyordu. İflasın ertelenmesi kurumunun kaldırılmasıyla birlikte, borçlu şirketlerin mali sıkıntılarını aşmak için başvurabilecekleri ana yol, 'konkordato' haline gelmiştir. Konkordato, borçlunun alacaklılarla anlaşarak borçlarını belirli bir plan dahilinde ödemeyi veya borçlarından belirli oranlarda feragat etmelerini sağlamayı amaçlayan bir yeniden yapılandırma sürecidir. İflas karar süreçleri açısından, konkordato talebinin reddedilmesi veya konkordato projesinin tasdik edilmemesi durumunda borçlunun doğrudan iflasına karar verilebilmesi, bu iki kurum arasındaki ilişkiyi hayati kılmaktadır. Bu durum, mahkemelerin iflas kararı vermeden önce konkordato süreçlerini titizlikle incelemesini ve borçlunun gerçekten bir kurtarma şansının olup olmadığını değerlendirmesini zorunlu kılmaktadır. Mahkemeler, geçici mühlet ve kesin mühlet süreçlerinde, borçlunun dürüstlüğünü, finansal durumunu ve konkordato projesinin makuliyetini değerlendirir. Ayrıca, 2018 yılında yapılan değişikliklerle konkordato komiserlerinin atanması, görev ve yetkileri ile alacaklılar kurulu mekanizması güçlendirilmiş, bu da iflasa giden süreçlerin daha şeffaf ve denetlenebilir olmasını sağlamıştır. Elektronik Tebligat (E-Tebligat) uygulaması da iflas süreçlerinde önemli bir verimlilik artışı sağlamıştır. Tebligatların hızlı ve güvenilir bir şekilde yapılması, iflas karar süreçlerinin hızlanmasına katkıda bulunmuştur. Adli Tatil uygulamaları ise, bazı acil iflas süreçlerinde dikkate alınması gereken bir husustur; genel olarak iflas davaları adli tatilde de görülebilse de, belirli sürelerin hesaplanmasında dikkatli olmak gerekmektedir. Anayasal ilkeler açısından bakıldığında, tüm bu yasal değişiklikler, mülkiyet hakkının korunması, hukuki güvenlik ve adil yargılanma hakkı çerçevesinde değerlendirilmelidir. Özellikle iflasın ertelenmesi kurumunun kaldırılması ve konkordatonun ön plana çıkması, alacaklıların haklarını daha etkin bir şekilde koruma amacı taşımakta ve bu da Anayasal güvencelerle uyumlu bir yaklaşımı temsil etmektedir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve Süreç Analizi",
+      "content": "İflas karar süreçlerinde yaşanan değişikliklerin pratik uygulamalarını ve bu süreçlerin analizini yapmak, konunun daha iyi anlaşılması için kritik öneme sahiptir. İflas yoluyla takibin başlaması, bir alacaklının talebi üzerine ya da belirli durumlarda borçlunun kendisinin iflasını istemesiyle mümkündür. İflas talepleri, yetkili Asliye Ticaret Mahkemelerine yapılır. Mahkeme, talebi değerlendirirken borçlunun ödeme aczi içinde olup olmadığını titizlikle inceler. Burada güncel uygulamada karşılaşılan en önemli durum, borçlunun öncelikle konkordato talebinde bulunup bulunmadığının değerlendirilmesidir. Eğer borçlu konkordato talebinde bulunmuş ve geçici mühlet kararı almışsa, alacaklıların iflas talepleri bu süreçte genellikle bekletilmekte veya konkordato sürecinin sonucuna bağlanmaktadır. Konkordato sürecinin başarıyla tamamlanamaması (projenin reddi veya tasdik edilmemesi) durumunda, mahkeme borçlunun iflasına kendiliğinden karar verebilir. Bu durum, iflas karar süreçlerini konkordato ile iç içe geçmiş bir hale getirmiştir. Mahkeme, iflas kararı vermeden önce borçluyu dinler, delilleri değerlendirir ve gerekli gördüğü takdirde bilirkişi incelemesi yaptırabilir. İflas kararı verildiğinde, bu karar resen ilgili ticaret siciline tescil ve ilan edilir. İlanın ardından, iflas kararının kesinleşmesi beklenir ve iflas müdürlüğü tarafından bir iflas masası oluşturulur. İflas masasının oluşturulmasıyla birlikte, borçlunun tüm mal varlığı, iflas masasına dahil olur ve borçlu, bu mallar üzerinde tasarruf yetkisini kaybeder. İflas kararı aynı zamanda, iflasın açıldığı anda borçlunun vadesi gelmemiş tüm borçlarının muaccel hale gelmesine neden olur. Bu, alacaklıların alacaklarını iflas masasına kaydettirmeleri için yasal bir çerçeve sunar. Pratik uygulamalarda, iflas idaresinin oluşturulması, alacak kayıtlarının incelenmesi, iflas tasfiyesinin yürütülmesi ve alacaklılar toplantısının yapılması süreçleri büyük önem taşır. Özellikle alacaklılar toplantılarında, alacaklıların iflas idaresinin kararlarını onaylaması veya itiraz etmesi, sürecin seyrini etkiler. Elektronik tebligatın yaygınlaşması, tebligat sürelerinin kısalmasına ve dolayısıyla sürecin hızlanmasına katkı sağlamıştır. Ancak, özellikle büyük ve karmaşık iflas dosyalarında, tasfiye sürecinin uzaması, mal varlığının tespiti ve paraya çevrilmesindeki güçlükler gibi sorunlar hala mevcuttur. Mahkemelerin konkordato ve iflas davalarındaki güncel yorumları ve Yargıtay içtihatları, bu süreçlerin uygulanmasında birleştirici bir rol oynamaktadır. Eğitimci olarak vurgulamak isterim ki, bu süreçlerin her adımında hukuki bilgiye ve tecrübeye sahip profesyonellerin (avukatlar, konkordato komiserleri, iflas idaresi memurları) aktif rol alması, sürecin adil ve verimli işlemesi için elzemdir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Sorun Alanları",
+      "content": "İflas karar süreçlerindeki değişiklikler, beraberinde birçok dikkat edilmesi gereken husus ve potansiyel sorun alanı getirmektedir. Bu bölümde, hem borçlular hem de alacaklılar açısından bu kritik noktaları ve hukuki pratikadaki zorlukları ele alacağız. Birincil olarak, 'kötüye kullanım riskleri' her zaman mevcuttur. Özellikle konkordato kurumunun iflasa giden yolda bir köprü vazifesi görmesiyle, bazı borçluların mali durumlarını gizlemeye veya alacaklıları yanıltmaya çalışması mümkündür. Mahkemeler ve konkordato komiserleri, bu tür kötü niyetli girişimleri engellemek için büyük bir sorumluluk taşımaktadır. Süreçlerdeki gecikmeler, iflas hukukunun kronik sorunlarından biridir. Mal varlığının tespiti, değerlemesi ve paraya çevrilmesi, özellikle büyük ve çok uluslu şirketlerde karmaşık ve zaman alıcı olabilmektedir. Bu gecikmeler, alacaklıların tahsilat beklentilerini düşürürken, borçlunun da yeniden ticari hayata dönme şansını azaltabilir. Mahkemelerin iş yükü, bilirkişi raporlarının hazırlanma süresi ve yargılama usullerindeki bürokratik engeller, gecikmelerin temel nedenleri arasında yer alabilir. Uluslararası iflas hukuku ile entegrasyon sorunları da göz ardı edilmemelidir. Globalleşen ticaret dünyasında, borçlunun mal varlığının farklı ülkelerde bulunması veya yabancı alacaklıların olması, iflas süreçlerini daha karmaşık hale getirmektedir. Türk hukuku, uluslararası özel hukuk kuralları çerçevesinde bu tür durumları ele alsa da, farklı hukuk sistemleri arasındaki uyum eksikliği ve icra edilebilirlik sorunları devam edebilmektedir. Kişisel Verilerin Korunması Kanunu (KVKK) ile iflas süreçleri arasında da bir denge kurulması gerekmektedir. Borçlunun ve alacaklıların kişisel ve finansal verilerinin işlenmesi, iflas masası tarafından toplanması ve paylaşılması, KVKK hükümlerine uygun olmalı, veri güvenliği ve gizliliği sağlanmalıdır. Dijitalleşmenin getirdiği zorluklar ve fırsatlar da bir diğer önemli başlıktır. E-tebligat ve UYAP üzerinden yürütülen işlemler süreci hızlandırırken, siber güvenlik riskleri ve dijital okuryazarlık düzeyi düşük taraflar için erişim sorunları gibi zorlukları da beraberinde getirmektedir. Mevzuatın yorum farklılıkları ise, Türk hukuk sisteminin genel bir sorunudur. Aynı kanun maddesinin farklı mahkemeler tarafından farklı yorumlanması, hukuki belirsizliklere yol açabilir. Bu durum, Yargıtay içtihatları ile giderilmeye çalışılsa da, uygulamanın yeknesaklığını sağlamak her zaman kolay olmamaktadır. Son olarak, yargısal güvenceler ve anayasal ilkeler, bu süreçlerdeki her türlü gelişmenin temelini oluşturur. Adil yargılanma hakkı, mülkiyet hakkı, hukuki güvenlik ilkesi gibi Anayasal değerler, iflas süreçlerinin hem borçlu hem de alacaklı açısından şeffaf, hızlı ve hakkaniyetli bir şekilde yürütülmesini sağlamalıdır. Bu ilkelerden sapmalar, hukukun üstünlüğü ilkesini zedeleyecektir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bu ders kapsamında, Türk İflas Hukuku'nun dinamik yapısını, özellikle iflas karar süreçlerinde yaşanan temel değişiklikler üzerinden detaylı bir şekilde inceledik. Dersimizin ana temasını oluşturan en önemli değişim, 'iflasın ertelenmesi' kurumunun kaldırılarak, yerine 'konkordato' müessesesinin çok daha aktif bir hale getirilmesi ve iflas süreçleriyle organik bir bağ kurulmasıdır. Bu değişiklik, borçlu şirketlere iflastan önce mali durumlarını düzeltmek için şeffaf ve denetlenebilir bir yol sunarken, alacaklıların haklarının korunmasını da önceliklendirmiştir. Konkordato sürecinin başarıyla sonuçlanmaması, doğrudan iflasa giden yolu açmakta, bu da mahkemelerin konkordato taleplerini değerlendirirken gösterdiği hassasiyetin artmasına neden olmaktadır. İflas karar süreçlerinde yaşanan diğer önemli gelişmeler arasında, elektronik tebligatın yaygınlaşmasıyla artan hız ve verimlilik, yargısal denetimin önemi ve süreçlerdeki şeffaflık ihtiyacı yer almaktadır. Ayrıca, iflasın ilanı, iflas masasının oluşumu, alacak kayıt ve tasfiye süreçleri gibi pratik uygulamalar üzerinden de iflas sürecinin işleyişini analiz ettik. Dikkat edilmesi gerekenler başlığı altında ise, kötüye kullanım riskleri, süreçlerdeki gecikmeler, uluslararası boyutlar, kişisel verilerin korunması ve mevzuatın yorum farklılıkları gibi önemli sorun alanlarına değindik. Bu sorunların üstesinden gelmek için hukuk profesyonellerine, yargı organlarına ve yasal düzenleyicilere büyük görevler düşmektedir. Anayasal ilkeler, tüm bu değişikliklerin ve uygulamaların temelini oluşturmakta, hukukun üstünlüğü ve adil yargılanma hakkının iflas süreçlerinde de eksiksiz uygulanmasını zorunlu kılmaktadır. Unutulmamalıdır ki, iflas hukuku, sadece şirketlerin değil, tüm bir ekonominin sağlığı açısından hayati bir öneme sahiptir. Şirketlerin mali sıkıntılarını şeffaf ve adil bir süreçle çözüme kavuşturmak, hem alacaklıların güvenini tesis etmek hem de ekonomik istikrarı korumak adına elzemdir. Gelecekte, Türk İflas Hukuku'nun dijitalleşme, uluslararasılaşma ve sürdürülebilirlik ilkeleri doğrultusunda daha da gelişeceği öngörülmektedir. Bu dersle birlikte, iflas karar süreçlerindeki değişiklikleri kapsamlı bir şekilde anlamış ve bu alandaki güncel yaklaşımları değerlendirme yeteneği kazanmış olduğunuzu umuyorum. Herhangi bir sorunuz olduğunda veya konuyu daha derinlemesine tartışmak istediğinizde, lütfen benimle iletişime geçmekten çekinmeyin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk İflas Hukuku'nda iflas karar süreçlerinde yapılan köklü değişikliklerden biri olan 'iflasın ertelenmesi' kurumunun kaldırılmasının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Borçlu şirketlerin, mali durumlarını düzeltmek için daha uzun süre kazanmalarını sağlamak.",
+        "B": "İflasın ertelenmesi kurumunun kötü niyetli kullanımlarını engellemek ve alacaklıların haklarını daha etkin korumak.",
+        "C": "Konkordato kurumunun tamamen ortadan kaldırılması için zemin hazırlamak.",
+        "D": "Mahkemelerin iflas davalarındaki iş yükünü artırmak."
+      },
+      "correctAnswer": "B",
+      "explanation": "İflasın ertelenmesi kurumunun kaldırılmasının temel amacı, bu kurumun uygulamada kötü niyetli kullanımlara yol açması ve alacaklıların alacaklarına ulaşmasını geciktirmesiydi. Yerine geçen konkordato kurumu, daha şeffaf ve denetlenebilir bir yeniden yapılandırma süreci sunarak alacaklı haklarını daha etkin korumayı amaçlar."
+    },
+    {
+      "questionNumber": 2,
+      "question": "2018 yılında yapılan yasal düzenlemelerle Türk İflas Hukuku'nda iflasın ertelenmesi kurumunun yerine getirilen ve iflas karar süreçlerini doğrudan etkileyen ana müessese aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adli Tasfiye",
+        "B": "Cebri İcra",
+        "C": "Konkordato",
+        "D": "İdari İflas"
+      },
+      "correctAnswer": "C",
+      "explanation": "7101 sayılı kanun ile yapılan düzenlemelerle iflasın ertelenmesi kaldırılmış, yerine borçlunun mali durumunu düzelterek iflastan kurtulması için bir yol olarak konkordato kurumu daha etkin hale getirilmiştir. Konkordatonun başarısız olması durumunda ise genellikle iflasa karar verilmektedir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi iflas karar süreçlerinde elektronik tebligat (e-tebligat) uygulamasının sağladığı faydalardan biri değildir?",
+      "options": {
+        "A": "Tebligat sürelerinin kısalması.",
+        "B": "Süreçlerin daha şeffaf hale gelmesi.",
+        "C": "Yargılama giderlerinin artması.",
+        "D": "Tebligatın daha güvenilir bir şekilde yapılması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Elektronik tebligat uygulaması, tebligat sürelerini kısaltarak süreçleri hızlandırır, şeffaflığı artırır ve daha güvenilir bir tebligat yöntemi sunar. Aksine, posta ve kağıt masraflarını azalttığı için yargılama giderlerinin azalmasına katkıda bulunur, artırmaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "İflas kararı verildiğinde, borçlunun mal varlığı üzerindeki tasarruf yetkisini kaybetmesi ve tüm mallarının iflas masasına dahil olması durumu hangi aşamada gerçekleşir?",
+      "options": {
+        "A": "Geçici konkordato mühleti kararı ile.",
+        "B": "Kesin konkordato mühleti kararı ile.",
+        "C": "İflas kararı kesinleştiğinde ve iflas müdürlüğü tarafından iflas masası oluşturulduğunda.",
+        "D": "Alacaklılar toplantısının sonunda."
+      },
+      "correctAnswer": "C",
+      "explanation": "İflas kararı kesinleştiğinde ve iflas müdürlüğü tarafından iflas masası oluşturulduğunda, borçlunun tüm mal varlığı iflas masasına dahil olur ve borçlu, bu mallar üzerindeki tasarruf yetkisini kaybeder."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Türk İflas Hukuku'nda, iflas karar süreçlerinin Anayasa Hukuku'nun hangi temel ilkesi ile yakın ilişki içinde olması beklenir?",
+      "options": {
+        "A": "Laiklik ilkesi.",
+        "B": "Milli egemenlik ilkesi.",
+        "C": "Adil yargılanma hakkı ve hukuki güvenlik ilkesi.",
+        "D": "Üniter devlet ilkesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "İflas karar süreçleri, borçlu ve alacaklıların haklarını doğrudan etkilediği için adil yargılanma hakkı, hukuki güvenlik ve mülkiyet hakkı gibi Anayasal ilkelerle yakın ilişki içerisindedir. Bu ilkeler, süreçlerin şeffaf, hızlı ve hakkaniyetli bir şekilde yürütülmesini güvence altına alır."
+    }
+  ]
+}

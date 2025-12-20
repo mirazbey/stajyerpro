@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler ve hukuk uygulayıcıları, Türk Ceza Muhakemesi Hukuku'nun önemli kurumlarından biri olan 'Adli Kontrol' müessesesini ve özellikle 'Adli Kontrol Süreleri' konusunu bu dersimizde ayrıntılı olarak ele alacağız. Ceza muhakemesinin temel ilkelerinden biri olan 'özgürlük ve güvenlik hakkı' ile 'adaletin etkin işleyişi' arasındaki hassas dengeyi sağlayan adli kontrol, tutuklamaya alternatif bir koruma tedbiri olarak karşımıza çıkmaktadır. Anayasamızın 19. maddesinde güvence altına alınan kişi hürriyeti ve güvenliği hakkı, ancak kanunda belirtilen hallerde ve usulüne göre kısıtlanabilir. Bu bağlamda, tutuklama tedbirinin istisnai bir durum olması ve son çare olarak uygulanması gerekliliği, adli kontrolün önemini artırmaktadır. Adli kontrol, şüpheli veya sanığın henüz suçluluğu kesinleşmemişken, yargılama sürecinde kaçmasını, delilleri karartmasını veya mağdur üzerinde baskı kurmasını engellemeyi amaçlar. Ancak bunu yaparken, tutuklama kadar ağır bir sınırlama getirmeyerek, kişinin özgürlüğünü en az düzeyde kısıtlamayı hedefler. Türk Ceza Muhakemesi Kanunu (CMK) madde 109 ve devamında düzenlenen adli kontrol, bir koruma tedbiri olmasının yanı sıra, tutuklama nedenlerinin varlığına rağmen tutuklamanın ölçülü olmaması veya tutuklama yerine adli kontrolün yeterli olacağının değerlendirildiği durumlarda uygulanır. Bu dersin temel amacı, adli kontrolün ne olduğunu, hangi koşullarda uygulandığını ve özellikle uygulama süreleri ile bu sürelerin uzatılmasına ilişkin hukuki çerçeveyi detaylı bir şekilde anlamaktır. Bu kavramları doğru anlamak, hem temel hak ve özgürlüklerin korunması hem de ceza yargılamasının etkinliği açısından kritik öneme sahiptir. Kemal Gözler'in Anayasa Hukuku temel esaslarına dair eserleri de bu sürecin anayasal boyutunu anlamamız için önemli bir perspektif sunmaktadır, zira koruma tedbirleri daima anayasal güvenceler çerçevesinde ele alınmalıdır. Ders boyunca güncel mevzuat hükümleri ve Yargıtay uygulamaları ışığında konuyu derinlemesine inceleyeceğiz."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Adli kontrol müessesesi, Türk Ceza Muhakemesi Kanunu'nun (CMK) 109 ila 115. maddeleri arasında detaylı bir şekilde düzenlenmiştir. Bu düzenlemeler, adli kontrolün uygulanma koşullarını, hangi hallerde talep edilebileceğini, kim tarafından karar verileceğini ve ne tür yükümlülükler içerebileceğini belirler. CMK madde 109'a göre, bir şüpheli veya sanık hakkında tutuklama nedenlerinin varlığı halinde, tutuklama kararı vermek yerine, adli kontrol altına alınmasına karar verilebilir. Ancak bu kararın verilebilmesi için, tutuklama yasağına aykırı bir durumun bulunmaması ve adli kontrolün tutuklama amacını gerçekleştirebilecek ölçüde yeterli olması gerekmektedir. Adli kontrol, sadece soruşturma evresinde sulh ceza hâkimi, kovuşturma evresinde ise görevli ve yetkili mahkeme tarafından verilebilecek bir karardır. CMK madde 109'un üçüncü fıkrasında adli kontrol tedbirleri tek tek sayılmıştır. Bu tedbirler arasında, yurtdışına çıkış yasağı, belirlenen yerlere belirli zamanlarda imza atma yükümlülüğü, konutunu terk etmeme (ev hapsi), belirli bir bölgeye girmeme veya belirli yerlerde bulunmama, bir güvence bedeli yatırma, silah taşımama veya bulundurmama, araç kullanmama gibi çeşitli yükümlülükler yer almaktadır. Bu tedbirlerin amacı, şüphelinin veya sanığın kaçmasını, delilleri karartmasını veya suçun mağdurları üzerinde baskı kurmasını engellemek, ancak bunu en az kısıtlayıcı yöntemle yapmaktır. Adli kontrol tedbirlerinin seçimi ve kapsamı, suçun niteliği, şüphelinin durumu, kaçma şüphesi veya delil karartma ihtimali gibi somut olayın özelliklerine göre hâkim veya mahkeme tarafından belirlenir. Özellikle, cinsel dokunulmazlığa karşı işlenen suçlar veya çocuklara karşı işlenen suçlar gibi hassas suç tiplerinde, kanunda özel adli kontrol tedbirleri öngörülebilmektedir. CMK madde 110 ve 110/A, adli kontrolün sona ermesi ve süreleri hakkında önemli düzenlemeler içermektedir. Bu maddeler, adli kontrol kararının kaldırılabileceği halleri ve bu kararın re’sen veya talep üzerine ne şekilde gözden geçirileceğini belirtir. Bu yasal çerçeve, adli kontrolün hem bireysel özgürlükleri koruyan hem de ceza yargılamasının amacına hizmet eden bir denge unsuru olarak işlev görmesini sağlamaktadır."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Süreler ve Uzatma Prosedürleri",
+      "content": "Adli kontrol süreleri, Türk Ceza Muhakemesi Kanunu'nun (CMK) 110/A maddesinde detaylı bir şekilde düzenlenmiştir ve konunun en kritik boyutunu oluşturur. Bu düzenleme, şüpheli veya sanığın özgürlük ve güvenlik hakkını güvence altına almak, ancak aynı zamanda yargılama sürecinin gerekliliklerini de karşılamak amacıyla getirilmiştir. CMK 110/A'ya göre, adli kontrol süresi, ağır ceza mahkemesinin görevine girmeyen işler bakımından en çok bir yıl olarak belirlenmiştir. Ancak, bu bir yıllık süre zorunlu hallerde gerekçesi gösterilerek bir kez daha altı ay uzatılabilir. Bu da demektir ki, basit suçlar için toplamda en fazla bir buçuk yıl adli kontrol uygulanabilir. Ağır ceza mahkemesinin görevine giren işler bakımından ise adli kontrol süresi en çok üç yıl olarak belirlenmiştir. Bu süre de, zorunlu hallerde, yine gerekçesi gösterilerek üç yıl daha uzatılabilir. Böylece, ağır ceza mahkemelik suçlarda toplamda altı yıla kadar adli kontrol tedbiri uygulanabilir. Bu sürelerin hesaplanmasında dikkat edilmesi gereken husus, şüpheli veya sanığın adli kontrol altında geçirdiği sürenin tutukluluk süresinden mahsup edilmeyeceğidir. Ancak, adli kontrol kararının ne zaman verildiği ve hangi suç tipine ilişkin olduğu, sürelerin doğru hesaplanması açısından hayati önem taşır. Çocuklar hakkında uygulanacak adli kontrol süreleri ise farklı bir düzenlemeye tabidir. Çocuk Koruma Kanunu'nun 20. maddesi uyarınca, tutukluluk süresinin üst sınırı olarak belirlenen sürelerin yarısı oranında adli kontrol uygulanabilir. Bu da çocukların korunması ve gelişimlerinin gözetilmesi ilkesinin bir yansımasıdır. Adli kontrol kararının kaldırılması veya değiştirilmesi de önemlidir. CMK madde 110 uyarınca, şüpheli veya sanığın istemi üzerine veya Cumhuriyet savcısının talebi üzerine ya da re’sen, adli kontrolün kaldırılması veya değiştirilmesi değerlendirilebilir. Bu değerlendirme, adli kontrolün amacına ulaşıp ulaşmadığı, şüphelinin durumunda değişiklik olup olmadığı gibi faktörler göz önünde bulundurularak yapılır. Özellikle, azami sürelerin dolması halinde adli kontrol tedbirinin kendiliğinden kalkması esastır. Bu sürelerin aşılması halinde verilen kararlar, hukuka aykırı olacak ve bireyin özgürlük ve güvenlik hakkının ihlali sonucunu doğuracaktır. Dolayısıyla, yargı mercilerinin bu sürelere titizlikle uyması, hukukun üstünlüğü ilkesinin bir gereğidir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "İhlal ve İtiraz Yolları, Dikkat Edilmesi Gerekenler",
+      "content": "Adli kontrol tedbirlerine uyulmaması veya bu tedbirlerin ihlal edilmesi, ciddi hukuki sonuçlar doğurabilir. Türk Ceza Muhakemesi Kanunu (CMK) madde 112, adli kontrol hükümlerine uyulmaması halinde yapılabilecekleri açıkça düzenlemektedir. Buna göre, şüpheli veya sanığın adli kontrol yükümlülüğünü kasten ihlal etmesi durumunda, hakkında tutuklama kararı verilebilir. Bu durum, adli kontrolün, tutuklamaya bir alternatif olmasına rağmen, hukuki bir yaptırım gücüne sahip olduğunu ve yargılama sürecinin ciddiyetini koruduğunu göstermektedir. Adli kontrol kararına karşı veya bu kararın uzatılmasına ilişkin kararlara karşı kanun yolları açıktır. CMK madde 267 ve devamında düzenlenen 'itiraz' kanun yolu, adli kontrol kararları için de uygulanabilir. Şüpheli, sanık, müdafii veya Cumhuriyet savcısı, adli kontrol kararına, kararın içeriğine, uygulanan tedbirin türüne veya süresine ilişkin olarak kararın tefhiminden veya tebliğinden itibaren yedi gün içinde itiraz edebilir. İtiraz, kararı veren merciye yapılır ve bu merci itirazı inceleyerek haklı bulursa kararını düzeltebilir; aksi takdirde, itirazı incelemesi için bir üst mercie gönderir. Örneğin, sulh ceza hâkiminin kararına itiraz, asliye ceza mahkemesine yapılırken, ağır ceza mahkemesinin kararına itiraz, numara olarak kendisini izleyen ağır ceza mahkemesine yapılabilir. Bu, hukuki denetimi ve bireysel hakların korunmasını sağlayan önemli bir mekanizmadır. Adli kontrol uygulamalarında dikkat edilmesi gereken temel hususlardan biri, tedbirin ölçülülük ilkesine uygunluğudur. Uygulanan adli kontrol tedbirinin, ulaşılmak istenen amaca (kaçmayı önleme, delil karartmayı engelleme vb.) elverişli, gerekli ve orantılı olması gerekmektedir. Aşırı kısıtlayıcı veya gereksiz yere ağır tedbirler, Anayasa'da güvence altına alınan temel hak ve özgürlüklere aykırılık teşkil edebilir. Avrupa İnsan Hakları Sözleşmesi (AİHS) ve Avrupa İnsan Hakları Mahkemesi (AİHM) içtihatları da bu bağlamda önemli bir rehber niteliğindedir. AİHM, 'özgürlük ve güvenlik hakkı'nı düzenleyen AİHS madde 5 kapsamında, koruma tedbirlerinin uygulanma koşullarını ve sürelerini sıkı bir şekilde denetlemektedir. Dolayısıyla, ulusal yargı mercileri, adli kontrol kararları verirken ve bu kararları uzatırken, hem ulusal mevzuata hem de uluslararası insan hakları standartlarına uygun hareket etme yükümlülüğü altındadır. Bu, hukuka uygunluğun ve bireysel hakların korunmasının temel bir şartıdır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu ders kapsamında 'Adli Kontrol Süreleri' konusunu Türk Ceza Muhakemesi Kanunu (CMK) ve Anayasal çerçevede kapsamlı bir şekilde inceledik. Dersimizin temel hedefi, bu önemli koruma tedbirinin hukuki dayanağını, uygulama esaslarını ve özellikle de sürelere ilişkin düzenlemeleri net bir şekilde anlamaktı. Özetle, adli kontrol, tutuklamaya alternatif, daha hafif bir koruma tedbiri olup, şüpheli veya sanığın özgürlüğünü en az düzeyde kısıtlayarak yargılamanın sağlıklı ilerlemesini sağlamayı amaçlar. Anayasamızın 19. maddesinde yer alan kişi hürriyeti ve güvenliği hakkı temelinde şekillenen bu kurum, ölçülülük ve orantılılık ilkeleri çerçevesinde uygulanmalıdır. Yasal çerçevesini CMK madde 109 ve devamının oluşturduğu adli kontrol, sulh ceza hâkimi veya mahkeme tarafından kararlaştırılır ve yurtdışı yasağı, imza yükümlülüğü, konutu terk etmeme gibi çeşitli tedbirleri içerebilir. Konunun özünü oluşturan 'süreler' hususunda ise, CMK madde 110/A'da açıkça belirtilen azami süreler bulunmaktadır. Ağır ceza mahkemesinin görevine girmeyen suçlar için bir yıl (bir kez altı ay uzatma ile toplam 1,5 yıl), ağır ceza mahkemesinin görevine giren suçlar için ise üç yıl (bir kez üç yıl uzatma ile toplam 6 yıl) adli kontrol uygulanabilir. Çocuklar için ise özel ve daha kısa süreler öngörülmüştür. Bu sürelerin aşılması, hukuka aykırılık teşkil eder ve bireyin özgürlük hakkının ihlali anlamına gelir. Adli kontrol yükümlülüklerinin ihlal edilmesi halinde tutuklama kararı verilebileceği gibi, adli kontrol kararlarına karşı itiraz kanun yolu da açıktır ve bireylerin hak arama özgürlüğünün önemli bir parçasıdır. Son olarak, adli kontrol tedbirlerinin uygulanmasında ve sürelerinin belirlenmesinde ulusal mevzuatın yanı sıra Avrupa İnsan Hakları Sözleşmesi ve AİHM içtihatları da yol gösterici bir role sahiptir. Bütün bu hususlar, adli kontrolün hukuk devleti ilkelerine uygun, adil ve dengeli bir şekilde uygulanması için büyük önem taşımaktadır. Bu bilgiler ışığında, dersimizin adli kontrol süreleri konusundaki bilgi birikiminizi pekiştirdiğini ve pratik uygulamalara yönelik sağlam bir temel oluşturduğunu umuyorum. Unutmayınız ki, hukuk dinamik bir alandır ve güncel mevzuatı ve içtihatları takip etmek her hukukçu için esastır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi Adli Kontrolün temel amacı veya niteliği bakımından diğerlerinden farklıdır?",
+      "options": {
+        "A": "Tutuklamaya alternatif, daha hafif bir koruma tedbiri olması.",
+        "B": "Şüpheli veya sanığın kaçmasını engellemek.",
+        "C": "Delillerin karartılmasının önüne geçmek.",
+        "D": "Suçluluğu kesinleşmiş kişilerin cezalandırılmasını sağlamak."
+      },
+      "correctAnswer": "D",
+      "explanation": "Adli kontrol, henüz suçluluğu kesinleşmemiş şüpheli veya sanıklar hakkında uygulanan bir koruma tedbiridir. Amacı, yargılama sürecinde kaçmayı, delil karartmayı veya baskı kurmayı önlemektir. Suçluluğu kesinleşmiş kişilerin cezalandırılması infaz hukuku alanına girer ve adli kontrolün amacı değildir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Türk Ceza Muhakemesi Kanunu'na (CMK) göre, ağır ceza mahkemesinin görevine girmeyen suçlarda uygulanan adli kontrolün azami süresi ve uzatma imkanı aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+      "options": {
+        "A": "En çok 1 yıl, zorunlu hallerde bir kez 6 ay uzatılabilir.",
+        "B": "En çok 2 yıl, zorunlu hallerde bir kez 1 yıl uzatılabilir.",
+        "C": "En çok 3 yıl, zorunlu hallerde bir kez 2 yıl uzatılabilir.",
+        "D": "En çok 6 ay, zorunlu hallerde bir kez 3 ay uzatılabilir."
+      },
+      "correctAnswer": "A",
+      "explanation": "CMK madde 110/A'ya göre, ağır ceza mahkemesinin görevine girmeyen işlerde adli kontrol süresi en çok bir yıldır. Bu süre, zorunlu hallerde, gerekçesi gösterilerek bir kez daha altı ay uzatılabilir. Böylece toplam süre en fazla 1,5 yıl olabilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ağır ceza mahkemesinin görevine giren işlerde uygulanan adli kontrol tedbiri için azami süre ve uzatma imkanı hangi seçenekte doğru olarak belirtilmiştir?",
+      "options": {
+        "A": "En çok 1 yıl, zorunlu hallerde bir kez 6 ay uzatılabilir.",
+        "B": "En çok 2 yıl, zorunlu hallerde bir kez 1 yıl uzatılabilir.",
+        "C": "En çok 3 yıl, zorunlu hallerde bir kez 3 yıl uzatılabilir.",
+        "D": "En çok 4 yıl, zorunlu hallerde bir kez 2 yıl uzatılabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK madde 110/A'ya göre, ağır ceza mahkemesinin görevine giren işlerde adli kontrol süresi en çok üç yıldır. Bu süre, zorunlu hallerde, gerekçesi gösterilerek üç yıl daha uzatılabilir. Böylece toplam süre en fazla 6 yıl olabilir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Adli kontrol yükümlülüklerini kasten ihlal eden şüpheli veya sanık hakkında, Türk Ceza Muhakemesi Kanunu (CMK) hükümlerine göre aşağıdakilerden hangisi yapılabilir?",
+      "options": {
+        "A": "Doğrudan hapis cezası verilir.",
+        "B": "Adli para cezasına çevrilir.",
+        "C": "Hakkında tutuklama kararı verilebilir.",
+        "D": "Uyarı cezası verilerek yükümlülükleri sona erdirilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "CMK madde 112'ye göre, adli kontrol hükümlerini kasten ihlal eden şüpheli veya sanık hakkında, ihlalin niteliğine göre tutuklama kararı verilebilir. Bu durum, adli kontrolün hukuki yaptırım gücünü gösterir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Adli kontrol kararına veya bu kararın uzatılmasına ilişkin kararlara karşı, CMK'da öngörülen kanun yolu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Temyiz",
+        "B": "İstinaf",
+        "C": "Yeniden Yargılama",
+        "D": "İtiraz"
+      },
+      "correctAnswer": "D",
+      "explanation": "CMK madde 267 ve devamı, koruma tedbirlerine ilişkin kararlara karşı 'itiraz' kanun yolunu düzenlemektedir. Adli kontrol kararları da bir koruma tedbiri olduğundan, bu kararlara karşı itiraz edilebilir."
+    }
+  ]
+}

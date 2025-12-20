@@ -1,0 +1,96 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Kambiyo Senetleri:** Türk Ticaret Kanunu'nda (TTK) düzenlenen, tedavül kabiliyeti olan ve soyut borç vaadini içeren kıymetli evraklardır (çek, bono/senet, poliçe). Bu senetler sıkı şekil şartlarına tabidir.\n•   **Kambiyo Senetlerine Özgü Takip Yolu:** İcra ve İflas Kanunu (İİK) m. 167 vd. düzenlenen, kambiyo senedine dayalı alacaklar için öngörülen, genel haciz yoluna göre daha hızlı ve etkin bir takip yoludur.\n•   **Takibin Tarafları:** Alacaklı (hamil) ve Borçlu (keşideci, muhatap, ciranta, avalist). Alacaklı, senedin yasal hamilidir.\n•   **Ödeme Emri:** Takip talebi üzerine icra dairesince borçluya gönderilen ve belirli bir süre içinde borcu ödemesi veya itiraz etmesi gerektiğini bildiren belgedir. Kambiyo senetlerine özgü takipte ödeme emri örneği 16'dır.\n•   **Soyutluk İlkesi:** Kambiyo senetleri, düzenlenme nedeninden bağımsız bir borç ilişkisi doğurur. Ancak borçlu, temel ilişkiye dayanarak senet borcunun geçersizliğini ileri sürebilir (ancak bu, takibi durdurmaz, ayrı bir dava gerektirebilir).\n•   **Takipte 'Değişiklikler' Kapsamı:** Özellikle e-tebligatın yaygınlaşması, icra dairelerinin dijitalleşmesi ve Yargıtay içtihatlarıyla şekillenen yorumlar bağlamında, başvuru, tebligat, itiraz ve itirazın incelenmesi süreçlerindeki pratik uygulamalar ve hukuki yorum farklılıklarını kapsar."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İcra ve İflas Kanunu (İİK) Madde 167:** Kambiyo senetlerine mahsus haciz yolu ile takibin nasıl başlatılacağını, takip talebinin içeriğini ve senedin aslının eklenmesi zorunluluğunu düzenler.\n•   **İİK Madde 168:** Borçluya gönderilecek ödeme emrinin içeriğini, ödeme ve itiraz sürelerini (ödeme süresi 10 gün, itiraz süresi 5 gün) ve itiraz sebeplerini (imza inkarı, borca itiraz) belirler.\n•   **İİK Madde 169:** Borçlunun itirazının icra mahkemesince incelenmesini ve verilecek kararların niteliğini düzenler. Özellikle imza inkarı durumunda takibin kendiliğinden durmasını ve icra mahkemesinin incelemesini içerir.\n•   **İİK Madde 169/a:** İmza inkarının usulünü, imza incelemesinin nasıl yapılacağını ve bu inceleme sonucunda itirazın kabul veya reddi halinde ortaya çıkacak sonuçları, özellikle haksız itiraz halinde tazminat yükümlülüğünü (yüzde 20'den aşağı olmamak üzere para cezası) açıklar.\n•   **İİK Madde 170:** Borçlunun borca itirazının icra mahkemesince incelenmesini ve bu inceleme sonucunda itirazın reddi halinde takibin devam edeceğini, kabulü halinde ise takibin durdurulacağını veya iptal edileceğini düzenler. Takibin durdurulması/iptali için ileri sürülebilecek belirli sebepler (senet metninden anlaşılan geçersizlikler gibi) önemlidir.\n•   **Türk Ticaret Kanunu (TTK) Madde 671, 776, 780:** Poliçe, bono ve çekin zorunlu unsurlarını ve geçerlilik şartlarını düzenler. Bu maddeler, icra mahkemesinin senedin geçerliliğini re'sen denetlemesi açısından temel teşkil eder."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (İmza İnkarı):** Avukat A, müvekkili X adına keşideci Y hakkında 50.000 TL bedelli bonoya dayanarak kambiyo senetlerine özgü takip başlatır. Y'ye ödeme emri tebliğ edilir ve Y, 5 günlük süre içinde icra mahkemesine dilekçe ile \"bonodaki imzanın kendisine ait olmadığını\" belirterek imza inkarında bulunur. Bu durumda takip kendiliğinden durur, icra mahkemesi bilirkişi incelemesi için duruşma açar.\n•   **Örnek 2 (Borca İtiraz):** Alacaklı Z, borçlu K hakkında bir çek nedeniyle takip başlatır. K, ödeme emrini tebliğ aldıktan sonra 5 gün içinde icra mahkemesine başvurarak \"söz konusu çekin, temel ilişki uyarınca ifa edilmeyen bir hizmet karşılığı verildiğini ve hizmet ifa edilmediği için borcun mevcut olmadığını\" iddia eder. Bu durumda icra mahkemesi, K'nin itirazının İİK m. 170 kapsamında inceleyecektir. İcra mahkemesi sınırlı inceleme yapar, borcun ödenmiş olduğuna dair belge sunulması halinde itirazı kaldırabilir.\n•   **Örnek 3 (Senedin Unsurlarındaki Eksiklik):** Bir alacaklı, üzerinde düzenleme tarihi bulunmayan bir bonoya dayanarak takip başlatır. Borçlu, ödeme emrine itiraz etmese dahi icra mahkemesi, takibin kendiliğinden durdurulması veya iptali yönünde karar verebilir, çünkü TTK'ya göre düzenleme tarihi bononun zorunlu unsurlarından biridir.\n•   **Örnek 4 (Elektronik Takip ve Tebligat):** Bir banka avukatı, şirket borçlusu hakkında vadesi gelmiş bir poliçeye dayanarak UYAP üzerinden elektronik ortamda kambiyo senetlerine özgü takip talebi oluşturur. Ödeme emri, borçlu şirketin KEP adresine (elektronik tebligat adresi) gönderilir. Borçlu şirketin KEP adresine yapılan tebligat, hukuki sonuçlarını doğurur ve tebligatın yapıldığı an itibarıyla itiraz ve ödeme süreleri başlar.\n•   **Örnek 5 (Haksız İmza İnkarı):** İmza inkarı nedeniyle yapılan bilirkişi incelemesi sonucunda, senedeki imzanın borçluya ait olduğu kesinleşir. Bu durumda icra mahkemesi, borçlunun itirazının reddine karar verir ve İİK m. 169/a gereği alacaklı lehine yüzde 20 oranında inkar tazminatına hükmedebilir.\n•   **Örnek 6 (Takibin İptali):** Alacaklı A, keşideci B hakkında bir çek için takip başlatır. B, icra mahkemesine başvurarak çekin ibraz süresinin geçtiğini ve ibrazdan sonra takip başlatıldığını iddia eder. Çekin ibraz süresinin geçtiği tespit edilirse, icra mahkemesi takibin iptaline karar verebilir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **Senedin Geçerliliği:** Takip başlatmadan önce senedin (çek, bono, poliçe) TTK'da aranan tüm zorunlu unsurları taşıdığından emin olunmalıdır. Bir unsurun eksikliği, takibin her aşamasında iptaline yol açabilir.\n•   **İtiraz Süreleri:** Borçlunun ödeme emrine itiraz süresi (5 gün) ve ödeme süresi (10 gün) hak düşürücü niteliktedir. Bu süreler kaçırılırsa, takip kesinleşir ve itiraz etme hakkı büyük ölçüde kaybedilir.\n•   **İmza İnkarının Hukuki Sonuçları:** Borçlu, imza inkarında bulunduğunda takip kendiliğinden durur. Ancak inkarın haksız çıkması durumunda, İİK m. 169/a gereği %20'den aşağı olmamak üzere para cezası (inkar tazminatı) ödemek zorunda kalabilir.\n•   **Borca İtirazın Sınırlı Kapsamı:** Kambiyo senetlerine özgü takipte icra mahkemesinin borca itirazı inceleme yetkisi sınırlıdır. Genellikle senedin metninden anlaşılan veya belgeyle ispat edilebilen hususlarla sınırlıdır (örn: ödeme, zamanaşımı). Daha derinlemesine inceleme gerektiren itirazlar (örn: temel ilişki sebebiyle geçersizlik) genellikle itirazın iptali davasına konu olur.\n•   **E-Tebligat ve Takip Hukuku:** E-tebligatın, özellikle ticari şirketler ve avukatlar için zorunlu olması, tebligatların doğru adreslere yapılması ve süresinde kontrol edilmesi gerekliliğini artırmıştır. Aksi halde süreler kaçırılabilir veya tebligat geçerli sayılmaz.\n•   **Yetkili İcra Dairesi:** Takip başlatılacak icra dairesinin yetkili olması önemlidir. Kambiyo senetlerinde yetki genellikle ödeme yeri, düzenleme yeri veya borçlunun yerleşim yeridir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **İİK ve TTK Maddeleri:** İİK m. 167-170/a ve TTK'nın kambiyo senetlerinin unsurlarına ilişkin ilgili maddeleri (Özellikle çek, bono, poliçe tanımları ve zorunlu unsurları) ezberden bilinmeli ve yorumlama becerisi geliştirilmelidir.\n•   **Prosedürel Akış:** Kambiyo senetlerine özgü takibin başlangıcından itiraz aşamasına, oradan da takibin kesinleşmesine veya iptaline kadar olan tüm adımlar (talep, ödeme emri, tebligat, itiraz çeşitleri, icra mahkemesi kararları) eksiksiz bilinmelidir.\n•   **İtiraz Türleri ve Sonuçları:** İmza inkarı ile borca itiraz arasındaki temel farklar, itiraz süreleri, itirazın incelenme usulü ve olası hukuki sonuçları (inkar tazminatı, takibin durması/iptali/devamı) detaylı olarak kavranmalıdır.\n•   **Senedin Şekil Şartları:** Bir senedin kambiyo senedi vasfını kaybedeceği durumlar (zorunlu unsurların eksikliği) ve bunun takibe etkisi üzerine örnekler incelenmeli, TTK'daki şekil şartları listesi iyi bilinmelidir.\n•   **Yargıtay İçtihatları:** Özellikle imza inkarı, borca itirazın kapsamı ve senedin geçerliliği konularındaki güncel Yargıtay kararlarının temel prensipleri takip edilmelidir. (Sınavda doğrudan içtihat metni istenmese de, içtihatların şekillendirdiği yorumlar sorulabilir).\n•   **Pratik Senaryo Çözümleri:** Çeşitli vaka örnekleri üzerinde, hem alacaklı hem de borçlu vekili perspektifinden hukuki argümanlar geliştirme ve doğru adımları belirleme pratiği yapılmalıdır."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Kambiyo senetlerine özgü takipte, borçlunun ödeme emrine itiraz süresi kaç gündür ve bu süre içinde yapılabilecek itiraz türleri temel olarak nelerdir?",
+      "options": {
+        "A": "7 gün, Sadece borcun zamanaşımına uğradığı itirazı.",
+        "B": "5 gün, İmza inkarı ve borca itiraz.",
+        "C": "10 gün, Sadece senedin sahteliği itirazı.",
+        "D": "3 gün, Senedin unsurlarındaki eksiklik itirazı.",
+        "E": "15 gün, Ödeme yapıldığı itirazı."
+      },
+      "correctAnswer": "B",
+      "explanation": "İcra ve İflas Kanunu'nun 168. maddesine göre, borçlunun ödeme emrine itiraz süresi 5 gündür. Bu süre içinde borçlu, imzasını inkar edebilir (imza inkarı) veya borca itiraz edebilir (borcun ödendiği, senedin geçersiz olduğu gibi sebeplerle)."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Borçlunun kambiyo senedindeki imzayı inkar etmesi halinde, İcra ve İflas Kanunu'na göre takibin akıbeti ne olur?",
+      "options": {
+        "A": "Takip kendiliğinden durmaz, itirazın reddi halinde borcun %10'u kadar tazminat ödenir.",
+        "B": "Takip kendiliğinden durur, icra mahkemesi imza incelemesi yapar.",
+        "C": "Takip devam eder, borçlunun imza inkarı genel mahkemelerde dava konusu yapılır.",
+        "D": "Takip iptal edilir ve alacaklı genel haciz yoluyla yeni bir takip başlatmak zorunda kalır.",
+        "E": "Takip durmaz, borçlu sadece ödeme süresi içinde ödeme yaparsa takipten kurtulur."
+      },
+      "correctAnswer": "B",
+      "explanation": "İcra ve İflas Kanunu'nun 169/a maddesi uyarınca, borçlunun kambiyo senedindeki imzayı inkar etmesi halinde takip kendiliğinden durur. İcra mahkemesi, imza incelemesi yaparak inkarın haklı olup olmadığını tespit eder. Haksız inkar durumunda ise inkar tazminatına hükmedilebilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi bir çekin zorunlu unsurlarından biri değildir?",
+      "options": {
+        "A": "Keşidecinin imzası",
+        "B": "Banka ismi (muhatabın banka olması)",
+        "C": "Lehtarın adı soyadı",
+        "D": "Çek kelimesinin senet metninde yer alması",
+        "E": "Belli bir bedelin kayıtsız şartsız ödenmesi havalesi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Ticaret Kanunu'na göre bir çekin zorunlu unsurları arasında 'Lehtarın adı soyadı' bulunmaz. Çek 'hamiline' düzenlenebilir veya belirli bir kişiye düzenlense bile zorunlu unsur değildir. Ancak poliçe ve bonoda lehtarın adı zorunlu unsurdur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Kambiyo senetlerine özgü takipte, icra mahkemesinin borca itirazı inceleme yetkisi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "İcra mahkemesi, borca itirazı her türlü hukuki ve fiili nedenle sınırsız bir şekilde inceleyebilir.",
+        "B": "İcra mahkemesi, sadece borcun ödendiği veya zamanaşımına uğradığına dair resmi belgeleri inceleyebilir.",
+        "C": "İcra mahkemesi, itirazı senedin metninden anlaşılan veya belgeyle ispat edilebilen sınırlı hallerde inceler.",
+        "D": "İcra mahkemesi, borca itirazı incelemez, bu tür itirazlar doğrudan genel mahkemelerde dava konusu edilir.",
+        "E": "İcra mahkemesi, itirazı incelemez; ancak itirazın süresinde yapılıp yapılmadığını denetler."
+      },
+      "correctAnswer": "C",
+      "explanation": "Kambiyo senetlerine özgü takipte icra mahkemesinin borca itirazı inceleme yetkisi sınırlıdır. İİK m. 170 uyarınca, icra mahkemesi itirazı senedin metninden anlaşılan (örn: senedin şekil şartlarına aykırılık) veya belgeyle ispat edilebilen belirli hallerde (örn: ödeme makbuzu, ibra senedi) inceler. Temel ilişkiye dayalı daha geniş kapsamlı itirazlar genellikle itirazın iptali davasına konu olur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki durumlardan hangisi kambiyo senedine dayalı takibin iptalini gerektiren bir sebep olabilir?",
+      "options": {
+        "A": "Borçlunun imzasının inkar edilmesi.",
+        "B": "Senedin üzerinde düzenleme tarihinin bulunmaması.",
+        "C": "Borçlunun takipten sonra borcu ödediğini iddia etmesi.",
+        "D": "Takibin avukat tarafından başlatılması.",
+        "E": "Alacaklının adresinin yanlış yazılması."
+      },
+      "correctAnswer": "B",
+      "explanation": "Bir kambiyo senedinin (çek, bono, poliçe) Türk Ticaret Kanunu'nda belirtilen zorunlu unsurları taşıması gerekir. Düzenleme tarihi, bononun ve poliçenin zorunlu unsurlarından biridir (TTK m. 776, 671). Çek için keşide tarihi zorunludur (TTK m. 780). Bu tür zorunlu bir unsurun eksik olması, senedin kambiyo senedi vasfını kaybetmesine ve dolayısıyla kambiyo senetlerine özgü takibin iptaline neden olabilir. İmza inkarı takibi durdurur, ancak doğrudan iptal etmez; ödeme iddiası veya alacaklı adresinin yanlış yazılması ise doğrudan iptal sebebi değildir."
+    }
+  ]
+}

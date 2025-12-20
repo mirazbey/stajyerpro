@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Temel Kavramlar",
+      "content": "•   **Temyiz Kanun Yolu:** İdari yargıda Bölge İdare Mahkemeleri (BİM) tarafından verilen kararların hukuka uygunluğunun üst yargı organı olan Danıştay tarafından denetlenmesini sağlayan olağan bir kanun yoludur. İstinaf incelemesinden sonra verilen nihai kararlara karşı başvurulur.\n•   **Amaç ve Kapsam:** Temyiz, BİM kararlarının hukuka aykırılık denetimini yapmak, yani kararın kanuna, usule ve içtihada uygunluğunu incelemektir. Temyiz incelemesinde kural olarak maddi vakıa denetimi yapılmaz, sadece hukuki denetimle sınırlıdır.\n•   **Görevli Mahkeme:** İdari yargıda temyiz mercii Danıştay'dır. Danıştay, ilk derece mahkemelerinin kararlarına karşı yapılan istinaf başvurularını inceleyen BİM kararlarını temyizen inceleyerek kesinleştirir ya da bozar.\n•   **Temyiz Edilebilecek Kararlar:** Kural olarak, Bölge İdare Mahkemeleri'nin bozma kararları dışındaki nihai kararları ile kanunda açıkça temyizi kabul edilen diğer kararlar temyiz edilebilir. Miktar ve konu itibarıyla temyiz sınırı kanunla belirlenir.\n•   **Temyiz Sebepleri:** Bir BİM kararının temyiz edilebilmesi için İdari Yargılama Usulü Kanunu (İYUK) madde 49'da belirtilen hukuka aykırılık hallerinden birinin veya birkaçının bulunması gerekmektedir. Bunlar; görev ve yetki aşımı, hukuka aykırı karar verilmesi, usul hükümlerine aykırı hareket edilmesi, maddi olayın yanlış tespiti veya hukuka yanlış uygulanması gibi durumlardır.\n•   **Hukuki Denetim İlkesi:** Temyiz incelemesi, BİM'in maddi vakıaları ve delilleri değerlendirme yetkisine müdahale etmeksizin, sadece kararın hukuka uygunluğunu denetler. Yeni delil ileri sürme yasağı bu ilkenin bir sonucudur."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "•   **İYUK Madde 46 (Temyiz Edilebilen Kararlar):** Bölge İdare Mahkemesi kararları ile istinaf veya temyiz yolu açık olan nihai Danıştay Dava Daireleri kararları Danıştay'da temyiz edilebilir. Ayrıca, kanunda açıkça belirtilen bazı özel davalarda da temyiz yolu açıktır. Belirli bir parasal sınırın altında kalan iptal ve tam yargı davalarına ilişkin BİM kararları temyiz edilemez.\n•   **İYUK Madde 47 (Temyiz Süresi):** Temyiz süresi, ilke olarak kararın tebliğinden itibaren otuz gündür. Bu süre, hak düşürücü nitelikte olup, sürenin geçirilmesi halinde temyiz başvurusu incelenemez.\n•   **İYUK Madde 48 (Temyiz Dilekçesi):** Temyiz dilekçeleri, Danıştay'a hitaben yazılır ve temyiz edilecek kararı, temyiz eden kişinin adını/soyadını/adresini, karşı tarafın adını/soyadını/adresini ve temyiz nedenlerini (gerekçelerini) içermelidir. Eksiklikler, mahkemece belirlenen süre içinde giderilmelidir; aksi halde dilekçe reddedilir.\n•   **İYUK Madde 49 (Temyiz İncelemesi ve Danıştay'ın Verebileceği Kararlar):** Danıştay, temyiz incelemesi sonucunda BİM kararını hukuka uygun bulursa **onar**; hukuka aykırı bulursa **bozar**. Bozma nedenleri arasında usul eksiklikleri veya esas yönünden hukuka aykırılıklar olabilir. Ayrıca, temyiz dilekçesinin reddine, görevsizlik veya yetkisizlik nedeniyle dava dosyasının ilgili yere gönderilmesine de karar verebilir.\n•   **İYUK Madde 50 (Bozma Kararı Üzerine Yapılacak İşlem):** Danıştay'ın bozma kararı üzerine dosya BİM'e geri gönderilir. BİM, Danıştay'ın bozma kararına uymak zorundadır. Ancak, bozma kararında belirtilen hukuka aykırılık giderildikten sonra yeni bir karar verebilir. Eğer BİM ilk bozma kararına uymazsa, ikinci bozma kararı üzerine Danıştay karar kendisi esastan çözebilir.\n•   **İYUK Madde 52 (Yürütmenin Durdurulması):** Temyiz başvurusu, kural olarak, kararın icrasını durdurmaz. Ancak Danıştay, temyiz başvurusunu incelemeden önce, yürütmenin durdurulması koşullarının (telafisi güç veya imkansız zararların doğması ve idari işlemin açıkça hukuka aykırı olması) mevcut olması halinde, yürütmenin durdurulmasına karar verebilir."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Örnekler",
+      "content": "•   **Örnek 1 (Memuriyetten Çıkarma Davası):** Bir kamu görevlisinin 'disiplinsizlik' gerekçesiyle memuriyetten çıkarılması işlemine karşı açtığı iptal davasında, Bölge İdare Mahkemesi (BİM) işlemi hukuka uygun bularak davanın reddine karar vermiştir. Memur, BİM'in bu kararını Danıştay'da temyiz etmiştir. Danıştay, BİM kararını inceleyerek disiplin cezasının orantılılık ilkesine aykırı olduğuna hükmetmiş ve BİM kararını bozarak işlemi iptal etmesi yönünde karar vermiştir.\n•   **Örnek 2 (İmar Planı İptal Davası):** Belediyenin hazırladığı yeni bir imar planı değişikliğinin iptali istemiyle açılan davada, BİM planın usulüne uygun hazırlandığına karar vererek iptal talebini reddetmiştir. Davacılar, BİM kararını temyiz etmiş ve Danıştay, imar planı değişikliğinin şehircilik ilkelerine ve planlama esaslarına aykırı olduğu gerekçesiyle BİM kararını bozmuştur.\n•   **Örnek 3 (İhale İptal Davası):** Bir kamu ihalesine katılan ancak teklifi değerlendirme dışı bırakılan bir firmanın, ihale işleminin iptali için açtığı davada BİM, firmanın itirazlarının yersiz olduğuna karar vermiştir. Firma, kararı temyiz etmiş; Danıştay, firmanın teklifinin haksız yere değerlendirme dışı bırakıldığını tespit ederek BİM kararını bozmuş ve ihale işleminin iptaline karar vermesi yönünde dosyanın BİM'e geri gönderilmesine karar vermiştir.\n•   **Örnek 4 (Temyiz Süresinin Kaçırılması):** Bir idari işleme karşı açılan iptal davasında BİM, davanın reddine karar vermiş ve bu karar davacıya tebliğ edilmiştir. Davacı, temyiz süresini (30 gün) gözden kaçırarak 35. günde temyiz dilekçesini vermiştir. Danıştay, süresinde yapılmayan temyiz başvurusunu, İYUK madde 47 uyarınca süre aşımı nedeniyle reddetmiştir.\n•   **Örnek 5 (BİM Kararının Onanması):** Bir vergi davasında Bölge İdare Mahkemesi, vergi inceleme raporunun hukuka uygun olduğuna ve tarhiyatın yerinde olduğuna karar vererek davayı reddetmiştir. Davacı temyize başvurmuş, ancak Danıştay yapılan inceleme sonucunda BİM'in gerekçelerini ve vardığı sonucu hukuka uygun bulmuş ve BİM kararını onamıştır. Bu durumda BİM kararı kesinleşmiştir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Noktaları",
+      "content": "•   **İstinaf ile Temyiz Farkı:** İstinaf kanun yolu, hem maddi vakıa hem de hukuki denetim yaparken; temyiz kanun yolu esas olarak hukuki denetim yapar. Temyiz, 'ikinci bir ilk derece yargılaması' değildir, Bölge İdare Mahkemesi kararlarının son hukuki denetim merciidir.\n•   **Temyizde Yeni Delil Sunma Yasağı:** Temyiz incelemesinde taraflar yeni vakıalar ileri süremez ve yeni deliller sunamazlar. Danıştay, BİM kararının verildiği tarihteki mevcut hukuki ve fiili duruma göre inceleme yapar.\n•   **Temyiz Dilekçesi Eksiklikleri:** Temyiz dilekçesinde kanunda öngörülen zorunlu unsurların bulunmaması veya eksik olması halinde, Danıştay eksikliklerin giderilmesi için süre verir. Bu sürede eksiklik giderilmezse temyiz dilekçesi reddedilir ve karar kesinleşir.\n•   **Yürütmenin Durdurulması Talebi:** Temyiz başvurusu kural olarak kararın yürütülmesini durdurmaz. Bu nedenle, telafisi güç veya imkansız zararları önlemek amacıyla ayrıca yürütmenin durdurulması talebinde bulunulması gerekebilir. Danıştay bu talebi ayrı olarak değerlendirir.\n•   **Bozma Kararlarının Bağlayıcılığı:** Danıştay'ın bozma kararları, ilgili Bölge İdare Mahkemesi için bağlayıcıdır. BİM, bozma kararına uyarak bozma gerekçeleri doğrultusunda yeni bir karar vermek zorundadır. Ancak bu, BİM'in ilk kararında ısrar edemeyeceği anlamına gelmez; usule uygun bir ısrar kararı verebilir, bu durumda konu Danıştay İdari Dava Daireleri Kurulu'na gelir.\n•   **Miktar Sınırı ve Konu Kısıtlamaları:** İYUK'ta belirlenen parasal sınırın altında kalan idari dava türleri (iptal ve tam yargı davaları) ile bazı özel kanunlarda temyiz yolu kapalı tutulan kararlar temyiz edilemez. Bu durum, başvuru yapmadan önce dikkatle incelenmelidir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Sınav Hazırlığı",
+      "content": "•   **Temyiz ile İstinaf Arasındaki Temel Farkları Anlayın:** Her iki kanun yolunun görev, yetki, inceleme kapsamı (maddi/hukuki denetim) ve sonuçları arasındaki ayrımı net bir şekilde öğrenin. HMGS sınavlarında bu karşılaştırmalı bilgiler sıkça sorulur.\n•   **Temyiz Süresi ve Hak Düşürücü Niteliği:** İYUK'ta belirtilen 30 günlük temyiz süresinin başlangıcı, bitimi ve hak düşürücü bir süre olması nedeniyle sonuçlarını iyi kavrayın. Sürenin uzayabileceği özel durumlar (örneğin tebligat sorunları) hakkında bilgi sahibi olun.\n•   **Danıştay'ın Temyiz İncelemesindeki Yetkileri ve Kararları:** Danıştay'ın temyiz başvurusu üzerine verebileceği kararlar (onama, bozma, düzeltilerek onama, ret vb.) ve bu kararların hukuki sonuçları (özellikle bozma kararı sonrası süreç) önemlidir.\n•   **Temyiz Dilekçesinin Şekil Şartları ve Eksikliklerin Sonuçları:** İYUK madde 48'de belirtilen dilekçe unsurlarını ve eksiklik halinde uygulanacak usulü (eksiklik tamamlama, reddi) iyi bilin. Pratik durumlarda karşılaşılabilecek sorunları öngörün.\n•   **Hangi Kararların Temyiz Edilemeyeceği:** İdari Yargılama Usulü Kanunu'nda ve özel kanunlarda yer alan, temyiz yolu kapalı olan karar türleri (miktar, konu veya nitelik itibarıyla) ile ilgili madde hükümlerini dikkatlice inceleyin.\n•   **Yürütmenin Durdurulması Mekanizması:** Temyizde yürütmenin durdurulması talebinin şartlarını, başvuru usulünü ve Danıştay'ın bu konudaki takdir yetkisini, genel icra durdurma ilkesiyle ilişkisi içinde değerlendirin."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "İdari yargıda temyiz kanun yolu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": {
+        "A": "Temyiz incelemesi, Bölge İdare Mahkemesi (BİM) kararlarının hukuka uygunluğunu denetler.",
+        "B": "Temyiz incelemesi esas olarak maddi vakıa denetimi yapar, hukuki denetim sınırlıdır.",
+        "C": "Temyiz mercii, Danıştay'dır.",
+        "D": "Temyiz başvurusu kural olarak kararın icrasını durdurmaz."
+      },
+      "correctAnswer": "B",
+      "explanation": "Temyiz incelemesi esas olarak hukuki denetim yapar, maddi vakıa denetimi yapmaz. Maddi vakıa denetimi daha çok ilk derece ve istinaf aşamasında yapılır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "İYUK'a göre Bölge İdare Mahkemesi kararlarına karşı temyiz başvurusu için belirlenen genel süre kaç gündür?",
+      "options": {
+        "A": "7 gün",
+        "B": "15 gün",
+        "C": "30 gün",
+        "D": "60 gün"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK madde 47'ye göre, temyiz süresi kararın tebliğinden itibaren otuz gündür. Bu süre hak düşürücü niteliktedir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Danıştay, temyiz incelemesi sonucunda Bölge İdare Mahkemesi'nin kararını hukuka aykırı bulursa aşağıdaki kararlardan hangisini verir?",
+      "options": {
+        "A": "Onama kararı",
+        "B": "Düzeltme kararı",
+        "C": "Bozma kararı",
+        "D": "Yürütmeyi durdurma kararı"
+      },
+      "correctAnswer": "C",
+      "explanation": "İYUK madde 49 uyarınca Danıştay, temyiz incelemesi sonucunda BİM kararını hukuka aykırı bulursa bozma kararı verir. Onama kararı hukuka uygun bulması durumunda verilir. Düzeltme kararı kanun yolu değildir, genellikle maddi hataların giderilmesi içindir. Yürütmeyi durdurma ise ayrı bir talep ve inceleme konusudur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Danıştay'ın bozma kararı üzerine Bölge İdare Mahkemesi (BİM) aşağıdaki seçeneklerden hangisiyle hareket etmek zorunda değildir?",
+      "options": {
+        "A": "Bozma kararına uyarak bozma gerekçeleri doğrultusunda yeni bir karar vermek.",
+        "B": "Danıştay'ın bozma kararında belirtilen hukuka aykırılığı gidermek.",
+        "C": "İlk kararında ısrar ederek dosyayı Danıştay İdari Dava Daireleri Kurulu'na göndermek.",
+        "D": "Davacı veya davalının talebi olmadan yeni delilleri resen toplamak."
+      },
+      "correctAnswer": "D",
+      "explanation": "Danıştay'ın bozma kararına uymak veya usulüne uygun ısrar etmek BİM'in yükümlülüğüdür. Ancak, yeni delilleri re'sen toplamak, kural olarak temyiz aşamasında mümkün değildir ve bozma kararı üzerine BİM'in doğrudan bir yükümlülüğü değildir, yargılamanın yeniden şekillenmesiyle birlikte ortaya çıkabilecek bir durumdur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi İdari Yargılama Usulü Kanunu'na göre temyiz dilekçesinde bulunması zorunlu unsurlardan biri değildir?",
+      "options": {
+        "A": "Temyiz edilecek kararın numarası ve tarihi.",
+        "B": "Temyiz eden kişinin TC Kimlik Numarası.",
+        "C": "Karşı tarafın adı, soyadı veya unvanı ve adresi.",
+        "D": "Temyiz nedenlerinin (gerekçelerinin) açıkça belirtilmesi."
+      },
+      "correctAnswer": "B",
+      "explanation": "İYUK madde 48'de temyiz dilekçesinde bulunması gereken hususlar sayılmıştır. Buna göre temyiz edilecek kararın numarası/tarihi, tarafların kimlik/adres bilgileri ve temyiz nedenleri zorunludur. Ancak TC Kimlik Numarası zorunlu bir unsur olarak açıkça belirtilmemiştir, kimlik tespiti için gerekli olsa da dilekçenin reddine doğrudan neden olmaz, genel kimlik bilgileri yeterlidir."
+    }
+  ]
+}

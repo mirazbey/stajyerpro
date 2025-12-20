@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Şirket kavramı, modern ekonomilerin ve hukuk sistemlerinin temel taşlarından biridir. Ekonomik faaliyetlerin örgütlü bir yapıda yürütülmesini sağlayan şirketler, bireylerin tek başına gerçekleştirmekte zorlanacağı büyük ölçekli yatırım ve iş birliklerini mümkün kılar. Türk Hukuku'nda şirket, Türk Ticaret Kanunu (TTK) madde 124'te açıkça belirtildiği üzere, 'iki veya daha fazla kişinin bir araya gelerek, emeklerini ve/veya sermayelerini ortak bir amaç uğruna birleştirdikleri ve bu ortak amacı gerçekleştirmek için kurulan tüzel kişiliğe sahip veya sahip olmayan yapılanmalar' olarak tanımlanabilir. Bu tanım, şirketlerin temel unsurlarına işaret eder: en az iki kişinin bir araya gelmesi (tek ortaklı şirket istisnaları hariç), sermaye ve/veya emeğin birleştirilmesi, ortak bir amaca (genellikle kâr elde etme) yönelme ve riskin paylaşılması. Şirketler, adi ortaklık gibi tüzel kişiliği olmayan bir yapıdan, anonim şirket gibi sermaye piyasasında işlem görebilen devasa yapılara kadar geniş bir yelpazeyi kapsar. Temelinde yatan ekonomik motivasyon genellikle kâr elde etmek olsa da, bazı şirket türleri (örneğin kooperatifler) sosyal ve ekonomik dayanışma amacı da güdebilir. Şirketlerin en önemli özelliklerinden biri, birçoğunun 'tüzel kişiliğe' sahip olmasıdır. Tüzel kişilik, şirketin ortaklarından ayrı bir hukuk süjesi olarak kabul edilmesi anlamına gelir; yani şirketin kendi adı, adresi, malvarlığı, borçları ve hakları vardır. Bu durum, ortakların kişisel malvarlıkları ile şirket malvarlığı arasında bir ayrım yapılmasını sağlayarak özellikle sermaye şirketlerinde ortakların sorumluluklarını sınırlama avantajı sunar. Şirketlerin toplumsal ve ekonomik işlevleri, istihdam yaratmaktan vergi ödemeye, inovasyonu teşvik etmekten mal ve hizmet üretimine kadar geniş bir alanı kapsar. Bu ders kapsamında, şirket kavramının Türk Hukuku'ndaki yasal çerçevesini, farklı şirket türlerini ve bunların pratik uygulamalarını derinlemesine inceleyeceğiz."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve",
+      "content": "Türk Hukuku'nda şirket kavramına ilişkin temel yasal düzenleme, 13 Ocak 2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu (TTK)'dur. TTK, şirketlerin kurulması, işleyişi, yönetimi, sona ermesi ve tasfiyesi gibi tüm süreçleri detaylı bir şekilde düzenler. TTK'nın 'Ticaret Şirketleri' başlıklı İkinci Kitabı, şirket türlerini şahıs şirketleri ve sermaye şirketleri olarak iki ana kategoriye ayırır. Şahıs şirketleri arasında Kollektif Şirket ve Komandit Şirket yer alırken, Sermaye Şirketleri arasında Anonim Şirket, Limited Şirket ve Sermayesi Paylara Bölünmüş Komandit Şirket bulunmaktadır. Ayrıca, TTK'da düzenlenmeyen ancak 1163 sayılı Kooperatifler Kanunu'na tabi olan Kooperatifler de bir şirket türü olarak kabul edilir. Adi ortaklık ise Borçlar Kanunu (BK) madde 620 ve devamında düzenlenmiş olup, tüzel kişiliği olmayan bir ortaklık türüdür ve TTK kapsamındaki ticaret şirketlerinden ayrılır. Her bir şirket türü, ortakların sorumlulukları, sermaye gereksinimleri, yönetim organları, kuruluş prosedürleri ve vergilendirme açısından farklı özellikler gösterir. Örneğin, anonim şirketler ve limited şirketler gibi sermaye şirketlerinde ortakların sorumluluğu koydukları sermaye miktarıyla sınırlı iken, kollektif şirket ortaklarının şirket borçlarından sınırsız ve müteselsil sorumluluğu bulunur. TTK, şirketlerin şeffaflık, kurumsal yönetim, dürüstlük ve güven ilkelerine uygun hareket etmesini sağlamak amacıyla çeşitli hükümler getirmiştir. Şirketlerin kuruluşu, Ticaret Sicili Müdürlüğü'ne tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan ile tamamlanır; bu süreç MERSİS (Merkezi Sicil Kayıt Sistemi) üzerinden elektronik ortamda yürütülmektedir. Ayrıca, Sermaye Piyasası Kanunu (SPKn) gibi ikincil mevzuatlar da halka açık anonim şirketlerin özel düzenlemelere tabi olmasını sağlar. Şirketlerin faaliyetleri boyunca İş Kanunu, Vergi Usul Kanunu, Rekabet Kanunu, Kişisel Verilerin Korunması Kanunu gibi pek çok başka kanun ve düzenlemeye de uyum sağlaması gerekmektedir. Bu kapsamlı yasal çerçeve, şirketlerin hukuki zeminde sağlam bir şekilde faaliyet göstermelerini güvence altına alırken, aynı zamanda ilgili tarafların haklarını ve menfaatlerini korumayı amaçlar."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar",
+      "content": "Şirket kurma kararı, girişimciler ve yatırımcılar için stratejik öneme sahip bir adımdır ve birçok pratik uygulamanın dikkate alınmasını gerektirir. İlk ve en kritik karar, kurulacak şirket türünün seçimidir. Bu seçim yapılırken, ortak sayısı, sermaye miktarı, ortakların sorumluluk derecesi (sınırlı/sınırsız), yönetim yapısının karmaşıklığı, vergi yükümlülükleri ve şirketin gelecekteki büyüme potansiyeli gibi faktörler titizlikle değerlendirilmelidir. Örneğin, az sayıda ortağı olan ve ortakların kişisel ilişkilerinin ön planda olduğu işletmeler için şahıs şirketleri (kollektif veya komandit) tercih edilebilirken, daha geniş yatırımcı kitlesine ulaşmak, büyük sermaye toplamak ve ortak sorumluluğunu sınırlamak isteyenler için anonim şirket veya limited şirket daha uygun olacaktır. Şirket kuruluş süreci, MERSİS üzerinden ana sözleşme taslağının hazırlanmasıyla başlar. Ana sözleşme, şirketin adı, merkezi, faaliyet konusu, sermayesi, ortakları ve yönetim organları gibi temel bilgileri içerir. Bu taslağın noter huzurunda imzalanması ve gerekli belgelerle birlikte Ticaret Sicili Müdürlüğü'ne başvurulması gerekir. Tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan ile şirket tüzel kişilik kazanır. Ardından, vergi levhası ve sosyal güvenlik kaydı gibi diğer yasal yükümlülükler yerine getirilir. Şirketlerin günlük operasyonlarında ise ana sözleşme ve ilgili mevzuat hükümleri çerçevesinde hareket etmek zorunludur. Anonim şirketlerde genel kurul toplantıları, yönetim kurulu kararları, sermaye artırımı veya azaltımı gibi süreçler, limited şirketlerde ise ortaklar kurulu kararları ve müdürlerin yetkileri pratik açıdan önem arz eder. Şirketlerin büyümesi ve gelişmesi durumunda birleşme, bölünme veya devralma gibi yeniden yapılandırma işlemleri gündeme gelebilir. Bu süreçler de TTK'da detaylıca düzenlenmiş olup, hukuki ve finansal uzmanlık gerektiren karmaşık adımları içerir. Son olarak, bir şirketin faaliyetine son vermesi durumunda fesih ve tasfiye süreçleri de yine TTK hükümlerine uygun olarak yürütülmek zorundadır. Tüm bu pratik uygulamalarda, hukuki danışmanlık almak ve mevzuata uygun hareket etmek, olası hukuki riskleri minimize etmek açısından hayati öneme sahiptir."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler",
+      "content": "Şirket kurmak ve yönetmek, girişimcilere büyük fırsatlar sunarken, aynı zamanda ciddi yükümlülükler ve riskler de barındırır. Bu nedenle, şirket kavramının pratik uygulamalarında ve teorik bilgilerinde dikkat edilmesi gereken pek çok önemli nokta bulunmaktadır. Öncelikle, 'kurumsal yönetim' ilkeleri, özellikle sermaye şirketleri için kritik bir konudur. Şeffaflık, hesap verebilirlik, adillik ve sorumluluk gibi kurumsal yönetim prensipleri, şirketin uzun vadeli başarısı ve sürdürülebilirliği için temeldir. Bu prensiplere uyum, yatırımcı güvenini artırır ve şirketin itibarını güçlendirir. İkinci olarak, 'uyum (compliance)' konusu giderek artan bir öneme sahiptir. Şirketler, sadece TTK hükümlerine değil, aynı zamanda rekabet hukuku, kişisel verilerin korunması (KVKK), anti-para aklama, çevre mevzuatı, iş sağlığı ve güvenliği gibi çok çeşitli yasal düzenlemelere de uymak zorundadır. Bu düzenlemelere aykırı hareket etmek, ağır idari para cezaları, itibar kaybı ve hatta cezai sorumluluk doğurabilir. Üçüncü olarak, 'vergilendirme' konusu, şirket türü seçimi ve finansal planlama açısından büyük önem taşır. Kurumlar vergisi, katma değer vergisi (KDV), stopaj gibi vergi yükümlülükleri, şirketin karlılığını doğrudan etkileyebilir. Doğru vergi planlaması ve beyannamelerin zamanında ve eksiksiz verilmesi, şirketi olası vergi incelemelerinden ve cezalarından korur. Dördüncü olarak, 'sözleşmesel ilişkiler'de dikkatli olunmalıdır. Şirketlerin tedarikçilerle, müşterilerle, çalışanlarla ve diğer paydaşlarla yaptığı sözleşmeler, şirketin haklarını ve yükümlülüklerini net bir şekilde belirlemeli ve hukuki riskleri minimize edecek şekilde düzenlenmelidir. Beşinci olarak, 'fikri mülkiyet hakları'nın korunması, özellikle inovasyona dayalı şirketler için hayati öneme sahiptir. Marka tescili, patent başvuruları ve telif haklarının korunması, şirketin değerini ve rekabet gücünü artıran unsurlardır. Son olarak, hukuki ihtilafların çözümünde 'alternatif çözüm yolları' (arabuluculuk, tahkim) da dikkate alınmalıdır. Dava süreçleri zaman alıcı ve maliyetli olabileceğinden, bu alternatif yolların etkin kullanımı şirketin menfaatine olabilir. Tüm bu alanlarda güncel mevzuatı takip etmek ve uzman danışmanlık almak, şirketlerin karşılaşabileceği riskleri öngörmek ve yönetmek açısından elzemdir."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Bu kapsamlı ders boyunca, Türk Hukuku'nda şirket kavramını derinlemesine inceledik ve bu karmaşık yapıyı oluşturan temel bileşenleri anladık. Şirketler, ekonomik hayatın vazgeçilmez aktörleri olup, bireylerin ve toplumun refahına önemli katkılar sağlarlar. Dersin başında, şirket kavramının tanımı ve temel unsurları üzerinde durduk: birden fazla kişinin emek ve/veya sermaye birleşimiyle ortak bir amaca yönelmesi ve risk paylaşımı. Tüzel kişiliğin önemi ve şirketleri diğer hukuki yapılanmalardan ayıran temel özellikler de bu kısımda ele alındı. Ardından, Türk Ticaret Kanunu (TTK) başta olmak üzere, şirketlere ilişkin yasal çerçeveyi detaylı bir şekilde gözden geçirdik. TTK'da düzenlenen şahıs şirketleri (Kollektif ve Komandit) ile sermaye şirketleri (Anonim, Limited ve Sermayesi Paylara Bölünmüş Komandit) arasındaki farkları, her bir şirketin kendine özgü sorumluluk yapılarını, kuruluş süreçlerini ve yönetim organlarını öğrendik. Ayrıca, Adi Ortaklık ve Kooperatif gibi diğer ortaklık ve şirket türlerine de değindik. Üçüncü adımda, şirket kurma, yönetme ve faaliyetlerini sürdürme aşamasındaki pratik uygulamaları ele aldık. Şirket türü seçiminden kuruluş aşamalarına, günlük operasyonlardan yeniden yapılandırma ve tasfiye süreçlerine kadar uzanan geniş bir yelpazede karşılaşılacak pratik sorunlara ve çözüm yollarına odaklandık. Dördüncü adımda ise şirketlerin faaliyetlerini sürdürürken dikkat etmeleri gereken kritik konuları irdeledik. Kurumsal yönetim ilkeleri, yasal uyum (compliance), vergilendirme, sözleşmesel ilişkiler, fikri mülkiyet haklarının korunması ve alternatif uyuşmazlık çözüm yolları gibi başlıklar altında şirketlerin karşılaşabileceği riskleri ve bu riskleri yönetme stratejilerini değerlendirdik. Bu dersin temel amacı, Türk Hukuku'nda şirket kavramına ilişkin sağlam bir temel oluşturmak ve katılımcıların hem teorik bilgi birikimini artırmak hem de pratik uygulama becerilerini geliştirmektir. Şirketler hukukunun dinamik yapısı göz önüne alındığında, güncel mevzuatı sürekli takip etmek ve uzman danışmanlık almak, başarılı bir şirket yönetimi için vazgeçilmezdir. Gelecekte şirketler hukuku, dijitalleşme, sürdürülebilirlik ve sosyal sorumluluk gibi kavramlarla daha da iç içe geçecektir. Bu nedenle, şirketlerin bu dönüşümlere adapte olabilmesi için hukuki altyapılarını sürekli güncellemeleri gerekecektir."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Türk Ticaret Kanunu'na (TTK) göre bir anonim şirketin temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": {
+        "A": "Ortakların sorumluluğu koydukları sermaye ile sınırlıdır.",
+        "B": "Pay devri serbestisi ilkesi esastır, ancak ana sözleşme ile bazı kısıtlamalar getirilebilir.",
+        "C": "Şirket borçlarından dolayı ortaklar sınırsız ve müteselsilen sorumludur.",
+        "D": "En az bir kurucu ortakla kurulabilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anonim şirketler bir sermaye şirketi olup, Türk Ticaret Kanunu'nun 329. maddesine göre ortakların şirket borçlarından sorumluluğu sadece taahhüt ettikleri sermaye miktarı ile sınırlıdır. Sınırsız ve müteselsil sorumluluk şahıs şirketlerinin (kollektif şirket gibi) bir özelliğidir. Diğer seçenekler anonim şirketler için geçerli temel özelliklerdir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi Türk Ticaret Kanunu'na göre bir ticaret şirketinin kuruluşu için zorunlu olan aşamalardan biri değildir?",
+      "options": {
+        "A": "Ana sözleşmenin yazılı şekilde hazırlanması.",
+        "B": "Ana sözleşmenin tüm ortaklar tarafından noter huzurunda imzalanması.",
+        "C": "Şirket ana sözleşmesinin Sanayi ve Teknoloji Bakanlığı'ndan izin alınması.",
+        "D": "Ticaret Sicili Müdürlüğü'ne tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan."
+      },
+      "correctAnswer": "C",
+      "explanation": "Genel kural olarak, ticaret şirketlerinin kuruluşu için Sanayi ve Teknoloji Bakanlığı'ndan izin alma zorunluluğu bulunmamaktadır. Ancak, bankalar, sigorta şirketleri, faktoring şirketleri, holdingler gibi bazı özel nitelikli anonim şirketlerin kuruluşu veya ana sözleşme değişiklikleri için özel kanunlarda bakanlık veya ilgili üst kurul (BDDK, SPK vb.) izni aranabilir. Seçeneklerde belirtilen diğer adımlar ise tüm ticaret şirketlerinin kuruluşu için zorunlu adımlardır (TTK m. 339, 340, 354, 355)."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Borçlar Kanunu'nda düzenlenen Adi Ortaklık ile Türk Ticaret Kanunu'nda düzenlenen ticaret şirketleri arasındaki en temel fark aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Adi ortaklıkta ortakların sermaye koyma yükümlülüğü olmaması.",
+        "B": "Adi ortaklıkta ortakların sorumluluğunun sınırlı olması.",
+        "C": "Adi ortaklığın tüzel kişiliğinin bulunmaması.",
+        "D": "Adi ortaklığın ticari defter tutma zorunluluğunun olmaması."
+      },
+      "correctAnswer": "C",
+      "explanation": "Adi ortaklık (BK m. 620), Türk Hukuku'nda tüzel kişiliği olmayan tek ortaklık türüdür. Ticaret şirketleri ise (Kolletif şirket hariç) kural olarak tüzel kişiliğe sahiptir. Adi ortaklıkta da sermaye konulabilir ve ticari faaliyet yürütülüyorsa ticari defter tutma zorunluluğu doğabilir. Ortakların sorumluluğu ise adi ortaklıkta sınırsız ve müteselsildir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir Limited Şirket'in (Ltd. Şti.) 'tek ortaklı' olarak kurulabilmesi veya mevcut bir limited şirketin tek ortağa düşmesi durumunda aşağıdaki şartlardan hangisinin yerine getirilmesi zorunludur?",
+      "options": {
+        "A": "Şirket sermayesinin en az 100.000 TL olması.",
+        "B": "Tek ortağın adının, soyadının (veya ticaret unvanının) ve yerleşim yerinin ticaret siciline tescil ve ilan edilmesi.",
+        "C": "Şirket unvanına 'Tek Kişi Limited Şirketi' ibaresinin eklenmesi.",
+        "D": "Şirketin Sanayi ve Teknoloji Bakanlığı'ndan özel izin alması."
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk Ticaret Kanunu'nun 573. maddesine göre, tek ortaklı limited şirketlerde tek ortağın kimlik bilgilerinin ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilmesi zorunludur. Diğer seçenekler tek ortaklı limited şirket için geçerli bir zorunluluk değildir. Limited şirket için asgari sermaye 50.000 TL'dir (TTK m. 580)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki şirket türlerinden hangisinde, şirket alacaklılarına karşı ortaklardan bir veya birkaçı komanditer sıfatıyla sadece şirkete koymayı taahhüt ettiği sermaye ile sorumlu iken, diğer ortak veya ortaklar komandite sıfatıyla sınırsız ve müteselsilen sorumludur?",
+      "options": {
+        "A": "Kollektif Şirket",
+        "B": "Anonim Şirket",
+        "C": "Limited Şirket",
+        "D": "Adi Komandit Şirket"
+      },
+      "correctAnswer": "D",
+      "explanation": "Adi Komandit Şirket (TTK m. 304 vd.) bu özelliği taşır. Komanditer ortaklar sadece koydukları veya koymayı taahhüt ettikleri sermaye ile sınırlı sorumlu iken, komandite ortaklar şirketin borçlarından dolayı sınırsız ve müteselsilen sorumludur. Kollektif şirkette tüm ortaklar sınırsız ve müteselsil sorumludur. Anonim ve Limited şirketlerde ise tüm ortaklar sınırlı sorumludur."
+    }
+  ]
+}

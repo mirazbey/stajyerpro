@@ -1,0 +1,91 @@
+{
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Giriş ve Temel Kavramlar",
+      "content": "Değerli öğrenciler ve hukuk meraklıları, bugünkü dersimizin konusu Türk Borçlar Hukuku'nun önemli ve sıklıkla karşılaşılan kurumlarından biri olan 'Sebepsiz Zenginleşme'dir. Hukukumuzda, hiç kimsenin haklı bir sebep olmaksızın başkasının malvarlığından zenginleşmesine cevaz verilmez. Bu ilke, 'denkleştirici adalet' prensibinin bir yansıması olarak ortaya çıkar ve malvarlıkları arasındaki dengenin haksız yere bozulmasını önlemeyi amaçlar. Sebepsiz zenginleşme, bir kişinin malvarlığında, haklı bir sebep olmaksızın, başka bir kişinin malvarlığı aleyhine meydana gelen artış veya artıştan kurtulma durumunu ifade eder. Bu kurum, Türk Borçlar Kanunu'nun (TBK) 77 ilâ 82. maddelerinde düzenlenmiştir. Dersimizin başında, sebepsiz zenginleşmenin genel tanımını yaparak başlayacağız. Bu kavram, sözleşmeden doğan borçlar, haksız fiiller ve vekaletsiz iş görme gibi diğer borç kaynaklarından ayrılmalıdır. Sebepsiz zenginleşme, bir borç ilişkisi veya hukuka aykırı bir fiil olmaksızın, tamamen hukukun genel ilkeleri ve hakkaniyet temelinde ortaya çıkan bir iade borcudur. Amacı, zenginleşenin elde ettiği değeri, fakirleşen kişiye geri vermesini sağlamak, böylece bozulan malvarlığı dengesini yeniden tesis etmektir. Bu dersin sonunda, sebepsiz zenginleşmenin şartlarını, sonuçlarını ve pratiğe yansıyan hallerini tüm detaylarıyla öğrenmiş olacaksınız. Bu temel kavramları iyi anlamak, konunun diğer ayrıntılarını kavramak için hayati öneme sahiptir. Sebepsiz zenginleşme, genellikle bir edimin ifası sırasında bir hata yapılması, geçersiz bir sözleşmeye dayanarak yapılan ifalar veya bir kişinin malvarlığından haksız yere yararlanılması gibi durumlarda ortaya çıkar. Tüm bu durumlar, hukukun 'herkes kendi malvarlığı üzerinde tasarruf etmelidir' ilkesine aykırı düşen hallerdir ve bu kurumun varlık sebebi tam da bu noktada yatar."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Yasal Çerçeve ve Şartlar",
+      "content": "Sebepsiz zenginleşmenin yasal dayanağı Türk Borçlar Kanunu'nun (TBK) 77. ve devamı maddeleridir. Bu maddeler, sebepsiz zenginleşmenin tanımını yapmakla kalmayıp, aynı zamanda hangi koşullarda bir iade borcunun doğacağını da açıkça belirtir. Sebepsiz zenginleşmenin dört temel şartı bulunmaktadır ve bu şartların tamamının kümülatif olarak gerçekleşmesi, iade borcunun doğumu için zorunludur: \n1.  **Zenginleşme:** Bir kişinin malvarlığında artışın meydana gelmesi veya malvarlığının azalmasının engellenmesi halidir. Zenginleşme, aktifin artması (para, eşya edinimi) veya pasifin azalması (bir borçtan kurtulma) şeklinde ortaya çıkabilir. Hatta bir giderden kurtulma, yani yapılması gereken bir harcamayı yapmamış olma da zenginleşme sayılır (pasif zenginleşme). Örneğin, başkasına ait bir elektrik abonesi üzerinden elektrik kullanmak pasif zenginleşmeye örnektir.\n2.  **Fakirleşme:** Zenginleşmeye paralel olarak, bir başka kişinin malvarlığında bir azalmanın meydana gelmesi veya bir artıştan mahrum kalınması durumudur. Fakirleşme, aktifin azalması (para ödeme, eşya verme) veya pasifin artması (borç altına girme) şeklinde olabilir. Beklenen bir gelirin elde edilememesi de fakirleşme olarak kabul edilebilir. Fakirleşme ve zenginleşme arasında doğrudan bir illiyet bağı aranır.\n3.  **Sebep Yoksunluğu (Haklı Bir Sebep Olmaması):** Bu şart, sebepsiz zenginleşmenin en belirleyici ve merkezi unsurudur. Zenginleşmenin haklı bir hukuki sebebe dayanmaması gerekir. Haklı sebep, genellikle geçerli bir sözleşme, kanun hükmü veya mahkeme kararı gibi hukuki dayanakları ifade eder. Eğer bir zenginleşme, geçerli bir sözleşmeye, kanuni bir düzenlemeye veya yargı kararına dayanıyorsa, burada sebep yoksunluğundan bahsedilemez ve dolayısıyla sebepsiz zenginleşme de söz konusu olmaz. Sebep yoksunluğu başlangıçta mevcut olmayabileceği gibi (geçersiz sözleşmeye dayalı ödeme gibi), sonradan da ortadan kalkabilir (sözleşmenin iptali gibi). TBK madde 77, 'Haklı bir sebep olmaksızın, bir başkasının malvarlığından veya emeğinden zenginleşen' ifadesiyle bu şartı açıkça ortaya koymuştur.\n4.  **İlliyet Bağı:** Zenginleşme ile fakirleşme arasında doğrudan bir neden-sonuç ilişkisi bulunmalıdır. Yani, bir tarafın zenginleşmesi, diğer tarafın fakirleşmesinin doğrudan sonucu olmalıdır. Bu dört şartın bir arada bulunması, sebepsiz zenginleşmeden kaynaklanan iade borcunun doğumu için elzemdir. Bu şartlardan herhangi birinin eksikliği, sebepsiz zenginleşme hükümlerinin uygulanmasını engeller."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Pratik Uygulamalar ve İade Borcunun Kapsamı",
+      "content": "Sebepsiz zenginleşme hükümleri, günlük hayatta ve hukuk pratiğinde oldukça geniş bir uygulama alanına sahiptir. En yaygın örneklerden biri, hataen yapılan ödemelerdir. Örneğin, banka havalesiyle borçlu olunmayan bir kişiye yanlışlıkla para gönderilmesi veya iki kez ödeme yapılması durumunda, alıcı sebepsiz yere zenginleşmiş sayılır. Geçersiz sözleşmeler de önemli bir uygulama alanıdır. Şekil şartına uyulmadığı için geçersiz olan bir sözleşme (örneğin, tapuda yapılmayan taşınmaz satış sözleşmesi) uyarınca yapılan ödemeler veya verilen edimler, sebepsiz zenginleşme hükümleri çerçevesinde geri istenebilir. Benzer şekilde, başkasının arsasına kendi malzemesiyle ve rızası olmaksızın inşaat yapan kişinin durumu da sebepsiz zenginleşme kapsamında değerlendirilebilir. \n\nİade borcunun kapsamı, zenginleşenin iyiniyetli veya kötüniyetli olmasına göre değişiklik gösterir. TBK madde 79, bu ayrımı net bir şekilde ortaya koyar:\n\n*   **İyiniyetli Zenginleşen:** Zenginleştiğini veya zenginleşme sebebinin haklı olmadığını bilmeyen ya da bilebilecek durumda olmayan kişi iyiniyetli kabul edilir. İyiniyetli zenginleşen, sadece zenginleştiği anda malvarlığında mevcut olan kısmı iade etmekle yükümlüdür. Yani, elde kalanı iade eder. Eğer zenginleşme sonradan kısmen veya tamamen ortadan kalkmışsa, iyiniyetli zenginleşen bu kısımdan sorumlu tutulamaz. Ayrıca, yaptığı zorunlu ve faydalı giderleri de geri isteme hakkına sahiptir (TBK md. 79/f.2). \n\n*   **Kötüniyetli Zenginleşen:** Zenginleştiğini veya zenginleşme sebebinin haklı olmadığını bilen ya da bilebilecek durumda olan kişi kötüniyetli kabul edilir. Kötüniyetli zenginleşen, iade anında malvarlığında mevcut olsun veya olmasın, zenginleşmenin tamamını, ayrıca elde ettiği veya elde etmeyi ihmal ettiği bütün semereleriyle birlikte iade etmek zorundadır. Hatta, zenginleşme elden çıkmış olsa bile, tazminat sorumluluğu devam eder. Kötüniyetli zenginleşen, sadece zorunlu giderlerini geri isteyebilir, faydalı giderlerini ise ancak zenginleşmeyi artıran oranda geri alabilir. Lüks giderlerini ise hiçbir şekilde talep edemez. TBK madde 80, zenginleşenin iade sırasında iyiniyetli olmadığını bildirildiğinde kötüniyetli hale geleceğini belirtir. \n\n**İstisnai Durumlar:** TBK madde 78, bazı durumlarda zenginleşmenin iadesinin istenemeyeceğini düzenler. Buna göre, ahlaki bir görevin yerine getirilmesinden veya zamanaşımına uğramış bir borcun ifasından doğan zenginleşme, geri istenemez. Örneğin, babanın oğluna maddi destek sağlaması ahlaki bir görev olarak kabul edildiğinden, sonradan bu parayı sebepsiz zenginleşme hükümlerine göre geri istemesi mümkün değildir. Aynı şekilde, kumar ve bahisten doğan alacaklar da hukuken dava edilemediği için, bu borçlar ifa edildiğinde sebepsiz zenginleşme yoluyla geri istenemez."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dikkat Edilmesi Gerekenler ve Zamanaşımı",
+      "content": "Sebepsiz zenginleşme davalarında dikkat edilmesi gereken en kritik hususlardan biri zamanaşımı süreleridir. Türk Borçlar Kanunu'nun 82. maddesi, bu konuda açık düzenlemeler getirmiştir. Sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin zenginleştiğini ve iade borcunun varlığını öğrendiği tarihten başlayarak **bir yıl** ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak **on yıl** geçmekle zamanaşımına uğrar. Bu iki süre birbirinden bağımsızdır ve her ikisi de dolduğunda dava açma hakkı ortadan kalkar. Bir yıllık süre sübjektif, on yıllık süre ise objektif bir süredir.\n\nEğer zenginleşme, zenginleşenin bir haksız fiilinden doğmuşsa, haksız fiile ilişkin zamanaşımı süreleri uygulanır. Haksız fiillerde zamanaşımı süresi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve her hâlde fiilin işlendiği tarihten başlayarak on yıldır. Ancak, ceza kanunlarında daha uzun bir zamanaşımı süresi öngörülen haksız fiillerden doğan sebepsiz zenginleşme taleplerinde, bu daha uzun ceza zamanaşımı süreleri uygulanır.\n\nSebepsiz zenginleşme kurumu ile diğer hukuki kurumlar arasındaki ayrım da büyük önem taşır:\n\n*   **Haksız Fiil ile İlişkisi:** Sebepsiz zenginleşme, haksız fiilden farklıdır. Haksız fiil, hukuka aykırı bir fiil sonucu başkasına zarar verme temeline dayanırken, sebepsiz zenginleşmede hukuka aykırı bir fiil şartı aranmaz; sadece haklı bir sebebin yokluğu yeterlidir. Ancak, yukarıda belirtildiği gibi, eğer zenginleşme aynı zamanda bir haksız fiilden kaynaklanıyorsa, zamanaşımı açısından haksız fiil hükümleri uygulanır.\n\n*   **Vekaletsiz İş Görme ile İlişkisi:** Vekaletsiz iş görme, bir kişinin başkasına ait bir işi, onun menfaatine ve rızası olmaksızın görmesidir. Burada iş görenin bir alacak hakkı doğabilir. Sebepsiz zenginleşme ise iş görme niyeti olmaksızın meydana gelen malvarlığı kaymalarını düzenler. İki kurumun uygulama alanları ve şartları farklıdır.\n\n*   **Mülkiyet Hukuku ile İlişkisi (İstihkak Davası):** Bir malvarlığı değerinin mülkiyeti hala fakirleşen kişide ise, örneğin malı çalınan kişi çalınan malını geri istemek için mülkiyet hakkına dayanarak istihkak davası açabilir. Sebepsiz zenginleşme ise mülkiyetin devredildiği ancak bunun için haklı bir sebep bulunmadığı durumlarda devreye girer. Yani mülkiyetin iadesi değil, değerin iadesi söz konusudur. İstihkak davası, sebepsiz zenginleşme davasına göre daha öncelikli ve kapsamlı bir hukuki yoldur.\n\nUygulamada, Yargıtay içtihatları sebepsiz zenginleşmenin şartlarının yorumlanmasında ve somut olaylara uygulanmasında yol gösterici niteliktedir. Özellikle 'haklı sebep yokluğu' ve 'illiyet bağı' konuları, davalarda en çok tartışılan ve ispatı zor olan unsurlardır."
+    },
+    {
+      "stepNumber": 5,
+      "title": "Özet ve Pekiştirme",
+      "content": "Değerli öğrenciler, bugünkü dersimizde Türk Borçlar Hukuku'nun önemli bir müessesesi olan sebepsiz zenginleşmeyi detaylı bir şekilde inceledik. Konunun temelini, 'kimsenin haklı bir sebep olmaksızın başkasının zararına zenginleşemeyeceği' ilkesi oluşturur. Bu ilke, denkleştirici adalet anlayışının bir ürünüdür ve malvarlıkları arasındaki dengenin haksız yere bozulmasını engellemeyi hedefler. Sebepsiz zenginleşmeden söz edebilmek için dört temel şartın kümülatif olarak gerçekleşmesi gerektiğini öğrendik:\n\n1.  **Zenginleşme:** Bir kişinin malvarlığında artış ya da azalmanın önlenmesi.\n2.  **Fakirleşme:** Başka bir kişinin malvarlığında azalma ya da artıştan mahrum kalma.\n3.  **Haklı Bir Sebep Yokluğu:** Zenginleşme ile fakirleşmeyi açıklayan geçerli bir hukuki nedenin (sözleşme, kanun, yargı kararı gibi) bulunmaması.\n4.  **İlliyet Bağı:** Zenginleşme ile fakirleşme arasında doğrudan bir neden-sonuç ilişkisinin varlığı.\n\nİade borcunun kapsamının belirlenmesinde, zenginleşenin iyiniyetli mi yoksa kötüniyetli mi olduğu ayrımının hayati öneme sahip olduğunu vurguladık. İyiniyetli zenginleşen sadece elde kalanı iade ederken, kötüniyetli zenginleşen elde etmeyi ihmal ettiği semereler de dahil olmak üzere zenginleşmenin tamamını iade etmekle yükümlüdür. Ayrıca, TBK madde 78'de düzenlenen ahlaki görevin ifası veya zamanaşımına uğramış borcun ifası gibi istisnai durumlarda iade talebinde bulunulamayacağını da hatırlatmak isteriz. Sebepsiz zenginleşmeden doğan alacaklar için Türk Borçlar Kanunu madde 82'de özel zamanaşımı süreleri öngörülmüştür: öğrenme tarihinden itibaren 1 yıl ve her hâlde zenginleşmenin gerçekleştiği tarihten itibaren 10 yıl. Eğer zenginleşme aynı zamanda bir haksız fiilden kaynaklanıyorsa, haksız fiil zamanaşımı hükümleri uygulanacaktır. Bu dersin temel amacı, sebepsiz zenginleşme kurumunun hukuki niteliğini, şartlarını, sonuçlarını ve uygulamadaki yerini tam olarak kavramanızı sağlamaktı. Bu bilgiler, hukukun temel prensiplerini anlama ve somut olaylara uygulama yeteneğinizi geliştirecektir. Unutmayınız ki, hukuk dinamik bir alandır ve bu prensiplerin doğru yorumlanması ve uygulanması büyük önem taşımaktadır. Konuyu daha iyi pekiştirmek için pratik olaylar üzerinde düşünmenizi ve çözümlemeye çalışmanızı tavsiye ederim."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi sebepsiz zenginleşmenin şartlarından biri DEĞİLDİR?",
+      "options": {
+        "A": "Zenginleşenin kötüniyetli olması",
+        "B": "Bir tarafın malvarlığında zenginleşme meydana gelmesi",
+        "C": "Diğer tarafın malvarlığında fakirleşme meydana gelmesi",
+        "D": "Zenginleşme ile fakirleşme arasında illiyet bağı bulunması"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sebepsiz zenginleşmenin temel şartları; zenginleşme, fakirleşme, illiyet bağı ve haklı bir sebebin yokluğudur. Zenginleşenin kötüniyetli olması, sebepsiz zenginleşmenin bir şartı değil, iade borcunun kapsamını etkileyen bir unsurdur. İyiniyetli zenginleşen de sebepsiz zenginleşme hükümlerine göre iade borcu altında olabilir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Ayşe, Can’a olan 10.000 TL borcunu iki kez ödemiştir. Bu durumda, Can'ın Ayşe'ye karşı iade borcunun hukuki niteliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sözleşmeden doğan borç",
+        "B": "Haksız fiilden doğan borç",
+        "C": "Sebepsiz zenginleşmeden doğan borç",
+        "D": "Vekaletsiz iş görmeden doğan borç"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ayşe'nin borcunu iki kez ödemesi durumunda, Can 10.000 TL tutarında haklı bir sebep olmaksızın zenginleşmiş, Ayşe ise aynı miktarda fakirleşmiştir. Bu durum, sebepsiz zenginleşme hükümlerine tabidir. Burada hukuka aykırı bir fiil veya bir sözleşme ihlali değil, haklı bir sebebin yokluğu söz konusudur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Türk Borçlar Kanunu'na göre, sebepsiz zenginleşmeden doğan istem hakkı için zamanaşımı süreleri hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "Her hâlde 5 yıldır.",
+        "B": "Zenginleştiğini öğrendiği tarihten itibaren 2 yıl ve her hâlde 10 yıldır.",
+        "C": "Zenginleştiğini öğrendiği tarihten itibaren 1 yıl ve her hâlde 10 yıldır.",
+        "D": "Sözleşmeden doğan borçlar gibi 10 yıldır."
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Borçlar Kanunu'nun (TBK) 82. maddesine göre, sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin zenginleştiğini ve iade borçlusunu öğrendiği tarihten başlayarak bir yıl ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak on yıl geçmekle zamanaşımına uğrar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki durumlardan hangisinde sebepsiz zenginleşmeden kaynaklanan iade talebinde bulunulamaz?",
+      "options": {
+        "A": "Yanlışlıkla banka havalesiyle borçlu olunmayan bir kişiye para gönderilmesi.",
+        "B": "Şekil şartına uyulmadığı için geçersiz olan bir sözleşme uyarınca yapılan ödeme.",
+        "C": "Zamanaşımına uğramış bir borcun alacaklıya ifa edilmesi.",
+        "D": "Bir kişinin malının, rızası olmaksızın başkası tarafından kullanılarak gelir elde edilmesi."
+      },
+      "correctAnswer": "C",
+      "explanation": "Türk Borçlar Kanunu madde 78'e göre, 'Hukuka veya ahlaka aykırı bir amaçla verilen şey geri istenemez. Ahlaki bir görevin yerine getirilmesinden veya zamanaşımına uğramış bir borcun ifasından doğan zenginleşme geri istenemez.' Bu nedenle, zamanaşımına uğramış bir borcun ifası durumunda sebepsiz zenginleşme talebi ileri sürülemez."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İyiniyetli sebepsiz zenginleşen ile kötüniyetli sebepsiz zenginleşen arasındaki iade borcunun kapsamı farkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": {
+        "A": "İyiniyetli zenginleşen, elde ettiği tüm semerelerle birlikte zenginleşmenin tamamını iade eder; kötüniyetli zenginleşen sadece elde kalanı iade eder.",
+        "B": "Her ikisi de sadece elde kalanı iade eder, iyi veya kötüniyetin bir farkı yoktur.",
+        "C": "İyiniyetli zenginleşen sadece elde kalanı iade ederken, kötüniyetli zenginleşen elde ettiği veya elde etmeyi ihmal ettiği semerelerle birlikte zenginleşmenin tamamını iade eder.",
+        "D": "Kötüniyetli zenginleşen hiçbir giderini talep edemezken, iyiniyetli zenginleşen tüm giderlerini talep edebilir."
+      },
+      "correctAnswer": "C",
+      "explanation": "TBK madde 79 ve 80 uyarınca, iyiniyetli zenginleşen, iade anında malvarlığında mevcut olan zenginleşmeyi iade etmekle yükümlüdür ve yaptığı zorunlu ve faydalı giderleri geri isteyebilir. Kötüniyetli zenginleşen ise, zenginleşmenin tamamını, elde ettiği veya elde etmeyi ihmal ettiği bütün semerelerle birlikte iade etmek zorundadır; sadece zorunlu giderlerini geri isteyebilir, faydalı giderleri ise zenginleşmeyi artırdığı oranda geri alabilir."
+    }
+  ]
+}
